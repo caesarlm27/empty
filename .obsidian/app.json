@@ -1,0 +1,11 @@
+{
+  "attachmentFolderPath": "思考笔记/Attachments",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
