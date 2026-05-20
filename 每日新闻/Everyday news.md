@@ -27,3 +27,18 @@
 1. **福尔克林根铁厂：废墟作为多物种与多时态共存现场** - Urban Art Biennale在这座仍弥漫锈气与尘埃的德国钢铁遗址展开，Vortex-X的《Memory in transit》用回收布料横贯厂房，是对Anna Tsing"contamination"理论的实体化——废墟不是终点，而是新生命与历史记忆重叠的活跃现场。与Project One的接口：为Gary, Indiana废弃钢铁厂提供了具体的视觉参照：艺术介入与建筑遗留的并置，可以作为拍摄时构图决策（介入 vs. 纯记录）的思考框架。[相关链接](https://www.euronews.com/culture/2026/05/14/urban-art-biennale-rust-dust-and-decay-revamps-germanys-volklingen-ironworks)
 2. **Christopher Payne 铁锈带时间弧线：运转中的工厂与停工后的废墟** - Payne用大画幅摄影记录仍在运作的美国制造业车间（密歇根家具厂、麻州运动鞋厂），与Project One拍摄停工后的铁锈带废墟形成时间轴上的前后对位——Payne记录消失之前，Project One记录消失之后，中间是整个工业周期的弧线。这个并置可以为项目提供一个编辑与叙事框架：摄影如何参与对"工业消亡"的历史重构？[相关链接](https://artssummary.com/2025/12/19/made-in-america-the-industrial-photography-of-christopher-payne-at-cooper-hewitt-smithsonian-design-museum-december-12-2025-october-4-2026/)
 3. **Rene Matić 的日记体摄影：阶级废墟中的私人痕迹** - Matić以快照式、日记体摄影捕捉英国工人阶级生活的细小褶皱，并结合收集的遗物与声音建构多层叙事——这种方法论与Project One的铁锈带语境高度接近：Gary废弃建筑内遗留的个人物件、壁纸褪色的痕迹、被遗弃的劳动器具，都是"缺席者痕迹"的私人版本。可借鉴其"物件+影像+声音"的多媒体组织方式，将废墟内的发现物纳入最终呈现。[相关链接](https://ocula.com/magazine/art-news/rene-matic-wins-2026-deutsche-borse/)
+
+## 2026-05-20
+
+### 艺术圈新闻
+1. **ICP「Evidence of Existence」2026届毕业展本周开幕** - 5月15日开幕、25日闭幕，策展人Sara Ickow以"摄影如何给未见之物赋形"为核心，汇聚ICP一年制证书课程与青年影像营学员的摄影、装置与混合媒介作品，免费向公众开放。[原文链接](https://www.icp.org/exhibitions/evidence-existence-2026-icp-recent-graduates-exhibition)
+2. **Rachel Whiteread「Substitute」Gagosian 伦敦个展本周落幕** - 3月26日至5月16日，Whiteread 以纸浆压制旧谷仓木门后覆银铜箔制成墙面浮雕，另有蓝粉两色透明树脂铸窗——以物质填充负空间的核心方法论在本展得到最新演绎，题目"Substitute"直指"以一种媒介替代另一种"的哲学。[原文链接](https://gagosian.com/exhibitions/2026/rachel-whiteread-substitute/)
+3. **Haruka Sakaguchi「The Camps America Built」ICP 展至5月25日** - 记录二战期间十个日裔美国人拘押营的当今现场，结合当事人亲笔信、家族档案与景观摄影，追问制度性清除留下的看不见的遗址；Sakaguchi 本年获ICP无限奖纪实摄影奖，展览免费开放。[原文链接](https://www.icp.org/exhibitions/icp-incubator-space-haruka-sakaguchi-the-camps-america-built)
+4. **Hauser & Wirth 纽约 Carol Rama 与 Firelei Báez 双展同期开幕** - 5月12日开幕至7月31日，Carol Rama「I See You You See Me」聚焦其跨越绘画、织物、雕塑的实验性实践；Firelei Báez「Feet squelching on wet grass」带来新画作与大型青铜雕塑，构成初夏纽约画廊季重要现场。[原文链接](https://ocula.com/art-galleries/hauser-wirth/exhibitions/)
+5. **Tate Modern「Tracey Emin」大型个展持续，Ana Mendieta 展7月开幕** - Tracey Emin 2月底开幕的首个Tate回顾展仍在进行；Tate 同步宣布 Ana Mendieta 展将于7月9日开幕持续至2027年1月——这位以身体印迹与大地为媒介的行为艺术家，与Project One的"痕迹与缺席"主题高度相关。[原文链接](https://www.tate.org.uk/press/press-releases/tate-announces-2026-exhibition-highlights)
+6. **PhMuseum 发布「2026年5月摄影节与展览完整指南」** - 涵盖全球各大摄影节与展览动态，是当月摄影界最全面的公开参考；同期Aperture春季号《自然的终结？》仍是生态摄影议题的核心文献。[原文链接](https://phmuseum.com/news/a-guide-to-may-2026-photography-festivals-exhibitions)
+
+### Project One 灵感
+1. **Rachel Whiteread 的铸型方法论：以物质填充缺席** - Whiteread 在「Substitute」中将旧木门磨损纹理翻制成浮雕、将透明树脂铸入空窗——把"不在场"变成可触摸的实体。这与Sophie Ristelhueber的"关于人的证据、却无人在场"形成方法论呼应。与Project One的接口：提供具体操作思路——除拍摄废墟表面，可考虑拓印、浇铸等干预手法让废墟质地留下物理痕迹，将"重构"轴线落实为具体制作手段。[相关链接](https://gagosian.com/exhibitions/2026/rachel-whiteread-substitute/)
+2. **Haruka Sakaguchi 的「消失地景」：缺席的历史地理学** - Sakaguchi 拍摄几乎不留痕迹的二战拘押营遗址，将被制度性清除的土地与今日拜访者的在场并置。与铁锈带废弃工厂形成对照：一个是被强制清空的场所，一个是被经济抛弃的场所，但都指向同一种"无人的痕迹"的图像学。与Project One的接口：为拍摄Gary, Indiana等遗址提供方法论参照——如何拍摄"消失本身"而非仅仅拍摄遗留物，以及如何用文字/手迹/档案与影像形成复调叙事。[相关链接](https://www.icp.org/exhibitions/icp-incubator-space-haruka-sakaguchi-the-camps-america-built)
+3. **Momus「从尘埃到光：论摄影的物质痕迹」** - 这篇批评文章将"尘埃"确立为摄影的理论对象：尘埃同时划定了文献与艺术品的边界，并确认照片作为物体与档案的双重属性。与David Campany「A Handful of Dust」形成理论延伸——尘埃不只是废墟的视觉符号，而是关于"摄影记录何物、留存何物"的本体论隐喻。与Project One的接口：为区分"拍摄废墟（文献性）"与"废墟摄影（艺术性）"提供理论语言，也为将来的策展文本写作提供框架支撑。[相关链接](https://momus.ca/from-dust-to-light-on-photographys-material-traces/)
