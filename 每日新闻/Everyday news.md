@@ -42,3 +42,18 @@
 1. **Rachel Whiteread 的铸型方法论：以物质填充缺席** - Whiteread 在「Substitute」中将旧木门磨损纹理翻制成浮雕、将透明树脂铸入空窗——把"不在场"变成可触摸的实体。这与Sophie Ristelhueber的"关于人的证据、却无人在场"形成方法论呼应。与Project One的接口：提供具体操作思路——除拍摄废墟表面，可考虑拓印、浇铸等干预手法让废墟质地留下物理痕迹，将"重构"轴线落实为具体制作手段。[相关链接](https://gagosian.com/exhibitions/2026/rachel-whiteread-substitute/)
 2. **Haruka Sakaguchi 的「消失地景」：缺席的历史地理学** - Sakaguchi 拍摄几乎不留痕迹的二战拘押营遗址，将被制度性清除的土地与今日拜访者的在场并置。与铁锈带废弃工厂形成对照：一个是被强制清空的场所，一个是被经济抛弃的场所，但都指向同一种"无人的痕迹"的图像学。与Project One的接口：为拍摄Gary, Indiana等遗址提供方法论参照——如何拍摄"消失本身"而非仅仅拍摄遗留物，以及如何用文字/手迹/档案与影像形成复调叙事。[相关链接](https://www.icp.org/exhibitions/icp-incubator-space-haruka-sakaguchi-the-camps-america-built)
 3. **Momus「从尘埃到光：论摄影的物质痕迹」** - 这篇批评文章将"尘埃"确立为摄影的理论对象：尘埃同时划定了文献与艺术品的边界，并确认照片作为物体与档案的双重属性。与David Campany「A Handful of Dust」形成理论延伸——尘埃不只是废墟的视觉符号，而是关于"摄影记录何物、留存何物"的本体论隐喻。与Project One的接口：为区分"拍摄废墟（文献性）"与"废墟摄影（艺术性）"提供理论语言，也为将来的策展文本写作提供框架支撑。[相关链接](https://momus.ca/from-dust-to-light-on-photographys-material-traces/)
+
+## 2026-05-21
+
+### 艺术圈新闻
+1. **Roni Horn「Seizure of Hope」本周于伦敦 Hauser & Wirth 开幕** - 5月21日开幕（持续至8月1日），Horn十年来首个伦敦个展，以全新纸本系列呈现词句反复覆写至侵蚀消失的过程，并展出铸玻璃立方雕塑——"我因希望而瘫痪"这句话在覆写中逐渐失去可读性，既是政治隐喻也是书写的物质性研究。[原文链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/roni-horn-london/)
+2. **Bernd & Hilla Becher「History of a Method」博洛尼亚 MAST 开幕** - 4月23日至9月27日，350余张工业设施黑白原作及档案材料全面回顾夫妇档半个世纪的类型学实践：冷却塔、鼓风炉、水塔、矿井架，均以正面、阴天、大画幅拍摄，在差异微妙的并置中呈现工业构筑物的形态谱系。[原文链接](https://www.bolognawelcome.com/en/events/exhibitions/bernd-hilla-becher-history-of-a-method-mast-en)
+3. **Aperture 出版《Josef Koudelka: Diaries》** - 5月12日出版，472页收录Koudelka 69本日记精华，揭示其拍摄流亡、罗姆人生活与欧洲工业景观毁坏的思维过程，含手写笔记与未曝光自拍，是迄今最完整的Koudelka方法论文献。[原文链接](https://aperture.org/press-release/announcing-josef-koudelka-diaries/)
+4. **Johny Pitts「Black Bricolage」MEP 巴黎将于5月24日闭幕** - 英国艺术家Johny Pitts在巴黎欧洲摄影之家呈现20年Afropean（非裔欧洲人）摄影研究，从巴黎、柏林、里斯本延伸至美国南方，以日常社区视角重构黑人欧洲身份叙事，拒绝怀旧与刻板印象，三日后关展。[原文链接](https://www.anothermag.com/art-photography/17099/johny-pitts-black-bricolage-mep-maison-europeenne-photographie-paris)
+5. **Gagosian 于 980 麦迪逊大道开设新地面旗舰空间** - 以Marcel Duchamp现成品大展揭幕（4月25日至6月27日），将画廊从原楼上迁至街面超1.2万平方英尺新空间，呈现全套经典现成品（含现存唯一非机构馆藏版《自行车轮》），是1965年纽约首展的时隔60年回归。[原文链接](https://www.artnews.com/art-news/news/gagosian-980-madison-flagship-gallery-1234782617/)
+6. **MoMA Marcel Duchamp 大型回顾展：50年来美国首次** - 约300件作品按严格时间顺序呈现杜尚完整创作弧线，持续至8月22日后巡回费城艺术博物馆；批评界评价褒贬参半——有人赞其"精彩而令人迷惑"，有人批评展陈如同陵墓而非对杜尚精神的激活。[原文链接](https://press.moma.org/exhibition/marcel-duchamp/)
+
+### Project One 灵感
+1. **Bernd & Hilla Becher 的「工业类型学」：冷静凝视替代废墟美学** - Becher夫妇对冷却塔、鼓风炉、矿井架的系统性正面拍摄（均匀阴天、大画幅、固定距离），将差异细微的工业构筑物并置成"类型表格"，让形态本身成为叙事主体而非震撼性废墟奇观。与Project One的接口：为拍摄Gary, Indiana废弃钢铁设施提供了替代"废墟美学"的方法论——类型学的冷静客观与Campany的"尘埃"展览共享一种对工业物质的不动声色的凝视，可以据此设计拍摄Gary废弃厂房的系统方案：固定视角、固定距离、相似天候。[相关链接](https://fraenkelgallery.com/exhibitions/bernd-hilla-becher-industrial-landscapes)
+2. **Josef Koudelka 的「流亡摄影学」：让拍摄者的缺席成为图像内容** - Koudelka的「Chaos」系列记录欧洲被工业化重塑的土地，其核心策略是将自身永久流亡的状态投射入图像——摄影师始终是外来者，而这种外来者视角本身成为风景的一部分。新出版的《Diaries》则首次展示他将这种漂泊感转化为拍摄决策的内在逻辑。与Project One的接口：为"缺席者的痕迹"提供操作模型——Caesar作为置身铁锈带的外来拍摄者，如何让这种外部性变成图像的隐性叙事张力而非单纯的旁观记录。[相关链接](https://aperture.org/press-release/announcing-josef-koudelka-diaries/)
+3. **Marcel Duchamp 的现成品逻辑：工业物件的去语境化与时间携带** - Duchamp从工厂选取量产物件移入白立方，以展示行为将其转化为艺术——其根本问题是"物件离开原语境后如何携带并释放时间"。Gagosian新展的《自行车轮》（1964年版，1913年原作已失）本身就是一件关于"失去原物之后的复制品"的作品，指向废墟摄影中的核心困境：拍摄的是已然不在的东西。与Project One的接口：直接呼应项目中"介入与矛盾"节点——在废墟里放置或移动物件，是对原场所的重新命名，而非破坏；现成品逻辑提供了一个思考"介入行为的合法性"的历史框架。[相关链接](https://gagosian.com/exhibitions/2026/marcel-duchamp/)
