@@ -42,3 +42,18 @@
 1. **Rachel Whiteread 的铸型方法论：以物质填充缺席** - Whiteread 在「Substitute」中将旧木门磨损纹理翻制成浮雕、将透明树脂铸入空窗——把"不在场"变成可触摸的实体。这与Sophie Ristelhueber的"关于人的证据、却无人在场"形成方法论呼应。与Project One的接口：提供具体操作思路——除拍摄废墟表面，可考虑拓印、浇铸等干预手法让废墟质地留下物理痕迹，将"重构"轴线落实为具体制作手段。[相关链接](https://gagosian.com/exhibitions/2026/rachel-whiteread-substitute/)
 2. **Haruka Sakaguchi 的「消失地景」：缺席的历史地理学** - Sakaguchi 拍摄几乎不留痕迹的二战拘押营遗址，将被制度性清除的土地与今日拜访者的在场并置。与铁锈带废弃工厂形成对照：一个是被强制清空的场所，一个是被经济抛弃的场所，但都指向同一种"无人的痕迹"的图像学。与Project One的接口：为拍摄Gary, Indiana等遗址提供方法论参照——如何拍摄"消失本身"而非仅仅拍摄遗留物，以及如何用文字/手迹/档案与影像形成复调叙事。[相关链接](https://www.icp.org/exhibitions/icp-incubator-space-haruka-sakaguchi-the-camps-america-built)
 3. **Momus「从尘埃到光：论摄影的物质痕迹」** - 这篇批评文章将"尘埃"确立为摄影的理论对象：尘埃同时划定了文献与艺术品的边界，并确认照片作为物体与档案的双重属性。与David Campany「A Handful of Dust」形成理论延伸——尘埃不只是废墟的视觉符号，而是关于"摄影记录何物、留存何物"的本体论隐喻。与Project One的接口：为区分"拍摄废墟（文献性）"与"废墟摄影（艺术性）"提供理论语言，也为将来的策展文本写作提供框架支撑。[相关链接](https://momus.ca/from-dust-to-light-on-photographys-material-traces/)
+
+## 2026-05-21
+
+### 艺术圈新闻
+1. **Rene Matić 荣获 2026 年德意志交易所摄影基金奖** - 英国艺术家 Rene Matić 于 5 月 14 日在伦敦摄影师画廊被宣布为年度获奖者（奖金 £30,000），获奖项目为 CCA 柏林展览《AS OPPOSED TO THE TRUTH》，以快照美学探讨摄影如何构建权力、身份与真相叙述。[来源](https://artlyst.com/rene-matic-wins-deutsche-borse-photography-foundation-prize-2026/)
+2. **Josef Koudelka:《日记》(Diaries) 由 Aperture 出版** - 5 月 12 日出版，共 472 页，收录 Koudelka 五十余年间保存的 69 本日记及大量摄影图像，涵盖其对景观破坏与人类活动痕迹的长期记录。[Aperture 图书页](https://aperture.org/books/josef-koudelka-diaries/)
+3. **Rachel Whiteread「Substitute」于 Gagosian 伦敦闭幕** - 3 月 26 日至 5 月 16 日，Whiteread 翻铸旧谷仓门板制成覆银铜箔大型浮雕，将建筑磨损痕迹凝固为物质——以物质填充负空间的核心方法论，是关于记忆、缺席与消逝的深度沉思。[展览页面](https://gagosian.com/exhibitions/2026/rachel-whiteread-substitute/)
+4. **Greater New York 2026 于 MoMA PS1 持续展出，免费入场** - 4 月 16 日开幕，至 8 月 17 日，53 位艺术家共 150 余件作品探讨监控、经济不稳定与技术变迁，为 PS1 成立 50 周年献礼。[展览详情](https://press.moma.org/exhibition/greater-new-york-2026/)
+5. **Deutsche Börse 摄影基金奖 2026 展览进行中（伦敦）** - 四位入围艺术家 Jane Evelyn Atwood、Weronika Gęsicka、Amak Mahmoodian 与 Rene Matić 的作品于摄影师画廊展出，至 6 月 7 日，涵盖长期纪录摄影、实验概念摄影与录像装置。[展览页面](https://thephotographersgallery.org.uk/whats-on/deutsche-borse-photography-foundation-prize-2026)
+6. **「Meanwhile in Detroit」铁锈带摄影展于 Silver Eye Center 展出** - Edgar Cardenas 拍摄底特律后工业自然风景，另有 Nathan Cephas《As It Is》呈现底特律 250 英亩公园中工业废弃与自然复苏的共生，被 Pittsburgh City Paper 评为本季最值得关注的后工业摄影展。[评论文章](https://www.pghcitypaper.com/arts-entertainment-2/visual-art/meanwhile-in-detroit-captures-natural-beauty-of-the-rust-belt/)
+
+### Project One 灵感
+1. **Josef Koudelka:《废墟》(Ruins) —— Aperture 摄影集** - Koudelka 数十年游走地中海盆地，以宽幅黑白全景记录古代遗址与后工业废墟，图像语言极简而时间感深重，探讨人类对景观的破坏与遗弃。与 Project One 的接口：同以「无人废墟」为核心视觉语言，与 Sophie Ristelhueber 的 Beirut 系列形成对话；宽幅全景构图可直接作为拍摄铁锈带工厂遗址时的构图参照。[Aperture 图书页](https://aperture.org/books/new-releases/ruins/)
+2. **Anna Tsing 谈「在恐惧中创造惊奇」（ArtReview 专访）** - ArtReview 对 Anna Tsing 的长篇专访，她阐释「被污染的多样性」（contaminated diversity）如何成为一种真实的生存策略，以及废墟作为多物种聚集场所的潜力。与 Project One 的接口：为 canvas 中 Contamination 节点提供第一手理论支撑，废墟不是终点而是新生命形式的起点，可引入展览文本或艺术家陈述中。[ArtReview 原文](https://artreview.com/anna-l-tsing-on-creating-wonder-in-the-midst-of-dread/)
+3. **Andrew Borowiec《Nebraska: 后工业铁锈带》—— L'Oeil de la Photographie** - Borowiec 深入美国铁锈带中被工业化与去工业化双重遗忘的小城市，以社会纪录视角呈现废弃空间中仍在延续的日常生命。与 Project One 的接口：与 Curran Hatleberg 的公路摄影传统互补，提供更具社会学厚度的铁锈带影像参照，可用于思考「Project One 究竟要记录什么、为谁记录」的核心策展问题。[L'Oeil 介绍](https://loeildelaphotographie.com/en/nebraska-the-post-industrial-rust-belt-by-andrew-borowiec/)
