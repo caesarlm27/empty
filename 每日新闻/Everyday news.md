@@ -57,3 +57,17 @@
 1. **Bernd & Hilla Becher 的「工业类型学」：冷静凝视替代废墟美学** - Becher夫妇对冷却塔、鼓风炉、矿井架的系统性正面拍摄（均匀阴天、大画幅、固定距离），将差异细微的工业构筑物并置成"类型表格"，让形态本身成为叙事主体而非震撼性废墟奇观。与Project One的接口：为拍摄Gary, Indiana废弃钢铁设施提供了替代"废墟美学"的方法论——类型学的冷静客观与Campany的"尘埃"展览共享一种对工业物质的不动声色的凝视，可以据此设计拍摄Gary废弃厂房的系统方案：固定视角、固定距离、相似天候。[相关链接](https://fraenkelgallery.com/exhibitions/bernd-hilla-becher-industrial-landscapes)
 2. **Josef Koudelka 的「流亡摄影学」：让拍摄者的缺席成为图像内容** - Koudelka的「Chaos」系列记录欧洲被工业化重塑的土地，其核心策略是将自身永久流亡的状态投射入图像——摄影师始终是外来者，而这种外来者视角本身成为风景的一部分。新出版的《Diaries》则首次展示他将这种漂泊感转化为拍摄决策的内在逻辑。与Project One的接口：为"缺席者的痕迹"提供操作模型——Caesar作为置身铁锈带的外来拍摄者，如何让这种外部性变成图像的隐性叙事张力而非单纯的旁观记录。[相关链接](https://aperture.org/press-release/announcing-josef-koudelka-diaries/)
 3. **Marcel Duchamp 的现成品逻辑：工业物件的去语境化与时间携带** - Duchamp从工厂选取量产物件移入白立方，以展示行为将其转化为艺术——其根本问题是"物件离开原语境后如何携带并释放时间"。Gagosian新展的《自行车轮》（1964年版，1913年原作已失）本身就是一件关于"失去原物之后的复制品"的作品，指向废墟摄影中的核心困境：拍摄的是已然不在的东西。与Project One的接口：直接呼应项目中"介入与矛盾"节点——在废墟里放置或移动物件，是对原场所的重新命名，而非破坏；现成品逻辑提供了一个思考"介入行为的合法性"的历史框架。[相关链接](https://gagosian.com/exhibitions/2026/marcel-duchamp/)
+
+## 2026-05-22
+
+### 艺术圈新闻
+1. **Photo London 2026首届奥林匹亚场馆落幕，Steven Meisel担任年度大师摄影师** - 5月14-17日，Photo London第11届移师肯辛顿奥林匹亚举办，以极少公开展览的时尚摄影师Steven Meisel为年度大师，其1990年代为英国《Vogue》拍摄的巨幅黑白伦敦肖像系列「Anglo-Saxon Attitude」——拍摄地点涵盖史必塔菲尔斯小巷、运河堤岸与多克兰码头——构成本届视觉核心。[原文链接](https://www.anothermag.com/art-photography/17178/photo-london-steven-meisel-master-of-photography-2026)
+2. **Sophie Calle「Something Missing?」丹麦路易斯安那博物馆大型回顾展持续至9月** - 3月26日至9月6日，路易斯安那现代艺术博物馆呈现Sophie Calle迄今最大规模展览，300余件摄影、文字与影像占据整个西翼，以缺席、失去与渴望为核心——包括经典系列《The Blind》（1986），将23位天生失明者对"美"的描述转化为可触摸的文字与影像证据。[原文链接](https://louisiana.dk/en/exhibition/sophie-calle/)
+3. **Whitney Biennial 2026「多极危机的崇高」批评界多角度深评持续涌现** - 3月8日至8月23日，纽约惠特尼双年展第82届持续展出，56位艺术家探索焦虑、脆弱与共同体；Hyperallergic以"多极危机的崇高"为题深评，Frieze则批评"在压倒性时代制造了一场黯淡演出"，两种声音形成张力，Kelly Akashi以玻璃砖重建被山火烧毁烟囱的作品「Monument (Altadena)」成本届情感焦点。[原文链接](https://hyperallergic.com/the-polycrisis-sublime-of-the-whitney-biennial/)
+4. **Wael Shawky「I Am Hymns of the New Temples」5月30日于M+香港开幕** - 埃及艺术家Wael Shawky将于5月30日至10月25日在香港M+博物馆呈现这件录像装置——演员戴手工陶瓷面具、在庞贝废墟中游走重演古代神话，探讨废墟如何成为民族叙事的铸造现场。这是该作品在亚洲的首次大型机构呈现。[原文链接](https://www.mplus.org.hk/en/exhibitions/heri-dono-and-wael-shawky-chorus/)
+5. **Zanele Muholi 获2026年哈苏奖：「我携带着无数面孔与历史」** - 南非摄影艺术家Zanele Muholi获颁年度最具声望摄影大奖哈苏奖（奖金200万瑞典克朗）；其跨越20年的「Faces and Phases」系列（2006–）是对南非黑人LGBTQIA+群体存在与尊严的系统性记录，哈苏中心将于10月9日在哥德堡举办授奖典礼及伴随个展。[原文链接](https://www.hasselbladfoundation.org/en/hasselblad-award-winner-2026/)
+
+### Project One 灵感
+1. **Wael Shawky 的废墟叙事学：面具演员在庞贝遗址重演古代神话** - Shawky 的核心操作是将戴着陶瓷面具的演员置入真实废墟重演历史叙事，让"过去"以活体重新占据已死亡的空间——这是"介入与矛盾"节点的激进版本：介入废墟不是为了美化，而是为了让历史建构本身变得可见。与Project One的接口：为拍摄Gary废弃工厂提供"重演历史"的框架——工人遗留的工具、工装能否以某种搬演方式重新在场？铁锈带的衰败叙事是如何被建构、又被谁建构的？[相关链接](https://www.lissongallery.com/news/wael-shawky-i-am-hymns-of-the-new-temples-at-m-hong-kong)
+2. **Sophie Calle 的「缺席转化」方法论：不可见者的物质见证** - Calle 毕生将缺席转化为具体痕迹——跟踪陌生人、入住他人空间、让失明者描述"美"；《The Blind》中被拍摄者从未看见自己的照片，照片本身成为"无法被看见"的物质见证。与Project One的接口：与 Ristelhueber 的"关于人的证据、却无人在场"形成方法论延伸——启发在Gary遗址收集"缺席者的肖像"：遗留的工卡、签到表、更衣柜里的私人物件，作为不在场者的替代性影像叙事。[相关链接](https://overstandard.dk/sophie-calle-turns-absence-into-something-you-can-almost-touch-at-louisiana-museum-of-modern-art/)
+3. **Kelly Akashi「Monument (Altadena)」：以玻璃砖重铸失去之物** - Whitney双年展参展作品，Akashi 用玻璃砖精确重建2026年山火烧毁的自家烟囱——原物已消失，重建体携带原物的记忆与失去，是废墟摄影的物质性替代而非记录。与Project One的接口：提供"如何回应废墟"的第三条路线：不只是记录（摄影）、也不只是介入（装置），而是重建（铸造失去之物的复制体）——可以思考，Gary废弃钢铁厂内哪些物质值得被复制？复制行为本身是否已经成为叙事？[相关链接](https://whitney.org/exhibitions/2026-biennial)
