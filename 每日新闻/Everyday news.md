@@ -86,3 +86,16 @@
 1. **Sung Tieu 的废墟叠加法：以被拆废墟的复制品覆写在役建筑，激活多层历史** - Tieu 不是拍摄废墟，而是将一栋仍在拆除中的真实废墟的图像覆写在另一座具有历史罪行的建筑外皮之上——废墟的痕迹叠在废墟的皮肤上，形成双重历史的同时在场。这一操作直接激进化了 Anna Tsing 的 contamination 概念：不只是污染共存，而是废墟吞噬废墟。与 Project One 的接口：在 Gary 拍摄时，可以思考"哪些建筑的废墟叠着哪段历史的废墟"——铁锈带工厂的废弃同时叠着工人迁徙史、种族隔离史与资本撤离史；Tieu 的方法提供了在图像或装置中"叠写"这些历史层次的操作思路。[相关链接](https://news.artnet.com/art-world/germany-pavillion-venice-biennale-2770229)
 2. **Dirk Braeckman 的摄影材料学：让尘埃与化学痕迹成为叙事主体而非干扰** - Braeckman 四十年来始终与摄影过程的"材料性杂质"一同工作——不去除化学污点与尘埃，而是将其纳入图像的意义结构。"Although"展名本身即是对"可见性的让步"：尽管如此……图像仍然成立。这与 David Campany 的"A Handful of Dust"构成方法论深层呼应——尘埃不是表面噪音，而是摄影本体论的一部分。与 Project One 的接口：为拍摄废墟提供摄影技术层面的具体操作思路——是否可以让曝光、显影过程中的"杂质"参与叙事，而非追求清晰的废墟影像？这是摄影材料与废墟主题之间最直接的物质联结。[相关链接](https://grimmgallery.com/exhibitions/357-dirk-braeckman-although)
 3. **阿尔勒「重读世界」：以"重读"替代"记录"作为摄影的核心动词** - 2026年阿尔勒摄影节以"重读"（relire）为动词——不是记录、不是见证，而是重新阅读已有图像与现实。这个框架与 Project One "记录与重构之间的张力"节点直接共鸣：废墟摄影究竟是在记录一个已经存在的事实，还是在重构一套关于衰败的叙事？"Des mondes à relire"同时提示：废墟本身是一种需要被重读的文本，其意义不在表面，而在阅读者带入的历史语境中。与 Project One 的接口：可将"重读"移入策展文本写作，以此替代"记录"作为整个项目的动词核心，为项目提供更开放、更具能动性的方法论框架。[相关链接](https://fisheyemagazine.fr/article/programmation-rencontres-arles-2026/)
+
+## 2026-05-24
+
+### 艺术圈新闻
+1. **Yto Barrada「Comme Saturne」亮相威尼斯法国馆：酸蚀织物，从缺席中显现形态** - Yto Barrada以「如土星」为题代表法国参展第61届威尼斯双年展，以酸蚀天鹅绒技术（dévoré）将织物表面化学溶解，让形态从负空间中浮现；展厅内自然光作为持续作用的材料，在六个月展期中不断漂白布料，作品随时间而变。展至2026年11月22日。[原文链接](https://www.artbasel.com/stories/yto-barrada-french-pavilion-venice-biennale-2026)
+2. **Aperture 出版石内都首本英文全集《Traces》** - 5月12日出版，共260页160幅影像，跨越石内都（Ishiuchi Miyako）1970年代至今的完整实践弧线，涵盖"Yokosuka Story"、"Skin & Scars"、"Things Left Behind"及拍摄弗里达·卡洛遗物的"Frida"系列，是迄今最完整的英语文献。[原文链接](https://aperture.org/books/ishiuchi-miyako-traces/)
+3. **威尼斯双年展「In Minor Keys」首批批评综评涌现** - 5月9日开幕的第61届双年展中央展览由已故策展人Koyo Kouoh的团队完成，Artnet将其描述为"被当下撕裂的双年展"，María Magdalena Campos-Pons的巨幅Kouoh肖像画成为情感焦点，批评界围绕"策展遗产与当下政治张力"展开密集讨论。[原文链接](https://news.artnet.com/art-world/venice-biennale-review-in-minor-keys-2770598)
+4. **Biel/Bienne摄影节「CRACKS」5月31日闭幕** - 5月9-31日于瑞士比尔举行的第24届比尔摄影节以"脆弱性"为年度主题，将其定义为共同体的社会政治状态而非个人弱点，四个轴线涵盖女权主义与身体政治、情感生态、移民叙事与修复性艺术姿态，本月底结束。[原文链接](https://bielerfototage.ch/en/)
+5. **威尼斯巴哈马馆「In Another Man's Yard」：嘉年华遗服重组为哀悼装置** - 时隔13年回归的巴哈马馆将废弃Junkanoo（加勒比嘉年华）服装碎料重新组装为大型雕塑，艺术家Lavar Munroe以11幅巨幅绘画向已故合作者John Beadle致哀，Artnet将其列为本届最动人的国家馆之一。[原文链接](https://www.artnews.com/art-news/news/bahamian-pavilion-brings-junkanoo-to-venice-biennale-standout-1234784359/)
+
+### Project One 灵感
+1. **Yto Barrada 的 dévoré 方法论：化学溶解，让形态从缺席中浮现** - Barrada用酸液蚀去织物表面绒毛，使花纹从"被去除之处"显现，同时让光线在展期中持续漂白布料——时间本身成为共同创作者。这与David Campany的"尘埃"逻辑（被压抑之物终将回归）形成材料层面的呼应。与Project One的接口：为废墟摄影提供"时间性物质"视角——铁锈带工厂的锈蚀、腐朽、剥落是时间对物质的持续施压过程而非静止结果；可考虑将"工厂正在生锈"（进行时）而非"工厂已经生锈"（完成时）作为拍摄的核心时态，让物质的消失过程本身成为图像主体。[相关链接](https://www.artbasel.com/stories/yto-barrada-french-pavilion-venice-biennale-2026)
+2. **石内都的「遗留之物」：以遗物代替肖像，拍摄缺席者的身体证据** - 石内都数十年来以大画幅彩色摄影拍摄已故者的遗留之物——母亲的内衣、弗里达·卡洛的假肢与裙子、广岛死难者被炸碎的衣物——每件遗物携带曾有身体在此的物质证据，物件成为肖像的替代物。与Project One的接口：与Sophie Ristelhueber"关于人的证据、却无人在场"形成精确呼应——为在Gary铁锈带废弃工厂收集"遗留之物"提供方法论模板：工人遗弃的工装、机器上的使用划痕、更衣柜中的个人物件，构成铁锈带工人阶级缺席者的替代性肖像集。[相关链接](https://aperture.org/books/ishiuchi-miyako-traces/)
