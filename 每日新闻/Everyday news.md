@@ -99,3 +99,16 @@
 ### Project One 灵感
 1. **Yto Barrada 的 dévoré 方法论：化学溶解，让形态从缺席中浮现** - Barrada用酸液蚀去织物表面绒毛，使花纹从"被去除之处"显现，同时让光线在展期中持续漂白布料——时间本身成为共同创作者。这与David Campany的"尘埃"逻辑（被压抑之物终将回归）形成材料层面的呼应。与Project One的接口：为废墟摄影提供"时间性物质"视角——铁锈带工厂的锈蚀、腐朽、剥落是时间对物质的持续施压过程而非静止结果；可考虑将"工厂正在生锈"（进行时）而非"工厂已经生锈"（完成时）作为拍摄的核心时态，让物质的消失过程本身成为图像主体。[相关链接](https://www.artbasel.com/stories/yto-barrada-french-pavilion-venice-biennale-2026)
 2. **石内都的「遗留之物」：以遗物代替肖像，拍摄缺席者的身体证据** - 石内都数十年来以大画幅彩色摄影拍摄已故者的遗留之物——母亲的内衣、弗里达·卡洛的假肢与裙子、广岛死难者被炸碎的衣物——每件遗物携带曾有身体在此的物质证据，物件成为肖像的替代物。与Project One的接口：与Sophie Ristelhueber"关于人的证据、却无人在场"形成精确呼应——为在Gary铁锈带废弃工厂收集"遗留之物"提供方法论模板：工人遗弃的工装、机器上的使用划痕、更衣柜中的个人物件，构成铁锈带工人阶级缺席者的替代性肖像集。[相关链接](https://aperture.org/books/ishiuchi-miyako-traces/)
+
+## 2026-05-25
+
+### 艺术圈新闻
+1. **Gallery Weekend Beijing 第10届正式开幕：30家画廊联动798至草场地** - 5月22-31日，Gallery Weekend Beijing 迎来十周年，30家画廊以798艺术区为轴心向草场地、CBD艺术区延伸；VIP日5月22-24日，公众日5月26-31日；首次将大型户外装置与移动影像延伸至城市公共空间，并在节期举办"中国当代艺术十年"纪念论坛，是今年北京最重要的年度画廊季。[原文链接](https://ocula.com/magazine/art-news/gallery-weekend-beijing-anniversary-programme/)
+2. **Roberto Diago「Hombres Libres」：废料铸锈铁头像占据威尼斯古巴馆** - 非洲裔古巴艺术家 Roberto Diago 以拾得废铁、破木铸造尺寸各异的锈蚀头像，从各方向逼近观者；「自由之人」于威尼斯 Il Giardino Bianco 展至11月22日，"El sistema no nos quiere（体制不要我们）"等文字作品将殖民遗产与种族压迫转化为具体的物质形态，被 Artnet 列为本届双年展最动人国家馆之一。[原文链接](https://www.finestresullarte.info/en/exhibitions/at-the-venice-biennale-the-cuba-pavilion-presents-hombres-libres-by-roberto-diago)
+3. **Dionne Lee: Currents · Aperture 出版其首本摄影专著** - 4月21日出版，160页88张影像，Lee 以再摄影（将野外求生手册图像重新拍摄）与石墨刻写等暗房介入技法处理美国南部景观，将土地历史、驱逐与黑人身份编入影像的物质层；生态诗人 Camille T. Dungy 与策展人 Eric Booker 撰文，是今年 Aperture 最受关注的摄影师首书。[原文链接](https://aperture.org/books/dionne-lee-currents/)
+4. **段建宇首个北京机构个展在 UCCA 持续展出，本周 Gallery Weekend 列为重点机构** - 5月1日至8月30日，UCCA Beijing 呈现画家段建宇迄今最完整北京回顾；「Sharp, Sharp, Smart」系列以农村青年次文化 shamate 为入口，揭示社会主义现实主义图式与快速城镇化之间的悬置张力，是本届北京画廊季重要的机构展览现场。[原文链接](https://ocula.com/institutions/ucca-center-for-contemporary-art/exhibitions/)
+
+### Project One 灵感
+1. **Roberto Diago 的废料铸像逻辑：锈铁作为历史意志的物质载体** - Diago 不拍废铁——他把废铁铸成头像：废料从拾得物变成主体，锈蚀不再是衰败的符号，而是压迫历史留在物质里的痕迹。这与 David Campany「A Handful of Dust」的核心论点（尘埃是被压抑之物的归来）形成直接呼应：铁锈带工厂锈蚀的铁梁与 Gary 街道遗弃的工装，本身就是一种未被命名的历史主张。与 Project One 的接口：是否可以在废墟内发现并"带走"某种物件——不只是拍摄它，而是将它作为实物档案从现场提取？介入行为从摄影外部切入，为项目增加实物与影像之间的张力层。[相关链接](https://blackartmagazine.com/art-scene/exhibitions/roberto-diago-2026-venice-biennale/)
+2. **David Campany × Joel Meyerowitz ICP 对话：「一把尘埃」策展人如何处理影像叙事的时间维度** - 在 ICP 第42届 Infinity Awards 系列活动中，「A Handful of Dust」策展人、ICP 创意总监 David Campany 与终身成就奖得主 Joel Meyerowitz 共同出席纪录片《两个陌生人试着不彼此杀死》映后对谈（4月30日）；影片探讨晚年艺术家如何面对衰老、照护与消亡，而 Campany 对"影像与影像之间如何共鸣"的长期关注使这场对话直接指向图像的时间性。与 Project One 的接口：直接连接 Artist Research 核心参考——Campany 是「A Handful of Dust」展览的策展人，这场对话揭示他将时间性衰变与影像共鸣置于策展核心的方法论决策，为 Project One 的策展文本写作提供了最直接的路径：废墟摄影如何让"影像与影像之间的共鸣"而非单张影像的震撼成为展览的核心机制？[相关链接](https://www.icp.org/events/icp-infinity-award-series-film-screening-two-strangers-trying-not-kill-each-other-joel)
+3. **Dionne Lee 的暗房介入法：让景观摄影承载土地消失的历史重量** - Lee 将野外求生手册的现成图像再摄影，并在景观照片上直接刻写石墨痕迹——不是对特定地点的拍摄，而是对"谁的身体被此地排除在外"的历史追问，使影像同时携带当下拍摄时刻与更深的历史层。与 Project One 的接口：Gary, Indiana 的废弃钢铁厂不只是一个地方——它是被驱逐的劳工史、种族隔离史与资本撤离史的叠加；Lee 的方法提示：可在废墟影像上叠加工人档案、签到表或手迹的图像，让景观照片同时成为「现场记录」与「历史标注」的双重文本，将 Taryn Simon 的"拍摄现场"逻辑与 Ristelhueber 的"无人的证据"推进到新的叙事维度。[相关链接](https://aperture.org/editorial/dionne-lee-is-reinventing-the-landscape-photograph/)
