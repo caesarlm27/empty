@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-06-01
+
+### 艺术圈新闻
+1. **Julio Le Parc 逝世，享年97岁：动态艺术先驱于巴黎辞世，Tate Modern 大展六月如期开幕** - 5月30日，阿根廷裔法国艺术家Julio Le Parc在巴黎美国医院辞世，享年97岁，其子Yamil证实系健康持续衰退所致；Le Parc 生前殷切期待的 Tate Modern 大型回顾展将于6月11日如期开幕（展期至2027年5月），是他去世后最重要的遗作现场，66件作品横跨70年职业生涯，含互动光影装置与几何抽象绘画。[原文链接](https://www.artnews.com/art-news/news/julio-le-parc-dead-97-kinetic-art-venice-biennale-tate-modern-1234787972/)
+2. **JR「La Caverne du Pont Neuf」6月6日于巴黎开幕：史上最大沉浸式公共装置，120米岩洞横贯塞纳河** - 艺术家JR将巴黎最古老的普诺桥改造为一座120米长的巨型洞穴装置，以trompe-l'œil手法还原这座桥的石料出处——瓦兹河谷古老采石场的岩层与裂缝，令市民从桥面看见四百年前的地质时间；Daft Punk 成员Thomas Bangalter负责声音设计，6月6日至28日免费向公众全天开放。[原文链接](https://www.paris.fr/en/pages/jr-unveils-his-monumental-installation-on-pont-neuf-33479)
+3. **Anish Kapoor 海沃德画廊大展6月16日开幕：Vantablack 与充气巨构，时隔28年重返** - Kapoor 时隔28年重返海沃德，由 Ralph Rugoff 策划，展期至10月18日；三件新委托作品分占展厅三段：充满6米高空间的充气装置、Vantablack 黑洞雕塑（令表面近乎隐形）与令人迷失方向的镜面系列，是今年英国艺术机构最重要的个展之一。[原文链接](https://www.southbankcentre.co.uk/whats-on/anish-kapoor/)
+4. **Barbican「Project a Black Planet: The Art and Culture of Panafrica」6月11日开幕** - 由 Art Institute of Chicago、巴塞罗那 MACBA 与 KANAL-Centre Pompidou 联合策划，300余件跨越百年的绘画、雕塑、胶片、刊物与档案，追踪泛非主义对艺术与文化的塑造，涵盖 Chris Ofili、Marlene Dumas 等；展期至9月6日，配套全夏音乐、电影、表演系列。[原文链接](https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-the-art-and-culture-of-panafrica)
+5. **Marchand & Meffre「The Shape of What Remains」京都国际摄影节（4月18日-5月17日闭幕）：《底特律废墟》摄影师首次以AI生成「京都废墟」** - 法国废墟摄影双人组 Yves Marchand & Romain Meffre 在京都宫尊会馆旧宿舍内呈现二十年废墟摄影总回顾——《底特律废墟》《军舰岛》《巴黎废墟》三大系列并置，并首次展出以生成式AI将京都城市景观转化为废墟的新作，是今年摄影界对工业废墟传统最完整的机构性审视。[原文链接](https://www.kyotographie.jp/en/programs/2026/yves-marchand-romain-meffre/)
+
+### Project One 灵感
+1. **Marchand & Meffre 的「底特律废墟」二十年田野：美国铁锈带废墟的大画幅类型学档案** - Marchand & Meffre 自2005年起以大画幅相机系统拍摄底特律废弃工厂、剧院与公共建筑，以正面、冷静、高细节的方式呈现锈蚀表面，既是类型学档案又是历史见证——与 Becher 夫妇的工业类型学传统共享一种对废墟的「不动声色的凝视」，但注入了更强的时间叙事与衰败美学。底特律与 Gary, Indiana 同处美国五大湖铁锈带核心地带，几乎同步经历钢铁与汽车工业的崩塌，是 Project One 拍摄现场的地理与历史镜像。与 Project One 的接口：他们的方法论提示两个具体操作——①系统记录 Gary 废弃工厂同类型设施（高炉、冷却塔、更衣室），让单张影像积累为类型学序列；②大画幅慢速拍摄赋予建筑表面充分的时间，让锈蚀细节本身成为叙事单元，而非廉价奇观——也正是对「ruin porn」拒绝的具体落实。[相关链接](https://www.kyotographie.jp/en/programs/2026/yves-marchand-romain-meffre/)
+2. **JR「La Caverne du Pont Neuf」：将建筑表面还原为地质时间，任何人工物深处都有「采石场记忆」** - JR 的核心操作不是装饰桥，而是「还原」它——把四百年历史的桥变回其石材出处：采石场的岩层与裂缝。这是一种逆时间的材料考古，让已完成的建筑重新暴露其未完成的原初状态，让平滑人工表面透出底层的地质粗粝。这与 Anna Tsing 的 contamination 理论在物质层面呼应：任何建成之物都携带着它来自的土地与劳动的历史，那些历史从未被表皮封存。与 Project One 的接口：在 Gary 废弃钢铁厂拍摄时，可将视角延伸至工厂所在的土地本身——钢铁从铁矿到钢梁到锈蚀解体，是物质在地质时间、工业时间与废墟时间三段历程中的连续旅行；镜头对准废墟地面的土层断面、铁锈剥落的肌理、混凝土裂缝里生长的植物，是在记录废墟，也是在挖掘废墟下面的「采石场」——JR 称那是建筑真正的起源之地。[相关链接](https://www.paris.fr/en/pages/jr-unveils-his-monumental-installation-on-pont-neuf-33479)
+
 ## 2026-05-31
 
 ### 艺术圈新闻
