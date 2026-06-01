@@ -36,6 +36,7 @@ tags:
 ### Project One 灵感
 1. **Beverly Buchanan 的「预设腐朽」策略：不记录废墟，而是主动进入废墟的生命周期** - Buchanan 在设计作品时内置必然腐朽的材料逻辑——石材与泥土的风化共同完成艺术作品，让消失本身成为意义所在。她的「反纪念碑」拒绝宏大尺度，以静默、边缘、无人注意的方式标记被遗忘的历史现场：美国东南部的种族暴力与贫困社区的「安静历史」。这与 Tereza Zelenkova「死亡带来新生」的循环观形成方法论对位：两者都把废墟理解为生命周期内部的一个阶段，而非终点。与 Project One 的接口：Gary 废弃工厂的锈蚀不是意外损耗，而是钢铁在时间与气候中的预设命运——Buchanan 提示：摄影机不只是在记录「已经成为废墟的建筑」，更可以参与见证「正在成为废墟的过程」；同时，她对「反英雄」尺度的坚持（回避宏大奇观、标记被遗忘之地）与 Project One 拒绝「ruin porn」的方法论立场高度一致，为拍摄策略提供了具体的美学参照。[相关链接](https://artreview.com/beverly-buchanans-anti-monuments-feature-chris-fite-wassilak/)
 2. **Steve McQueen「Bounty」：殖民地景中的幸存植物学——被污染历史的生物档案** - McQueen 在种植园奴隶制发生地拍摄仍在生长的本土植物：这些无名花草活过了帝国的全部暴力，是 Anna Tsing「受污染的多样性」理论最直接的视觉化——被污染的土地（种植园历史）不是荒漠，而是持续孕育生命的现场。与 Project One 的接口：Gary, Indiana 废弃钢铁厂周围同样有野草穿透混凝土、树根撑开锈迹斑斑的铁门——这些植物不是废墟的背景装饰，而是铁锈带半个世纪工业污染史的活体证据，是 contamination 概念的字面在场。McQueen 的方法提示：将镜头对准废墟里的植物，把它们拍摄为「历史的幸存者」而非「自然背景」，让植物的生命力与工厂的死寂形成直接的叙事张力，将 Tsing 的理论从策展语言落实为具体的拍摄对象。[相关链接](https://www.anothermag.com/art-photography/17084/bounty-steve-mcqueen-book-interview-grenada-flower-photos-colonial-violence)
+
 ## 2026-05-30
 
 ### 艺术圈新闻
