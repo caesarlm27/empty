@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-06-02
+
+### 艺术圈新闻
+1. **「Marilyn Monroe: A Portrait」本周四于伦敦国家肖像美术馆开幕：百年诞辰回顾，首次展出临终前一天最后拍摄的未发表照片** - 6月4日至9月6日，NPG 以 Monroe 百年冥诞为契机呈现这一大型摄影与绘画回顾展，汇集 Avedon、Eve Arnold、Beaton、Inge Morath 等逾20位摄影师的时代性影像；重头戏是 Allan Grant 为《生活》杂志在 Monroe 洛杉矶寓所所拍的最后一次拍摄（1962年8月，她次日即去世），超过400张影像至今仅发表8张，此次首度全面展出；展览同时追问 Monroe 在何种程度上主动参与了自我形象的塑造，是今年伦敦最具摄影史意义的开幕之一。[原文链接](https://www.npg.org.uk/whatson/exhibitions/2026/marilyn-monroe-a-portrait)
+2. **London Gallery Weekend 2026 第六届本周五启动：120+画廊三天集中亮相，Anne Imhof 等新展为核心** - 6月5至7日，伦敦画廊周第六届跨越120余家机构，新增9家首次参与画廊；Anne Imhof「Citizen」在 Sprüth Magers 开幕为本届焦点，Gagosian 以 Christo 罕见早期作品揭幕新展，Keith Piper、Helen Marten、Yinka Ilori 等多位艺术家同期开幕；三天分别聚焦中伦敦、南伦敦与东伦敦，均免费开放，是初夏伦敦最密集的画廊季节点。[原文链接](https://fadmagazine.com/2026/05/28/london-gallery-weekend-2026/)
+3. **Anne Imhof「Citizen」Sprüth Magers 伦敦6月5日开幕：人群围栏雕塑与四频道影像构建公民身体政治** - 6月5日至8月1日，Imhof 带来全新个展——以大尺幅「波浪」绘画、四频道影像、人群围栏铸铁雕塑与青铜浮雕共同构建对公民身份与集体行动的视觉探问，延续其今年在波尔图 Serralves 博物馆「DOOM: House of Hope」项目的问题意识；是她继2017年威尼斯金狮奖「Faust」以来最受关注的伦敦个展。[原文链接](https://fadmagazine.com/2026/05/28/anne-imhof-citizen-spruth-magers-london/)
+4. **ICP 夏季开幕「Yves Saint Laurent and Photography」6月11日启动：时尚与摄影四十年共生关系的300件档案回顾** - 6月11日至9月28日，国际摄影中心与巴黎 Musée Yves Saint Laurent、Fondation Pierre Bergé 联合呈现，300余张由 Avedon、Newton、Penn、Warhol 等人拍摄的标志性影像与大量档案物件，系统梳理摄影如何既是 YSL 品牌推广工具又是推动其创作进化的独立视觉语言；与同期开幕的「Photobooks USA 2000–25」共同构成 ICP 本夏最重要的双展。[原文链接](https://www.icp.org/exhibitions/yves-saint-laurent-and-photography)
+5. **阿尔勒摄影节2026完整展览名单公布：「Vigilance」以EDF八十年工业安全档案摄影入选五大核心展览** - 第57届阿尔勒国际摄影节（7月6日至10月4日）正式公布完整展览名单，五大核心展览之一「Vigilance: Work Under Tension」将于 Ground Control 开幕——EDF（法国电力集团）为庆祝成立八十周年首次向外开放完整内部摄影档案，追溯1947年二战结束后法国大规模电气化建设中工厂安全文化的逐步确立；哈里·格鲁亚尔（Harry Gruyaert）的新「都市漫游」摄影与 Lee Shulman×Omar Victor Diop 关于1950-60年代美国白人家庭幻灯片的重写项目同为核心，是今年摄影节直接触及工业史与劳工身体政治的重要展览季。[原文链接](https://presseagence.fr/arles-rencontres-de-la-photographie-cinq-expositions-majeures-a-laffiche-de-ledition-2026/)
+
+### Project One 灵感
+1. **阿尔勒「Vigilance」：工业安全档案摄影作为劳工主体性的官方见证——废墟之前，谁在负责记录？** - EDF 工业安全档案展示的是一套完整的机构性摄影实践：大量照片被拍摄用于安全手册、内部培训与企业年报——这些图像的目的不是美学，而是功能性见证。这类档案在工厂关闭时往往整体消失或流散，形成与物质废墟平行的「图像废墟」。与 Project One 的接口：Gary 的 US Steel Works 在运营七十年间同样产生了大量工厂内部摄影（工人培训、生产记录、安全检查）——废墟照片记录的是物质消失，而档案照片记录的是劳动在场；将两者并置，才能让废墟从美学对象变回历史现场，直接回应 Sophie Ristelhueber「关于人的证据，但没有人的在场」——档案摄影则提供「有人的在场，但那些人已经离开」的对位结构；建议联系 Indiana University Northwest 地方档案馆与 Gary Steel 前工人社区组织，搜寻工厂运营期间的内部摄影档案，以「劳动在场的图像」与「劳动消亡的废墟」构成双轨叙事。[相关链接](https://presseagence.fr/arles-rencontres-de-la-photographie-2026-une-edition-entre-histoire-industrielle-ecologie-et-relecture-sociale/)
+2. **Monroe 的400张未发表遗照：极度在场即将迎来彻底缺席，摄影档案的密度与隐没结构** - Allan Grant 在 Monroe 去世前一天拍摄了400余张照片，392张从未发表——不是缺席的痕迹，而是在场的过剩：图像太多，以至于几乎没有一张被看见。这揭示出摄影档案一个反直觉的结构：被大量记录并不等于被大量见证，「不可见的在场」与「废墟的缺席」在认识论上是等价的。与 Project One 的接口：Gary 铁锈带废弃工厂的历史影像同样面临「密度与隐没」的问题——大量工厂运营期的档案照片可能仍存在于工人家庭的老相册与企业档案盒中，从未进入公众视野，形成与废墟美学共存的「不可见的在场档案」；Monroe 的案例提示：发掘并激活这类「被拍摄但未被看见」的历史图像，让它们与当下的废墟记录共同在场，是让废墟从景观变回历史的关键一步，也与 Taryn Simon 对「摄影证据的建构性」的追问形成直接呼应。[相关链接](https://www.npg.org.uk/whatson/exhibitions/2026/marilyn-monroe-a-portrait)
+
 ## 2026-06-01
 
 ### 艺术圈新闻
