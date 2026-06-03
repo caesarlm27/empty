@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-06-03
+
+### 艺术圈新闻
+1. **Art Basel Switzerland 2026 参展名单与亮点全面公布：290家画廊、「Basel Exclusive」新机制、MoMA PS1策展人首执Unlimited** - 6月16-21日于巴塞尔会展中心举行（预览日6月16-17日），290家来自43个国家和地区的画廊参展，21家全新画廊首度亮相；新设「Basel Exclusive」机制允许画廊在预览前保留重要作品、仅在正式开幕时首次公开，MoMA PS1首席策展人Ruba Katrib首次主导Unlimited板块（59件大型项目），摄影艺术博览会Photo Basel第11届同期于Volkshaus Basel开幕，是今年全球最重要的艺术市场周节点。[原文链接](https://www.artbasel.com/stories/art-basel-unveils-leading-galleries-and-first-highlights-for-its-2026-flagship-show-in-basel)
+2. **Ibrahim Mahama「The God of Small Things」Art Basel公共委托：加纳工业橡胶废料悬浮于巴塞尔大教堂广场** - 作为Art Basel金奖得主，加纳艺术家Mahama将以从加纳本地收集的工业橡胶废料制成大型悬浮装置落于Münsterplatz，Nairy Baghramian同日于Messeplatz以紫色仿生形态雕塑与钢架共同完成另一件公共委托——两件作品将巴塞尔最古老的两个广场转化为工业物质与历史记忆的对话现场，展期贯穿整个博览会周。[原文链接](https://www.whitecube.com/news/art-basel-to-unveil-major-commission-by-ibrahim-mahama)
+3. **Sophie Green「Tangerine Dreams」Martin Parr Foundation 6月4日开幕：含Parr葬礼现场影像的当代英国社区纪实** - 6月4日至9月6日，Bristol Martin Parr Foundation（免费）；Green以十余年持续拍摄记录当代英国社区的仪式感与归属感，本次展览特别包含她对Martin Parr葬礼的第一手影像记录，是Parr去世后首个在其基金会呈现的新展，展览同期预告其关于英国死亡仪式系列摄影书的出版计划。[原文链接](https://martinparrfoundation.org/exhibitions/tangerine-dreams/)
+4. **Helmut Newton Foundation「Rooms/Stages」6月5日于柏林摄影博物馆开幕：从表演主体转向舞台空间的摄影群展** - 6月5日至11月15日，Museum für Fotografie，Jebensstraße 2，Berlin；延续Newton 2019年「Body Performance」的议题，这次将注意力从表演的身体主体转移到空间本身——十余位艺术家探讨房间、舞台与摄影框架之间的相互构成；后厅同步首次在柏林呈现Newton私人一次性相册原件。[原文链接](https://www.smb.museum/en/press/press-releases/detail/newton-foundation-im-museum-fuer-fotografie-roomsstages-helmut-newtons-one-off-album-56-15112026/)
+5. **William Jackson「Industrial River」Hull History Centre 6月2日开幕：1930-40年代Humber河工业港口的业余摄影档案** - 6月2日至11月21日，Hull History Centre（免费）；Jackson（1893-1966）1933-1949年间以业余摄影师身份系统记录赫尔河与亨伯河沿岸工业港口景观，留存了英国工业盛期海港在历史转型节点上的完整影像切面；9日将举办午间导览讲座，是今年英国工业历史摄影档案类展览中罕见的机构性呈现。[原文链接](https://www.hullhistorycentre.org.uk/)
+
+### Project One 灵感
+1. **Ibrahim Mahama 的「工业废料流通史」：橡胶残料携带的全球资本痕迹，与废墟物质的 contamination 叙事** - Mahama长年以麻袋、橡胶、电线等工业废料为媒材，核心逻辑是：这些废料携带着从生产地到使用地到废弃地的完整流通历史，比任何文字档案都更直接地揭示全球资本流动对物质世界的塑造——「The God of Small Things」将加纳工业橡胶废料悬浮于欧洲最古老的公共广场之一，正是Anna Tsing contamination理论的字面物质化：受污染的物质入侵「纯净」的文明中心空间，并以自身的存在使那个空间的历史叙事复杂化。与Project One的接口：Gary, Indiana废弃钢铁厂的工业橡胶绝缘管、皮带与废料不只是视觉背景，而是从铁矿开采到钢铁生产到产业转移整条链条的物质档案——Mahama的方法提示：在Gary废墟拍摄时，可将工业废料理解为「从某处而来、正在消解回某处」的流通物质，而非静止的腐朽符号；这与Campany「尘埃是被压抑之物的归来」的命题在材料层面精确对位——废料不是废物，而是工业文明的物质遗嘱。[相关链接](https://www.whitecube.com/news/art-basel-to-unveil-major-commission-by-ibrahim-mahama)
+2. **William Jackson 的「工业局内人档案」：业余摄影师的日常凝视与档案的「内部权威性」** - Jackson不是来访的艺术家——他是与Humber工业港口长期共存的人，以业余摄影师身份持续十六年记录自己所处的工业地理；这种「局内人的凝视」没有外来者的惊异感，而是一种与场所共同老化的平静目光，图像因此积累出独特的档案权威性——不是美学判断，而是生活现场的时间切片。这与Curran Hatleberg「数月关系建立后才按快门」的慢速田野方法和Dana Lixenberg的七年印第安纳田野形成遥远的呼应，却又本质不同：Jackson不是策展框架下的记录者，而是场所本身的有机组成部分。与Project One的接口：Gary废弃工厂的现有影像多来自废墟旅行者和外来艺术家的「外部凝视」；Jackson提示另一条线索——Gary Steel工人在工作期间是否留下了自己拍摄的内部影像？寻找并激活这类「局内人档案」（工人家庭老相册、企业内部训练照片）与外来艺术家拍摄的废墟影像并置，是让废墟从美学对象回归历史现场的关键路径，也与Taryn Simon「摄影证据的建构性」的核心追问直接呼应：谁拍摄了Gary，谁的凝视被认为是权威的？[相关链接](https://www.hullhistorycentre.org.uk/)
+
 ## 2026-06-02
 
 ### 艺术圈新闻
