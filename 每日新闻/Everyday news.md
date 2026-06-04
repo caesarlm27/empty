@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-04
+
+### 艺术圈新闻
+1. **Aasha John「As I Weave」Autograph 伦敦今日开幕：以编织将家族照片的缺席与断裂织为可见间隙** - 6月3日至9月6日，今晚（6月4日）举行开幕之夜；伦敦艺术家、教育者Aasha John将特立尼达与伦敦之间的家族照片与口述历史，通过手工编织转化为图像装置——被切开的家族照片以线材交织重组，记忆的断裂与沉默不被遮蔽而是以可见间隙"承载"在作品表面，展览核心命题是"缺席不是需要克服的东西，而是需要承载的东西"；开幕之夜同期发布艺术家驻留短片，由Ayo Akingbade执导。[原文链接](https://autograph.org.uk/exhibitions/aasha-john-as-i-weave)
+2. **Thomas Houseago「Death's Sacred Mirror」今日于 Lévy Gorvy Dayan 伦敦开幕：黑曜石镜、古埃及器物与Beuys/Bourgeois共置的死亡博学堂** - 6月4日至9月19日，Empress Club, 35 Dover Street, London；以阿兹特克黑曜石镜（祭祀通灵仪器）为题，将Houseago新作雕塑与埃及、希腊、阿兹特克古代器物及Joseph Beuys、Louise Bourgeois、Lucio Fontana等人作品并置，创造探索跨文明死亡语言与时间折叠的"博学堂"式展览空间；是伦敦画廊周开幕周中概念密度最高的新展之一。[原文链接](https://www.levygorvydayan.com/exhibitions)
+3. **Steven Shearer「My Moody Muse」David Zwirner 伦敦6月4日开幕：近二十年首次英国个展** - 6月4日至7月31日；加拿大艺术家Steven Shearer以新作肖像油画与近年画作及素描重聚，重提其对肖像学与绘画主体性的长期追问，是他在英国时隔近二十年的首次个展；即将于2027年在阿斯彭艺术博物馆举办个展前的重要预演。[原文链接](https://www.davidzwirner.com/exhibitions/2026/steven-shearer)
+4. **M.C. Escher 大型回顾展6月5日于 Somerset House 伦敦开幕：150余件原作首度来英** - 6月5日至9月6日；涵盖无限循环镶嵌图案、错觉建筑与视觉悖论的150余件原作，是埃舍尔作品首次在伦敦呈现的大规模机构回顾，由Arthemisia与Fever联合制作，以沉浸式叙事串联其从早期版画到成熟期代表作的完整实践弧线。[原文链接](https://www.somersethouse.org.uk/whats-on/mc-escher-the-exhibition)
+5. **Frank Bowling「Like Water」Hauser & Wirth 香港6月11日开幕：91岁抽象画家亚洲首展** - 6月11日至8月29日；91岁的英国抽象画家Frank Bowling在香港举办亚洲首个个展，以七十余年倾泻于未经处理画布的流动颜料实践，呈现"让绘画本身决定方向"的创作逻辑，是Hauser & Wirth今夏亚洲最重要的开幕之一。[原文链接](https://www.hauserwirth.com/artists/30000-frank-bowling/)
+6. **Charles Gaines「Ciphering African Acacias and Supreme Court Decisions」Hauser & Wirth 巴黎6月10日开幕** - 6月10日至9月26日；Gaines将非洲相思树的枝干形态系统地叠写在美国最高法院判决文本之上，以植物形态的"自然密码"对抗法律语言的权威，将两种截然不同的系统性规律并置；是Hauser & Wirth巴黎空间今季重要开幕。[原文链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/charles-gaines-ciphering-african-acacias-and-supreme-court-decisions/)
+
+### Project One 灵感
+1. **Aasha John 的「以缺席为方法」：让断裂保持可见而非修复——废墟拍摄的空隙诗学** - Aasha John 的核心命题"缺席不是需要克服的东西，而是需要承载的东西"对废墟摄影构成直接的方法论挑战：她将断裂的家族照片重新织入，但接缝永久可见，记忆的断层被承载而非抚平——这与Sophie Ristelhueber"关于人的证据、却无人在场"形成精确呼应，但更进一步：不只是让缺席被记录，而是让记录行为本身接纳并展示缺席。与Project One的接口：废墟摄影最难回避的陷阱是"用意义填满空场"——把空旷的厂房拍成充满象征密度的奇观。Aasha John提示另一种选择：专注于拍摄"两者之间的空间"——两台机器之间的地面、空更衣柜的内壁、厂房窗格中光的间隙——让缺席以空隙的形态而非"已消失之物的痕迹"进入画面。这是"缺席作为摄影方法"而非"缺席作为摄影主题"的关键区分，也直接推进项目中"记录与重构之间的张力"节点。[相关链接](https://autograph.org.uk/exhibitions/aasha-john-as-i-weave)
+2. **Thomas Houseago「Death's Sacred Mirror」的跨时代器物共置：废墟里每件遗留物都是通灵的黑曜石镜** - 阿兹特克黑曜石镜（Tezcatl）是活人与死者之间的双向通道。Houseago用这个概念作展览逻辑：将不同文明、不同时代的器物（古埃及、希腊、阿兹特克）与当代艺术共置，让它们互为"镜像"——每件器物携带着自己那个文明关于死亡的全部假设，被共置后彼此"污染"，意义互相改写。这是Anna Tsing contamination概念的物质展览化：不同历史时间的"污染物"聚集于同一空间，使任何"纯净"的历史陈列都成为幻象。与Project One的接口：Gary废弃钢铁厂内遗留器物——50年代的机器、70年代的安全告示牌、90年代的工作服——携带着不同历史时刻关于"工业劳动"的不同假设，在废墟中静默共置，是一座没有主持人的博学堂。拍摄时可以有意识地寻找和构建这种跨时代的"器物共置"：在同一画面里让不同年代的工业遗留物互相照见，将废墟从纯视觉奇观转化为物质时间学的研究空间，也与David Campany「A Handful of Dust」"影像如何彼此共鸣"的策展方法论精确对位。[相关链接](https://www.levygorvydayan.com/exhibitions)
+
 ## 2026-06-03
 
 ### 艺术圈新闻
