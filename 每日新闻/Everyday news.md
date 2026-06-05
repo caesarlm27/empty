@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-05
+
+### 艺术圈新闻
+1. **Hiroshi Sugimoto「Extinction」东京国立近代美术馆6月16日开幕：以「银盐灭绝」命题回顾50年摄影实践** - 6月16日至9月13日，MOMAT 呈现杉本博司迄今最完整的日本国内回顾展；"灭绝"命题源于艺术家对银盐摄影介质将告消亡的沉思，同时折射其对自身创作活动终结的预感；约60幅银盐照片横跨13个系列，从1970年代《剧场》《海景》至近年抽象新作，是摄影作为证据与在场的终极宣言，也是银盐介质作为历史媒介之死亡的悼念回顾。[原文链接](https://www.momat.go.jp/en/exhibitions/569)
+2. **「The desert wind will salt your ruins」Krupa Gallery 伦敦画廊周：以盐的双重物质性探讨殖民开采与废墟记忆** - 持续至7月11日，伦敦Krupa Gallery群展展出Mila Rae Sarabhai、Dzina Liaonava与Yijia Wu作品，以盐既是防腐剂又是腐蚀剂的双重物质性为核心隐喻，追溯盐在殖民采矿中的历史并探讨"在迷失时代如何制造遗产"；6月6日下午4-5时Yijia Wu将于展览现场呈现行为表演「Two Houses」，以制作与拆毁的平行行为探讨记忆的形成与重塑。[原文链接](https://krupagallery.com/category/exhibitions/)
+3. **第9届汉堡摄影三年展今日开幕（6月5日至9月22日）：11个展览横跨8家城市机构，以Levinas「他者」哲学为理论根基** - 今晚正式开幕于Deichtorhallen Hamburg，以哲学家Emmanuel Levinas的"他者"概念与1948年民谣《Nature Boy》为双重出发点，11个展览横跨城市8家机构，放大被主流叙事压制的摄影声音，挑战单一历史视角，是今年欧洲规模最大的国际摄影节年度开幕日。[原文链接](https://2026.phototriennale.de/en/)
+4. **Bruce Berman《A History of Dust》：NMSU教授以2025年尘暴影像与1930年代FSA档案并置，重写尘埃的跨时代历史** - 6月4日KRWG公共媒体播出访谈；Berman在2025年大尘暴中深入风暴拍摄，随即将自己的影像与Dorothea Lange、Arthur Rothstein、Russell Lee等FSA摄影师的Dust Bowl历史档案并置，以同一片美国南部平原、同一种气候灾难、相隔90年的两套影像构成跨时代尘埃历史文献，并将外祖母1935年尘暴中的家族照片收录其中作为个人连接。[原文链接](https://www.krwg.org/krwg-news/2026-06-04/nmsu-photography-professor-bruce-berman-discusses-his-latest-book-a-history-of-dust)
+5. **NTT ICC 东京「被留下的、仍存在的、我们承担的」6月20日开幕：媒体艺术追问AI时代的记忆与历史档案** - 6月20日至11月8日，东京NTT InterCommunication Center以年度主题展追问在生成式AI与算法媒体深度重塑现实的当下"什么被留下、什么仍然存在、我们承担着什么"，以媒体艺术重新审视历史与记忆的本质，参展艺术家含WU Chi-Yu、KIM YoungEun等，是今年东亚媒体艺术界关于档案与历史重构的重要展览节点。[原文链接](https://www.ntticc.or.jp/en/exhibitions/2026/icc-annual-2026/)
+
+### Project One 灵感
+1. **Hiroshi Sugimoto「银盐灭绝」：记录介质本身的消亡与被记录对象的消亡在废墟摄影中的重叠** - Sugimoto「Extinction」的核心悖论：他用银盐摄影拍摄博物馆蜡像与自然历史场景——记录"已消亡之物的模拟"，而这个记录行为所依赖的介质（银盐）也正走向消亡。两重灭绝互相镜照，使"记录行为"本身充满了时态的不稳定性。这与Project One「记录与重构之间的张力」节点精确共鸣：废墟摄影师用21世纪数字影像记录20世纪工业废墟，被记录的物质（钢铁工厂的锈蚀构件）与记录行为本身（摄影实践的历史特殊性）共同携带各自的"消亡时态"。Sugimoto的提示：当记录行为本身也具有历史性与脆弱性时，"记录"就不再是中性的档案操作，而是关于两种消亡之间张力的主动陈述——Gary废弃钢铁厂值得以什么样的介质、什么样的技术去记录？摄影的物质历史性本身是否应成为废墟叙事的一个维度，让巴特「那个东西曾真实存在过」的论点在两个层面同时运作：废墟曾存在，拍摄废墟的技术也曾存在？[相关链接](https://www.momat.go.jp/en/exhibitions/569)
+2. **Bruce Berman的跨时代并置法：以同一物质在两个历史灾难时刻互相照见，激活FSA档案的当代回响** - Berman的核心操作：拍摄2025年尘暴，立即与90年前FSA档案并置——同一片土地、同一种物质（尘埃）、两代人的记忆。这是David Campany「A Handful of Dust」「尘埃是被压抑之物的归来」的字面实现：1930年代被"解决"的气候灾难以相同物质形态在2025年再次发生，历史进步叙事在尘埃面前失效，Anna Tsing"没有未受污染的过去可以回去"在材料层面得到验证。与Project One的接口：Gary, Indiana废弃钢铁厂存在于两个历史时刻——运营期（1910s–1970s）的工业档案影像（工厂内部照片、FSA社区记录、工人家庭相册），与2020年代的废墟拍摄；Berman提示：将当代废墟摄影与历史档案明确并置为双时态系统，让同一场所的"活体在场"与"废墟缺席"互相照见，让积累的尘埃成为跨时代连接的物质证据——这是「记录与重构之间的张力」节点最具体的操作路径之一，也直接推进「为什么偏偏是废墟」的核心追问。[相关链接](https://www.krwg.org/krwg-news/2026-06-04/nmsu-photography-professor-bruce-berman-discusses-his-latest-book-a-history-of-dust)
+3. **「The desert wind will salt your ruins」：保存即腐蚀——废墟的双重物质时态与Tsing的Contamination诗学** - Krupa Gallery展览的核心直觉：盐同时是防腐剂（腌制、保存、记忆凝固）和腐蚀剂（铁生锈、土地盐碱化、生命终结），这个双重性正是殖民开采在材料层面留下的历史悖论——被开采的盐保存了帝国食品，也腐蚀了被开采土地的生命力，是Anna Tsing contamination理论的物质化缩影：「被污染的多样性」既包含毁灭也包含生长。与Project One的接口：Gary废弃钢铁厂的铁锈是另一种「保存即腐蚀」的双重物质——铁锈（铁的氧化）既是时间的档案（工业时代劳动的物质印记），也是物质自身的消解（铁正在变回尘埃归还大地）；拍摄锈蚀时，可将这种双重时态——同一物质同时在保存过去和趋向消失——作为构图与取景的核心逻辑，让「保存」与「腐蚀」在同一画面中共时在场，直接呼应Zelenkova「死亡带来新生」的循环诗学与Tsing的contamination框架，让废墟不再是单纯的终点，而是物质在不同历史时态之间持续流动的活跃节点。[相关链接](https://krupagallery.com/category/exhibitions/)
+
 ## 2026-06-04
 
 ### 艺术圈新闻
