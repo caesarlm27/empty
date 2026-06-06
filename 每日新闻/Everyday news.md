@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-06
+
+### 艺术圈新闻
+1. **石川真生「ROGUE」纽约美国首展本周即将闭幕（至6月13日）：冲绳驻军港口城市三十年亲密纪实，同步参展惠特尼双年展** - 1975年，石川真生以酒吧工人身份进入嘉手纳美军基地旁的金武町，以场所内部成员而非外来摄影师的身份，记录冲绳女性与驻地黑人美军士兵的亲密日常及1972年回归日本后港口城市的社会变迁；「Red Flower」（1975-77）「Port Town Elegy」（1983-86）等四大系列逾30张原作构成这位传奇摄影师的美国首展，同步参展今年惠特尼双年展，是今年摄影界最重要的迟来认可事件之一。[原文链接](https://www.alisonbradleyprojects.com/exhibitions/26-mao-ishikawa-rogue/overview/)
+2. **阿尔勒2026「Revisits」完整名单发布：William Klein百岁政治摄影「This Way to Heaven」+ Ming Smith迄今最大回顾「Wandering Lights」** - 第57届阿尔勒摄影节（7月6日至10月4日）正式公布「Revisits」单元四位摄影师：William Klein于百岁诞辰首次集中呈现其鲜为人知的政治批判摄影（超越纽约、巴黎等知名城市书）；Ming Smith——1979年成为MoMA收藏的首位黑人女性摄影师——以「Wandering Lights」亮相Église Sainte-Anne，是她迄今规模最大的机构回顾；Martine Barrat「Soul of the City」同期参展Espace Van Gogh。[原文链接](https://www.curatorymagazine.com/post/rencontres-d-arles-2026-first-look-at-the-revisits-programme)
+3. **Laure Prouvost「Nous, frissons d'étoiles」6月10日于巴黎大皇宫开幕：量子物理研究驱动的多感官时态装置** - 6月10日至7月26日，Turner Prize得主Prouvost历时两年与量子计算机科学家及哲学家共同研究，将量子系统「敏感与不可预测的本质」转化为视频、雕塑、声光与气味的综合沉浸装置；动力雕塑《The Beginning》（六肢由声光驱动）与录像《We Felt A Star Dying》共同占据大皇宫玻璃顶大厅，2025年柏林Kraftwerk首演后巴黎版规模扩大，是今年法国最重要的多感官装置展。[原文链接](https://www.grandpalais.fr/en/program/laure-prouvost-we-felt-star-dying)
+4. **Hayv Kahraman「What cannot be said will be wept」Pilar Corrias伦敦昨日开幕（至9月5日）：殖民植物学命名与虹膜识别监控的沉默植物肖像** - 伊拉克-瑞典艺术家Kahraman首次与Pilar Corrias合作的个展以林奈殖民植物分类学（将全球植物重命名纳入欧洲知识体系）与当代虹膜识别监控并置：画中人物眼中虹膜缺失，被「眉毛植物」替代，将帝国植物科学史与生物监控技术压缩为一个沉默的植物肖像——植物既是被命名的标本，也是失去名字的眼睛的替代品。[原文链接](https://www.wallpaper.com/art/exhibitions-shows/hayv-kahraman-pilar-corrias-london)
+5. **Lubaina Himid & Magda Stawarska「Zanzibar」Lisson Gallery伦敦本周开幕（至8月22日）：1999年记忆画作与2023年八声道声景的跨二十四年重合** - Himid于1999年绘制的九幅桑给巴尔抽象双联画（碎片化地图、色彩与离散记忆），与Stawarska于2023年为之创作的38分钟八声道声景（含塔拉布音乐、歌剧、档案录音与口述文本）在Lisson Gallery重新汇聚：两件作品24年的时差让彼此相互激活，是关于「记忆在离散与时间流逝中如何变形与幸存」的材料实验；6月5日两位艺术家在场举办对谈活动。[原文链接](https://www.lissongallery.com/exhibitions/lisson-street-lubaina-himid-and-magda-stawarska-zanzibar)
+
+### Project One 灵感
+1. **石川真生的「局内人摄影伦理」：以场所成员而非访客的身份积累影像——废墟摄影的外来者困境与应对** - 石川真生以酒吧工人身份进入金武町——不是以摄影师身份建立关系再拍摄，而是生活本身已经是介入，摄影是生活的自然产出；这比Hatleberg「数月关系后才按快门」更彻底：Hatleberg是以外来者身份慢慢渗透，石川直接从内部开始。这对Project One的Gary废弃钢铁厂提出了根本性问题：Caesar永远是外来者，那些真正的「局内人」（工人及其家属）已经离开或老去。石川的方法提示一条具体路径：联系Indiana University Northwest的口述历史档案与Gary钢铁工人后代社区，让当年的「局内人记忆持有者」不只是采访对象，而是拍摄行为本身的参与者——在「拍摄废墟」之外建立「与废墟居民的长期关系」；这也直接回应Taryn Simon对「谁被允许记录Gary、谁的凝视被认为具有权威性」的根本追问，将废墟摄影从美学外部介入转变为历史内部的记忆激活。[相关链接](https://www.alisonbradleyprojects.com/exhibitions/26-mao-ishikawa-rogue/overview/)
+2. **Ming Smith「光作为遮蔽与揭示的双重力量」：翻转废墟摄影的光线逻辑** - 阿尔勒策展文字描述Smith将光理解为「以同等程度揭示、遮蔽和转化」的力量而非照明工具；她的黑白摄影「处于摄影、绘画与表演的交叉点，充满超出画框的存在感」——让废墟的某些部分消失入深度阴影、让另一些部分以出人意料的方式浮现，制造「不只是可见的废墟，而是临界态中的废墟」。与Project One的接口：Gary废弃钢铁厂的光线在黎明与黄昏具有独特的「临界态」——从破碎天窗倾泻的漫射自然光，与历史工业照明（高压钠灯、弧光炉的橙红光）在物质表面留下的痕迹（熏黑天花板、光源位置的氧化圆圈）共同在场；可以将这些历史光源遗迹纳入构图，让「曾经在此的光的记忆」与「现在的自然光」在同一画面里形成对话，使光的历史性成为废墟叙事的物质维度，延伸Barrada「时间本身是共同创作者」的材料时态诗学。[相关链接](https://www.exibartstreet.com/news/ming-smith-wandering-light/)
+3. **Hayv Kahraman「植物作为殖民命名与监控的双重档案」：Gary废墟野草携带工业污染史与帝国知识暴力的双重身份** - Kahraman的批判核心：林奈将全球植物重命名纳入欧洲知识体系的行为本身是一种占有——植物被命名即失去地方意义变成帝国标本；她将这种「命名暴力」延伸至当代虹膜识别：植物代替眼睛，成为被监控身体的替代肖像。这与Anna Tsing的contamination理论在认识论层面呼应：进入帝国命名体系本身就是无法逆转的contamination，但被「污染」的植物仍在生长，仍携带地方历史。与Project One的接口：Gary废弃钢铁厂地面上的野草（蒲公英、野黑莓、苦菜）在植物学体系里是「普通北美野草」，但在重金属严重污染的工业土壤里，它们是已完成部分污染耐受适应的物种，是「受污染的多样性」最直接的活体标本。Kahraman提示一个具体操作：在Gary拍摄时系统记录废墟植物并标注学名（以Linnaeus体系），让每株野草同时携带帝国命名身份与工业污染幸存者的双重历史——将拍摄行为同时转化为一个非正式的「污染植物志」，使废墟从视觉景观变为可被植物学与历史学共同阅读的档案现场，直接呼应Tsing的「受污染的多样性」与McQueen「Bounty」「幸存植物学」（5月31日Project One灵感）。[相关链接](https://www.wallpaper.com/art/exhibitions-shows/hayv-kahraman-pilar-corrias-london)
+
 ## 2026-06-05
 
 ### 艺术圈新闻
