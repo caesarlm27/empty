@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-06-08
+
+### 艺术圈新闻
+1. **Xenia Nikolskaya「DUST: Past & Present」亮相第九届汉堡摄影三年展（6月5日开幕，至9月22日）：六年踏访埃及废弃殖民别墅，27幅长曝光彩色影像让"美好年代"在腐朽室内自行显影** - 俄罗斯-瑞典摄影师Nikolskaya自2003年起耗时六年走访亚历山大至埃斯纳沿线逾35座废弃殖民时代别墅、宫殿与剧院，以长曝光技法捕捉自然光在Belle Époque（1850-1950）室内空间的腐朽肌理中弥散的暖色光晕；该项目以本届三年展核心议题"列维纳斯·他者"为框架，重新进入"记录已消逝之物"的摄影本体论命题。[原文链接](https://loeildelaphotographie.com/en/event/dust-past-present-an-exhibition-by-xenia-nikolskaya/)
+2. **Tracey Rose 个展本周六于圣安东尼奥Ruby City美术馆开幕（至2027年5月）：南非艺术家时隔25年重访驻留旧作，以占卜、拳击影像与62幅素描叩问后殖民归还议题** - 6月6日开幕，将艺术家2000年Artpace驻留期间创作的影像表演《TKO》与首次完整呈现的62幅未命名素描并置，展览围绕后殖民、性别与归还等核心命题，是这位重要的南非跨媒介艺术家近年最重要的美国机构呈现之一。[原文链接](https://hyperallergic.com/divination-mark-making-boxing-drawing-tracey-rose-at-ruby-city-san-antonio/)
+3. **Robin Bernstein首本摄影书《MAPALAKATA》由GOST Books出版：南非姆普马兰加高原的"来访者"地名史与纸浆种植园覆盖下的层叠叙事** - 5月出版，120页59幅影像；书名"Mapalakata"（"来访者"）取自口述历史中对殖民前经此地往来的东方商旅的称呼，Bernstein重访这片孕育南非"黄金"传说与诸多民间故事的高原地景——如今却被外来松树种植园与制浆厂覆盖；南非作家Lidudumalingani与Desmond Latham撰文，是今年关于"土地、历史与全球化的社会空间交叠"最具方法论参照价值的摄影书之一。[原文链接](https://www.itsnicethat.com/articles/robin-bernstein-mapalakata-photography-190422)
+4. **「Silent Bone」尼泊尔加德满都多场域艺术项目本周二（6月9日）启动：雕塑、表演与装置追问记忆、身体语言与暴力残响如何"安静地"栖居于场所之中** - 视觉艺术家Binod Shrestha（现居德州）发起的跨场域项目不设单一展厅，而是让观众在加德满都多个文化空间之间行走，依次遭遇与"个人及集体叙事中暴力的安静残响"相关的雕塑、表演（6月23日Mandala剧场）与装置（6月26日—7月5日）；6月4日《加德满都邮报》专题报道将其誉为本月尼泊尔最重要的记忆主题艺术现场。[原文链接](https://kathmandupost.com/art-culture/2026/06/04/art-memory-and-the-spaces-in-between)
+5. **Jonathan Calm「Archives of Absence & Sites of Passage」本周六于圣克拉拉大学de Saisset博物馆落幕：摄影、影像、刺绣与装置交织出美国地景中抹除、记忆与流动的纠缠史** - 2月5日开幕，6月13日闭展；展览将摄影与刺绣、录像、装置并置，追溯被官方历史抹去的迁徙路线与边缘社群记忆，KQED评论称其"让缺席变得可见"，是本季美国西海岸关于"档案与抹除"议题最受关注的机构展览之一。[原文链接](https://www.kqed.org/arts/13987695/jonathan-calm-archives-of-absence-de-saisset-santa-clara-review)
+6. **「BUT I ∣ WORLD ∣ I SEE ∣ YOU」汉堡美术馆呈现第九届汉堡摄影三年展核心展览之一：40余位跨代际艺术家以列维纳斯"他者"哲学重读承载历史记忆与意识形态的地景影像** - 6月5日开幕（至9月22日），展览首章追问"被历史记忆、个人经验、神话与意识形态浸染的地景如何携带潜藏意义"，第二章则梳理杜尚、施蒂格利茨、Sherrie Levine等以挪用与光影装置重构图像形态的脉络，是本届三年展中直接触及"摄影如何阅读地景历史层次"的核心现场。[原文链接](https://2026.phototriennale.de/en/exhibitions/but-i-world-i-see-you/)
+
+### Project One 灵感
+1. **Xenia Nikolskaya 的「长曝光考古学」：让记录的时延与废墟的衰变时延在同一张底片上同构** - Nikolskaya 用长曝光让室内残存的自然光自行"显影"出腐朽肌理的暖色光晕——不是用闪光灯"照亮"废墟，而是耐心等待场所自身的光线条件完成图像；六年走访逾35座建筑的"慢速档案"积累方式本身也是一种与场所共存的方法。这让"记录"行为不再是瞬间的截取，而成为一种与衰变同步发生的持续过程，与 Sugimoto「记录介质本身的消亡与被记录对象的消亡相互重叠」（6月5日 Project One 灵感）构成跨语境的方法论延伸。与 Project One 的接口：Gary 废弃钢铁厂高炉车间从破碎天窗倾泻而下的自然光具有强烈的方向性与季节性变化——可尝试以长曝光让这种光在锈蚀表面"自己写下"时间的痕迹，把"摄影术语言中的曝光时长"转化为"废墟历史时长"的物质隐喻，直接推进项目"记录与重构之间的张力"节点。[相关链接](https://loeildelaphotographie.com/en/event/dust-past-present-an-exhibition-by-xenia-nikolskaya/)
+2. **Robin Bernstein 的「地名考古学」：一个地名里叠压着商旅命名、殖民命名与工业命名三重历史，废墟的第一层往往藏在它的名字里** - "Mapalakata"（来访者）这个地名本身就是一份压缩的历史文件——它先于殖民命名体系存在，又在今日被纸浆工业的地理逻辑覆盖；Bernstein 的方法提示：废墟摄影最深的"考古"未必发生在镜头前，而可能始于对地名本身的溯源。这与 Hayv Kahraman「林奈命名体系即占有」（6月6日 Project One 灵感）形成方法论呼应，将"contamination"从物质层面延伸至语言与命名层面——一个地方的名字本身就是层叠污染的产物。与 Project One 的接口：Gary, Indiana 这个地名本身即以 US Steel 创始人 Elbert H. Gary 命名，覆盖了波塔瓦托米原住民对密歇根湖南岸这片土地的称呼；在拍摄前系统梳理"Gary"这个名字下叠压的至少三层历史命名（原住民地理称谓 / 企业命名 / 当代铁锈带标签），可以为整个项目提供一份隐藏在标题之下的"语言层废墟地图"。[相关链接](https://www.itsnicethat.com/articles/robin-bernstein-mapalakata-photography-190422)
+3. **Silent Bone 的「去中心化档案」：让记忆的"安静残响"分布在多个场所之间，拒绝用单一展厅收纳暴力的全部重量** - Shrestha 不把作品集中在一个空间里，而是让"残响"分散栖居于加德满都的多个文化场域，观众必须主动行走、跨越场所之间的距离才能拼凑出完整的叙事——记忆本身就是分散的、不完整的，作品的空间结构诚实地复刻了这种不完整性。这与 Aasha John「让断裂保持可见」（6月4日 Project One 灵感）构成方法论延续，但走得更远：不只是让单件作品里的断裂可见，而是让整个展示结构本身成为断裂的隐喻。与 Project One 的接口：Gary 废弃钢铁厂的历史创伤（劳工伤亡、种族隔离住房政策、环境污染遗留）原本就分布在工厂的不同角落、城市的不同街区——可以设想最终呈现不是一组挂在同一面墙上的照片，而是一份需要观众"行走"才能拼合的分布式地图，让"缺席者的痕迹"以离散而非聚合的形态重新进入观看经验，呼应项目核心的"记录与重构之间的张力"。[相关链接](https://kathmandupost.com/art-culture/2026/06/04/art-memory-and-the-spaces-in-between)
+
 ## 2026-06-07
 
 ### 艺术圈新闻
