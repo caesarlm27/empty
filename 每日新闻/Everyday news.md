@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-09
+
+### 艺术圈新闻
+1. **Julio Le Parc「光·色·行动」6月11日于Tate Modern开幕：动态艺术先驱身后最大回顾，60余件作品跨越七十年** - 5月底以97岁辞世的阿根廷艺术家Julio Le Parc，其生前与工作室深度合作策划的Tate Modern大型回顾展如期于6月11日至2027年5月3日向公众开放；60余件作品从1958年抵达巴黎至最新创作完整呈现，新委托作品《Continual Light Mobile》（2026）已装置于Blavatnik Building入口大厅，展览核心机制仍是Le Parc毕生坚持的观众物理参与——按钮、移动结构、变换光源——让身后的艺术家经由设计好的系统与访客持续共在；策展人Ravaglia透露，Le Parc在展前写下一首关于生命终结的诗并要求纳入展览，艺术家离世后这首诗的语境骤然改变，成为一份公开的告别。[原文链接](https://fadmagazine.com/2026/06/08/julio-le-parc-tate-modern-light-colour-action/)
+2. **Nan Goldin「This Will Not End Well」巴黎大皇宫6月21日闭幕在即：法国首次完整回顾幻灯放映与影像装置四十年** - 自3月18日开幕的Nan Goldin法国首个完整回顾展将于6月21日落幕，大皇宫呈现其1979年至今的幻灯/影像叙事三大系列并置——《The Ballad of Sexual Dependency》（1981-2022，700张照片配乐联奏）、《The Other Side》（1992-2021）、《Memory Lost》（2019-2021）；Chapelle Saint-Louis de la Salpêtrière同步呈现《Sisters, Saints, Sibyls》；这是继斯德哥尔摩、阿姆斯特丹、柏林、米兰之后的全球巡展收官站，距闭展仅剩12天。[原文链接](https://www.grandpalais.fr/en/program/nan-goldin-will-not-end-well)
+3. **Alina Szapocznikow「Autobiography in Fragments」6月11日于Hauser & Wirth 苏黎世开幕：大屠杀幸存者以身体铸模构建创伤物质档案** - 波兰犹太裔雕塑家Szapocznikow（1926-1973）以嘴唇、手臂、乳房等身体局部铸模制作雕塑，将集中营幸存记忆与肺结核病体经历编码为持久的物质形态；苏黎世展览（至9月5日）与克拉科夫国家博物馆「Szapocznikow. Personal」（3月20日至8月23日）同步推出，是她百年诞辰前后最集中的机构研究，亦是Hauser & Wirth迄今对这位长期被西方艺术史低估的东欧艺术家最完整的学术呈现。[原文链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/alina-szapocznikow-autobiography-in-fragments/)
+4. **Gordon Parks「The South in Color」亚特兰大Jackson Fine Art 6月13日闭幕在即：1956年种族隔离系列彩色原版首次完整公开，策展人Dawoud Bey主持** - 4月2日开幕的展览将Parks受《生活》杂志委托在阿拉巴马州和佐治亚州拍摄的「种族隔离故事」系列以彩色原版重现——2011年Gordon Parks基金会在档案库发现的70余张柯达克罗姆彩色正片至此首次完整公开，麦克阿瑟奖得主Dawoud Bey以「隔离的暴力结构隐藏于彩色表面的日常平静之下」为策展核心命题；系列70周年与基金会成立20周年双重纪念，6月13日为最后参观日。[原文链接](https://www.jacksonfineart.com/exhibitions/gordon-parks/the-south-in-color/)
+5. **Avery Singer「War_overlays」6月12日于Hauser & Wirth 苏黎世开幕：AI工具、后9/11战争影像与Baudrillard「海湾战争」写作驱动的绘画新作** - 6月12日至9月5日，美国艺术家Avery Singer在苏黎世画廊季新展首次将AI开源工具引入绘画过程：以2001年后媒体战争影像为原始素材，经AI筛选后嵌入画面，展览空间以赌场为原型搭建监控-风险感知环境，将Baudrillard关于「战争作为媒介奇观」的写作转化为物质性绘画结构，是今年苏黎世画廊季中方法论争议度最高的新展之一。[原文链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/avery-singer-war_overlays/)
+
+### Project One 灵感
+1. **Gordon Parks 的「彩色记录作为暴力结构揭示」：让种族隔离地理成为废墟摄影的隐性叙事层** - Parks用彩色胶片（1956年的激进媒介选择）记录阿拉巴马隔离日常，其核心发现是：隔离的暴力结构恰恰隐藏在平静彩色表面之下——被隔离的学校、餐厅看起来与白人版本几乎一样，区别只是「为有色人种」的标牌。这种「表面正常化、结构性暴力不可见」的视觉逻辑与Gary, Indiana的历史高度吻合：US Steel Works运营期间对黑人工人的系统性职位隔离（黑人工人长期被集中在最高危的高炉工位）与住房隔离（黑人工人家庭被限制在特定街区购房），在今日废墟摄影中几乎不留可见痕迹——废墟无差别腐朽，隔离结构已消失于锈蚀之中。Parks的方法提示一个具体操作：通过工厂历史平面图与种族构成档案比对，重建那些「因隔离而存在的空间划分」，在今日废墟中找到并拍摄那些「本是隔离边界」的地理节点，让种族权力地理学成为废墟叙事的一个隐性层次，直接呼应Taryn Simon对「摄影证据的权威性由谁建构」以及「谁被允许记录Gary」的根本追问。[相关链接](https://www.jacksonfineart.com/exhibitions/gordon-parks/the-south-in-color/)
+2. **Alina Szapocznikow 的「身体铸模作为无意识创伤拓印」：人离开之后，形态证据如何持续在场** - Szapocznikow的核心发现：身体是最精确的创伤记录媒介，但无法直接存储；铸模是把身体的一次性在场转化为可持久存在的形态证据。她的嘴唇雕塑、手臂雕塑不是肖像，而是「身体曾在此」的物质拓印——与摄影的「那个东西曾真实存在过」（巴特）共享同一种本体论逻辑，但铸模比照片更彻底：照片记录外观，铸模记录形态与接触本身。这与Project One的接口极为精确：废墟里那些携带身体印记的物品——被工人手汗腐蚀氧化的金属扶手、被重复触摸磨亮的机器操作按钮、工作服在地面尘垢中留下的轮廓印迹——是Gary工人用身体铸就的「无意识拓印」，是在场者离去后留下的形态证据。拍摄这些「身体遗留的接触痕迹」而非废墟整体，是让「缺席者的痕迹」从叙事主题变为具体拍摄对象的关键操作，与石内都「遗留之物」系列在方法论上形成直接对位：石内都拍摄遗物，Szapocznikow铸印身体，而Gary工厂的金属表面是工人身体无意中铸就的痕迹档案。[相关链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/alina-szapocznikow-autobiography-in-fragments/)
+3. **Julio Le Parc「身后系统仍在运转」：缺席设计者经由结构持续在场的遗产机制** - Le Parc去世后，Tate Modern的展览让观众仍然可以按下他设计的按钮、移动他设计的结构——系统运转，尽管设计者已经离开；策展人说，Le Parc在展前写下的那首关于生命终结的诗，在艺术家离世后「以告别的方式重新获得意义」，同一文本因作者消逝而改变了全部语境。这个机制在废墟中以更彻底的形式存在：Gary废弃钢铁厂的机器（传送带逻辑、高炉操作顺序、安全阀位置、危险区标记）是工程师和工人设计并遗留的系统，即使机器停转数十年，其设计逻辑——谁应站在哪里、手应以什么角度触碰哪个部件——仍然可被读懂。将废墟理解为「缺席设计者留下的系统」而非「单纯的腐朽物质」，为「记录与重构之间的张力」节点提供了一个具体操作框架：摄影不只是记录表面，而是尝试阅读设计逻辑的残存痕迹——让「系统在场但使用者已离去」成为图像的核心叙事时态，呼应Le Parc告别诗在艺术家离世后的语境骤变。[相关链接](https://fadmagazine.com/2026/06/08/julio-le-parc-tate-modern-light-colour-action/)
+
 ## 2026-06-08
 
 ### 艺术圈新闻
