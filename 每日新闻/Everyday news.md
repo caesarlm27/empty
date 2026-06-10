@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-10
+
+### 艺术圈新闻
+1. **World Press Photo 2026 全球巡展本周持续铺开：Carol Guzy「Separated by ICE」获年度大奖，聚焦美国移民执法下的家庭离散** - 4月23日公布的本届世界新闻摄影年度大奖授予Carol Guzy为《迈阿密先驱报》拍摄的「Separated by ICE」——画面记录无犯罪记录的厄瓜多尔移民Luis在纽约联邦大楼移民听证会后被ICE当场逮捕、妻儿在旁目睹的瞬间；该系列同时获北美洲组「故事类」大奖。本周（6月6日至10日），展览陆续在悉尼、马普托、安道尔等城市开幕，是今年最大规模的国际摄影巡展之一。[原文链接](https://www.npr.org/sections/the-picture-show/2026/04/23/nx-s1-5793922/world-press-photo-announces-photo-of-the-year-2026)
+2. **「Urban Art Biennale 2026」持续在德国Völklingen世界遗产钢铁厂展开：55位艺术家以「锈、尘、衰败」重新激活废弃高炉与烧结车间** - 5月9日开幕（至11月15日），来自17个国家的55位街头与城市艺术家在联合国教科文组织世界遗产Völklingen Hütte的Burden厂房、烧结车间与户外场地中创作，让涂鸦、装置与雕塑与百年工业废墟的锈蚀结构直接对话；Euronews 5月14日专题报道将其形容为「锈、尘与衰败」对这座钢铁厂的彻底翻新——是欧洲今年规模最大的「废墟活化」类展览现场。[原文链接](https://www.euronews.com/culture/2026/05/14/urban-art-biennale-rust-dust-and-decay-revamps-germanys-volklingen-ironworks)
+3. **David Wojnarowicz「some day this will all be crumbling ruins」6月5日于格拉斯哥The Modern Institute新馆Carlton Place开幕：废弃脱衣舞俱乐部褪回砖石结构，承接艺术家「废墟与政治崩溃」的一生执念** - 作为Glasgow International的项目之一（至6月21日），展览呈现Wojnarowicz鲜少展出的装置、摄影与档案材料，记录他对废墟、废弃空间与政治崩溃的终生迷恋，以及1980年代纽约哈德逊河码头废墟中形成的酷儿创作群体；展场本身——一栋空置15年、最近用途是脱衣舞俱乐部的联排别墅——已被剥除至砖石结构，尚未完成改造，展览与展场的「废墟状态」彼此互证。[原文链接](https://www.anothermag.com/another-man/17232/david-wojnarowicz-world-the-modern-institute-crumbling-ruins-john-douglas-millar)
+4. **Yael Martínez「Luciérnagas（萤火虫）」6月6日至12日于巴黎Magnum画廊庭院展出：墨西哥摄影师以「刺孔+背光」技法，让失踪者家庭的影像从黑暗中透出光点** - 作为巴黎白夜艺术节（Nuit Blanche）免费项目，Magnum最新正式成员Yael Martínez展出其始于2013年的长期项目——源于他三位家人在墨西哥格雷罗州的失踪；2019至2023年间，他将照片刺穿并背光展示，光线从被刺穿的画面中以自由形态穿透黑暗，把「缺席」转化为可被看见的物理光点。[原文链接](https://www.magnumfoundation.org/events/yael-martnez-lucirnagas)
+5. **Foam Talent 2026 群展6月5日于阿姆斯特丹Foam摄影博物馆开幕：15位新锐影像创作者从近3000份投稿中脱颖而出，以「归属与安全空间的寻找」为共同线索** - 开幕之夜由馆长Karin van Gilst与策展人Claartje van Dijk主持，并同步发布Foam Magazine第68期「Talent」特刊；展览将巡回至法兰克福德意志交易所摄影基金会，是欧洲青年摄影力量年度最重要的展示平台之一，多件作品涉及个人记忆、迁移与空间归属。[原文链接](https://www.foam.org/events/foam-talent-2026)
+
+### Project One 灵感
+1. **Yael Martínez「刺孔与背光」：把「缺席」从隐喻变成可以被刺穿、被照亮的物理操作** - Martínez的方法极为直接：他不在影像内容层面"描绘"失踪，而是物理性地刺穿照片本身——纸面上的孔洞既是伤口，也是光得以穿透的通道；冲印之后再背光展示，光从这些孔洞中以不可预测的形态溢出，让"缺席者"以光点的形式重新在场。这比Aasha John「让断裂保持可见」（6月4日 Project One 灵感）更进一步：不只是保留断裂的痕迹，而是主动在影像物质上制造缺口，并赋予缺口以光的属性。与Project One的接口：Gary废弃钢铁厂建筑本身布满因锈蚀、爆破或拆除而形成的真实孔洞与裂缝——天窗、墙体弹孔状腐蚀、管道断口；可以借鉴Martínez的逻辑，在后期制作中选择性地在底片或印相上对应这些"厂房自身的孔洞"位置进行刺孔背光处理，让"建筑的缺口"与"影像的缺口"重叠，使"缺席者的痕迹"从叙事主题转化为可触摸的物质操作，直接呼应项目"记录与重构之间的张力"节点。[相关链接](https://www.magnumfoundation.org/events/yael-martnez-lucirnagas)
+2. **Wojnarowicz新展场的「未完成废墟」：让展览容器本身处于与展览内容相同的历史时态** - The Modern Institute Carlton Place这栋建筑本身的状态极具启发性——空置15年、曾是脱衣舞俱乐部，现已被剥除到砖石结构，尚未进入下一阶段的改造；策展方没有等"装修完成"才开幕，而是直接在这个"半废墟"状态中呈现Wojnarowicz关于废墟与崩溃的作品，让展览空间与展览内容处于同一种"未完成/正在转变"的时态。这与Curran Hatleberg、Marchand & Meffre等"凝视已完成废墟"的传统形成对比：这里废墟不是被观看的客体，而是观看行为发生的容器本身。与Project One的接口：在Gary拍摄与后期呈现阶段，可以考虑让"呈现废墟影像的方式"本身也携带未完成感——例如选择在尚未翻新的本地空间（旧店面、空置厂房办公室）展示作品，或保留印刷/装裱过程中的"未完成"痕迹，让观看废墟影像的物理环境本身成为废墟叙事的延伸，呼应"记录与重构之间的张力"。[相关链接](https://www.anothermag.com/another-man/17232/david-wojnarowicz-world-the-modern-institute-crumbling-ruins-john-douglas-millar)
+3. **Cleveland-Cliffs 2026年第二季度宣布Gary厂区钢板精整线停产、Burns Harbor两座轧板机合并为一座：铁锈带的"废弃"是一个仍在实时发生的过程，而非已完成的历史** - 据美国证券交易委员会2026年第一季度财报与西北印第安纳地方媒体报道，Cleveland-Cliffs公司正在2026年第二季度推进新一轮产能优化：Gary厂区的钢板精整生产线被停产，Burns Harbor的两座轧板机合并为一座，以"提升利用率、降低成本"为名进行整合；这意味着Gary钢铁产业带的"废墟化"不是2010年代已完结的历史事件，而是此刻仍在持续发生的过程——Project One拍摄期间，新的厂房可能正从"在产"转为"停产"再到"废弃"。与Project One的接口：这为项目提供了一个关键的时间维度操作——除了拍摄已经废弃数十年的高炉车间，也可以关注那些"刚刚停产"的设施（仍保留完整设备、安全标识与最近使用痕迹的精整线），记录"废墟形成的最初阶段"，让作品涵盖从"刚刚离开"到"彻底锈蚀"的完整光谱，直接深化"为什么偏偏是废墟"与"记录与重构之间的张力"两个核心节点。[相关链接](https://nwitimes.com/news/local/article_30272377-bdd0-4149-a82f-3761b341f8ed.html)
+
 ## 2026-06-09
 
 ### 艺术圈新闻
