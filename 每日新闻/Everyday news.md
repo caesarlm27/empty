@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-11
+
+### 艺术圈新闻
+1. **「Beneath the Surface: Mining and American Photography」5月23日于华盛顿国家美术馆开幕，《华盛顿邮报》6月6日专题评论：首个系统梳理摄影与资源开采关系的展览，185年、150幅作品横跨FSA档案与当代航拍** - 展览汇集Walker Evans、Dorothea Lange、Lewis Hine、Gordon Parks、LaToya Ruby Frazier、David Maisel等百余位摄影师作品，聚焦煤炭、矿产与化石燃料开采对美国土地与社区的冲击，展期至8月23日，随后巡回密尔沃基美术馆与沃斯堡阿蒙·卡特美术馆；《华盛顿邮报》评论称展览"恰逢其时"，揭示美国经济对资源开采的依赖及其代价。[原文链接](https://www.washingtonpost.com/entertainment/2026/06/06/national-gallery-exhibit-reveals-terrible-cost-mining/)
+2. **Tetsuya Ishida 法国首展6月10日于Gagosian巴黎rue de Ponthieu空间开幕：日本"失落的十年"中人与工业/官僚系统融为一体的超写实绘画首登法国** - 展期至7月31日，呈现这位31岁早逝的日本画家（1973-2005）的代表作——画中人物常与传送带、自动售货机、办公设备等系统部件融合或被其吞噬，精确描绘90年代日本经济停滞期普通人的异化处境，是Ishida作品在法国的首次个展。[原文链接](https://gagosian.com/exhibitions/2026/tetsuya-ishida/)
+3. **Anish Kapoor 时隔28年回归海沃德美术馆：6月16日开幕的Vantablack与巨型充气装置回顾展，是Southbank Centre 75周年庆核心项目** - 由Ralph Rugoff策展，展览将占据整座Brutalist建筑——墙面、地面、天花板与户外露台，以三件填满整个展厅的巨型新作（含一件六米高充气装置）为核心，是Kapoor自1998年首次在该馆举办大型回顾展以来的回归。[原文链接](https://artplugged.co.uk/anish-kapoor-the-hayward-gallery-with-monumental-new-works/)
+4. **Camille Vivier 首个回顾展6月10日于巴黎欧洲摄影博物馆（MEP）开幕：二十五年间游走于纯艺术与时尚摄影之间的「不安身体」影像档案首次大规模机构呈现** - 展期至9月13日，汇集近十个系列、近百件作品（明胶银盐、数字输出、宝丽来），呈现身体、雕塑形态与诡谲在场之物之间的对话，是这位法国摄影师迄今最大规模的回顾。[原文链接](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/345076-camille-vivier-retrospective-exhibition-at-the-maison-europeenne-de-la-photographie)
+5. **Magnum「A World in Color」档案数字化项目持续推进：沉睡二十余年的65万张巴黎彩色幻灯片档案正以"每月一国"的节奏向公众揭开** - 这批存放于19世纪末Saint-Cyr堡垒中、拍摄于1950年代至2000年代初的43,000张幻灯片，由Magnum与富士胶片、巴黎MPP图片资料馆合作数字化；项目延续2025年在布拉格、米兰、布鲁塞尔、阿尔勒、伦敦、科隆等地的巡展，2026年已巡至哥本哈根Fujikina，每月公开一个国家的"未见影像"及原始注释。[原文链接](https://www.magnumphotos.com/arts-culture/magnum-presents-a-world-in-color/)
+
+### Project One 灵感
+1. **「Beneath the Surface」的「双时态矿业档案」：FSA历史影像与David Maisel当代航拍并置，把"开采的伤口"放大到地理尺度** - 展览的核心结构是把1840年代至今跨越185年的开采影像并置在同一空间——Walker Evans、Dorothea Lange的地面纪实与David Maisel近三十年的航拍"Black Maps"系列（从空中俯瞰露天矿坑形成的抽象伤痕）共同构成一部"开采如何重塑土地"的视觉编年史。这与Bruce Berman「跨时代并置法」（6月5日Project One灵感）方法论相通，但Maisel的航拍提供了一个新维度：从地面无法感知的"伤口尺度"，只有升至高空才能看见开采对地表造成的整体几何形变。与Project One的接口：Gary, Indiana的US Steel Works及周边废弃厂区、尾矿池、铁路调车场所占据的总面积极大，地面拍摄难以传达其"伤口"的真实尺度；可考虑获取航拍或卫星影像，与地面拍摄的局部锈蚀细节并置，让"宏观的污染地理"与"微观的物质痕迹"在同一系列中互相校准，强化"contamination"作为尺度问题而非单纯视觉主题的维度。[相关链接](https://www.washingtonpost.com/entertainment/2026/06/06/national-gallery-exhibit-reveals-terrible-cost-mining/)
+2. **Magnum「A World in Color」：被遗忘在堡垒中的档案本身就是一处"废墟"，数字化的过程即是一种考古发掘** - 这批档案的故事本身极具启发性——65万张幻灯片在19世纪的军事堡垒中沉睡了二十多年，不是因为内容不重要，而是因为缺乏数字化的手段与人力；"重新发现"不是发现新的影像内容，而是发现"一批影像曾经存在却长期不可见"这一事实本身。这与6月2日Project One灵感中"建议联系Indiana University Northwest地方档案馆搜寻Gary钢铁工人内部摄影档案"构成直接的方法论延伸：Magnum的项目提示，即使找到了这类档案，"档案本身的物理状态"（存放方式、尘封程度、缺失的标注）也是值得记录的素材——可以将"寻找并翻阅Gary地方档案"的过程本身（档案盒上的灰尘、褪色的标签、缺页的相册）作为系列的一部分进行拍摄，让"记录的废墟"与"工厂的废墟"在同一项目中互为镜像，呼应"记录与重构之间的张力"核心节点。[相关链接](https://www.magnumphotos.com/arts-culture/magnum-presents-a-world-in-color/)
+3. **Tetsuya Ishida「人与机器的不可逆融合」：当工人离开后，画面中本不该消失的"融合关系"如何在废墟摄影中被重新指认** - Ishida绘画中最核心的图像装置是：人物的身体直接长入或被嵌入工业/官僚系统的物理结构中——脸是仪表盘、手是传送带的零件、身体是被搬运的货物——把"系统对个体的规训"转化为一种解剖学事实，而非比喻。这为Project One提供了一种"反向阅读"废墟的方法：如果Ishida画的是"人正在变成机器"的瞬间，那么Gary废弃钢铁厂的现场则是这个过程的"完成时态"——人已经离开，但机器上仍保留着与人体尺度严格对应的形态（操作台的高度、把手的磨损弧度、安全护栏被身体反复倚靠出的凹陷）。与Project One的接口：在拍摄机器与构件时，可以有意识地寻找并构图那些"形态上仍记录着人体尺度与动作轨迹"的部件——不是把它们当作冰冷的工业遗存，而是当作Ishida画面中"融合"关系断裂之后留下的解剖学证据，与Szapocznikow「身体铸模」（6月9日Project One灵感）形成跨媒介的方法论呼应，进一步深化"缺席者的痕迹"这一核心命题。[相关链接](https://gagosian.com/exhibitions/2026/tetsuya-ishida/)
+
 ## 2026-06-10
 
 ### 艺术圈新闻
