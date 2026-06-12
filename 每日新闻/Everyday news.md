@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-12
+
+### 艺术圈新闻
+1. **Wolfgang Tillmans 获颁2026年度 Roswitha Haftmann 奖：欧洲奖金最高的艺术奖项授予这位德国摄影师四十年创作与社会倡导生涯** - 5月27日公布，该奖由 Roswitha Haftmann 基金会颁发，奖金15万瑞士法郎（约19万美元），是欧洲艺术界财力最雄厚的个人奖项；Tillmans 自1990年代以LGBTIQ+青年与锐舞文化的亲密影像崛起，此后持续拓展至静物、风景与社会批判题材，并长期关注摄影介质本身的物质性；颁奖仪式将于9月17日在苏黎世美术馆举行，历届得主包括 Cindy Sherman、Sigmar Polke、Jeff Wall等。[原文链接](https://www.artsy.net/article/artsy-editorial-wolfgang-tillmans-wins-2026-roswitha-haftmann-prize)
+2. **「Beijing Silvermine 北京银矿：档案选集」6月19日于上海Fotografiska开幕：Thomas Sauvin 从北京回收站抢救出的逾百万张民间底片首次系统性机构呈现** - 6月19日至10月18日，由客座策展人 Holly Roussell 策划，此后将开启国际巡展；展览分四个章节——「档案」以逾1300张照片构成沉浸式装置墙；「工作室」重建 Sauvin 的工作环境，呈现相册、票据与档案材料原件；「至死不渝」聚焦其探讨二十世纪末中国婚俗的摄影书代表作；「合作」呈现与雷磊、Kensuke Koike、Klara Källström & Thobias Fäldt等艺术家的合作项目；该档案始于2009年，从北京郊区一家回收工厂中救回逾百万张胶片，是关于中国"改革开放"时期日常生活影像最重要的民间档案之一。[原文链接](https://shanghai.fotografiska.com/en/exhibitions/thomas-sauvin)
+3. **「A Kind of Paradise」苏黎世里特贝格博物馆持续展出（至9月6日）：20位全球南方艺术家以「修复、纠正与重构」改写殖民时代影像档案** - The Art Newspaper 5月27日专题报道；展览分「形变者」「对峙」「关怀」「幻想照片」四个板块，汇集 Sammy Baloji、Rosana Paulino 等来自全球南方及其离散社群的艺术家，他们重新使用、重新取景、重新讲述那些塑造、扭曲乃至抹除了历史的殖民档案影像，追问"谁的视角被允许构成历史证据"。[原文链接](https://www.theartnewspaper.com/2026/05/27/flash-back-the-artists-creating-new-stories-from-archival-photos)
+4. **「FUNGI: Anarchist Designers」鹿特丹新研究所持续展出（至8月9日）：人类学家 Anna Tsing 亲自策展，呈现真菌作为「资本主义废墟中的无政府设计者」** - 由 Anna Tsing 与设计师 Feifei Zhou（terriStories）共同策划，展览核心是七件艺术家与科学家合作完成的新作——绘画、雕塑与多媒体装置——将关于真菌的科研成果转化为视觉语言；策展论述强调真菌并非可被驯化的"新材料"，而是无视人类需求、持续在废墟与多物种联盟中自行运作的"反设计"力量。[原文链接](https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers)
+5. **Eric Lusito 摄影书《Soviet Scientific Institutes》由英国FUEL出版社推出：22座苏联科研机构废墟的影像漫游，跨越八个加盟共和国** - 法国摄影师 Eric Lusito 耗时多年走访乌克兰、亚美尼亚、哈萨克斯坦等八国，记录从亚美尼亚山区宇宙射线研究站到乌克兰巨型雷达站等22座苏联时代科研设施的现状；书籍封面采用激光切割工艺复刻苏联早期计算机穿孔纸带纹样，历史学者 Paul Josephson 撰写导言，将"帝国陨落"与"城市探索"两种迷恋编织在一起，部分设施仍在勉力运转，呈现衰败与存续并存的状态。[原文链接](https://loeildelaphotographie.com/en/fuel-eric-lusito-soviet-scientific-institutes/)
+
+### Project One 灵感
+1. **Anna Tsing 亲自策展的「FUNGI: Anarchist Designers」：真菌作为「废墟里的无政府设计者」，为 contamination 理论提供了一个可触摸的展览实例** - 这次展览的特别之处在于：策展人不是借用 Tsing 的理论做注脚，而是 Tsing 本人将自己的核心命题——"没有未被污染的过去可以回去"、"废墟中持续生长的多物种联盟"——直接转化为展览的空间逻辑：七件新作呈现的不是"被驯化为材料的真菌"，而是"无视人类意图、按自己的逻辑在废弃结构中蔓延"的真菌网络。这与 Project One 反复引用的 Tsing 理论形成了一次罕见的"理论原作者亲自策展"的对照样本。与 Project One 的接口：Gary 废弃钢铁厂的厂房缝隙、潮湿管道与混凝土裂缝中，真菌与霉斑的蔓延路径本身就是一种"无政府设计"——它们不遵循建筑的原始逻辑，而是按照湿度、光线与材料腐蚀程度重新书写空间;可以系统拍摄这些真菌/霉斑的蔓延痕迹，将其作为"contamination"理论的字面视觉证据，与 McQueen「Bounty」中"幸存植物学"形成跨物种的呼应——真菌与野草共同构成铁锈带废墟里"被污染的多样性"的两条平行证据线。[相关链接](https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers)
+2. **Beijing Silvermine 的「从回收站到档案」：一份差点被熔毁的民间影像档案，提示废墟摄影中"被丢弃的记录"本身就是研究对象** - Sauvin 的百万张底片原本的命运是被送进回收厂提取银盐、彻底销毁——它们被"抢救"而非被"发现"，档案的存在本身就是一次对销毁过程的中断。这与6月9日 Project One 灵感中"档案本身的物理状态值得记录"构成直接延伸，但 Silvermine 提供了一个更极端的案例：档案不是"尘封"，而是"已经在销毁的传送带上"。与 Project One 的接口：Gary 钢铁厂废弃后，大量工厂内部记录、安全手册影像、工人证件照可能正经历类似的命运——被遗留在即将拆除的办公室里，或已被当作废纸/废金属处理；如果能联系当地拆除公司或回收站，在这些材料被彻底销毁前进行抢救式记录（哪怕只是拍摄它们"即将被销毁"的状态本身），就是将"记录与重构之间的张力"推向最紧迫的时间节点——记录行为本身成为一场与销毁过程的赛跑。[相关链接](https://shanghai.fotografiska.com/en/exhibitions/thomas-sauvin)
+3. **Eric Lusito《Soviet Scientific Institutes》：「帝国陨落」与「城市探索」的双重迷恋，部分设施仍在勉强运转——废墟不是非黑即白的终点** - Lusito 的22座苏联科研机构呈现出一种中间状态：既非完全废弃的纪念碑式遗迹，也非正常运转的现役设施，而是"在政治剧变与持续拨款不足中勉力维持"的灰色地带——衰败与存续同时发生在同一空间里。这与6月10日 Project One 灵感中"Cleveland-Cliffs持续推进Gary厂区产能优化、废弃化是实时发生的过程"形成跨地理的方法论呼应：铁锈带与后苏联科研废墟共享同一种"未完成的废弛"状态。与 Project One 的接口：在 Gary 拍摄时，可以特别关注那些"半运转"的边缘空间——仍在使用但人手严重不足的车间角落、被废弃区域包围的孤立在用设施——让画面同时容纳"仍在坚持"与"已经放弃"两种时态，避免将废墟简化为单一的"终结"叙事，呼应 Lusito 标题中"陨落帝国"与"仍在呼吸"之间的张力。[相关链接](https://loeildelaphotographie.com/en/fuel-eric-lusito-soviet-scientific-institutes/)
+
 ## 2026-06-11
 
 ### 艺术圈新闻
