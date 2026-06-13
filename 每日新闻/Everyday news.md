@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-13
+
+### 艺术圈新闻
+1. **「Touched」群展6月12日于克利夫兰Tri-C东校区画廊开幕：Rust Belt Photo Collective以「触摸」为题，征集俄亥俄摄影师作品，探讨时间在铁锈带留下的印记** - 由Rust Belt Photo Collective策划的年度群展开幕之夜于6月12日举行，本届主题"Touched"邀请艺术家思考"触摸"——时间留下的标记、失落或喜悦的印记、塑造人类经验的细微姿态；展览汇集镜头摄影与数字合成、AI影像等多种媒介，是俄亥俄铁锈带摄影社群年度最重要的群展现场之一。[原文链接](https://coolcleveland.com/2026/06/rust-belt-photo-collection-show-at-tri-c-east-asks-artists-what-it-means-to-be-touched/)
+2. **威尔士Brymbo前钢铁厂遗址改建的「Stori Brymbo」本月正式开放：3.14亿年化石森林与百年钢铁工业史在同一遗址层叠展示** - 这座耗资逾千万英镑、历时多年改造的遗产项目坐落于Wrexham的前Brymbo钢铁厂厂址，将"3.14亿年历程"——从石炭纪化石森林、到工业革命时期的炼铁炼钢、再到围绕钢厂形成的社区历史——整合进同一处遗址，包含访客中心、艺术与展览空间，以及可现场观看化石森林发掘过程的建筑；项目于6月正式开放。[原文链接](https://nation.cymru/news/historic-steelworks-transformation-nears-completion-as-opening-date-released/)
+3. **Sophie Green「Tangerine Dreams」6月4日于布里斯托Martin Parr Foundation开幕：十年田野记录英国当代社群的「归属仪式」，并首度展出关于英国死亡仪式的新作预览** - 展期至9月6日，展览呈现Green耗时十年记录的英国各类社群、亚文化与社会聚会中的色彩与仪式，主题画册2025年自出版后一周内售罄，本次展览同步推出第二版；展厅同时以展柜形式预展她关于"英国死亡仪式"的新书与新展，其中包括她受邀拍摄Martin Parr葬礼的影像。[原文链接](https://martinparrfoundation.org/exhibitions/tangerine-dreams/)
+4. **「Japanese Women Photographers: From 1950s to Now」6月24日于伦敦摄影师画廊开幕：27位日本女性摄影师、200余件作品首次系统重写日本摄影史叙事** - 由Lesley A. Martin、竹内万里子与Pauline Vermare联合策划，由Aperture与阿尔勒摄影节合作呈现，展期至9月27日；展览跨越1950年代至今，涵盖身份、流行文化、时尚与日常生活，既包括国际知名摄影师，也大量纳入长期被忽视的女性创作者，是摄影史书写"谁被允许在场"议题的重要案例。[原文链接](https://thephotographersgallery.org.uk/whats-on/japanese-women-photographers-1950s-now)
+5. **皇家艺术研究院2026年度夏季展6月16日开幕：1500余件作品以「万物互联」为主题，由艺术家Ryan Gander统筹策展** - 展期至8月23日，本届夏季展由Ryan Gander担任年度统筹策展人，以"Interconnectedness"（万物互联）为主题，呈现绘画、雕塑、摄影、版画、素描与建筑作品逾1500件，是伦敦艺术季最重要的年度公众展览之一。[原文链接](https://www.royalacademy.org.uk/exhibition/summer-exhibition-2026)
+
+### Project One 灵感
+1. **Stori Brymbo「3.14亿年同址层叠」：钢铁厂废墟之下是化石森林，工业史只是地质史中最薄的一层** - Stori Brymbo最具启发性的地方在于它拒绝把"钢铁厂遗址"作为叙事的起点——展览动线刻意将石炭纪化石森林的现场发掘、19-20世纪炼铁炼钢遗存与围绕工厂形成的社区历史并置在同一空间里，让"工业废墟"显形为地质时间尺度中极薄、极短暂的一层。这与Project One反复出现的"contamination没有未被污染的过去可以回去"形成一个更极端的版本：连"未被工业化的过去"本身都不是一个稳定的起点，因为更深处还有3亿年前的森林。与Project One的接口：在为Gary钢铁厂建立时间线时，可以考虑不止步于"原住民—企业建厂—繁荣—衰败"这一百余年的叙事框架，而是有意识地标注密歇根湖南岸的地质年代信息（冰川退却形成的地貌、沙丘生态系统的年龄），让"铁锈带"的废墟叙事显形为一个嵌套在更大地质叙事中的"最近一层"，呼应Tsing"contamination"理论中"层叠而非线性"的时间观。[相关链接](https://nation.cymru/news/historic-steelworks-transformation-nears-completion-as-opening-date-released/)
+2. **Rust Belt Photo Collective「Touched」：把"触摸"本身——而非"被触摸之物"——作为废墟摄影的核心主题** - 这次群展的策展提问极为直接："touched"既可以是物理的（手的触碰、时间的侵蚀），也可以是情感的（被记忆、被美打动）；展览没有预设"touch"必须指向某种具体物质痕迹，而是把"被触动"这个动词本身开放给所有参展者自行定义。这为Project One提供了一个收束性的提问框架：此前积累的诸多灵感（身体铸模、刺孔背光、设计逻辑残存、林奈命名）本质上都是"某种触摸留下的痕迹"的不同形态——工人对金属扶手的触摸、设计者对空间的"触摸"、命名者对土地的"触摸"。与Project One的接口：可以尝试用"touch"作为整理已积累灵感的一个统一标签——在最终的作品阐述或分类系统里，明确区分"谁touch了什么"（工人/设计者/自然力/拍摄者本人），让"缺席者的痕迹"具体化为一份"触摸者名录"，使抽象的"缺席"命题获得一个可操作的分类轴。[相关链接](https://coolcleveland.com/2026/06/rust-belt-photo-collection-show-at-tri-c-east-asks-artists-what-it-means-to-be-touched/)
+3. **「Japanese Women Photographers」的「重写谁在场」：被排除在摄影史叙事之外的创作者，与被排除在废墟叙事之外的劳动者共享同一种结构性缺席** - 这次展览的核心操作不是发现"新"的摄影师，而是指出：这些摄影师一直都在拍摄、一直都有作品，只是此前的摄影史叙事系统性地没有为她们留出位置——缺席不是因为不存在，而是因为叙事框架的排除机制。这与Taryn Simon对"谁的凝视被允许构成历史证据"的追问、以及Gordon Parks"种族隔离结构隐藏在平静表面之下"的发现构成同一条方法论脉络：废墟摄影中真正的"缺席者"未必是已经离开的工人，也可能是"曾经在场、但从未被允许进入历史叙事"的群体（如Gary钢铁厂中的女性工人、临时工、外包劳工）。与Project One的接口：在梳理Gary钢铁厂的历史档案时，可以特别留意那些"在场但未被记录"的劳动者类别——清洁、食堂、行政、家属探访者——尝试在废墟空间中寻找他们活动轨迹的物理证据（食堂残留、更衣室隔间、访客登记处遗迹），让"缺席者的痕迹"涵盖那些"连记录权都未曾被给予"的更深层缺席。[相关链接](https://thephotographersgallery.org.uk/whats-on/japanese-women-photographers-1950s-now)
+
 ## 2026-06-12
 
 ### 艺术圈新闻
