@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-14
+
+### 艺术圈新闻
+1. **ICP「Photobooks USA 2000-25」6月11日于纽约国际摄影中心开幕：David Campany策划，逾50本摄影书梳理21世纪美国议题，Curran Hatleberg作品入选** - 展期至9月28日，由ICP创意总监David Campany联合策展，从绝版珍本到近年标杆出版物中精选逾50本摄影书，不以"经典"或"畸销"为标准，而是呈现关于身份、社会、环境与经济议题的多元对话；Curran Hatleberg的摄影书作品在展中亮相，是Project One两位重点研究对象在同一机构现场首次"会面"。[原文链接](https://www.icp.org/exhibitions/photobooks-usa-2000-25)
+2. **ICP「Yves Saint Laurent and Photography」6月11日同步开幕：300余件档案与影像作品回顾时尚摄影四十年关系，集结Avedon、Newton、Penn等大师** - 展期至9月28日，与法国巴黎YSL博物馆及Pierre Bergé基金会合作，呈现Richard Avedon、Helmut Newton、Irving Penn、William Klein、Annie Leibovitz等摄影师为YSL拍摄的作品及档案材料，追溯1968年至2002年间影像如何参与塑造一个时装品牌的身份。[原文链接](https://www.icp.org/exhibitions/yves-saint-laurent-and-photography)
+3. **2026年Janet & Walter Sondheim艺术奖入围展6月25日于巴尔的摩沃特斯艺术博物馆开幕：Curran Hatleberg入围五强，将首次在该馆Hackerman House展出作品** - 展期至9月13日，本届五位入围者为Thea Canlas、Leigh Davis、Brandon Donahue-Shipp、Curran Hatleberg与Danni O'Brien，每人获3000美元入围奖，最终获奖者将获3万美元奖金并于8月公布；这是Hatleberg的长期公路摄影实践今年第二次进入机构视野。[原文链接](https://thewalters.org/exhibitions/sondheim-2026/)
+4. **Clark Winter个展「Untold Stories」5月30日于科隆Zander Galerie开幕：横跨1970至2017年近半世纪黑白影像，是其在德国的首次个展** - 展期至8月21日，画廊称这批作品"由持续的观察与经验塑造"，呈现Clark Winter近五十年创作生涯的概览，多为黑白影像，是Zander Galerie首次为这位摄影师举办的德国个展。[原文链接](https://www.galleriesnow.net/shows/clark-winter-untold-stories/)
+5. **Aperture公布6月25-27日「搬迁特卖」：纽约老牌摄影机构清仓旧书与办公家具，为9月18日入驻新永久馆址腾出空间** - Aperture将于9月18日在纽约哥伦布大道380号开放其首个永久馆址，本次特卖清理过往书籍、书架、画框与厨房用品等，是其机构史上的一次"搬迁性废墟"过渡时刻。[原文链接](https://aperture.org/events/moving-sale-2026/)
+
+### Project One 灵感
+1. **「Photobooks USA 2000-25」让Campany与Hatleberg在同一空间"相遇"：摄影书本身可以是「记录与重构」张力的最终容器** - 这次展览最值得注意的不是某一本具体的书，而是策展逻辑本身：David Campany（A Handful of Dust的策展人）亲自挑选了包含Curran Hatleberg作品的摄影书，将其放入一个关于"21世纪美国议题"的更大叙事框架中——书页之间的编辑、排序与并置关系，本身就是一次"重构"行为，而书中每一张照片仍声称"记录"了曾经发生的事。这为Project One的最终呈现形式提供了一个具体方向：与其将作品作为单张照片的合集呈现，不如借鉴摄影书的"编辑即重构"逻辑——通过页面顺序、跨页并置、留白与节奏的设计，让"记录"与"重构"之间的张力直接体现在作品的物理形式上，而非仅停留在拍摄内容层面。与Project One的接口：在后期规划阶段，可以提前以"摄影书"而非"展览墙面"为目标格式构思Gary系列的呈现顺序，参考Hatleberg《River's Dream》等作品集的编辑节奏。[相关链接](https://www.icp.org/exhibitions/photobooks-usa-2000-25)
+2. **Clark Winter「Untold Stories」的47年跨度：「持续观察」不是一次拍摄的态度，而是一种横跨数十年的方法论承诺** - 画廊将这批作品描述为"由持续的观察与经验塑造"——这不是指某一次旅行中保持耐心，而是指一位摄影师用近半个世纪的时间反复回到相似的主题与场景，让"观察"本身成为一种缓慢积累的关系，而非一次性的截取。这与Curran Hatleberg"与拍摄对象建立数月关系后才按快门"的方法构成同一谱系上的不同尺度——Hatleberg是以月为单位，Clark Winter是以数十年为单位。与Project One的接口：Gary, Indiana的废墟化是一个持续数十年、仍在进行的过程（如此前提及的Cleveland-Cliffs产能调整）；Project One即使受限于时间，也可以有意识地设计"重访"机制——以固定的时间间隔回到同一地点拍摄同一构图，让作品本身携带"跨越时间的观察"这一结构，呼应"记录与重构之间的张力"中"记录"所暗示的时间累积。[相关链接](https://www.galleriesnow.net/shows/clark-winter-untold-stories/)
+3. **Aperture的「搬迁特卖」：一个摄影机构在迁入新馆前，自己短暂地经历了"清空-废弛-重建"的废墟状态** - Aperture即将告别旧址、迁入纽约新的永久馆址，搬迁特卖处理的旧书、旧书架、旧画框，正是一个机构"褪去旧壳"过程中产生的物质遗存——这与此前提及的Beijing Silvermine"档案在销毁传送带上被抢救"、Magnum"沉睡档案的重新发现"构成同一类母题的另一个变体：这次"废墟化"不是衰败，而是迁移本身制造的短暂真空状态，旧物在被处理掉之前会短暂地呈现出"被遗弃"的样态。与Project One的接口：如果未来有机会进入Gary钢铁厂或当地机构正在经历搬迁、清算或拆除的办公空间，可以特别关注那种"东西还在原位、但已经被宣判离开"的中间状态——纸箱、待处理的旧物、贴着"待运"标签的设备——这是一种比"已经空置多年的废墟"更短暂、更具体的时间切片，为"缺席者的痕迹"提供一个发生中的、而非已完成的样本。[相关链接](https://aperture.org/events/moving-sale-2026/)
+
 ## 2026-06-13
 
 ### 艺术圈新闻
