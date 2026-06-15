@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-15
+
+### 艺术圈新闻
+1. **Edward Burtynsky「The Great Acceleration」6月19日于纽约ICP开幕：David Campany策划，二十余年来其在纽约的首个机构个展，逾70幅标志性影像聚焦人类对地球的加速改造** - 展期至9月28日，时间跨度刻意覆盖纽约气候周；展览呈现逾70幅Burtynsky标志性作品（含多幅从未展出之作）与三幅超高分辨率巨幅影像，并配以艺术家创作生涯的视觉年表，是对"人类世景观"四十余年持续记录的一次机构性回顾。[原文链接](https://www.icp.org/exhibitions/edward-burtynsky-great-acceleration)
+2. **「This Land Is...」6月14日于亨廷顿图书馆开幕：美国独立宣言250周年系列项目首展，以地图、摄影、手稿与艺术品重梳"土地如何塑造美国生活"** - 展期至2027年1月11日，展览跨越殖民前至21世纪，呈现测绘与生态、机遇与被剥夺、保护与修复等主题，借助亨廷顿图书馆馆藏与重要外借作品，讲述一部关于美国土地与人民的多面叙事。[原文链接](https://www.huntington.org/exhibitions/this-land-is)
+3. **巴塞尔艺术周6月15日启幕：Art Basel VIP预展开始，photo basel摄影单元6月16-21日同期于Volkshaus Basel举行** - Art Basel公众开放日为6月18-21日（预展6月16-17日），逾290家画廊参展；photo basel作为瑞士专注摄影的精品艺博会同期登场，是欧洲夏季艺术市场最重要的现场之一。[原文链接](https://www.photo-basel.com/information-and-application)
+4. **休斯顿摄影中心第43届「Center Annual」群展6月4日开幕：35位镜头艺术家、48件作品以「A Story of Our Mothers & Fathers」探讨代际生存** - 展期至8月16日，由策展人Asha Iman Veal遴选，是该中心年度最重要的公开征件群展，呈现来自全球摄影师关于家庭、记忆与世代传承的当代影像实践。[原文链接](https://glasstire.com/events/2026/06/08/43rd-center-annual-exhibition/)
+5. **苏富比6月10日起公开展出Joe Lewis收藏逾50件作品：估价超1.5亿英镑，是欧洲史上最具价值的私人收藏拍卖之一** - 展览于伦敦新邦德街画廊持续至6月23日，随后于6月24-25日举行专场拍卖，收藏涵盖Klimt、Modigliani、Degas、Freud等现代具象绘画大师代表作，是本月伦敦艺术市场最受关注的事件。[原文链接](https://www.sothebys.com/en/series/masterpieces-from-the-lewis-collection)
+
+### Project One 灵感
+1. **David Campany策划Burtynsky「The Great Acceleration」：从「A Handful of Dust」的尘埃叙事，到「人类世」的航拍尺度——同一策展人在两种尺度间架桥** - 这次展览最值得注意的不是Burtynsky本人（其矿坑、尾矿池、采石场的航拍影像早已是"人类改造地貌"的视觉经典），而是策展人David Campany的位置：此前他以「A Handful of Dust」探讨"尘埃"作为被压抑而归来的微观物质，如今又策划Burtynsky从高空俯瞰"加速改造"的宏观地理。这与6月11日Project One灵感中"David Maisel航拍提供宏观伤口尺度"的讨论构成直接呼应，但Campany的双重策展身份提示：微观的尘埃与宏观的伤痕地理，在同一位策展人的方法论里是连续的——都是"记录已被改变之物"的不同分辨率。与Project One的接口：在规划Gary系列的最终呈现时，可以借鉴Campany"尺度跳跃"的策展逻辑——让同一组作品里既有锈蚀表面的微距细节（尘埃、氧化纹理），也有厂区整体的远景或航拍，让两种尺度在同一叙事中相互校准，而不是选择其一。[相关链接](https://www.icp.org/exhibitions/edward-burtynsky-great-acceleration)
+2. **「This Land Is...」的「机遇与被剥夺」并置：一份关于美国土地的250年叙事，恰好为Gary这块土地提供了一个全国性的参照框架** - 这次展览的核心策展逻辑——将"测绘与生态"、"机遇与被剥夺"、"保护与修复"并置在同一叙事弧线中——本质上是在追问：谁拥有定义"这片土地是什么"的权力，这种权力如何随时间转移。这与6月8日Project One灵感中"Gary"这个地名下叠压的原住民称谓/企业命名/铁锈带标签三层历史构成呼应，但「This Land Is...」提供了一个更大的坐标系：Gary的土地史（波塔瓦托米原住民地→US Steel私有工业用地→联邦/州环境治理对象→今日废墟）本身就是这次展览所讲述的"机遇与被剥夺"全国叙事在一个具体地点上的浓缩样本。与Project One的接口：可以尝试为Gary钢铁厂区绘制一份类似展览逻辑的"土地权属时间线"（原住民条约割让年份、US Steel购地年份、环境治理介入年份、当前所有权状态），将其作为作品阐述或附录的一部分，让"为什么偏偏是废墟"获得一个可考证的土地制度史背景。[相关链接](https://www.huntington.org/exhibitions/this-land-is)
+3. **U.S. Steel宣布重启Gary Tin Mill（2026年4月公告，预计2027年初复产）：铁锈带的"废墟化"并非单向过程，部分厂区正在经历"逆生长"** - 据U.S. Steel官方公告，公司计划投入1500万至2000万美元重启Gary Works的Tin Mill产线，预计创造225个工作岗位，复产时间定于2027年初；这与6月10日Project One灵感中"Cleveland-Cliffs同时在Gary厂区推进精整线停产"形成直接的并置——同一座钢铁城市里，一条产线在被宣告"结束"，另一条产线却在被重新激活。这意味着Gary的"废墟"版图不是静态的，而是由"停产/重启"两种相反箭头同时塑造的动态拼图。与Project One的接口：在前期调研阶段，可以尝试获取Gary Works内部各产线当前状态的大致分布（在产/停产/重启中/已拆除），让拍摄计划同时覆盖"即将重启而暂时安静"的厂房与"已被放弃"的厂房——前者是一种特殊的"暂停"状态：设备完好、即将复活，却此刻处于废墟般的静默中，为"记录与重构之间的张力"提供一种介于两者之间的中间时态样本。[相关链接](https://www.ussteel.com/media/newsroom/-/blogs/u-s-steel-announces-plans-to-restart-gary-tin-mill)
+
 ## 2026-06-14
 
 ### 艺术圈新闻
