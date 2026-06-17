@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-06-17
+
+### 艺术圈新闻
+1. **Chris McCaw「Double Day」6月21日于SF Camerawork闭幕在即：用阳光灼烧相纸本身，让"曝光"变成物理意义上的灾难记录** - 展期5月21日至6月21日（于Fort Mason艺术中心），核心作品《Sunburned GSP #860》以25联画幅记录阿拉斯加北极圈"午夜太阳"轨迹长达30小时，McCaw自制大画幅相机直接将相纸置入机背，阳光经镜片聚焦后真实灼穿纸基——这件作品此前从未在西海岸展出，6月20日另设艺术家对谈。[原文链接](https://sfcamerawork.org/chris-mccaw-double-day)
+2. **「A Language We Share: Beverly Price and Gordon Parks」6月19日于布鲁克林Center for Art & Advocacy闭幕：两代摄影师相隔数十年拍摄同一片社区** - Beverly Price（2023年度该中心驻留艺术家，2016年出狱十年后开始摄影实践）与Gordon Parks分别在不同年代记录华盛顿东南区Anacostia与Barry Farms社区，展览恰逢Parks逝世20周年与Price出狱20周年，将两人作品并置为"一个跨越时间、向前向后同时言说的连续体"。[原文链接](https://centerforartandadvocacy.org/exhibitions/a-language-we-share-beverly-price-and-gordon-parks)
+3. **Chester Higgins「Shared Memories」6月18日于纽约Bruce Silverstein画廊闭幕：跨越六十年的非洲侨民离散影像档案第三次在该画廊呈现** - 展览呈现逾40幅黑白与彩色作品，是Higgins自1971年首次前往非洲后持续二十余次跨大陆拍摄积累的成果，策展语言强调其影像"在历史曾被抹去存在感的地方恢复在场"。[原文链接](https://brucesilverstein.com/exhibitions/236-chester-higgins-shared-memories/overview/)
+
+### Project One 灵感
+1. **McCaw的「灼烧的相纸」：当记录行为本身变成一种物理性的衰败** - McCaw的Sunburns系列把"曝光"从一个隐喻性的概念变成字面意义上的物理事实——阳光经镜头聚焦后直接灼穿相纸，使底片本身携带不可逆的烧灼痕迹。这与Project One反复处理的"废墟"命题构成一个精确的方法论镜像：废墟不是"被拍摄的衰败对象"，而本身就是一种持续的、长时间"曝光"的产物——风雨、锈蚀、人类离开后的时间侵蚀，相当于在建筑这张"相纸"上进行了数十年的连续曝光。与Project One的接口：可以尝试用长曝光甚至让胶片直接接触Gary钢铁厂遗址中锈蚀表面（接触印相）的方式，让"记录的痕迹"与"废墟自身的物理侵蚀痕迹"叠合在同一张底片上，使摄影媒介本身成为废墟逻辑的延伸，而非外在于废墟的旁观记录者。[相关链接](https://sfcamerawork.org/chris-mccaw-double-day)
+2. **「A Language We Share」的「同地重访」：记录与重构如何在两代摄影师之间分摊** - Price与Parks相隔数十年拍摄同一片华盛顿社区，这个展览结构本身回应了Project One canvas中"记录与重构之间的张力"这一节点最棘手的问题：单一摄影师永远无法同时做到"记录"与"事后重构"——拍摄当下是记录，任何重访、任何与历史影像的并置都已经是重构。这个展览把两种行为拆分给相隔数十年的两位摄影师共同完成，使"记录"与"重构"不再是同一双眼睛里的矛盾，而成为一种跨代际的接力。与Project One的接口：在为铁锈带项目收集历史档案照片时，可以将其与自己当下拍摄的同一地点画面并置展示，不试图用今天的镜头"模拟"或"还原"历史感——让两个时间层各自保留自己的记录者身份，差异本身就是内容。[相关链接](https://centerforartandadvocacy.org/exhibitions/a-language-we-share-beverly-price-and-gordon-parks)
+3. **Chester Higgins的「跨六十年档案」：恢复在场，而非弥补缺席** - Higgins将"缺席"重新定义为一个动词性的、主动的恢复过程——他的非洲侨民影像档案的核心命题是"在历史曾被抹去存在感的地方恢复在场"，这与Project One canvas里"缺席者的痕迹"节点构成一个有用的对照：大多数废墟摄影的默认姿态是被动地"发现"缺席留下的痕迹（锈迹、空荡的车间），而Higgins提示了另一种可能——影像本身可以是主动恢复在场的工具，而非单纯记录在场已经消失这一事实。与Project One的接口：面对Gary钢铁厂中那些已被系统性抹去记录权的劳动者群体，或许可以借鉴Higgins跨越数十年持续追踪同一群体的方法——不止拍摄一次废墟现状，而是建立一个持续多年的拍摄/口述史项目，主动为这些被排除在历史叙事之外的人"恢复在场"，把摄影从"记录衰败"转向"对抗遗忘"。[相关链接](https://brucesilverstein.com/exhibitions/236-chester-higgins-shared-memories/overview/)
+
 ## 2026-06-16
 
 ### 艺术圈新闻
