@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-06-18
+
+### 艺术圈新闻
+1. **Abigail Lucien个展《Blood of the Earth》于芝加哥艺术博物馆开幕** - 海地裔艺术家以"铁"为线索，用熔炉、风箱、铁砧等装置搭建出一座虚构的"炼铁车间"，探讨铁矿如何串连星辰爆炸的宇宙史与人类劳动史；展览于今日（6月18日）开幕，展期至2027年1月25日。[原文链接](https://www.artic.edu/exhibitions/10693/abigail-lucien-blood-of-the-earth)
+2. **Rehana Zaman个展《Plantation》在Glasgow International展出** - 通过两部影片与温室、冷藏棚式的沉浸式装置，记录苏格兰安格斯与巴基斯坦旁遮普两地的季节性农业工人，呈现土地与劳动力被资本榨取至枯竭的过程；展览于Kelvin Hall仓库空间展出，6月21日闭幕。[原文链接](https://glasgowinternational.org/programme/projects/plantation/)
+3. **Jasmine Togo-Brisby在格拉斯哥现代艺术馆（GoMA）举办欧洲首场个展** - 艺术家用乌鸦羽毛制成的雕塑回应19世纪"黑鸟拐卖"（blackbirding）历史——太平洋岛民被骗或被掳往澳洲种植园做苦力，她还按一张家族老照片等比例重建了一座流离失所祖先曾居住的木棚屋。[原文链接](https://www.theartnewspaper.com/2026/06/15/glasgow-international-2026-offers-reminder-of-citys-cultural-power-at-a-challenging-time)
+4. **Jay Wolke摄影展《Big Boat Little Pond》在波特兰Blue Sky画廊展出** - 影像聚焦人类野心如何改写自然景观——湖岸、滩地被建筑、基建与临时性介入悄然改变，呈现出一种"适应性再利用"留下的不安视觉后果；展期至6月27日。[原文链接](https://www.orartswatch.org/vizarts-monthly-june-shows-pull-at-every-thread/)
+
+### Project One 灵感
+1. **重建缺席者的居所** - Togo-Brisby没有拍摄"黑鸟拐卖"历史的任何文献影像，而是依据一张家族老照片，1:1搭建出祖先曾经栖身的木棚屋本身——用实体重构取代影像记录，让"不可见的历史"变成可以走入的空间。这与Taryn Simon"照片模糊现实边界"形成镜像式呼应：如果记录本身靠不住，重构或许是更诚实的记忆方式，Project One或许也该思考——在废墟现场搭建"重建"装置，而非仅仅拍摄废墟本身。[相关链接](https://www.theartnewspaper.com/2026/06/15/glasgow-international-2026-offers-reminder-of-citys-cultural-power-at-a-challenging-time)
+2. **榨取留下的不只是废墟，还有循环中的劳动者** - Zaman的《Plantation》提醒我们，废墟不是榨取的终点，而是榨取仍在进行时的一个剖面——农业工人、土地与资本之间的耗竭关系，与Anna Tsing"资本主义废墟里仍有生命"的论述直接呼应。Gary的钢厂废墟同样如此：那不是历史的终章，而是仍有工人、仍有资本博弈在场的"现在时"废墟。[相关链接](https://glasgowinternational.org/programme/projects/plantation/)
+3. **用虚构的工坊讲述真实的工业史** - Lucien没有去拍摄真实的炼铁车间，而是搭建了一座"投机性"的、从未真正生产过的炼铁工坊——熔炉、风箱、铁砧都是道具，却比任何纪实影像都更逼近"铁如何连接我们"的命题。这呼应John Divola在废墟里"放置新物件"的介入手法，也提示Project One：废墟摄影未必只能记录现存之物，搭建/介入式的虚构场景或许同样能抵达真实。[相关链接](https://www.artic.edu/exhibitions/10693/abigail-lucien-blood-of-the-earth)
+
 ## 2026-06-17
 
 ### 艺术圈新闻
