@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-19
+
+### 艺术圈新闻
+1. **贝尔法斯特摄影节2026「Horizons」6月4日开幕：以「Camera Obsolete?」邀观众亲手拆解、熔铸旧相机，直面摄影机械时代的崩塌** - 展期至6月30日，本届主题将摄影置于AI生成影像、自动化与算法视觉冲击下的临界点，质问图像的真实性、作者权与物质性是否还能成立；核心项目「Camera Obsolete?」是一个参与式公共装置，邀请观众亲自拆毁、重铸已被淘汰的相机机身，将摄影器材本身变成可被重新塑形的雕塑残骸。[原文链接](https://loeildelaphotographie.com/en/belfast-photo-festival-2026/)
+2. **第七届Mulhouse摄影双年展6月6日开幕：以「Sédimentation(s)（沉积）」为题，串联阿尔萨斯地质层与家庭记忆的层叠** - 展期至7月5日，由L'Agrandisseur策划，12场展览呈现逾50位艺术家与Grand Est高等艺术学院学生的作品；策展论述明确将主题锚定在地理事实上——3300万年前阿尔萨斯平原曾是海床，石灰岩与泥灰岩层层沉积于Mulhouse周边——并以此地质隐喻去探讨集体与个人记忆如何同样层层堆叠、彼此覆盖。[原文链接](https://www.biennale-photo-mulhouse.com/2026/thematique-2026/)
+3. **「La photographie en toutes lettres」6月10日于巴黎欧洲摄影博物馆（MEP）开幕：以字母表逻辑重组Neuflize OBC企业收藏与馆藏，Sophie Ristelhueber作品入选** - 展期至9月13日，恰逢"摄影两百周年"；展览不依时间线或主题分类，而是把藏品拆解进26个字母词条之中，让作品之间产生意料之外的并置关系，Sophie Ristelhueber的作品被收入其中一个词条，与其他33位艺术家的影像共同构成一部"摄影字母书"。[原文链接](https://www.mep-fr.org/event/la-photographie-en-toutes-lettres/)
+4. **ZeroNegativo摄影节2026年6月18日于意大利Santeramo in Colle开幕：青年摄影占据一座历史悠久的德劳伦蒂斯老厂房** - 展期至6月21日，由Zeronegativo文化协会主办，旨在推介学院体系之外的意大利新生代摄影；本届展览、工作坊与放映全部设于当地一座历史厂房Stabilimento De Laurentis内，主办方特别强调所用展陈材料均来自回收与再利用废弃元素，让"废墟容器"与"可持续材料"两种实践叠加在同一现场。[原文链接](https://santeramolive.it/2026/06/09/zeronegativo-2026-sceglie-la-puglia-il-festival-di-fotografia-in-mostra-presso-lo-storico-stabilimento-de-laurentis-dal-18-al-21-giugno/)
+5. **「Dust That Lay」7月10日将于芝加哥艺术家联盟（Chicago Artists Coalition）开幕：以「hauntology（阴魂论）」为方法，三位艺术家探讨过去如何持续栖居于当下** - 展期至8月20日，艺术家Herman Aguirre、Diana Noh、Skyler Simpson共同参展；Noh的创作方式是撕开、折叠、修补记录过渡性空间（transitional spaces）的照片，以此考察"在场中的缺席"，并呈现那些未被实现的过去如何持续打断、占据当下的影像表面。[原文链接](https://www.chicagoartistscoalition.org/cac_events/dust-that-lay-exhibition-opening/)
+
+### Project One 灵感
+1. **贝尔法斯特「Camera Obsolete?」：当被拆解、熔铸的不是废墟里的建筑构件，而是拍摄废墟所用的相机本身** - 这件作品最具启发性的地方在于，它把"摄影器材的物理性消亡"从隐喻直接变成可参与的行动——观众亲手拆毁旧相机机身，让承载"记录"功能的工具本身经历它一直在记录的那种衰败过程。这与此前讨论的Chris McCaw"灼烧相纸"、Hiroshi Sugimoto"银盐灭绝"构成同一谱系的更极端版本：不只是介质衰变，而是整台机器的解体与重铸。与Project One的接口：可以考虑在Gary系列的后期呈现中，纳入一组关于拍摄设备本身的影像或物件——例如长期在潮湿、多尘的厂区环境中使用后留下锈斑、磨损的相机机身、镜头上沾染的厂区粉尘——让记录Gary废墟的工具本身也成为"被污染"叙事的一部分，呼应Tsing"没有未被污染的过去可以回去"，连拍摄者携带的器材也无法例外。[相关链接](https://loeildelaphotographie.com/en/belfast-photo-festival-2026/)
+2. **Mulhouse双年展「Sédimentation(s)」：把"地质层叠"作为方法论原点，串联地理记忆与家庭记忆——这正是此前Stori Brymbo"3.14亿年同址层叠"灵感的另一种验证** - 这次双年展的特别之处在于，它没有把"沉积"仅当作视觉比喻，而是从Mulhouse当地确切的地质史（3300万年前的海床、石灰岩与泥灰岩沉积）出发，再把这一地质事实平行映射到"集体与个人记忆的层叠堆积"上——地理时间与心理时间被赋予同一种结构逻辑。这为6月13日Project One灵感中"密歇根湖南岸冰川地貌与铁锈带废墟构成嵌套地质叙事"的想法提供了一个具体的策展先例：不止是"标注"地质背景，而是让地质层叠本身成为组织整组作品的形式语法。与Project One的接口：可以尝试为Gary系列设计一种"地层式"的编辑结构——按"原住民地貌—工业建设—生产高峰—停产废弛—当下"的层序排列影像，物理上模拟地质剖面的纵切关系，而非单纯按拍摄时间或主题分类，让"记录与重构之间的张力"获得一个具体的、可触摸的空间隐喻。[相关链接](https://www.biennale-photo-mulhouse.com/2026/thematique-2026/)
+3. **MEP「La photographie en toutes lettres」：用字母表代替时间线或主题分类来组织馆藏，让Ristelhueber的废墟影像在意想不到的词条邻里中被重新看见** - 这次展览的策展逻辑提供了一种与Project One此前反复参考的"摄影书编辑即重构"（6月14日灵感）平行但更激进的组织方式：26个字母词条像一本字典般强行打断了作品原有的主题或年代脉络，让Sophie Ristelhueber的贝鲁特废墟影像必须与字母表另一端的、毫不相关的影像并置，产生策展人事先无法完全预判的语义碰撞。与Project One的接口：在规划Gary系列的最终呈现顺序时，可以尝试一次"非主题"的重新洗牌实验——抽离出每张照片里出现的关键名词（扶手、粉尘、锈斑、更衣柜、烧结炉……），按字母或笔画顺序重新排列展墙或书页，刻意打断原本"叙事完整"的编排逻辑，看看哪些意料之外的并置反而更精确地传达"记录与重构之间的张力"。[相关链接](https://www.mep-fr.org/event/la-photographie-en-toutes-lettres/)
+
+---
+
 ## 2026-06-18
 
 ### 艺术圈新闻
