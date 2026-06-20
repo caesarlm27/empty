@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-20
+
+### 艺术圈新闻
+1. **巴塞尔艺术展2026于6月18日开幕：290间画廊参展，Nairy Baghramian与Ibrahim Mahama揭幕大型公共委任作品** - 本届巴塞尔艺术展（预展6月16-17日，正展6月18-21日）汇聚43个国家290间画廊，新增20余家首次参展画廊；展会同期在场内外揭幕两件大型公共委任：Nairy Baghramian的雕塑作品，以及Ibrahim Mahama取材自加纳废弃轮胎厂的纺织装置《The God of Small Things》。[原文链接](https://www.artbasel.com/stories/art-basel-unveils-leading-galleries-and-first-highlights-for-its-2026-flagship-show-in-basel)
+2. **Ed van der Elsken迄今最全面回顾展《Up Close》将于阿姆斯特丹国立博物馆开幕** - 这位荷兰街头摄影传奇（1925-1990）以贴近、未经修饰的街头瞬间著称；国立博物馆此次回顾展重新梳理其镶嵌式的拼贴书与电影实践，试图呈现他如何把街头摄影本身变成一种近乎肉身介入的记录方式。[原文链接](https://www.theartnewspaper.com/2026/06/19/zooming-in-on-the-dutch-street-photographer-ed-van-der-elsken)
+3. **《艺术新闻报》独家披露梵高医生Paul Gachet未知档案：逾500件文献现身** - 加歇医生（1828-1909）与其子保罗-路易·加歇的私人档案此前从未公开，内容涵盖梵高生命最后阶段在欧维尔的交往细节及当地艺术圈生态；记者Martin Bailey的独家报道称这批材料将为梵高研究提供大量新线索。[原文链接](https://www.theartnewspaper.com/2026/06/19/exclusive-an-unknown-archive-of-treasures-from-van-goghs-doctor-paul-gachet)
+4. **第五届Basel Social Club「The Office」6月14日起占用巴塞尔火车站旁一座空置办公楼** - 展期至6月20日，由Diener & Diener设计的多层办公建筑因数字化、远程办公与AI冲击而被腾空，主办方将其重新设想为"反思而非生产"的场域，纳入展览、表演、餐饮与首次入驻的「I Never Read」艺术书展。[原文链接](https://whitewall.art/art/basel-social-club-2026/)
+5. **已故波多黎各裔摄影师Sophie Rivera首部专著《Double Exposures》由Aperture与El Museo del Barrio联合出版** - 该书是Rivera（1938-2021）作品的首部专著，收录125余幅图版与她本人文字，呈现她70年代在曼哈顿上城自家工作室拍摄的波多黎各人正面肖像，曾是对抗主流文化中拉丁裔负面刻板形象的视觉行动之一。[原文链接](https://aperture.org/press-release/announcing-sophie-rivera-double-exposures-2/)
+
+### Project One 灵感
+1. **Ibrahim Mahama《The God of Small Things》：被掩埋的工业废料，缝补成新的形态** - 这件巴塞尔大教堂广场的委任作品取材自加纳邦萨轮胎厂（1963年建厂，后被国家全资收编，停产后倒闭）：工厂关闭后，被判定不合格的橡胶并未当废品出售，而是直接掩埋于原厂址地下。Mahama用回收的轮胎、长途运输篷布与工服缝补、拼接成大型纺织装置，让掩埋多年的工业废料重新浮出地表、被看见。这与Anna Tsing"受污染的多样性"与"废墟里仍有生命"形成精确对应——没有未被污染的过去可以回去，只有从废料与污染物中重新编织出的当下。与Project One的接口：Gary钢厂周边同样存在被掩埋、被搁置的工业残余（炉渣堆、填埋场），或许可以尝试以"缝补/拼接"而非单纯"记录"的方式处理这些材料的影像或实物碎片，让被掩埋之物的"重新浮现"本身成为作品的一部分。[相关链接](https://www.theartnewspaper.com/2026/06/15/ibrahim-mahama-all-these-things-are-the-stains-they-are-part-of-the-story)
+2. **Basel Social Club「The Office」：当办公楼也开始经历它自己的"去工业化"** - 这次占领空置办公楼的实践提醒我们，"功能性死亡"并不只发生在工厂与矿场——数字化与远程办公正在让办公楼经历一种结构上类似铁锈带工厂关闭的过程：曾经承载固定劳动节律的空间被腾空，等待被重新定义。这为canvas中"介入与矛盾"节点提供了一个工厂之外的平行案例：在被宣告失去原有功能的空间里放入新的、矛盾的活动（这里是反思、社交、艺术），让空间本身的身份变得不稳定。与Project One的接口：可以在研究中追问——Gary这类"铁锈带"叙事是否正在被更普遍的"空间过时"叙事所包裹？办公楼、商场、教堂的空置或许提供了铁厂废墟之外更贴近当代观众日常经验的参照点。[相关链接](https://baselsocialclub.com/)
+3. **GU.PHO. Photofestival 2026「On Ethics」：谁有权使用他人的影像？** - 第五届GU.PHO摄影节（6月18-26日，意大利圭利亚城堡）以"伦理"为题，集体追问在影像高速流通的当下，使用素人摄影、vernacular影像与机构档案时的合法性、作者身份与权力关系；策展论述特别指出，这类挪用常常悄然瓦解原始的"同意"，并强化欧洲中心、殖民式的分类与控制结构。直接呼应Project One中Taryn Simon节点与[[摄影理论笔记-2026春|巴特"那个东西真的在那里存在过"]]——摄影的证据性从来不是中立的，谁在记录、谁的影像被纳入档案、谁的"同意"被默认存在，都是被构造而非天然的。与Project One的接口：在处理Gary当地居民的影像或口述时，需要更明确地追问这些影像的"同意"边界在哪里，是否存在把废墟"风景化"而抹去其中具体劳动者主体性的风险。[相关链接](https://loeildelaphotographie.com/en/gu-pho-photofestival-2026/)
+
+---
+
 ## 2026-06-19
 
 ### 艺术圈新闻
