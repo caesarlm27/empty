@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-21
+
+### 艺术圈新闻
+1. **Hew Locke个展「Passages」6月21日于休斯顿美术馆开幕** - 由耶鲁英国艺术中心与休斯顿美术馆联合主办，是Locke迄今最全面的回顾展，呈现逾40件雕塑、拼贴与装置；他以拾得材料与帝国符号（盔甲纹章、纪念雕像、殖民时期股票凭证）重塑公共空间的视觉权力史，悬浮的"航船"装置串联跨大西洋奴隶贸易史与当代难民危机。[原文链接](https://www.mfah.org/art/exhibitions/hew-locke-passages)
+2. **《华盛顿邮报》撰文评述美国国家美术馆「Beneath the Surface: Mining and American Photography」：史上首个聚焦资源开采与摄影关系的机构展** - 该展5月23日开幕（至8月23日，随后巡展至密尔沃基美术馆与阿蒙·卡特美术馆），呈现逾150幅作品、100余位摄影师，包括Walker Evans、Dorothea Lange、Gordon Parks、David Maisel与LaToya Ruby Frazier，系统梳理近200年来美国矿业、煤炭与化石燃料开采如何被摄影记录与建构。[原文链接](https://www.washingtonpost.com/entertainment/2026/06/06/national-gallery-exhibit-reveals-terrible-cost-mining/)
+3. **人类学家Anna Tsing亲自策划「FUNGI: Anarchist Designers」于鹿特丹Nieuwe Instituut展出，5月28日举办专场对谈活动** - 展览由Tsing与建筑师/艺术家Feifei Zhou共同策划（展期至8月9日），将真菌呈现为"反设计者"——在被资本主义单一种植与污染重塑的世界中扮演毁灭者、调解者与再生者；5月28日的"An Evening with Anna Tsing"对谈聚焦她提出的"Patchy Anthropocene"（补丁状人类世）概念，探讨被开采耗竭的生态系统中如何产生新的共生形式。[相关链接](https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers)
+4. **Foam Talent 2026群展6月5日于阿姆斯特丹Foam摄影博物馆开幕：15位新锐摄影师从近3000份投稿中入选** - 由策展人Claartje van Dijk策划，并配合发布Foam Magazine第68期"Talent"专刊；入选艺术家作品随后将巡展至法兰克福德意志证券交易所摄影基金会。[原文链接](https://www.foam.org/events/foam-talent-2026)
+5. **内华达美术馆「Into the Time Horizon」中「Altered Lands and the Anthropocene」专题持续展出：David Maisel等摄影师的航拍矿坑影像被纳入近200位艺术家的气候叙事大展** - 展览3月28日开幕，将持续至2027年，依托馆藏"被改变的景观摄影收藏"，呈现人类活动对自然、建成与虚拟环境造成的不可逆印记。[原文链接](https://www.nevadaart.org/art/exhibitions/altered-lands-and-the-anthropocene/)
+
+### Project One 灵感
+1. **Anna Tsing亲自策展「FUNGI: Anarchist Designers」：将"contamination"理论从文本变成可走入的展览空间** - 这次展览最关键的方法论启示在于，Tsing没有停留在写作"contaminated diversity"的理论层面，而是与设计师Feifei Zhou一起，把"真菌作为反设计者"具体化为三个展览章节——Break（毁灭）、Assassinate（调解）、Mobilize（再生）——其中一件装置追踪咖啡锈病如何沿单一种植链条在拉丁美洲蔓延、并反噬整个经济系统，正是Tsing"没有未被污染的过去可以回去"命题最具体的视觉案例：污染物本身成为新秩序的共同设计者，而非纯粹的破坏力量。与Project One的接口：可以借鉴这种"三段式"结构（毁灭/调解/再生）重新整理Gary钢铁厂素材——不再把废墟单纯归入"毁灭"一类，而是主动寻找厂区内部已经处于"调解"（锈蚀稳定下来的结构、被植物重新占据的车间）与"再生"（重启的产线、回归的工人）阶段的具体影像，让contamination理论获得一个可执行的分类工具，而非仅作为引言中的理论背景出现。[相关链接](https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers)
+2. **「Beneath the Surface」把"摄影记录开采"本身历史化，提醒我们Gary系列也是这部200年长河里的最新一笔** - 这个展览的核心策展贡献，不是单独呈现某位摄影师的开采题材作品，而是系统地把"摄影与资源开采的关系"本身作为一部独立的历史来叙述——从金矿热的银版照片，到David Maisel的航拍尾矿池，再到LaToya Ruby Frazier在Braddock钢铁镇的家庭肖像，策展人将近两个世纪的影像实践编织成一个连续的谱系，让每一位摄影师的个体创作都显形为这部"开采摄影史"的一个具体节点而非孤立事件。与Project One的接口：在撰写作品阐述或寻找展览机会时，可以主动将Gary系列定位为这一谱系的延伸——明确指出自己的工作与Frazier"后工业小镇家庭史"、Maisel"航拍开采伤痕"之间的方法论亲缘关系，把Gary系列定位为"去工业化之后"这一尚未被充分书写的章节，而非孤立的地方性项目。[相关链接](https://www.washingtonpost.com/entertainment/2026/06/06/national-gallery-exhibit-reveals-terrible-cost-mining/)
+3. **内华达美术馆「Altered Lands」收藏逻辑：把"被改变的景观摄影"当作一个独立的馆藏品类来系统收集，而非单次策展话题** - 这个专题最值得借鉴的不是某件具体作品，而是机构层面的收藏决策：内华达美术馆建立了一个专门的"Altered Landscape Photography Collection"馆藏类别，长期、持续地收集记录人类改造自然/建成环境的摄影作品，使"人类世景观"从一次性的策展话题变成可以反复调用、不断扩充的常设资源。与Project One的接口：即使Project One是一次性的拍摄项目，也可以借鉴这种"建立专门档案类别"的思路——为Gary系列单独建立一个素材分类体系（按"被改变的程度"或"改变的施动者"分类：自然侵蚀/资本撤离/人为拆除/重启复产），使其不止是一组照片，而是一个可被未来扩充、可被其他研究者调用的地方性影像档案雏形。[相关链接](https://www.nevadaart.org/art/exhibitions/altered-lands-and-the-anthropocene/)
+
+---
+
 ## 2026-06-20
 
 ### 艺术圈新闻
