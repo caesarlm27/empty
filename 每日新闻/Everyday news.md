@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-22
+
+### 艺术圈新闻
+1. **Refik Anadol「DATALAND」6月20日于洛杉矶Grand LA开幕：全球首个"AI艺术博物馆"，沉浸式装置《Machine Dreams: Rainforest》以数百万亚马逊雨林影像与声音训练生成模型** - 该机构由艺术家Refik Anadol与Efsun Erkılıç共同创立，占地2.5万平方英尺，Google提供技术与数据合作支持，是艺术与生成式AI结合的标志性商业化案例，门票49美元起。[原文链接](https://www.theartnewspaper.com/2026/06/18/refik-anadol-dataland-opens-los-angeles)
+2. **Shuang Li「Alliance」6月12日于巴塞尔美术馆（Kunsthalle Basel）开幕：艺术家欧洲首个机构个展，以"追风者"追逐龙卷风的影像记录隐喻数字时代的注意力流通** - 展期至9月13日，《The Art Newspaper》6月15日专题评述；同名影像装置取景于美国内布拉斯加州小镇Alliance——一座本质上完全由火车调车场构成的城镇，将极端天气、气候动荡与全球资本流通的基础设施并置。[原文链接](https://www.theartnewspaper.com/2026/06/15/shuang-li-shows-how-wild-weather-mirrors-our-fractured-world)
+3. **「LENI: Looking Through the Lens」6月25日于底特律历史博物馆开幕庆典：摄影师Leni Sinclair逾10万张档案首次系统呈现底特律先锋文化与爵士场景** - Sinclair 1959年从东德移民底特律，用一台蔡司相机记录该市数十年反主流文化、爵士乐与社会运动现场，此次展览首次公开多张此前从未展出的影像。[原文链接](https://www.detroithistorical.org/exhibitions/leni-looking-through-lens)
+4. **Frida Orupabo「Cloud of Confusion」6月4日于里斯本MAC/CCB开幕：艺术家在葡萄牙首个个展，探讨数字时代影像的流通与不稳定性** - 由策展人Marta Mestre策划，展期至11月1日；Orupabo一贯以拼贴手法重组殖民时期人类学档案影像，此次新展进一步追问图像在数字网络中如何被截取、复制、扭曲并脱离原始语境。[原文链接](https://artdaily.com/news/196682/Frida-Orupabo-opens-first-solo-exhibition-in-Portugal-at-MAC-CCB)
+5. **蓬皮杜中心首个海外永久分馆6月4日于首尔正式开幕：由原63大厦水族馆改建为"光之盒"展馆，首展聚焦立体主义** - 法国蓬皮杜中心与韩华集团合作的Centre Pompidou Hanwha坐落于汝矣岛63大厦内，建筑师Jean-Michel Wilmotte将原有水族馆结构改造为可透光的展览空间，首展《The Cubists: Inventing Modern Vision》呈现毕加索、马蒂斯等大师作品；未来四年将每年呈现两场源自蓬皮杜馆藏的展览。[原文链接](https://www.artnews.com/art-news/news/centre-pompidou-seoul-june-2026-opening-1234780389/)
+
+### Project One 灵感
+1. **Shuang Li「Alliance」：把"追风"本身变成废墟叙事的另一种地理——风暴掠过的车厢调车场小镇，与铁锈带停产的钢厂分享同一种"基础设施暴露在天灾与资本之间"的脆弱性** - Li选择以内布拉斯加州Alliance这座几乎完全由铁路调车场构成的小镇为同名装置的落点，本身就是一次精确的选址：风暴掠过的不只是天空，也是这座小镇赖以存在的物流基础设施。这与Gary钢铁厂同属"基础设施"叙事的两端——一个被资本抽离后变成废墟，一个仍在被气候系统反复"测试"其脆弱性。与Project One的接口：可以借鉴Li"把追逐本身变成叙事核心"的方法——不止拍摄Gary厂区的静态废墟，也尝试记录"正在发生的不稳定瞬间"（例如拆除工程、季节性洪水侵入厂房、临时关闭与重启的交界时刻），让废墟摄影获得一种动态的、正在被自然或资本"追逐"中的时间维度。[相关链接](https://www.theartnewspaper.com/2026/06/15/shuang-li-shows-how-wild-weather-mirrors-our-fractured-world)
+2. **Frida Orupabo「Cloud of Confusion」：影像在数字网络中的"二次废墟化"——被截取、复制、脱离语境的图像本身也会衰变** - Orupabo的拼贴一贯取材自殖民时期人类学档案的"问题影像"，这次新展进一步追问：当这些影像进入数字网络无限流通后，图像本身经历的扭曲、压缩、脱离原始语境的过程，是否构成了一种新的、平行于物理废墟的"图像废墟化"。这与Taryn Simon"照片模糊现实边界"和巴特"那个东西真的在那里存在过"构成三方对话：物理废墟会衰变，记录废墟的影像在传播中同样会衰变、被重新语境化。与Project One的接口：在后期处理Gary系列影像的传播路径时，可以有意识地记录、保留这些图像被裁切、被转发、被去标题使用的"流通痕迹"，把"图像的废墟化"本身作为项目的一个元层次。[相关链接](https://artdaily.com/news/196682/Frida-Orupabo-opens-first-solo-exhibition-in-Portugal-at-MAC-CCB)
+3. **Leni Sinclair的「移民者的局内人档案」：一位局外人如何用数十年时间把自己嵌入一座城市的反主流文化现场，最终成为这座城市记忆本身的载体** - Sinclair以移民身份带着一台相机抵达底特律，却用半个世纪的持续在场把自己变成了这座城市先锋文化历史不可分割的记录者——这与此前讨论的石川真生"局内人摄影伦理"构成跨地域的呼应：局内人身份不是天生的，而是通过足够长的时间积累获得的。与Project One的接口：在Gary的拍摄实践中，若想突破"外来者凝视"的局限，或许需要参考Sinclair的时间尺度——不是一次集中拍摄，而是建立可持续多年回访的关系，让"局内人资格"随时间被这座城市本身慢慢授予。[相关链接](https://www.detroithistorical.org/exhibitions/leni-looking-through-lens)
+
+---
+
 ## 2026-06-21
 
 ### 艺术圈新闻
