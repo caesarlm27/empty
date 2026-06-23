@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-23
+
+### 艺术圈新闻
+1. **「Capitaloceno」群展6月13日于秘鲁利马proyectoamil画廊开幕：30余位国际艺术家以"资本世"为题，部分内容源自策展团队与多个AI系统持续一年的对话** - 展期至9月15日；展览核心追问当代经济、技术与环境系统如何重塑人类的生活、思维与感知方式，将"资本世"（Capitalocene）理论具体化为关于自动化、生态危机与人类独特性消解的多媒介呈现，是与Anna Tsing"contamination"理论同期呼应的拉丁美洲案例。[原文链接](https://digicult.it/articles/art/capitaloceno/)
+2. **World Press Photo 2026 全球巡展6月24日抵达墨西哥城弗朗兹·迈耶博物馆：连续第27年在该馆呈现，成为当地长期文化传统** - 展期预计至10月；本站延续2026年度大赛聚焦的移民、武装冲突、气候变化与社会运动等主题，是该巡展继此前已报道的多站之后的又一最新落地城市。[原文链接](https://www.worldpressphoto.org/calendar/2026/mexico-city-mexico)
+3. **Hypha Gallery South Bank 6月25日于伦敦泰特现代美术馆附近开幕：慈善机构将南岸一座空置办公楼改造为近9000平方英尺画廊与工作室综合体** - 由Hypha Studios与HUB及Bridges Fund Management合作开发，免费提供17位新锐艺术家驻留工作室，首发三场展览涵盖雕塑、场域特定装置与"生物声景"装置，被《The Art Newspaper》称为"伦敦的Palais de Tokyo"。[原文链接](https://www.theartnewspaper.com/2026/06/22/a-palais-de-tokyo-for-london-hypha-studios-to-open-major-exhibition-and-studio-space-near-tate-modern)
+4. **奥巴马总统中心6月19日（六月节）于芝加哥正式向公众开放：耗资8.5亿美元的艺术与教育综合体** - 选定美国联邦假日六月节开幕具有明确的象征意图；园区融合博物馆、图书馆与社区项目，以艺术呈现一段"充满希望"的美国历史叙事。[原文链接](https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum)
+5. **孟菲斯艺术博物馆公布新馆开放日期及首批展览安排** - 《The Art Newspaper》6月17日报道，新馆将提供本地居民免费参观，是美国中部博物馆界今夏的重要扩建动向之一。[原文链接](https://www.theartnewspaper.com/2026/06/17/memphis-art-museum-opening-date-exhibitions-free-admission-locals)
+
+### Project One 灵感
+1. **「Capitaloceno」与一年的人机对话：把"资本世"理论从文本变成可触摸的展览，呼应Anna Tsing「没有未被污染的过去可以回去」** - 这场展览最值得借鉴的方法论，是策展团队没有直接挪用学术文本，而是与多个AI系统持续对话一整年，把"开采、生产与消费如何重塑感知"这一抽象命题，转化为关于自动化、生态危机与人类独特性消解的具体作品——这与FUNGI展览（6月21日Project One灵感）异曲同工，但提供了一个更聚焦于"资本逻辑本身"而非"真菌作为调解者"的平行案例。与Project One的接口：在为Gary系列撰写阐述或构建素材分类时，可以尝试一种类似的"长期对话生成法"——与历史学家、退休工人、环境监测数据反复"对话"数月，让"资本世"理论不再是引言中的背景注脚，而是贯穿素材整理过程本身的方法论。[相关链接](https://digicult.it/articles/art/capitaloceno/)
+2. **Hypha Gallery South Bank：从"临时占领空置办公楼"到"长期再生空置办公楼"——同一种废弛空间，两种完全不同的时间承诺** - 6月20日Project One灵感曾讨论Basel Social Club「The Office」对一座空置办公楼的为期一周的临时占用；Hypha Gallery South Bank提供了一个精确的对照：同样是因数字化、远程办公而被腾空的伦敦南岸办公楼，这次被慈善机构改造为可持续运营至少一年、容纳17位驻留艺术家的长期画廊与工作室综合体。两种实践分别代表了面对"空间过时"的两种态度——短暂的反思性占用，与彻底的功能重建。与Project One的接口：在构思Gary钢厂的"介入"方案时，可以同时设想两种平行的时间尺度——一次性的、临时的"地点特定"摆拍或装置，与一种更野心勃勃的"长期再利用"提案（例如把某个车间改造为可持续使用的社区暗房或档案室），让"记录与重构之间的张力"获得一个关于时间长度本身的新维度。[相关链接](https://www.theartnewspaper.com/2026/06/22/a-palais-de-tokyo-for-london-hypha-studios-to-open-major-exhibition-and-studio-space-near-tate-modern)
+3. **奥巴马总统中心的"官方希望叙事" vs. Gary废墟的"被遗忘叙事"：谁有权决定一段历史是纪念碑还是废墟** - 这座耗资8.5亿美元的国家级文化综合体选择在六月节开幕，以艺术与教育空间讲述一段"充满希望"的美国历史；这与Gary钢铁厂废墟所承载的、几乎完全相反的叙事姿态——一段被资本撤离、被主流叙事遗忘的劳工历史——构成了同一国家历史光谱的两端：一端被建造成可以无限被参观、被纪念的"圣地"，另一端则在静默锈蚀中等待被偶然发现。与Project One的接口：可以在作品阐述中明确把Gary系列定位为这种"国家叙事不对称性"的具体案例——同一个国家如何决定哪些历史值得用8.5亿美元纪念，哪些历史只能任由废墟自行讲述，直接呼应canvas中"为什么偏偏是废墟"这一核心追问。[相关链接](https://www.theartnewspaper.com/2026/06/19/obama-presidential-center-chicago-art-filled-campus-museum)
+
+---
+
 ## 2026-06-22
 
 ### 艺术圈新闻
