@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-24
+
+### 艺术圈新闻
+1. **Nari Ward个展「Until That Day」6月23日于希腊伊兹拉岛DESTE基金会"屠宰场"项目空间开幕：用拾得废弃物回应希腊非洲侨民群体的隐没历史** - 展期至10月31日，艺术家本人与策展人Massimiliano Gioni当晚在伊兹拉岛Gardenia夏季影院举行对谈（同步通过DESTE Instagram直播）；展览以Ward一贯的拾荒重构手法，回应海尔·塞拉西一世1963年演讲及非洲裔希腊艺术家的当代回应表演，在一座真正的废弃屠宰场建筑内展开。[原文链接](https://artsceneathens.com/2026/06/23/nari-wards-until-that-day-on-hydra/)
+2. **泰坦尼克号沉船文物拍卖计划遭美国政府正式反对：法庭文件显示逾百件遗物拍卖申请触发国家海洋及大气管理局（NOAA）与法国法院旧协议的冲突** - 据美联社6月22日报道，持有泰坦尼克号独家打捞权的佐治亚州公司RMS Titanic Inc.提出将逾百件遗物（个人物品、货币、厨具与装饰品）拍卖并在四座未公开城市巡展，打破此前"仅限博物馆展示、不得拆散收藏"的承诺；NOAA援引美法两国法院条件提出反对，遇难者家属与文物保护团体延续多年来的一贯反对立场。[原文链接](https://www.clickorlando.com/news/weird-news/2026/06/22/a-plan-to-sell-artifacts-from-the-titanic-faces-us-government-opposition/)
+3. **新日铁/美国钢铁公司3.5亿美元高炉重建工程本季在Gary Works现场推进：14号高炉为期百日停产重砌耐火内衬，预计5月至8月停转** - 该项目已于2025年12月获新日铁子公司美国钢铁董事会批准全额资金，是Gary Works四座在运转高炉中规模最大者；环保团体SteelWatch与Industrious Labs近期发声明批评此举延续燃煤高炉运行二十年，而非转型清洁炼钢技术，使Gary当地社区将持续暴露于污染之下。[原文链接](https://www.canarymedia.com/articles/green-steel/nippon-reline-indiana-gary-coal-furnace)
+4. **特纳奖艺术家Helen Cammock 6月24日主动撤下伦敦国家肖像馆争议录像作品《Persistence》：因指控丘吉尔"蓄意造成"1943年孟加拉大饥荒引发逾50名上议院议员联名抗议** - 该40分钟录像自去年9月起作为「Artists First」当代委任展的一部分展出，原定展至8月；丘吉尔传记作者Andrew Roberts与丘吉尔之孙Nicholas Soames等联署抗议信后，Cammock发表声明撤下作品，称这一决定"绝非轻易做出"。[原文链接](https://www.theartnewspaper.com/2026/06/24/helen-cammock-video-work-criticising-winston-churchill-removed-from-national-portrait-gallery)
+5. **「Fire Becomes Spirit」6月24日于纽约国际摄影中心（ICP）新设"孵化器空间"开幕：委内瑞拉视觉记者Andrea Hernández Briceño首展，聚焦性别、环境与社会现象中的尊严叙事** - 该空间是ICP新设立的常设性新锐摄影项目，旨在呈现"正在实时回应世界"的新兴影像创作者；开幕当天设艺术家与策展人Sara Ickow的对谈。[原文链接](https://www.icp.org/events/conversation-fire-becomes-spirit-andrea-hernandez-briceno-and-sara-ickow)
+
+### Project One 灵感
+1. **Nari Ward「Until That Day」：在一座真正的废弛屠宰场建筑里，用拾荒重构回应一个从未被主流叙事记录的侨民群体** - 这次展览最值得借鉴之处，是Ward没有选择中性的白盒子空间，而是直接在DESTE伊兹拉岛那座长期闲置的屠宰场建筑内，用拾得的废弃材料回应希腊非洲侨民这一长期"在场却不可见"的群体历史——废墟容器与缺席叙事在同一空间里彼此印证，与此前Fotofestiwal Łódź"后工业厂房作为展览容器"（6月16日灵感）构成跨地理的呼应，但Ward进一步把"拾荒重构"本身作为方法论核心，而非单纯借用空间气氛。与Project One的接口：在Gary钢厂内部寻找展示或介入点时，可以优先考虑那些本身携带"被遗弃功能"的具体房间（更衣室、食堂、检验台），用现场拾得的厂区遗留物（破损工牌、锈蚀工具、废弃安全告示）做简单的拼贴重构，让"被遗忘的劳动者群体"的痕迹经由拾荒材料本身重新发声，而非仅靠摄影记录间接呈现。[相关链接](https://artsceneathens.com/2026/06/23/nari-wards-until-that-day-on-hydra/)
+2. **泰坦尼克号文物拍卖之争：谁有权决定"证据"的命运——保存为集体记忆，还是拆散为可流通的商品** - 这场法律纠纷的核心命题，恰好是Taryn Simon"照片如何模糊现实边界"与Sophie Ristelhueber"关于人的证据，但没有人的在场"两条脉络的物质版本：泰坦尼克号的个人遗物（货币、厨具、装饰品）本身就是缺席者最后的物理痕迹，而打捞公司将其拆散拍卖的提案，本质上是把"集体记忆的物证"重新切割为可被单独占有的"商品个体"，遇难者家属与保护团体的反对，正是在抵抗这种切割。与Project One的接口：在处理Gary钢厂可能找到的工人遗留物（工牌、储物柜内的私人物品、安全手册）时，可以借鉴这场争议提出的伦理框架——明确区分"作为集体记忆物证保留"与"作为单件物品被挪用展示"两种处理方式之间的张力，在作品阐述中主动讨论拍摄者对这些遗留物的"打捞权"是否同样需要被追问，呼应"谁被允许记录Gary"的核心命题。[相关链接](https://www.clickorlando.com/news/weird-news/2026/06/22/a-plan-to-sell-artifacts-from-the-titanic-faces-us-government-opposition/)
+3. **Gary Works 14号高炉"百日停转重砌"：废墟与生产之间最精确的中间状态，此刻正在Project One的研究对象内部真实发生** - 这条新闻最关键的价值不在于环保争议本身，而在于它提供了一个极其具体的时间窗口：就在本系列筹备期间，Gary Works规模最大的14号高炉正处于为期百日的停转重砌之中（5月至8月）——设备完整、即将复产，却此刻处于一种被技术性"掏空"的静默状态，与6月10日Project One灵感中"Cleveland-Cliffs停产/重启同时塑造废墟版图"的讨论形成了一个可考证、可能仍在进行中的具体案例。与Project One的接口：如果调研或拍摄窗口与此次停转期重叠，14号高炉本身就是"记录与重构之间的张力"最具体的拍摄对象——既非彻底的废墟，也非正常运转的产线，而是一座暂时被掏空内脏、等待重新点燃的庞然空壳，且环保团体指出这次重砌将延续二十年的污染轨迹，使contamination理论在这座具体高炉上获得一个精确的、有时间期限的物质案例。[相关链接](https://www.canarymedia.com/articles/green-steel/nippon-reline-indiana-gary-coal-furnace)
+
+---
+
 ## 2026-06-23
 
 ### 艺术圈新闻
