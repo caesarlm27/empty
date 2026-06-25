@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-25
+
+### 艺术圈新闻
+1. **荷兰与德国将归还加纳逾2000件文物** - 两国政府宣布向加纳归还殖民时期掠夺的阿散蒂王室及阿坎文化文物，是近年来规模最大的非洲文物归还行动之一。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/23/the-netherlands-and-germany-to-return-more-than-2000-cultural-artefacts-to-ghana)
+2. **伦敦博物馆公布史密斯菲尔德新馆开放日期** - London Museum 确认其位于伦敦史密斯菲尔德历史肉类市场的新馆将于2026年11月28日正式开放，标志着这座维多利亚时代工业建筑的活化进入最后阶段。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/23/london-museum-announces-opening-date-for-new-smithfields-location)
+3. **JR 在巴黎新桥重现克里斯托与让娜-克劳德经典装置** - 为纪念《新桥包裹》（1985）四十周年，艺术家 JR 在同一地点搭建"新桥洞穴"沉浸式装置，致敬这对已故艺术家组合，展期至6月28日。[JR-art.net](https://www.jr-art.net/projects/la-caverne-du-pont-neuf)
+4. **哥伦比亚国家记忆博物馆命运因大选生变** - 波哥大极右翼候选人赢得总统大选后，该国致力于武装冲突记忆与真相工程的国家记忆博物馆，面临政治立场转向与资金前景的不确定性。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/25/presidential-election-bogota-museo-de-memoria-colombia)
+5. **Earth Photo 2026 在伦敦皇家地理学会开幕，聚焦"衰败与修复的张力"** - 摄影师 Gina Soden 拍摄阿尔卑斯山区废弃美好年代酒店的作品入选本届展览，探讨衰败、记忆与"废墟与修复"之间的张力，展览6月26日开幕。[Gina Soden](https://www.ginasoden.co.uk/2026/06/22/earth-photo-2026/) · [RGS 官方页面](https://www.rgs.org/events/upcoming-events/earth-photo-exhibition-2026)
+
+### Project One 灵感
+1. **谁有权决定一段历史的痕迹属于哪里** - 加纳文物归还案与哥伦比亚记忆博物馆的政治化命运，都指向同一个问题：谁有权决定历史的痕迹应被陈列、归还，还是被重新定义？这与 [[Artist research|Sophie Ristelhueber 的《贝鲁特》]]——画面中没有人，却处处是人的证据——形成呼应：废墟本身就是悬置的证词，等待被指认、归还或抹去。[相关链接](https://www.theartnewspaper.com/2026/06/25/presidential-election-bogota-museo-de-memoria-colombia)
+2. **工业遗址的"二次生命"与过度修复的悖论** - 伦敦史密斯菲尔德肉类市场从维多利亚工业建筑转型为博物馆，是"废墟被重新赋予功能"的范例，但也带来新的矛盾：修复后的空间是否还保留着原本的衰败气质？这正呼应 [[Artist research|Tereza Zelenkova]] 所说"经过精心维护后，空气中开始有甲醛味"的悖论——过度修复即是另一种死亡。[相关链接](https://www.theartnewspaper.com/2026/06/23/london-museum-announces-opening-date-for-new-smithfields-location)
+3. **缺席者的痕迹与重现的伦理** - JR 在新桥原址重现克里斯托与让娜-克劳德四十年前的装置，是一次"在场地里放入新东西、让缺席的作者重新显形"的实践，呼应 [[Artist research|John Divola 在 Zuma 系列]]中介入废弃空间的方法——但 JR 的重现也提出问题：致敬是否会替代、覆盖原作本身在记忆中的位置？[相关链接](https://www.jr-art.net/projects/la-caverne-du-pont-neuf)
+
+---
+
 ## 2026-06-24
 
 ### 艺术圈新闻
