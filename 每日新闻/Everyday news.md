@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-26
+
+### 艺术圈新闻
+1. **斯洛文尼亚-墨西哥考古队在坎佩切丛林发现完整玛雅古城"Minanbé"，意为"没有路"** - 该城被植被掩埋逾千年，核心遗址包含一座13米高的金字塔神殿与14座雕刻祭坛，碑文记录公元849年的历史，是玛雅低地终末期城市群体崩溃前夜的罕见完整样本。[ARTnews](https://www.artnews.com/art-news/news/minanbe-mayan-city-discovered-intact-mexico-1234790168/)
+2. **雕塑家Leonardo Drew 6月15日宣布加入豪瑟沃斯（Hauser & Wirth）全球代理：以氧化、燃烧与腐朽工艺制作"看似拾得废物却全是新材料"的大型装置** - 画廊已在巴塞尔艺术展首发其新作《Number 451》，纽约首展定于2027年秋季举行；Drew四十年创作核心始终是用人为加速的衰败过程探讨毁灭与重生的循环。[ARTnews](https://www.artnews.com/art-news/news/leonardo-drew-joins-hauser-and-wirth-1234788673/)
+3. **国际摄影中心（ICP）「Photobooks USA 2000–25」6月11日开幕：由Project One关键参考策展人David Campany领衔策划** - 展览精选逾50本摄影书，呈现摄影书如何成为艺术家回应美国当代社会、文化、政治议题的有力载体，展期至9月28日。[ICP](https://www.icp.org/exhibitions/photobooks-usa-2000-25)
+4. **泰特现代美术馆「Frida: The Making of an Icon」6月25日开幕：预售逾4.1万张门票，成为泰特现代史上预售最快的展览** - 展览呈现逾30件Frida Kahlo标志性作品及200余件同时代与后世艺术家受其影响的创作，并设"Fridamania"专章探讨她如何演变为全球商业符号，展期至2027年1月3日。[Tate](https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon)
+5. **伦敦摄影师画廊（The Photographers' Gallery）「Japanese Women Photographers: From 1950s to Now」6月24日开幕：由Aperture与法国阿尔勒摄影节联合策划，呈现27位日本女性摄影师** - 展览收录逾200件影像、装置与罕见摄影书，重新平衡一段长期由男性叙事主导的日本摄影史，展期至9月27日。[The Photographers' Gallery](https://thephotographersgallery.org.uk/whats-on/japanese-women-photographers-1950s-now)
+
+### Project One 灵感
+1. **Minanbé："没有路"本身就是一种废墟的悖论命名** - 这座被命名为"没有路"的玛雅古城提醒我们：真正的废墟往往不是被毁灭，而是被植被、被遗忘、被切断通路所封存——它完整地存在了一千年，只是没有人能抵达。这与[[Artist research|Sophie Ristelhueber 的《贝鲁特》]]"画面中没有人，却处处是人的证据"形成跨时空呼应：缺席本身才是最完整的保存方式。与Project One的接口：在为Gary系列选择拍摄路径时，或许该反过来思考——哪些区域是因为"无路可去"才得以幸存至今未被二次开发？"不可达"本身可以成为一种构图与叙事策略。[相关链接](https://www.artnews.com/art-news/news/minanbe-mayan-city-discovered-intact-mexico-1234790168/)
+2. **Leonardo Drew：人为制造的衰败 vs. 自然发生的衰败——谁的"废墟"更诚实？** - Drew的核心创作悖论在于，他用全新材料人工模拟氧化、燃烧、腐朽的痕迹，制造出"看起来像废物却全是新做的"雕塑——这与Project One一贯坚持的"记录真实废墟"立场构成一次直接的方法论对照：如果废墟的视觉语言可以被完全人工合成，那么"记录"相较于"重构"还剩下哪些不可替代的伦理重量？与Project One的接口：可以在作品阐述中主动讨论这种张力，明确Gary系列选择"记录已发生的衰败"而非"模拟衰败"的立场本身，就是对真实性的一种坚持。[相关链接](https://www.artnews.com/art-news/news/leonardo-drew-joins-hauser-and-wirth-1234788673/)
+3. **David Campany「Photobooks USA 2000–25」：策展人亲自示范"编辑即重构"——这正是Project One此前反复参考的David Campany本人最新的方法论实践** - 这次展览的价值不在于某一本具体的书，而在于Campany选择用"摄影书"这一编辑性极强的媒介本身，去回应"美国当下最迫切的社会议题"——这与他策划「A Handful of Dust」时"图像之间如何相互共鸣"的策展哲学一脉相承，证明他持续在用"重新编排"而非"单纯记录"的方式处理摄影档案。与Project One的接口：在规划Gary系列的最终呈现形式（摄影书 vs. 展览墙面）时，可以直接参考Campany这批选书的编辑逻辑，甚至考虑是否有机会让他本人的策展方法论成为Project One最终呈现的直接参照对象。[相关链接](https://www.icp.org/exhibitions/photobooks-usa-2000-25)
+
+---
+
 ## 2026-06-25
 
 ### 艺术圈新闻
