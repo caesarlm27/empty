@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-27
+
+### 艺术圈新闻
+1. **Manifesta 16 Ruhr双年展6月20日于德国鲁尔区开幕：12座废弃战后教堂转型为展览与公共生活空间** - 本届双年展（至10月4日）汇聚33个国家逾100位参与者、50余件新委任作品，地点遍布杜伊斯堡、埃森、盖尔森基兴与波鸿四座欧洲"铁锈带"城市，开幕之夜在世界遗产关税同盟煤矿（Zeche Zollverein）举行；工作标题"This is not a church"追问被宣告失去原有功能的建筑可以变成什么。[Manifesta16官网](https://manifesta16.org/news/opening-of-manifesta-16-ruhr)
+2. **古城萨迪斯历经近70年考古发掘，6月正式获联合国教科文组织世界遗产认证** - 哈佛-康奈尔考古队自1958年起每年持续回到这座小亚细亚古城发掘，是全球持续时间最长的机构性考古项目之一；认证之际，遗址周边土丘墓葬群正遭受日益猖獗的"工业规模"盗掘——盗掘者动用炸药与推土机，与文物保护进程形成尖锐对照。[ARTnews](https://www.artnews.com/art-news/news/sardis-earns-unesco-world-heritage-70-years-of-excavation-1234790470/)
+3. **梵蒂冈博物馆6月24日启动拉斐尔长廊（Loggia）500年来首次全面修复：耗时五年，以光纤激光"干洗"清除积尘** - 修复团队逾20名专家将以可辨识、可逆的色彩匹配技术补全缺损，确保观者能区分原作与修复痕迹，并加装窗户以稳定室内气候；项目获世界文物基金会（WMF）550万美元资助，是该机构首次与梵蒂冈城国合作的项目。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/26/vatican-restoration-of-raphael-loggias-featuring-celebrated-fresco-cycle-by-renaissance-master)
+4. **加拿大人权博物馆6月27日开幕「Palestine Uprooted: Nakba Past and Present」：以"记忆盒"装置呈现巴勒斯坦人被迫迁徙的口述史** - 展览在巨大争议中开幕——部分犹太社群批评其"片面"、馆内唯一犹太裔理事此前辞职——通过被迫迁徙、活态文化、对家的渴望、抵抗、持续的创伤五个主题，串联巴勒斯坦裔加拿大幸存者及后代的个人物件与口述影像，展期至2028年11月。[CMHR](https://humanrights.ca/exhibition/palestine-uprooted-nakba-past-and-present) · [The Art Newspaper](https://www.theartnewspaper.com/2026/06/26/canadian-museum-human-rights-palestine-uprooted-exhibition-preview)
+5. **MIT博物馆将获贝聿铭事务所（Pei Cobb Freed & Partners）完整档案：涵盖60个项目、1500卷图纸，使其成为全球最大贝聿铭档案收藏地** - 据《ARTnews》6月26日"行业动态"专栏披露，这批档案将系统保存贝聿铭跨越数十年的建筑实践原始记录，是建筑档案机构化收藏的重要案例。[ARTnews](https://www.artnews.com/art-news/market/sebastian-smee-the-atlantic-mit-museum-im-pei-industry-moves-1234790479/)
+
+### Project One 灵感
+1. **Manifesta 16 Ruhr："废弛教堂"被重新想象为公共生活空间，而非被冻结为建筑遗产** - 这场欧洲规模最大的"铁锈带"双年展拒绝把废弛教堂简单归档为"需要保护的遗迹"，而是主动追问它们可以变成展厅、音乐厅、园艺空间、市民聚会点——这与canvas中"介入与矛盾"节点直接呼应：在被宣告功能终结的建筑里放入新的、矛盾的活动，让空间身份持续悬而未决。与Project One的接口：在构思Gary钢厂的呈现方式时，可以参考Manifesta刻意避免"修复成遗产景点"或"任其彻底崩塌"两种极端，转而寻找一种介于两者之间、允许矛盾共存的中间状态作为拍摄或介入的落点。[相关链接](https://manifesta16.org/news/opening-of-manifesta-16-ruhr)
+2. **拉斐尔长廊修复："可辨识的修复痕迹"——一种主动拒绝抹去衰败证据的修复伦理** - 这次修复最关键的方法论选择，不是把500年壁画恢复至"崭新"状态，而是刻意采用让观者能区分原作与补全部分的色彩匹配技术——这正好回应了[[Artist research|Tereza Zelenkova]]"经过精心维护后，空气中开始弥漫淡淡的甲醛气味"的悖论：过度修复即是另一种死亡，而保留可辨识的修复痕迹，则让"被干预过"这件事本身成为作品历史的一部分，不被悄然抹去。与Project One的接口：在处理Gary系列中任何经过清理、补光或后期介入的影像时，可以借鉴这种"显形修复痕迹"的伦理——不让记录与重构之间的张力被技术手段悄悄掩盖，而是主动标记哪些部分是"原状"，哪些是"被处理过的"。[相关链接](https://www.theartnewspaper.com/2026/06/26/vatican-restoration-of-raphael-loggias-featuring-celebrated-fresco-cycle-by-renaissance-master)
+3. **「Palestine Uprooted」的"记忆盒"：用具体物件而非宏大叙事承载缺席者的痕迹** - 这次展览没有用统计数字或地图来呈现巴勒斯坦人的迁徙史，而是把叙事压缩进一个个具体的"记忆盒"——每件个人物件配一段两分钟的口述影像，让"被迫离开"这件抽象的事，落回到一只钥匙、一张照片、一件衣物的具体重量上，直接呼应[[Artist research|Sophie Ristelhueber 的《贝鲁特》]]"关于人的证据，但没有人的在场"。与Project One的接口：在处理Gary钢厂可能找到的工人遗留物（工牌、储物柜私人物品）时，可以借鉴"记忆盒"的精确尺度——围绕单一具体物件构建叙事单元，而非试图用一张全景照片概括整段产业衰退史，让缺席者的痕迹保持其物件本身的具体性与重量。[相关链接](https://humanrights.ca/exhibition/palestine-uprooted-nakba-past-and-present)
+
+---
+
 ## 2026-06-26
 
 ### 艺术圈新闻
