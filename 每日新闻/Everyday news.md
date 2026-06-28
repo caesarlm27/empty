@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-06-28
+
+### 艺术圈新闻
+1. **Pablo Rasgado「Pentimento」6月13日于墨西哥城Laboratorio Arte Alameda（前16世纪San Diego修道院建筑）重新开放亮相：艺术家全程驻留修复工程现场，直接用修复过程剥露出的历史墙面涂层与建筑残渣创作** - 这是该馆重新开放后呈现的三场展览之一（另两场为Josué Mejía「Fábulas para dormir」与TRES小组「Estado suspendido」），展期至10月18日；Rasgado的作品被馆方称为一场"投机性考古"，呈现修复工人在不同墙面剥出的黑、红、白等历代涂料层，并临摹重制殖民时期油画、嵌入修复废料，追溯建筑从San Diego修道院到Pinacoteca Virreinal各阶段的层叠历史；艺术家计划8月对作品做二次干预，加入新影像并配合表演者Gabriel Acevedo Velarde与Adrián Bracho的现场表演。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/26/laboratorio-arte-alameda-pablo-rasgado-exhibition-restoration-mexico-city)
+2. **John Chiara「Bay Panel」6月26日于旧金山SF Camerawork（Fort Mason艺术中心）开幕，6月27日举行开幕酒会：长逾24英尺的暗箱摄影全景作品首次公开重展** - 展期至7月19日，由Haines Gallery与SF Camerawork联合呈现；这件2020年受Pilara Family Foundation委任创作的六联画作品此前展出极短时间便被封存入库，此次是首次重新对公众展出，借鉴Eadweard Muybridge式的全景摄影传统，用Chiara标志性的大画幅暗箱摄影术直接在巨幅相纸上成像，记录旧金山湾区随城市开发、商业航运而层叠变化的水岸景观。[SF Camerawork](https://sfcamerawork.org/john-chiara-bay-panel)
+3. **「From Our Forefathers」：费城艺术家/公共历史学家Aislinn Pentecost-Farren为ArtPhilly 2026首届全城艺术节设计免费"游击式"博物馆导览，串联三座机构讲述气候危机的隐藏源头** - 该导览隶属纪念美国独立250周年的ArtPhilly 2026艺术节（展期至7月2日），串联Science History Institute、费城艺术博物馆与独立海港博物馆既有馆藏，引导观众透过原住民土地剥夺、工业革命直至今日气候危机的连续脉络重新理解展品；项目源自Pentecost-Farren 2023年的非授权行动——她曾仿照费城艺术博物馆官方地图样式自制"非官方"折页，混入馆方地图堆中分发，如今已发展为机构认可的常设项目。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/22/climate-change-museum-tours-philadelphia-aislinn-pentecost-farren-artphilly)
+4. **墨西哥瓦哈卡"绿色凝灰岩"（Cantera Verde）获国际地质科学联合会（IUGS）"全球遗产石材"认证：自16世纪起塑造该市历史中心建筑外观的蓝绿色火山岩获正式承认** - 据《The Art Newspaper》6月24日报道，认证基于墨西哥国家人类学与历史研究所（INAH）与国立自治大学（UNAM）的联合研究，使其加入IUGS自2016年设立、现共68种石材的全球遗产石材名录，其采石与雕刻工艺本身也被视为一项活态非物质文化遗产；报道特别指出，曾经供应瓦哈卡建城所需石材的原始采石场目前已全部关闭，现存矿藏集中于Etla谷地，因属不可再生资源而需严格管控开采。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/24/oaxaca-green-tuff-international-heritage-designation-geologists)
+5. **摄影师出身的伦敦南岸中心（Southbank Centre）主席Misan Harriman 6月23日确认将于今年秋季卸任：南岸中心证实辞任决定与近期"反犹"争议风波无关** - Harriman在两届任期满后辞任的安排，据南岸中心发言人证实，早在今年1月便已与副主席沟通确定；其辞任消息恰逢英国部分媒体此前对其言论的指控引发逾10万人联署声援的风波之后，Harriman本人在Instagram视频中明确否认两者存在因果关系。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/25/misan-harriman-to-step-down-as-chair-of-londons-southbank-centre)
+6. **M+「Design Ah! 设计好好玩」6月27日于香港M+主展厅开幕：与日本NHK教育台、NHK Promotion联合制作，是该展览系列的国际首展** - 展期至2027年1月1日；展览以10种日常身体动作组织21个互动站点，邀请观众用眼、手、脚重新感知被设计塑造却常被忽略的日常物件，部分站点特别加入香港本地视觉环境与饮食文化元素。[M+](https://www.mplus.org.hk/en/exhibitions/design-ah-experience-the-wonder-of-everyday-design/)
+
+### Project One 灵感
+1. **Pablo Rasgado「Pentimento」：不是事后留下修复痕迹，而是让修复过程本身、连同修复产生的废料，直接成为作品材料——这把"记录与重构"的张力推向了比6月27日拉斐尔长廊修复更彻底的一步** - 拉斐尔长廊修复选择的是"让观者能区分原作与补全部分"的可辨识伦理，仍是修复完成之后的展示姿态；Rasgado则让自己作为艺术家全程驻留在修复工程现场，把工人剥出的历代涂料层、修复废料与重制的殖民时期临摹画直接拼接为最终作品，使"记录者"与"修复施工者"的身份不再可分——修复本身即是创作过程，而非创作的前置准备或事后追认。与Project One的接口：在Gary Works 14号高炉百日停转重砌期间（此前6月24日灵感已讨论这一窗口），如果有机会进入现场，或许不必止步于拍摄重砌过程，而可以尝试收集重砌中拆下的耐火内衬残块、旧管线碎片等实物材料，让这些被替换下来的"工业废料"本身直接进入最终作品的物理构成，使Gary系列的"重构"不止发生在后期编辑或展陈环节，而提前介入到素材采集的现场本身。[相关链接](https://www.theartnewspaper.com/2026/06/26/laboratorio-arte-alameda-pablo-rasgado-exhibition-restoration-mexico-city)
+2. **「From Our Forefathers」：一份未经授权的伪造地图，三年后变成机构认可的常设导览——谁有权重新讲述一座机构的藏品史** - Pentecost-Farren最初的行动是彻头彻尾的"游击"：仿造费城艺术博物馆官方地图的折页，未经许可混入馆方地图堆中分发，让观众在不知情的情况下，借由一份看似官方的文件接触到博物馆叙事之外的气候危机历史；这种"伪造合法性外壳以植入异议内容"的策略与6月18日Project One灵感讨论的GU.PHO摄影节「On Ethics」单元构成正反呼应——前者追问"谁有权使用他人影像"，这里则反过来追问"谁有权重新编写机构自己的官方叙事"。与Project One的接口：可以考虑为Gary Works设计一份视觉上模仿其官方厂区导览图或企业宣传册样式的"非官方版本"，在其中标注官方叙事通常省略的内容（工伤事故地点、罢工历史、环境监测超标记录），让"谁被允许讲述Gary"这一核心命题，从抽象追问变成一份可以被偷偷塞进游客手中的具体纸张。[相关链接](https://www.theartnewspaper.com/2026/06/22/climate-change-museum-tours-philadelphia-aislinn-pentecost-farren-artphilly)
+3. **瓦哈卡绿色凝灰岩：建造一座城市的石材本身，也会经历自己的"去工业化"——供应源耗竭后，城市的肌理就此被锁定在某个历史时刻** - 这则新闻最具启发性之处，不是石材获得了一项地质学荣誉认证，而是报道附带的细节：曾经供应整座瓦哈卡历史中心建材的原始采石场如今已全部关闭，这座城市此后只能依赖现存的、需严格管控的Etla谷地矿藏——一座城市的物理外观，从此被永久定格在"过去某个开采高峰期"所留下的存量之中。这与Gary钢铁厂构成一种跨物质尺度的呼应：Gary Works本身所依赖的铁矿石、焦煤等原料链条，同样来自其他正在枯竭或已关闭的中西部矿区，钢铁城市的命运从一开始就嵌套在更上游的采掘地理之中。与Project One的接口：可以尝试为Gary系列追加一层"物质溯源"维度——不止记录钢厂本身的废墟状态，也尝试标注或考证建造、运转这座钢厂所依赖的铁矿石、煤炭等原料具体来自美国哪些矿区，其中有多少同样已经停产或废弛，让Anna Tsing"contamination"理论中"没有一种废墟是孤立的"这一命题，获得一条具体可考的供应链证据。[相关链接](https://www.theartnewspaper.com/2026/06/24/oaxaca-green-tuff-international-heritage-designation-geologists)
+
+---
+
 ## 2026-06-27
 
 ### 艺术圈新闻
