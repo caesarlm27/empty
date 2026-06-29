@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-06-29
+
+### 艺术圈新闻
+1. **Carrie Blast Furnaces 推出金属艺术驻留工坊** - 匹兹堡的废弃钢铁厂 Carrie Blast Furnaces 国家历史遗址近日开设金属艺术驻留工坊，邀请艺术家在保留原始工业结构的炉体内创作大型金属雕塑。[原文链接](https://www.post-gazette.com/local/region/2026/06/28/carrie-furnaces-steel-arts-metal-pittsburgh/stories/202606280108)
+2. **《Lacock by Martin Parr》遗作展开幕** - Fox Talbot 摄影博物馆（National Trust）展出 Martin Parr 在去世前重返英国村庄 Lacock 拍摄的最后系列，时隔四十年再访同一地点。[原文链接](https://www.nationaltrust.org.uk/visit/wiltshire/lacock)
+3. **Magnum Gallery 巴黎推出"Under the Same Sun"双人展** - 展览将 Herbert List 1930-50 年代地中海与波罗的海摄影，与 Zied Ben Romdhane 当代突尼斯海岸影像并置，探讨同一片海岸线跨越近一个世纪的回响，6 月 27 日至 9 月 12 日于巴黎 Magnum Gallery 展出。[原文链接](https://www.magnumphotos.com/newsroom/)
+
+### Project One 灵感
+1. **工业废墟的"再激活"** - Carrie Furnaces 没有被修复成博物馆式的静态展品，而是继续作为创作现场被使用——废墟并未被"完成"，而是被重新赋予生产性，呼应 canvas 中「废墟里的生命」节点，可与 Gary Works 的语境对照。[相关链接](https://www.post-gazette.com/local/region/2026/06/28/carrie-furnaces-steel-arts-metal-pittsburgh/stories/202606280108)
+2. **逝者最后的凝视与"记录-重构"张力** - Parr 在生命尽头重返四十年前拍摄过的同一个村庄，遗作系列让"记录"本身带上了不可逆的时间印记——摄影者已缺席，但影像仍在场，直接对应 Artist research 中「缺席者的痕迹」与巴特"那个东西真的在那里存在过"的张力。[相关链接](https://www.nationaltrust.org.uk/visit/wiltshire/lacock)
+3. **同一片海岸，跨越世纪的回响** - List 与 Ben Romdhane 的并置展示了同一地理位置在不同历史时刻被重新观看、重新书写——没有"原初"的海岸可以回去，只有层层叠加的影像，呼应 Tereza Zelenkova／Anna Tsing 笔记中"没有未被污染的过去可以回去"。[相关链接](https://www.magnumphotos.com/newsroom/)
+
+---
+
 ## 2026-06-28
 
 ### 艺术圈新闻
