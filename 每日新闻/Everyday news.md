@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-06-30
+
+### 艺术圈新闻
+1. **JR「La Caverne du Pont-Neuf」6月28日闭幕、6月29日起正式拆除：致敬克里斯托的巨型装置完成使命，所用织物将通过法国非营利组织开展的社会项目获得"第二次生命"** - 这件向克里斯托与让娜-克劳德1985年《新桥包裹》致敬的沉浸式装置，在历经五月暴雨、冰雹与连续九天热浪的施工考验后，于6月28日正式闭幕，拆除工程持续至7月13日；施工期间JR刻意保留风暴造成的黑色修补痕迹，未将其抹去。[原文链接](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/322544-the-pont-neuf-cave-the-latest-on-jr-s-giant-installation-our-photos) · [ARTnews](https://www.artnews.com/art-news/news/venezuela-artist-earthquake-jr-dismantled-morning-links-1234790592/)
+2. **环保团体6月24日正式起诉美国环保署（EPA）：指控其逾九个月未对Gary Works空气许可证申诉作出回应，违反《清洁空气法》强制时限** - 环境诚信项目（EIP）、伊利诺伊环境法律与政策中心（ELPC）等四家团体诉称，美国钢铁Gary厂区现行Title V运营许可证缺乏充分的监测与合规条款，无法确保其遵守关键的空气污染限值；该申诉早在2025年7月即已提交，EPA法定60天内须裁决，至今逾九个月未予回应。[原文链接](https://www.cbsnews.com/chicago/news/groups-sue-epa-us-steel-gary-works-lake-county-indiana/) · [Environmental Integrity Project](https://environmentalintegrity.org/news/groups-sue-epa-over-u-s-steel-gary-works-air-permit/)
+3. **英国跨党派议会委员会6月29日发布报告，批评政府对国家级博物馆采取"放手不管"态度：15家受资助机构资金实际削减16%，董事会平均逾219天才能完成一个空缺席位的任命** - 报告指出，文化、媒体与体育部（DCMS）对这些机构是否物有所值缺乏清晰掌握，部分馆藏仍面临网络安全与实体安防的双重隐患。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/29/what-does-the-latest-parliamentary-report-on-financial-resilience-in-uk-government-sponsored-museums-reveal)
+4. **2026惠特尼双年展新一轮评论聚焦"基础设施"主题：ARTnews刊文指出本届双年展以官僚式视觉语言取代身份政治叙事** - 评论特别点出Sung Tieu以美国压裂井警报声景与化学品分类编码组成的《System's Void》、Nani Chacon将沙画与电力高塔并置呈现纳瓦霍领地能源外送史的《Our Gods Are Below Us》、David L. Johnson展出从纽约私有化"公共"公园拆下的行为准则告示牌《Rule》等作品。[ARTnews](https://www.artnews.com/art-in-america/aia-reviews/whitney-biennial-2026-systems-infrastructure-andrea-fraser-carmen-de-monteflores-emilie-gossiaux-david-johnson-1234775255/)
+5. **苏富比6月24日伦敦Joe Lewis收藏拍卖落槌，含佣金成交额达2.963亿英镑，刷新英国史上最贵单一藏家专场纪录** - 莫迪利亚尼《Nu assis au collie》以4820万英镑（含佣金）成为全场最高价拍品，亚洲买家通过苏富比亚洲区主席Wendy Lin竞得多件高价拍品；《The Art Newspaper》6月29日跟进评论指出，单季拍卖纪录并不足以扭转艺术市场整体趋势。[The Art Newspaper](https://www.theartnewspaper.com/2026/06/25/in-a-boost-for-london-sothebys-evening-sale-of-joe-lewis-collection-becomes-most-expensive-sold-in-uk) · [后续评论](https://www.theartnewspaper.com/2026/06/29/why-one-season-of-successful-auctions-wont-transform-the-art-market)
+
+### Project One 灵感
+1. **JR「黑色伤痕」与「拆除-再分配」：三重时间层叠的"重构"链条——克里斯托1985年原作、JR 2026年致敬装置、拆解后流入社会项目的织物碎片** - 这次拆除最值得记录的细节，是JR在施工期间主动保留暴雨造成的黑色修补痕迹，拒绝将其抹平成"完美"的致敬之作——这与项目此前讨论的"可辨识修复痕迹"伦理一脉相承，但JR更进一步：装置本身的终点不是被封存或拆毁丢弃，而是化整为零，经由非营利组织重新进入流通。与Project One的接口：可以借鉴这种"三重时间层叠"的结构思考Gary系列的终局——记录的影像、被替换下的厂区实物残件、未来这些残件可能流向的二次用途，三者是否可以在最终呈现中被同时标注，让"重构"不止发生一次，而是持续发生。[相关链接](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/322544-the-pont-neuf-cave-the-latest-on-jr-s-giant-installation-our-photos)
+2. **Gary Works EPA诉讼：把 Anna Tsing 的 contamination 理论从隐喻拉回具体法律文本——污染监测条款的"缺失"本身就是一种未被记录的废墟** - 这场诉讼最关键之处不在于污染本身，而在于环保团体指控的核心是"监测与合规条款不充分"——换言之，争议焦点是污染能否被精确记录、被纳入官方档案，而非污染是否存在。这与项目反复追问的"谁有权记录、谁的记录被采信"高度同构：Gary厂区此刻正同时是摄影研究对象与法律文本斗争的现场。与Project One的接口：调研阶段可以尝试调取诉讼文件中列举的具体监测漏洞清单，作为Gary系列的"证据文本"层，与现场影像并置，让contamination理论获得一份可考的法律档案依据，而不止是地质或物质层面的隐喻。[相关链接](https://www.cbsnews.com/chicago/news/groups-sue-epa-us-steel-gary-works-lake-county-indiana/)
+3. **惠特尼双年展的"官僚美学"：用警报声景、分类编码与拆下的告示牌，而非戏剧化的衰败画面，呈现基础设施体系的存在与缺席** - Sung Tieu、Nani Chacon、David L. Johnson三件作品的共同方法论，是拒绝用废墟的视觉奇观去打动观者，转而采用警示系统的声音、官方分类编码、被移除的行为准则标牌这类冷峻、近乎档案性的语汇，让"基础设施如何规训与排除"自己显形。与Project One的接口：在Gary系列的呈现策略上，可以参考这种"官僚语汇"的对照路径——除了拍摄高炉与车间的物理衰败，也收集、复制厂区内部的安全告示、监测标识、官方文件式的语言本身，让"体系"的存在感不只依赖废墟美学，也通过这类冷峻档案物件被并置呈现。[相关链接](https://www.artnews.com/art-in-america/aia-reviews/whitney-biennial-2026-systems-infrastructure-andrea-fraser-carmen-de-monteflores-emilie-gossiaux-david-johnson-1234775255/)
+
+---
+
 ## 2026-06-29
 
 ### 艺术圈新闻
