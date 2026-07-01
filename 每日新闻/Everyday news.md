@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-01
+
+### 艺术圈新闻
+1. **阿尔勒摄影节2026「Worlds in View / 诸世界入镜」7月6日启幕：第56届聚焦非洲影像史与解放叙事，William Klein百年回顾、Sammy Baloji采掘档案装置、「Ghana! 1957–1976」同期亮相** - 开幕周7月6-12日，逾40场展览遍布阿尔勒历史城区；Klein百岁回顾展「This Way to Heaven」追溯其超越城市书系的政治批判维度；Baloji新作「Paysage prisme」将家族照片与刚果卡坦加采矿档案并置；非洲独立摄影群展「Ghana!」收录James Barnor等人影像；整届展期至10月4日。[Rencontres d'Arles](https://www.rencontres-arles.com/en/opening-week-1) · [PhMuseum](https://phmuseum.com/festivals/les-rencontres-darles-2026)
+2. **Ana Mendieta 泰特现代美术馆大型回顾展7月9日伦敦开幕：150余件作品重现「Silueta Series」，十余年来英国最完整Mendieta回顾** - 展览位于Blavatnik Building二层，汇集标志性的「Silueta」系列——用身体在土地上压印轮廓后点燃或以花草填充，拍摄"身体已离、形状仍在"的瞬间——并加入新修复影片、罕见早期绘画与晚期雕塑，展期至2027年1月17日。[Tate Modern](https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta)
+3. **国际摄影中心（ICP）「Yves Saint Laurent and Photography」持续展出至9月28日：约300件影像原作追溯时装与摄影如何相互构造彼此遗产** - 展览6月11日已开幕，汇集Richard Avedon、Irving Penn、Helmut Newton、Guy Bourdin、William Klein等四十年来的摄影大师原作，是Musée Yves Saint Laurent Paris与Fondation Pierre Bergé携手带来纽约的旗舰展项。[ICP](https://www.icp.org/exhibitions/yves-saint-laurent-and-photography)
+4. **EPA将Gary Works等钢铁厂有害气体排放新标准执行期推迟至2027年4月：3年空白期估算将额外释放120吨苯、砷、铬等致癌污染物** - 2024年最终确定的《铁与钢铁国家有害气体排放标准》原定于2026年起执行，要求包括Gary Works在内的美国高炉削减致癌物排放；EPA随后以"过渡期"为由将执行推迟至2027年4月，环保倡导者指出印第安纳、密歇根、俄亥俄等钢铁社区将在法规生效前额外暴露于120吨有害污染之中。[The Statehouse File](https://www.thestatehousefile.com/partners/epa-rollbacks-leave-gary-at-risk-from-air-pollution-and-steel-emissions/article_78b5c46f-d191-482f-ba6d-8d65644743e4.html)
+5. **Aperture发布「2026年夏季9个不可错过摄影展」指南：Widline Cadet密尔沃基美术馆首个美国博物馆个展、巴黎MEP的Camille Vivier个展入列** - Widline Cadet「Seremoni Disparisyon」（密尔沃基艺术博物馆，至8月9日）以精心布景的摄影与录像呈现加勒比离散社群的消失仪式与集体哀悼；法国时装摄影师Camille Vivier在巴黎MEP的首个美术馆个展（至9月20日）延续超现实主义传统，为本夏摄影展季提供两种截然不同的"仪式与遗留"路径。[Aperture](https://aperture.org/editorial/9-exhibitions-to-see-this-summer-2026/)
+
+### Project One 灵感
+1. **Sammy Baloji「Paysage prisme」：把家族相册与采掘档案字面并置的方法论——"接触区"在展墙上是两摞实体档案的物理碰撞** - Baloji这件新作最值得借鉴的是操作方式：将外祖父家族老照片、巴黎马赛杂志对刚果卡坦加矿区的历史报道与当代采矿现场影像同框并置，没有图注试图调解两者的张力，让观者在宏大史与微型家族史之间自找裂缝。与Project One的接口：可以参考这种"双重档案"结构——一摞是Gary Works的工业官方影像（企业宣传册、钢铁工会档案），另一摞是从退休工人社区征集的家族私人照片；两者并置而不强行解释，让"大叙事与私人痕迹"之间的张力成为作品驱动力，呼应Anna Tsing"没有未被污染的过去可以回去"——连家族记忆本身也早已与工业史纠缠不清。[Rencontres d'Arles](https://www.rencontres-arles.com/en/expositions/view/581/sammy-bajoli)
+2. **Ana Mendieta「Silueta Series」：痕迹与缺席同步发生——"消失"不是事后留下印记，而是消失过程本身被捕捉的形状** - Mendieta的方法不是拍摄空旷废墟，而是先用身体在土地压印轮廓，再点燃或用花草填充、然后拍摄"人已走、形状仍在燃烧"的瞬间——痕迹与缺席同步，而非"缺席之后才留痕"。与Project One的接口：在Gary钢厂拍摄时，可以寻找类似的"同步性痕迹"——被无数双手摩挲成光滑弧面的铁扶手、磨损地板上仍可辨认的脚步路径、烟熏在墙面留下的人形阴影——让缺席通过仍可辨识的身体轮廓显现，比仅靠遗留物件的存在更直接地呼应Sophie Ristelhueber"关于人的证据，但没有人的在场"。[Tate Modern](https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta)
+3. **EPA执行延迟：「污染」被官僚程序合法推迟——Gary Works的contamination此刻同时是大气物质现实与行政文件制造的制度性空白** - 这条新闻最值得关注的不是"污染仍在继续"（这是Gary数十年既定现实），而是：一项2024年已经写入法规的改变，被一份"过渡期"决定主动推至2027年4月。这意味着contamination在Gary具有两个并行维度：大气中持续排放的物质维度，与监管空白被官方文件合法化、拖延记录的制度维度。与Project One的接口：Anna Tsing"contamination"的核心洞见是污染从不是意外、而是被纳入体系的结果——EPA这份延迟执行决定，以最具体的行政档案形式证明了这一点：官僚程序正在"制造"3年的合法污染时间窗口。这份文件本身，是比废墟影像更精确、也更难以反驳的"contamination档案"，值得在Project One的文献层被正式引用——与6月30日灵感中"监测条款缺失本身就是废墟"形成互补，那是法律诉讼维度，这是行政执法维度。[The Statehouse File](https://www.thestatehousefile.com/partners/epa-rollbacks-leave-gary-at-risk-from-air-pollution-and-steel-emissions/article_78b5c46f-d191-482f-ba6d-8d65644743e4.html)
+
+---
+
 ## 2026-06-30
 
 ### 艺术圈新闻
