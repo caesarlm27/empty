@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-02
+
+### 艺术圈新闻
+1. **Cortona On The Move 2026「Beautiful Country」7月16日开幕：Candida Höfer拍摄意大利大型公共空间之"完美之美"、Joel Sternfeld以大画幅彩色摄影重游罗马郊外帝国废墟入列** - 第16届托斯卡纳国际摄影节（至11月1日），策展人Renata Ferri拒绝"明信片式"意大利，以"侵蚀景观、城乡边缘、社会转型裂缝"为主轴；Höfer「Perfetta bellezza」以正面构图呈现2003-2012年间意大利图书馆、剧院等大型公共空间；Sternfeld「Campagna Romana」（1989-1991）将凝视投向"废墟与帝国过去保持不变关联"的罗马郊野；旗舰委任项目「Peninsula」邀请十位艺术家直面国家的边界与临界景观。[Cortona On The Move](https://www.cortonaonthemove.com/en/)
+2. **Meghann Riepenhoff「Upwelling」随阿尔勒摄影节7月6日开幕：无相机蓝晒法将水、风化、污染与气候不稳定性直接压印纸面，刻意保留化学活性让作品持续被环境重塑** - 此展属阿尔勒2026"生命形式"单元；Riepenhoff放弃相机，让海水、降水、污染物在光敏蓝晒纸上直接留下痕迹，且刻意保持化学反应活性，展出期间作品仍被环境持续塑造——"看起来不像自然图像，更像被说服短暂变成纸张的天气事件"，展期至10月4日。[LensCulture 阿尔勒预览](https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview)
+3. **李禹焕（Lee Ufan）7月2日于葡萄牙塞拉尔维斯基金会（Serralves）开幕首个葡萄牙大型个展：横跨别墅与公园展出，庆贺艺术家九十岁** - 由基金会主席Philippe Vergne策划，展期至2027年1月；这是全球三场庆贺九十岁展览之一，首次将其写作译为葡萄牙语出版；展览核心是李禹焕关于"已完成与未完成、空间与语境、时间感知"的持续探索，利用别墅内部与公园两种截然不同的空间尺度并置呈现。[The Art Newspaper](https://www.theartnewspaper.com/2026/05/06/lee-ufan-i-try-to-bring-together-those-things-which-are-made-and-unmade)
+4. **Aperture宣布9月18日于纽约上西区380 Columbus Avenue正式开设永久新家：首展「Aperture Loves New York」向塑造这座城市的摄影师致敬** - 两层临街空间设书店、灵活展览区与工作室，位于美国自然历史博物馆正对面；资本募款已逾1600万美元（目标2000万）；这是成立于1952年的Aperture七十余年来首次拥有完全属于自己的永久空间，开幕日期正式确认。[Aperture](https://aperture.org/press-release/aperture-announces-opening-of-new-permanent-home-on-september-18-2026/)
+5. **MoMA首个北美Marcel Duchamp半世纪大回顾持续至8月22日：约300件作品从早期绘画到《喷泉》与《大玻璃》，「Boîte-en-Valise」箱中盒系列成展览跳动核心** - Frieze评论指出展览在"传说的阴影里让杜尚消失"；「Boîte-en-Valise」是杜尚在二战流亡期间将所有作品制成微缩复制品装入可携带手提箱的系列，本身即是一件关于档案、流通与真实性的装置；10月将移师费城艺术博物馆。[MoMA](https://www.moma.org/calendar/exhibitions/5820) · [Frieze评论](https://www.frieze.com/article/marcel-duchamp-2026-review)
+6. **巴塞罗那「Experimental Photo Festival 2026」7月22-26日举行：逾300位国际摄影师五天密集展演，涵盖讨论、展览、工作坊与作品集评审** - PhMuseum将其列入七月最重要的国际摄影活动；每天从上午10点持续至午夜，提供会议、项目呈现与实验摄影展览的密集交流空间。[PhMuseum](https://phmuseum.com/festivals/experimental-photo-festival-2026)
+
+### Project One 灵感
+1. **Meghann Riepenhoff「Upwelling」：把"contamination"从隐喻变成字面的化学工序——刻意让污染物成为图像本身的制造者** - Riepenhoff最彻底之处：不用相机，让海水、降水与污染物直接在光敏蓝晒纸上留下痕迹，且刻意保留化学活性，使展览期间作品仍持续被环境塑造——这与Anna Tsing"contamination"理论构成极精确的实践对话：污染不是需要被记录的外部现象，而是图像生成过程的组成部分，图像本身就是被污染的产物。与Project One的接口：Gary Works周边空气与水中持续存在的污染物（苯、砷、铬）是否可以直接介入摄影过程？用Gary Works附近取来的水冲洗胶片或处理相纸，让"Gary的污染"成为图像化学过程的物质参与者而非仅仅是拍摄对象，使contamination在图像中字面在场，而非停留在隐喻层面——这将与6月30日EPA延迟执行条目讨论的"行政档案层"形成互补：一是法律文件层，一是物质图像层。[相关链接](https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview)
+2. **Joel Sternfeld「Campagna Romana」：用大画幅彩色摄影重游罗马郊外废墟——"废墟与帝国过去的关联保持不变"的平静凝视** - Sternfeld追随大旅行时代画家赴罗马的路线，在1989-1991年以大画幅相机拍摄帝国废墟与当代生活并存的郊野景观：不干预、不戏剧化，让废墟在平静的尺度中与现代景观共存——这与Sophie Ristelhueber"关于人的证据，但没有人的在场"构成时间维度的呼应：古罗马废墟留下的是帝国行为的证据，Sternfeld的郊野则让废墟自然延续在现代景观中。与Project One的接口：大画幅相机的缓慢与仪式性，是应对"宏大废墟"的有效策略——Gary Works同样是一座有帝国色彩的宏大工业废墟，大画幅的操作节奏会逼使拍摄者慢下来，在等待的过程中发现废墟与周边生活共存的"平静时刻"，而非只捕捉戏剧性衰败瞬间；呼应canvas中"为什么偏偏是废墟"节点——废墟本身是平静的，我们赋予它戏剧性。[相关链接](https://www.cortonaonthemove.com/en/)
+3. **Duchamp「Boîte-en-Valise」：把整个档案压缩进一个可携带的箱子——流亡中发明的"移动档案"作为一种重构形式** - 杜尚在二战流亡期间将自身所有作品制成微缩复制品装入手提箱，迫不得已的保全行为却创造了一件关于"档案、流通与真实性"的作品：原作在博物馆，"全部原作"也同时在一只可随身携带的箱子里——这使巴特"那个东西真的在那里存在过"这一命题获得了双重性，到底哪件才算"在那里存在过"？与Project One的接口：在规划Gary系列最终呈现形式时，可参考「Boîte-en-Valise」逻辑——将整个项目制作成一套完全自足的"可携带档案"（小册子、底片切条、地图页、物件样本），装进一个可带到任何地方展开展示的实体容器，让项目在正式博物馆渠道之外拥有一个平行的、可携带的档案形式，呼应Gary Works本身已被搁置在美国主流叙事的"可携带记忆"之外这一处境。[相关链接](https://www.moma.org/calendar/exhibitions/5820)
+
+---
+
 ## 2026-07-01
 
 ### 艺术圈新闻
