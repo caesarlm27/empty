@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-06
+
+### 艺术圈新闻
+1. **Stan Douglas「Bodies Never Lie」7月4日于LUMA阿尔勒开幕：新作《Exquisite Corpse》将弗拉明戈作为弗朗哥独裁下编码的身体抵抗语言，三组摄影系列追溯集体记忆与权力的构建史** - 加拿大艺术家Douglas横跨电影、摄影与装置的创作始终追问历史如何被建构、被调解与被争夺；核心新作《Exquisite Corpse》设定于1950年代弗朗哥压迫下的西班牙，以弗拉明戈既是被审查的艺术形式、又是阶级与政治认同的编码传递渠道——Agnes De Mille "身体从不说谎"一语成为全展核心命题，展期至2027年1月10日。[LUMA Arles](https://luma.org/en/arles/whats-on/bodies-never-lie)
+2. **Saodat Ismailova「Amanat，圣林」7月4日于LUMA阿尔勒开幕：以吉尔吉斯斯坦现存最大核桃林——传说中先知托付大地的圣地——为终章，凝视精神遗产在变动边界与帝国力量中的断裂** - 展览以2026年新委任影片《Amanat》（意为"被托付守护之物"）为核心，追踪伊斯兰传说中穆罕默德赐予中亚的阿尔斯兰博布圣林如何成为精神传承节点，又如何在帝国侵蚀与迁移中经历无声断裂；联合委任方Swiss Institute、LUMA Foundation与伯尔尼美术馆，展期至2027年1月10日。[ArtDaily](https://artdaily.com/news/197696/LUMA-Arles-opens-Saodat-Ismailova-solo-exhibition--Amanat--The-Sacred-Forest-)
+3. **ArtReview7月深度评论Jupiter Artland「Extraction」：苏格兰早期石油工业遗留页岩堆"bings"1975年被John Latham命名为"过程雕塑"，展览追问能源转型将留下何种新废墟** - 展览汇聚Carol Rhodes、John Gerrard（超写实动画《Flare，Oceania》以海面气焰折射化石燃料与民族主义的纠缠）、Marguerite Humeau、Siobhan McLaughlin与已故John Latham五位艺术家；评论者Gabriel Levine Brislin指出，Bonnington庄园背后的锈红色平顶土丘被Latham指定为"过程雕塑"，构成苏格兰能源史的地质纪念碑——它仍在缓慢下沉，仍在被苔藓重新覆盖，废墟的过程并未结束。[ArtReview](https://artreview.com/extraction-jupiter-artland-review-gabriel-levine-brislin/)
+4. **第16届光州双年展公布43组参与艺术家：Matthew Barney、Tehching Hsieh、Nina Canell等入列，主题「你必须改变你的生命」，9月5日至11月15日** - 由Ho Tzu Nyen领衔与Che Kyongfa、Park Gahee、Brian Kuan Wood联合策划，灵感取自里尔克诗句《古典雕像的残躯》末行，是历届参与规模最精简的一届，聚焦艺术实践如何回应时代多重危机并激活新的生命形态，9月5日于韩国光州开幕。[ArtReview](https://artreview.com/gwangju-biennale-2026-announces-artist-list/)
+5. **Peter Hujar「Hujar:Contact」摩根图书馆至10月25日：逾5700张接触印相纸册首次系统呈现，《巴黎评论》7月1日深度撰文称其为"放大之前摄影师思维的最诚实档案"** - 展览涵盖110余张带标注的接触印相纸册，呈现Hujar对Marsha P. Johnson、Patti Smith、David Wojnarowicz等人的拍摄选择轨迹；《巴黎评论》Nicholas Gamso撰文指出，接触印相纸册将"被选中"与"被放弃"共存于同一张纸，编辑决策的内在过程首次被后人追踪；配套书由MACK出版，展期至10月25日。[The Morgan Library](https://www.themorgan.org/exhibitions/hujar-contact) · [Paris Review](https://www.theparisreview.org/blog/2026/07/01/saint-peter-hujars-contact-sheets-at-the-morgan/)
+
+### Project One 灵感
+1. **Jupiter Artland「Extraction」"bings"作为"过程雕塑"：命名废墟不是固化它，而是承认它仍在做事——废墟有自己的时间性** - Latham在1975-76年将苏格兰早期石油工业遗留的燃烧页岩堆命名为"过程雕塑"，这一命名包含核心悖论：废墟是持续进行的"过程"而非终点——它仍在缓慢下沉、被植物重新占据、被降雨冲蚀，废墟是活的，不是"已完成的遗迹"。这与Anna Tsing"废墟里仍有生命"构成精确的物质呼应。与Project One的接口：在Gary Works的拍摄框架中，可以为拍摄到的每个具体区域寻找一个揭示"仍在进行的过程"的称谓（"渗漏区"、"返绿区"、"热胀冷缩裂纹带"），让废墟影像不再只是终点的记录，而成为追踪某种尚未完成的变化过程的连续文献，回应canvas"为什么偏偏是废墟"节点——废墟不是已死之物，而是正在变成其他某种东西的过渡状态。[相关链接](https://artreview.com/extraction-jupiter-artland-review-gabriel-levine-brislin/)
+2. **Stan Douglas「Exquisite Corpse」：找到压迫体制无法完全清除的表达形式——弗拉明戈如何以身体编码无法言说的抵抗** - Douglas以弗朗哥时代的弗拉明戈为研究对象，因为这种艺术形式在高度审查环境下发展出把政治异见转化为舞步节奏与即兴变化的编码系统——真正的内容无法被直接说出，却通过"身体从不说谎"被保留并传递。这与Taryn Simon"照片如何模糊现实边界"形成平行命题：两者都追问"当直接言说被禁止时，什么形式的记录可以保留真相的形状"。与Project One的接口：Gary Works退休工人在公司档案之外保留的非正式口述——厂区传说、工人之间的私下记忆、被删改的事故记录——正是类似弗拉明戈的"编码叙事"：无法进入官方档案，却通过身体记忆和人际传递被保留；田野调查中专门收集这类"非官方编码叙事"，将为Gary系列提供一层无法被官僚档案覆盖的叙事维度。[相关链接](https://luma.org/en/arles/whats-on/bodies-never-lie)
+3. **Peter Hujar接触印相纸册：哪些废墟被选中进入最终叙事、哪些被留在"放大之前"，本身就是一个关于"谁被允许被看见"的决策档案** - Hujar接触印相纸册的震撼在于让"被选中"与"被放弃"共存于同一张纸，最终放大的图像是一种叙事，但接触印相揭示了在叙事被锁定之前存在的另一种叙事可能性——这与巴特"那个东西真的在那里存在过"形成张力：被放弃的接触印相上的图像，同样"真实存在过"，只是被编辑排除在最终叙事之外。与Project One的接口：在Gary系列最终整理中，可以刻意保留、展示拍摄过程的"接触印相层"（数字拍摄序列，或实际胶片接触印相），让"哪些废墟空间被选中放大、哪些被留在接触印相阶段"本身成为作品诚实的元层次，使"记录与重构之间的张力"获得可视化的编辑档案维度。[相关链接](https://www.theparisreview.org/blog/2026/07/01/saint-peter-hujars-contact-sheets-at-the-morgan/)
+
+---
+
 ## 2026-07-02
 
 ### 艺术圈新闻
