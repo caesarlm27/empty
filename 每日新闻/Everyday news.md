@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-07
+
+### 艺术圈新闻
+1. **Ming Smith「Wandering Light」7月6日于阿尔勒Église Sainte-Anne开幕：历时数十年的最完整回顾展，1979年以首位黑人女性摄影师身份进入MoMA馆藏** - Smith将光视为"一种力量而非照明"，使其模糊、精神性且充满黑人主体内在性的影像长期游离于机构叙事之外；此次回顾是她迄今规模最大的展览呈现，展期至10月4日。[Exibart Street](https://www.exibartstreet.com/news/ming-smith-wandering-light/)
+2. **Harry Gruyaert「A Sense of Place」7月6日于阿尔勒Chapelle Saint-Martin du Méjan开幕：跨越50余年的饱和色彩摄影大回顾** - 比利时Magnum摄影师Gruyaert以饱和色彩见长，其作品被描述为"以色彩为定义元素"的都市视觉爵士乐；此展是阿尔勒2026四大回顾展之一（另三场为William Klein、Martine Barrat、Ming Smith），配合出版社Textuel同名摄影书，展期至10月4日。[Rencontres d'Arles](https://www.rencontres-arles.com/en/expositions/2026/harry-gruyaert-1)
+3. **Lisa Oppenheim「Monsieur Steichen」7月6日于阿尔勒La Mécanique Générale开幕：染料转印工艺+AI复活Steichen命名的已灭绝鸢尾花品种** - Oppenheim以Steichen 1930-40年代曾用过的染料转印技术与人工智能相结合，在档案痕迹基础上重新合成一株1910年被命名的、现已灭绝的鸢尾花"Monsieur Steichen"，并与时装设计师Zoe Latta合作将Steichen未曾面世的丝绸织物图案重新转化为实体布料，展期至10月4日。[Rencontres d'Arles](https://www.rencontres-arles.com/en/expositions/2026/lisa-oppenheim)
+4. **Jean-Marc Bustamante「En Miroirs」7月9日于阿尔勒开幕：法国艺术家将12世纪教堂改建为Fonds Bustamante基金会，首展邀请Cristina Iglesias、Rodney Graham、Franz West等对话** - 门面饰有Bustamante以搪瓷熔岩砖向梵高致敬的装饰带；基金会主体La Nef为展览空间，Les Collatéraux容纳研究中心与咖啡馆，计划每年与阿尔勒摄影节和素描节同步推出两档大展，展期至10月31日。[FAD Magazine](https://fadmagazine.com/2026/06/04/fonds-bustamante-arles-en-miroirs/)
+5. **Maurizio Cattelan荣获2026年德国国家美术馆奖（Preis der Nationalgalerie）：首场德国大型个展「NIGHT」9月于柏林新国家美术馆开幕，至2027年3月** - 评审团由Pinault Collection馆长Emma Lavigne、Fondation Beyeler馆长Sam Keller与Neue Nationalgalerie馆长Klaus Biesenbach一致选出；这是Cattelan在德国的首次大型机构个展，探讨"尖锐幽默与深刻的社会结构反思"。[ARTnews](https://www.artnews.com/art-news/news/the-2026-preis-der-nationalgalerie-maurizio-cattelan-1234760575/)
+6. **Michael Landy「Future Ruins」10月14日于伦敦约翰·索恩爵士博物馆开幕（至2027年1月17日）：将英格兰银行、海湖庄园、纽约证券交易所等现存权力建筑描绘为废墟** - 受Gandy 1798年描绘英格兰银行为罗马废墟的水彩画启发，Landy延续对资本主义与毁灭关系的长期追问；英格兰银行废墟版本保留Union Jack在残垣上飘扬，以极精密的素描技艺呈现"仍在运转的机构"的假想废墟状态。[Sir John Soane's Museum](https://www.soane.org/exhibitions/michael-landy-future-ruins)
+
+### Project One 灵感
+1. **Michael Landy「Future Ruins」：将仍在运作的权力建筑想象为废墟——废墟化是测量当下权力状态的一种方法** - Landy的操作逻辑：不是预测未来，而是用废墟这种形态来测量机构现在仍在运转时的性质——英格兰银行废墟化后露出空洞内核，Union Jack仍飘扬于残垣，这比任何批评文本都更直白地揭示了机构本质。与Project One的接口：Gary Works已是物理废墟，但Landy提示了一条反向路径——在废墟里寻找"仍在运作的权力痕迹"（仍生效的环境许可证、仍在收取地租的土地所有权、仍在运行的部分设施），在废墟里标注未终结的权力关系，让Gary叙事不只是终点，而是一个权力过渡状态的中间形态，回应canvas"为什么偏偏是废墟"节点——废墟不意味着权力已经结束。[相关链接](https://www.soane.org/exhibitions/michael-landy-future-ruins)
+2. **Lisa Oppenheim：用灭绝物种的档案痕迹重新合成其形状——这是"记录与重构"张力的字面实践** - Oppenheim的操作：原花已灭绝，但它留下了1910年的植物学描述、Steichen的记录、档案照片；这些痕迹被重新组织，配合同时代技术，让已灭绝的事物在物理上再次存在。这与Gary Works构成镜像：钢厂仍有物理废墟，但"运转中的Gary Works"这一状态也已"灭绝"——现有的影像档案、工人口述、企业记录，是可以被未来重新合成"它运转时形状"的痕迹集合；Project One在做的，正是为一种已灭绝的工业存在方式建立"档案+重构"的起点，让合成拥有足够的痕迹材料；与Anna Tsing接口：没有未被污染的原初可以回去，但档案允许在污染的废墟上重新合成曾经的形状。[相关链接](https://www.rencontres-arles.com/en/expositions/2026/lisa-oppenheim)
+3. **Ming Smith的光：废墟中"揭示、隐藏与转化同步发生"的主动力量** - Smith将光定义为主动力量而非照明工具，"以同等力量揭示、隐藏并改变"被拍摄对象——这在废墟摄影中有直接操作意义：Gary Works破损屋顶倾泻而下的强光、沿锈蚀管道折射的侧光、窗洞投射在积尘地面的长方形光斑，既在揭示衰败的物质细节，同时也在重新创造一个当下的平行存在；这与Tereza Zelenkova"废弃的房间里腐烂的内脏却可能出人意料地充满活力"形成精确的视觉方法论呼应：找到光主动作用于废墟的时刻，而非只把光当工具去照亮一个已死的空间。[相关链接](https://www.exibartstreet.com/news/ming-smith-wandering-light/)
+
+---
+
 ## 2026-07-06
 
 ### 艺术圈新闻
