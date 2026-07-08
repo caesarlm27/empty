@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-08
+
+### 艺术圈新闻
+1. **David Wojnarowicz「some day this will all be crumbling ruins」在格拉斯哥The Modern Institute展出至8月28日：苏格兰首展将艺术家毕生的废墟观置于一座被剥至砖石的前夜总会四层楼内** - 展览呈现Wojnarowicz 1978年《亚瑟·兰波在纽约》系列摄影、哈德逊河废弃码头时期的画作与装置及早期绘画；Frieze将其列为Glasgow International 2026首推展览，指出"废弃工业水岸滋养了酷儿创作与情欲活动，在废墟中游走是一种行动方法论"；《苏格兰人》五星评级称其为"格拉斯哥今夏真正的惊喜"，Wojnarowicz在此前从未在苏格兰举办个展。[The Modern Institute](https://www.themoderninstitute.com/exhibitions/some-day-this-will-all-be-crumbling-ruins-2026-06-05/10003/) · [AnOther](https://www.anothermag.com/another-man/17232/david-wojnarowicz-world-the-modern-institute-crumbling-ruins-john-douglas-millar)
+2. **Gabriel Orozco「Public Nature」7月8日于纽约、芝加哥、波士顿300个JCDecaux公交候车亭同步亮相：12幅视错觉摄影将自然与城市基础设施的边界溶解于日常公共空间** - 这是Orozco首件委任摄影系列、也是其在美国最大规模公共艺术项目：管道上缠绕的藤蔓、垃圾堆形成的地形、混凝土墙里生长的树，安装于候车亭后"树根仿佛延伸入人行道、树枝与街边真实树木相接"；展期至9月6日。[Public Art Fund](https://www.publicartfund.org/exhibitions/view/2026-exhibitions/)
+3. **Sasha Kurmaz《Red Horse》获2026年Kraszna-Krausz摄影书奖：800页乌克兰战争档案将纪实照片、手写记录与捡自街头的现成物混编，以粗粝体量拒绝将战争记录"清理"为可辨识叙事** - 基辅艺术家Kurmaz自2022年俄乌全面战争爆发起持续拍摄，出版方Éditions Images Vevey印制于薄纸、形态紧迫；三人评审团（BJP主编Diane Smyth等）一致通过，与Onyeka Igwe的《June Givanni: The Making of a Pan-African Cinema Archive》共享£10,000奖金。[1854 Photography](https://www.1854.photography/2026/06/sasha-kurmaz-kraszna-krausz/)
+4. **Martine Barrat「Soul of the City」7月6日于阿尔勒Espace Van Gogh开幕：旅居哈莱姆四十余年的法裔摄影师首次获得完整机构回顾，策展人称其"从社区内部还给被拍摄者以温柔与力量"** - Barrat 1968年以舞者身份移居纽约，意外结束舞蹈生涯后用摄像机深耕下东区与哈莱姆数十年；此次为阿尔勒2026四大回顾展之一，由Agathe Cancellieri与Chuck Kelton联合策划，展期至10月4日。[Rencontres d'Arles](https://www.rencontres-arles.com/en/expositions/2026/martine-barrat)
+5. **Clark Winter「Untold Stories」于科隆Zander Galerie展出至8月21日：Artist Research名单中的艺术家在德国举办首个摄影个展，汇聚1970年代美国与南欧黑白摄影** - 展览呈现Winter 1970-2017年间代表作，聚焦七十年代美国城乡细节观察与南欧慢节奏日常，是迄今最完整的Winter摄影综述；他与Curran Hatleberg、Walker Evans同属美国公路摄影传统，长期在金融职业生涯旁平行推进摄影实践。[GalleriesNow](https://www.galleriesnow.net/shows/clark-winter-untold-stories/)
+
+### Project One 灵感
+1. **Wojnarowicz的哈德逊河废弃码头：工业废墟的"不被监控"属性本身就是一种生产条件——被资本放弃的空间，反而可以承载无法在正式空间中发生的生命** - Frieze指出，正是哈德逊河那些废弃工业码头——所有权不清、无保安、无照明、无监控——提供了1970-80年代纽约酷儿社群唯一可用的不受规训的公共空间，"在废墟中游走"成为一种生存与创作的方法论；这与Anna Tsing"废墟里仍有生命"构成精确的社会历史案例：资本撤离不只是终结，也同时创造了新的使用可能。与Project One的接口：Gary Works的物理废弃同样制造了一个"不被监控的在场"——什么人群或活动正在利用Gary厂区的被遗弃属性？城市农耕者、涂鸦者、城市探险者、筑巢的鸟类——这些"废墟使用者"的痕迹，或许正是Gary Works"仍在发生的生命"最具体的视觉证据，直接呼应canvas中Anna Tsing节点，补充已有的"工业废墟"影像叙事。[相关链接](https://www.themoderninstitute.com/exhibitions/some-day-this-will-all-be-crumbling-ruins-2026-06-05/10003/)
+2. **Sasha Kurmaz「拒绝完成」：800页仍在扩增的战争档案，把"记录"本身做成没有终点的进行时——档案的粗粝未整理状态是对仍在继续的现实的唯一诚实回应** - Kurmaz的核心挑战不是体量，而是拒绝把战争档案"清理为可辨识叙事"：捡自街头的现成物、手写随记与纪实照片混编，这种未整理形态被有意保留，因为战争本身仍在继续，把它"清理成书"将是对正在进行的现实的一种不诚实。这与David Campany"图像之间相互共鸣"的策展逻辑形成互补：Campany将档案整理为"对话体系"，Kurmaz则拒绝整理，让粗粝本身成为诚实。与Project One的接口：Gary Works的污染与经济衰退同样是"未结束的状态"（EPA延迟执行尚在进行、工厂仍部分运转）——是否可以借鉴Kurmaz，拒绝把Gary系列"清理为完整叙事"，而是保留调查笔记、被拒绝的申请、监测数据截图等"粗粝材料"作为作品的一部分，让"记录的不完整性"本身成为对Gary仍未终结的现实的诚实回应？[相关链接](https://www.1854.photography/2026/06/sasha-kurmaz-kraszna-krausz/)
+3. **Gabriel Orozco「视错觉：照片安装于现实空间后与真实环境发生字面缝合」——影像从边框扩张进入现实的展示逻辑，让"废墟影像"向外渗透进仍在运转的城市日常** - Orozco的操作机制：一张"树从混凝土墙里生长"的照片安装在公交站后，树根仿佛真延伸入人行道、树枝与街边真实树木相接——照片变成了将"摄影现实"与"当下现实"字面缝合的接合点。与Project One的接口：如果把Gary Works的某一面锈蚀墙体或工业管道照片安装在Gary市区真实街道的公共空间（工地围挡、广告牌），Gary厂区的工业废墟影像与周边仍运转的街道景观之间将产生字面缝合——让废墟不只是隔离在厂区边界内的封闭影像，而向外渗透进城市日常，把"记录"激活为"重构当下空间感知"的展示策略，直接回应canvas中"介入与矛盾"节点。[相关链接](https://www.publicartfund.org/exhibitions/view/2026-exhibitions/)
+
+---
+
 ## 2026-07-07
 
 ### 艺术圈新闻
