@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-09
+
+### 艺术圈新闻
+1. **Orianne Ciantar Olive「Les Ruines Circulaires」7月6日于阿尔勒Maison des Peintres开幕：以倒置胶片追踪已被战争摧毁的贝鲁特—大马士革铁路线，图像材质本身的物理反转与废墟景观的不可穿越性互为映照** - 艺术家2019年试图重走这条铁路重返叙利亚，却被边境封锁阻断，随后折返追溯至战争起点——卡法尔基拉隔离墙；倒置胶片令影像生成于无乳剂的底片基层，使"图像如何被记录"本身成为战争地景的物质隐喻，展期至10月4日。[Rencontres d'Arles](https://www.rencontres-arles.com/en/expositions/2026/orianne-ciantar-olive)
+2. **Aman Alam「Ozymandias」获阿尔勒2025年Serendipity Grant并于7月6日展出：以祖母阿兹海默症进程追问"当记忆本身开始侵蚀，什么会留下"** - 标题取自雪莱描写帝国废墟的同名诗；艺术家将认知衰退的缓慢消逝与摄影的痕迹存留能力并置，令"照片在记忆彻底消失后仍在场"这一悖论成为作品核心驱动力，展期至10月4日。[1854 Photography](https://www.1854.photography/2026/07/les-rencontres-darles-takes-a-broad-worldview-for-its-57th-edition/)
+3. **Nippon Steel确认Gary Works BF#14高炉重砌2026年正式动工：3.5亿美元投资将最大高炉运行寿命延续20年，SteelWatch估算相当于额外制造87 million tCO2e温室气体** - 这是Nippon Steel对Gary Works总计31亿美元投资中的核心工程；高炉重砌使Gary Works同时处于"废弃"与"重新激活"的矛盾中间态，社区团体批评此举将使周边居民再额外承受20年有害气体暴露，等同于23座煤电厂年排放量。[SteelWatch](https://steelwatch.org/press-releases/ns-garyworks-relining/) · [Canary Media](https://www.canarymedia.com/articles/green-steel/nippon-reline-indiana-gary-coal-furnace)
+4. **Massimiliano Gioni 7月8日被任命为New Museum馆长，8月1日正式履新：入馆20年、策划过第55届威尼斯双年展的策展人接替在任26年的Lisa Phillips** - Gioni自2006年加入New Museum，历任策展人与副馆长，2014年起担任艺术总监；他是这家1977年由Marcia Tucker创立的纽约当代艺术机构的第三任馆长。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/08/new-museum-names-massimiliano-gioni-as-new-director)
+5. **布鲁塞尔Kanal-Centre Pompidou未来馆址7月6日夜间发生火灾：空调系统起火无伤亡，建筑档案翼开幕推迟，主馆11月28日开幕计划维持不变** - 这座由前福特汽车大厅改建的巨型文化项目距离正式对公众开放仅数月，屋顶空调系统起火约3小时内扑灭；主展馆及其他翼楼不受影响，计划不变。[Artforum](https://www.artforum.com/news/fire-at-brusselss-kanal-museum-1234754239/)
+
+### Project One 灵感
+1. **Orianne Ciantar Olive「倒置胶片」：让摄影介质的物质状态与拍摄对象的废墟状态同构——不是"用相机记录废墟"，而是"相机本身也承担废墟的物质损耗"** - Ciantar Olive把胶片倒置，影像因此生成于无乳剂的底片基层，图像变得不稳定且物质性损耗；这是一种声明：拍摄战争废墟不能用一种完好无损的介质，图像本身也应该承担同样的物质风险。与Project One的接口：与6月Meghann Riepenhoff"用Gary现场取来的水处理胶片"的讨论形成精确互文，但Ciantar Olive提供了更具操作性的技术路径——Gary Works不是"已被废弃"而是"废弃+运行的混合体"，因此介质的损耗可以是选择性的：让记录"仍在运行的高炉"的影像保持清晰，让记录"废墟区域"的影像在材质层面承担额外损耗，使图像的物质状态与拍摄对象的存在状态字面对应，回应canvas中"介入与矛盾"节点。[相关链接](https://www.rencontres-arles.com/en/expositions/2026/orianne-ciantar-olive)
+2. **Nippon Steel BF#14重砌：Gary Works当下处于"废墟+运行"混合态——旧耐火内衬被拆除与新内衬同时安装，废墟的清理与废墟的制造在同一物理空间同时发生** - 这一时刻以字面的物质方式呈现了Project One核心命题：废墟与工业在场之间边界的消失。类比Pablo Rasgado「Pentimento」（6月28日灵感）的"修复即创作"，Gary Works重砌在工业尺度上重演了同样的逻辑——但修复的不是历史遗址，而是一个污染源；"什么被清理、什么被保留"的决策本身就是一份关于工业资本优先级的政治文件。与Project One的接口：重砌期间是进入Gary Works最具概念密度的时间窗口；SteelWatch的量化数据（87 million tCO2e）可以作为档案材料引入作品，让不可见的污染获得冷峻的数字形态，与canvas中Anna Tsing节点形成具体对应，延续6月以来对Gary Works行政档案维度的讨论。[相关链接](https://steelwatch.org/press-releases/ns-garyworks-relining/)
+3. **Aman Alam「Ozymandias」：雪莱废墟诗的悖论结构——"我是万王之王"的铭文在废墟语境中变成最彻底的反讽，这是Gary Works宏大工业叙事的精确镜像** - Ozymandias的逻辑：宣称权力越宏大，废墟越彻底地暴露其虚妄；照片在记忆彻底消失后仍在场（巴特"那个东西真实存在过"），但照片的原始意图——让人被记住——已对其原始接收者失效。Gary Works曾被宣传为"美国最伟大的钢铁帝国"，废墟正把这个宣称转化为反讽；第一代Gary Works工人的亲历记忆正以生物学的必然速度消逝，现在处于最后的收集窗口期。与Project One的接口：把田野调查中对退休工人的采访明确定位为"在铭文失效之前收集它"的抢救性档案工作，赋予口述史收集一个更清晰的方法论框架——不只是情感记录，而是在权力宣称彻底坍塌、变成废墟的当下时刻，留下一份"铭文仍在"的反记录。[相关链接](https://www.1854.photography/2026/07/les-rencontres-darles-takes-a-broad-worldview-for-its-57th-edition/)
+
+---
+
 ## 2026-07-08
 
 ### 艺术圈新闻
