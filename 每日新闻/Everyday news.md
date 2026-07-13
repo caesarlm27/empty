@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-13
+
+### 艺术圈新闻
+1. **贝叶挂毯7月10日深夜秘密抵达大英博物馆：近千年来首次踏上英国土地，9月10日展览开幕，首日门票10万张当天售罄** - 这件70米长的11世纪刺绣在警察护送、气候控制容器的严密保护下秘密横渡英吉利海峡，是这件描绘1066年黑斯廷斯战役的挂毯在约1000年间首次离开法国；展览9月10日至2027年7月于大英博物馆以全长水平方式首次展出，配合数字解读内容；9月至12月展期所有门票首日公开发售即告售罄。[British Museum](https://www.britishmuseum.org/exhibitions/bayeux-tapestry) · [TIME](https://time.com/article/2026/07/10/historic-bayeux-tapestry-returns-to-u-k-for-first-time-in-900-years-here-s-what-to-know/)
+2. **「Phantom Frame」7月13日获《New City》评论：在圣路易斯国家建筑艺术中心工业遗址语境中，追问建筑废墟碎片如何指向新的历史理解而非单纯指向丧失** - 展览由策展人Allison Lacher与Jeff Robinson策划，5月30日至7月11日于Sauget（圣路易斯郊区）国家建筑艺术中心展出；艺术家Alberto Aguilar、Conrad Bakker、Juan William Chávez、Marina Peng等将建筑装饰残件、工业遗存碎片与景观条件编织为一场"附着与脱离、保存与转化"的追问；评论引用策展声明称"碎片无需仅指向丧失或缺席，而可提供理解历史与记忆的新途径"。[New City](https://art.newcity.com/2026/07/13/spectral-traces-in-the-built-environment-with-phantom-frame/)
+3. **沃霍尔基金会7月9日公布2026春季拨款：向78家视觉艺术机构发放逾516万美元，首次设立预算低于20万美元小型机构专项** - 78家受资助机构中33家为首次入选；"小型机构项目拨款"为今年新增类别，覆盖26个州及墨西哥城、柏林，单笔2万至3万美元；受资助机构包括加州Salmon Arts Creek、明尼阿波利斯Art Shanty Projects等；基金会在美国政府大幅削减文化资助背景下扩张民间艺术拨款规模。[Andy Warhol Foundation](https://warholfoundation.org/2026/07/09/the-andy-warhol-foundation-for-the-visual-arts-announces-spring-2026-grant-recipients/) · [ARTnews](https://www.artnews.com/art-news/news/warhol-foundation-grants-fall-2026-1234791244/)
+4. **白宫7月4日发布162页报告「拯救美国的故事」指控史密森尼国家历史博物馆"意识形态偏向"；史密森尼秘书长Lonnie Bunch 7月10日回击称报告"不实"** - 该报告是特朗普总统命令调查史密森尼"传播不当、分裂性或反美意识形态"的直接结果，重点指控国家历史博物馆涉及种族、性别、移民与性取向的展览扭曲了美国历史叙事；历史学家大规模联署声援博物馆，美国民众以约2:1差距支持政府应放手史密森尼。[TIME](https://time.com/article/2026/07/08/trump-s-attacks-on-the-smithsonian-are-an-attack-on-american-history/) · [Museums Association](https://www.museumsassociation.org/museums-journal/news/2026/07/smithsonian-accused-of-extreme-political-activism-as-america-celebrates-4th-of-july/)
+5. **丹麦路易斯安娜博物馆7月8日宣布举办欧洲首个雷梅蒂奥斯·瓦罗大型机构回顾展「绘画魔法」：9月18日开幕，约70件绘画、素描与摄影，随后移师斯德哥尔摩现代博物馆** - 这是超现实主义西班牙裔墨西哥画家Remedios Varo（1908-1963）有史以来在欧洲最大规模的机构个展；瓦罗19岁赴巴黎、与布勒东、恩斯特、达利、卡灵顿交往，1940年代两度被迫流亡后在墨西哥城进入创作高峰；展期至2027年1月10日。[Louisiana Museum](https://louisiana.dk/en/exhibition/remedios-varo/) · [ARTnews](https://www.artnews.com/list/art-news/news/louisiana-museum-denmark-annouces-remedios-varo-exhibition-fall-1234791322/)
+6. **雅典摄影节2026持续展出至7月26日：70位来自30个国家的摄影师汇聚贝纳基博物馆逾3000平方米展览空间，覆盖摄影全谱系** - 第22届Athens Photo Festival以6月10日为开幕首夜，展览横跨纪实摄影、观念摄影、装置与动态影像全谱系，并配套作品集评审、影像书项目与现场表演，是南欧夏季最重要的摄影节事件之一；展览配套影像书项目与才能实验室同步运行。[Athens Photo Festival](https://phmuseum.com/festivals/athens-photo-festival-2026) · [官网](https://photofestival.gr/)
+
+### Project One 灵感
+1. **「Phantom Frame」的碎片伦理：废墟残件不只是"完整性丧失的证据"，作为独立物质见证，每个碎片可以携带并揭示历史的具体层级** - Lacher与Robinson这次展览最有颠覆性的命题是一个方法论声明：建筑碎片"无需仅仅指向丧失或缺席"，而本身可以提供理解历史、记忆与"仍在塑造当下的不稳定结构"的新途径——碎片是见证，不只是遗迹。这与David Campany"图像之间如何相互共鸣"的策展逻辑形成物质层面的延伸：Campany在图像层级操作这种共鸣，Phantom Frame在实物碎片层级重演了同样的逻辑。与Project One的接口：在Gary Works废墟中，高炉的耐火砖残块、传送带的锈蚀链节、落地天花板碎片——如果仅被记录为"工业衰败的视觉证据"，叙事价值只有一维；但如果将每个碎片与一份档案（工人记录、安全报告、污染检测数据）对应，"碎片"就从"丧失的标志"变成"仍可被追溯的历史密度单元"，为Gary系列提供一种"碎片档案对应学"的新维度，延伸canvas中"介入与矛盾"节点的物质操作逻辑。[相关链接](https://art.newcity.com/2026/07/13/spectral-traces-in-the-built-environment-with-phantom-frame/)
+2. **白宫「拯救美国的故事」：谁有权制定历史的"正确版本"——Gary废墟承载的四套不可调和叙事，正是这场制度性争夺的物质化** - 这场争论的底层结构：国家政权试图厘清"什么才是真实的美国历史"，博物馆则坚持"不适、复杂与矛盾也是历史的一部分"——这两种立场之争在Gary Works上有完全一致的物质对应：Gary钢铁史同时是美国制造业辉煌叙事（企业档案）、铁锈带衰退叙事（经济数据）、环境不公叙事（EPA档案）与劳工尊严叙事（工人口述）四套在同一片废墟里无法被调解的叙事。与Project One的接口：这场制度争论提供了清晰的元框架——Project One的"记录与重构之间的张力"，从一开始就不只是摄影方法论问题，而是参与了一场更大的社会博弈：哪些历史被允许被看见、记录、保存，哪些历史只能靠废墟自行诉说；主动在项目阐述中标注"Gary系列选择不把四种叙事化简为一"的立场，本身就是对这场争夺的一种回应，呼应canvas中"为什么偏偏是废墟"节点——废墟是叙事争夺留下的沉默区域。[相关链接](https://time.com/article/2026/07/08/trump-s-attacks-on-the-smithsonian-are-an-attack-on-american-history/)
+3. **雷梅蒂奥斯·瓦罗：流亡作为"档案+重构"的创作前提——被中断的连续性如何成为发明新视觉宇宙的结构原则** - 瓦罗的轨迹提供了一个罕见案例：她不是在稳定传统中积累，而是在两次强制中断（西班牙内战、法占区逃亡）之间，把炼金术、中世纪神秘主义与超现实主义重新拼接为一套完全属于自己的图像语言——流亡本身的不连续性成为发明新体系的材料，而非障碍。这与Duchamp「Boîte-en-Valise」（7月2日灵感）在结构上共享同一逻辑：被打断时创造一套可携带的完整档案体系，让中断成为创造性的物质形式。与Project One的接口：Gary Works工人群体的被迫离散（工厂分阶段关闭中大量工人迁往芝加哥南部或出走外州）同样是被打断的连续性；瓦罗的路径提示：这种离散本身可以成为Project One的叙事结构原则——废墟是留下的世界，离散者携带的记忆是与之对位的另一种"废墟形态"；两者并列，Gary系列的档案维度将从"地点摄影"扩展为"地点与流离之间的双重档案"，回应Anna Tsing"没有未被污染的过去可以回去"：Gary的历史被分布在废墟与离散者之间，永远无法被单一叙事复原。[相关链接](https://louisiana.dk/en/exhibition/remedios-varo/)
+
+---
+
 ## 2026-07-09
 
 ### 艺术圈新闻
