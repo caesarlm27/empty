@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-07-14
+
+### 艺术圈新闻
+1. **Ana Mendieta首个英国十余年大回顾展7月15日于泰特现代美术馆开幕：150余件earth-body作品含首次重现的《Silueta Series》（1973-80）与"新石器艺术"装置复原，身体轮廓在自然中缺席的痕迹是其全部诗学的核心** - 展览以Blavatnik Building Level 2全层呈现，为英国十余年来首个Mendieta机构大展；标志性作品《Ñañigo Burial》（1976）黑色仪式蜡烛轮廓将在整个展期定期点燃；The Art Newspaper 7月13日深度报道称策展团队将档案影像、重新制作的装置与新修复胶片并置，是"把痕迹转化回在场的一次策展赌注"。展期至2027年1月17日。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/13/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey) · [Tate Modern](https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta)
+2. **MONA（塔斯马尼亚「老与新艺术博物馆」）7月10日宣布将在曼谷建立首个海外分馆「Mona Bangkok」：与泰国Asset World Corporation签15年合作协议，2029年于昭披耶河畔开馆，以"光的现象"为核心概念** - 创始人David Walsh、Kirsha Kaechele与Darklab CEO Leigh Carmichael出席发布会；新馆由AWC出资建造并运营，MONA负责馆藏、展览设计与建筑策划；新馆不是原馆复制，而是与曼谷本地伙伴共同重新发明的全新概念体。Artforum、The Art Newspaper同日报道。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/10/tasmanias-museum-of-old-and-new-art-announces-plans-for-thailand-outpost) · [Artforum](https://www.artforum.com/news/museum-of-old-and-new-art-plans-outpost-in-thailand-1234754325/)
+3. **Helen Marden「Interlude of Joy」7月14日于纽约Gagosian West 24th Street开幕：以树脂、粉末颜料与贝壳构建迄今最大尺幅作品，含艺术家创作生涯首组三联画与亲密水彩系列，展期至8月21日** - 展览取名自1963年诺贝尔文学奖得主希腊诗人George Seferis同名诗作；Marden以半液态、半固态树脂表面捕捉光与景观的短暂质感，在体量扩张的同时维持她一贯对物质敏感性的专注。[Gagosian](https://gagosian.com/exhibitions/)
+4. **「Ghana! Dreaming Independence 1957-1976」于阿尔勒摄影节展至10月4日：The Art Newspaper 7月9日将其列为本届三大必看摄影展之一，加纳独立建国初期的视觉档案在欧洲机构语境中大规模重现** - 展览以1957-1976年间加纳独立后的在地摄影档案为材料，探索建国初期本地摄影师如何在国际政治凝视与自我叙事之间构建国家视觉身份；The Art Newspaper指出这是本届Arles最具历史档案重量的展览之一，与"反抗、时尚与自由"主题并列。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/09/riots-resistance-and-the-birth-of-a-new-country-three-photography-shows-to-see-at-les-rencontres-darles)
+5. **东京Gendai 2026公布参展画廊名单并设立全新「纸面作品」专区，Artforum同期报道** - 日本最具国际视野的当代艺术博览会之一；2026年新增纸面作品专区，拓展媒介涵盖范围，参展画廊覆盖亚太与欧美一线机构；博览会在横滨举行，是亚太当代艺术市场的重要晴雨表。[Artforum](https://www.artforum.com/news/tokyo-gendai-fair-announces-2026-exhibitors-1234753487/)
+
+### Project One 灵感
+1. **Ana Mendieta「Silueta Series」：身体撤离后留下的负空间轮廓，是"缺席者的痕迹"在方法论上最字面的物质实践——Gary废墟工人手触痕迹的系统调查可以由此获得精确锚点** - Mendieta的操作逻辑：用自己的身体在泥土、草地、沙滩、树洞留下轮廓后撤离，照片记录的是"曾在场但已消逝"的负空间——这是Project One"缺席者的痕迹"主题最字面的物质呈现，与Sophie Ristelhueber"关于人的证据，但没有人的在场"形成直接方法论呼应。与Project One的接口：Gary Works废墟中工人长期接触的表面——扶手铁锈下的手掌磨痕、踏板凹陷中的鞋底压痕、工具架的接触凹痕——本身就是Silueta式自然形成的身体轮廓；将这些"工业Silueta"系统拍摄并档案化，将把Gary系列从"废墟影像"推进为"缺席者身体痕迹的调查报告"，直接激活canvas中"缺席者的痕迹"核心节点，为已有的宏观废墟影像补充一个贴近身体尺度的微观档案维度。[相关链接](https://www.theartnewspaper.com/2026/07/13/ana-mendietas-neolithic-art-recreated-for-major-tate-modern-survey)
+2. **「Ghana! Dreaming Independence」：建国期摄影同时是"向自己确认存在"的镜子与"反抗外部凝视"的主权工具——Gary Works工人影像史处于同构的双重张力中，这为Project One的档案层次提供"摄影主权"维度** - 加纳独立后摄影档案的底层命题：本地摄影师既在为自己社区制造"我们存在"的镜子，也在对前殖民凝视（"非洲不被看见"）发出反抗；两种功能同时在场，无法分离。Gary Works工人群体的影像史处于同构的张力中：US Steel官方企业宣传摄影是资本对劳动的凝视；工人自己保存的家庭快照与车间非正式瞬间，是劳动者向自己确认"我们曾在这里"的镜子。与Project One的接口：在Gary系列档案层次中，刻意并置企业档案摄影与工人私人影像，让"谁在拍""为谁拍"的问题成为显性，使Project One获得一个"图像主权"的分析框架——废墟不只是"空间的终结"，也是"谁拥有这段历史的图像权"这一争夺的沉默结果，延伸Taryn Simon"照片的证据性是被构造的"逻辑至档案来源层级。[相关链接](https://www.theartnewspaper.com/2026/07/09/riots-resistance-and-the-birth-of-a-new-country-three-photography-shows-to-see-at-les-rencontres-darles)
+
+---
+
 ## 2026-07-13
 
 ### 艺术圈新闻
