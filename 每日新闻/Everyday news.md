@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-15
+
+### 艺术圈新闻
+1. **Bernd & Hilla Becher「History of a Method」4月23日于博洛尼亚MAST基金会开幕：约350张黑白照片涵盖高炉、石灰窑、矿场与砾石坑，呈现夫妇40年系统性工业建筑类型研究，展期至9月27日** - MAST（Manifattura di Arti, Sperimentazione e Tecnologia）长期专注摄影与工业、技术和劳动转型关系，本展为欧洲迄今规模最完整的Becher回顾；分10个主题板块展出1962至1999年横跨德国、英国、美国的工业场景；策展由Gabriele Conrath-Scholl、Max Becher与Urs Stahel联合主导，档案资料来自科隆SK Stiftung Kultur保存的Becher档案库。[MAST Bologna](https://www.bolognawelcome.com/en/events/exhibitions/bernd-hilla-becher-history-of-a-method-mast-en) · [Generazione Critica](https://www.generazionecritica.it/en/news-en/bern-hilla-becher-history-of-a-method-fondazione-mast-bologna/)
+2. **Richard Estes「My Camera Is My Sketchbook」7月15日于纽约Schoelkopf Gallery开幕：94岁光写实主义大师职业生涯首次将数十年参考摄影以独立艺术作品形式公开展出，展期至8月21日** - Estes自1960年代起以相机拍摄纽约街景与缅因州风景作为绘画参考素材，从未将这些照片作为艺术品展示；此次首度将照片作为独立艺术作品呈现，引发"摄影究竟是工具还是作品"的新讨论；艺术家自述"这台相机基本上就是我的素描本"，展览恰好发生在ADAA翠贝卡画廊夜同日。[Schoelkopf Gallery](https://schoelkopfgallery.com/exhibitions/55-richard-estes-my-camera-is-my-sketchbook/overview/)
+3. **大都会艺术博物馆「Lillian Bassman: Bazaar and Beyond」将于7月26日闭幕：60余件原作呈现BAZAAR艺术总监如何以漂白剂、纸巾与画笔在暗房手工消解服装细节，将时尚摄影推至抽象现代主义边界** - Bassman（1917-2012）自1950年代起在Harper's BAZAAR拍摄极度抽象的时尚影像，用暗房化学手段将服装外廓蒸馏为运动感的模糊笔触；展览涵盖原始印相纸、版式设计稿与拼贴画，呈现她如何把商业约束转化为物质层面的视觉诗学；展览由Robert Mapplethorpe Foundation资助，进入最后两周。[The Metropolitan Museum of Art](https://www.metmuseum.org/exhibitions/lillian-bassman-bazaar-and-beyond)
+4. **U.S. Steel宣布重启Gary Works锡薄板厂（Tin Mill）：计划2027年初恢复生产，支持225个就业岗位，投资1500至2000万美元——该厂自2022年10月因进口冲击与市场疲软停产至今** - 产品用于食品饮料包装、喷雾罐与油过滤器；Gary Works现同时处于三种并发状态：BF#14高炉重砌激活（Nippon Steel 3.5亿美元）、大量区域持续废弃、锡薄板厂计划重启——"废墟化"叙事与"再工业化"叙事在同一厂区以重叠形式共存。[Manufacturing Dive](https://www.manufacturingdive.com/news/us-steel-to-restart-gary-tin-mill-production/817815/) · [SteelOrbis](https://www.steelorbis.com/steel-news/latest-news/us-steel-plans-to-restart-gary-tin-mill-in-early-2027-1448684.htm)
+5. **ARTnews与Artforum联合宣布「Art Week NYC」：2026年11月11-14日于纽约首次举行——两家历史性竞争媒体联手打造四天城市级艺术活动，含画廊开幕、New Museum策划的公共项目与编辑导览** - 这是两家长期竞争的顶级批评媒体的首次合作，旨在把纽约打造成媲美巴黎Photo、Art Basel香港的国际艺术节庆时间节点；Artforum负责按社区组织画廊开幕夜，ARTnews主导从上东区至中国城的编辑导览，New Museum承接全天公共项目。[Artforum](https://www.artforum.com/news/inaugural-art-week-nyc-to-debut-in-november-2026-1234752162/) · [ARTnews](https://www.artnews.com/art-news/news/artnews-artforum-art-week-nyc-new-york-announcement-1234788668/)
+
+### Project One 灵感
+1. **Becher「匿名雕塑」类型学：中立视角+统一光线条件+去除干扰=让工业构件自己说话——Gary Works高炉群、管道网络、鼓风机房的系统性类型志从此有了最精确的历史参照** - Becher夫妇方法论核心是一套"剥除"程序：正面构图、中性天空（消除光线变量）、统一拍摄距离，让每座高炉或冷却塔在最低干扰的条件下呈现自身形态；当同种工业构件被并排展示为"Typus"序列，每一个单体从"工业噪音"升华为"一种姿态的变体"——这是把工业遗存从颓败奇观提升为形式志的方法论核心，也是Project One最直接可参照的先例。与Project One的接口：Gary Works拥有美国现存规模最大的高炉群之一，可以设定固定构图参数（拍摄距离、水平角度、中性天光条件），系统拍摄Gary Works的每种工业构件类型（高炉炉顶、鼓风机房、铁路装卸架、水处理塔），制作Gary Works专属工业类型志；进一步与Becher欧洲工厂序列并置，可以测量Gary Works在工业摄影史形式谱系中的位置——尤其是在同一类型（如高炉）内将废弃个体与BF#14仍在运转个体并列，Becher式类型志将首次捕捉"同种形式下的生死共存"，这是Gary Works独有的矛盾状态，呼应canvas中"废墟里的生命"与Anna Tsing节点。[相关链接](https://www.bolognawelcome.com/en/events/exhibitions/bernd-hilla-becher-history-of-a-method-mast-en)
+2. **Richard Estes：被强迫升格的素描本——当参考工具本身获得独立性，"记录先于重构"的等级关系崩塌，Project One的现场照片面临同样的身份危机** - Estes的展览名是对工具性的坦白（"我的素描本"），但展览本身做的事是颠覆这个等级：参考照片变成了可以独立呈现的最终形态，相机从服从绘画的工具跃升为并行的艺术媒介。与Project One的接口：Gary Works的现场照片在项目框架内，究竟应该始终被视为"素材/底稿"（服从于最终的重构叙事），还是可以以最原始的形态自成一件作品（作为"Gary Works工业素描本"单独呈现）？这个问题的答案将决定Project One的最终呈现策略：生产一套经过处理的重构叙事，还是同时呈现"未加工的记录层"作为对叙事自身的质疑？与Peter Hujar接触印相纸册（7月6日灵感）形成精确呼应——都是关于"被遗弃的记录前层是否应该进入最终作品"的编辑伦理，直接激活canvas中"记录与重构之间的张力"核心节点。[相关链接](https://schoelkopfgallery.com/exhibitions/55-richard-estes-my-camera-is-my-sketchbook/overview/)
+3. **Gary Tin Mill重启：废墟不是单向终点，而是被资本"选择性保留或清除"的状态——哪些废墟被激活、哪些被维持废弃，这份决策本身是一份政治档案** - Gary Works同时处于三种并发状态：BF#14高炉激活、大量车间区域持续废弃、锡薄板厂2027年计划重启。停产近4年的车间重获资金，不是因为社区需求或环境恢复，而是市场需求+美国制造业政策的组合选择——废墟的保留或清除是经济与政治决策，不是自然过程。与Project One的接口：在Gary Works厂区拍摄时，明确标注每个区域的当前状态（"激活运转"/"计划重启"/"持续废弃"/"废弃+污染监测"），将拍摄序列转化为一份关于"哪些废墟被允许重生、哪些被允许继续消亡"的资本决策地图；这让Anna Tsing"废墟里的生命"从自然生态命题扩展为政治经济命题，与canvas"为什么偏偏是废墟"节点直接对话：某些废墟之所以仍在，不是因为无人在乎，而是因为改造它的代价比保持废弃更高；激活它，是因为市场时机此刻合适。[相关链接](https://www.manufacturingdive.com/news/us-steel-to-restart-gary-tin-mill-production/817815/)
+
+---
+
 ## 2026-07-14
 
 ### 艺术圈新闻
