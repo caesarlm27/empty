@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-16
+
+### 艺术圈新闻
+1. **Edward Lucie-Smith 7月11日逝世，享年93岁：撰写100余部艺术与摄影著作的英国批评家、诗人离世，《1945年以来的运动》《20世纪视觉艺术》等奠基之作在英语世界塑造了现代艺术理解的基本框架** - 生于牙买加金斯顿，就读牛津默顿学院，在皇家空军服役与广告业工作后成为英国最多产的文化声音之一；超过六十年写作生涯中他还深入撰写摄影批评，为大众读者打开理解Salgado、Arbus、Mapplethorpe的路径；ArtReview与多家媒体相继刊发长文悼念这位自1960年代起的长期撰稿人。[ArtReview](https://artreview.com/edward-lucie-smith-poet-and-critic-for-artreview-1933-2026/) · [Artlyst](https://artlyst.com/edward-lucie-smith-art-critic-and-poet-dies-aged-93/)
+2. **Volker Kreidler「Half Life Chornobyl」7月2日于柏林斯潘道城堡开幕：三访切尔诺贝利的长期摄影项目——1995年受托记录人类后果、2015年追拍自然重占无人区、2025年拍摄战时基辅——展至11月29日** - 项目由德国卫生博物馆德累斯顿于1995年委托启动，Kreidler历时30年三次返回切尔诺贝利；2015年系列聚焦"人类几近缺席时自然的缓慢归来"；2025年系列在俄乌战争的政治现实中赋予同一废墟地点全新历史维度；展览以"可视化技术控制极限的宣言"为框架呈现，展期至11月29日。[柏林斯潘道城堡](https://www.zitadelle-berlin.de/en/ev_event/eroeffnung-volker-kreidler-half-life-chornobyl/) · [Hartmann Books](https://hartmann-books.com/en/produkt/volker-kreidler-half-life-chernobyl-en/)
+3. **Eliza Douglas「GHOSTS」将于7月31日结束纽约Gagosian Park & 75展期：Francesco Bonami策划的首个纽约个展以哈恭托罗吉（hauntology）为框架，将艺术家过去十年旧作叠印其记者姑母Leslie Kean拍摄的UFO摄影，追问"过去如何以不可见方式仍在场"** - Douglas将10年前在巴黎Air de Paris画廊展出的画作作为底层，叠加UV印刷的夜间"未可解释现象"图像；策展人Bonami将此展定位于2022年Gagosian London "Haunted Realism"群展（探讨Derrida哈恭托罗吉）的谱系之中，是Gagosian新系列独立策展人项目的首展，展览进入最后两周。[Gagosian](https://gagosian.com/exhibitions/2026/eliza-douglas-ghosts-curated-by-francesco-bonami/)
+4. **Arch Connelly「Straighten Your Wig and Pray」7月13日获《The Art Newspaper》深度评论：科罗拉多亚斯彭艺术博物馆首个机构回顾将逾50件作品从友人与家人的私人珍藏中汇聚，是这位1993年因AIDS离世的东村艺术家35年来的首次完整现身，展至10月11日** - Connelly是1980年代纽约东村艺术场景的核心人物，将极简主义与流行艺术词汇通过坎普、手工艺与戏剧感重新发明；展览主要来自友人家人的私人珍藏与口述历史研究，多件作品35年来首次公开；Maison Valentino为主要赞助方。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/13/arch-connelly-1980s-east-village-aspen-art-museum) · [Aspen Art Museum](https://aspenartmuseum.org/exhibition/arch-connelly/)
+5. **MoMA「Ideas of Africa: Portraiture and Political Imagination」将于7月25日闭幕：汇聚Seydou Keïta、Malick Sidibé、Jean Depara、Sanlé Sory等20位摄影师的泛非肖像展，追溯20世纪中期非洲摄影如何推动泛非团结的政治想象，进入最后10天** - 展览聚焦西非、中非城市摄影师在去殖民时代如何同时为日常市民、音乐场景与青年文化制造图像，配套阅读室呈现摄影在纸媒中推动政治想象的历史维度；这是MoMA自2019年收藏Jean Pigozzi非洲艺术藏品以来的第三场专题展。[MoMA](https://www.moma.org/calendar/exhibitions/5755)
+6. **Laure Prouvost「We Felt A Star Dying」将于7月26日结束在巴黎大皇宫北侧大厅的展期：沉浸式装置结合量子物理研究与视频、雕塑、声音、香气与光，探询感知与现实结构的边界——为艺术家规模最大的单一装置作品** - Prouvost与哲学家Tobias Rees及Google量子计算科学家Hartmut Neven历时两年研究，将量子物理的不确定性转化为感知实验：入口隧道的频率声场、两座"坠落之星"喷泉与悬挂的"可爱碎片"构成一个意义在语言之前涌现的感官空间，6月10日开幕至今进入倒计时。[Grand Palais](https://www.grandpalais.fr/en/program/laure-prouvost-we-felt-star-dying)
+
+### Project One 灵感
+1. **Volker Kreidler三访切尔诺贝利：同一废墟空间在不同时间截面上的变化，构成一份nuclear contamination从人类后果→自然重占→战时政治的连续时间档案——Gary Works同样处于多个平行时间层中，等待一套"时间截面并置"的拍摄框架** - Kreidler的方法论核心：1995年（核事故10年后人类社区后果）、2015年（30年后自然在无人区的缓慢重占）、2025年（战时政治重新激活同一废墟）——三次拍摄把同一废墟在不同时间截面的状态变成连续演化档案，让Anna Tsing"废墟里的生命"在时间维度上获得具体的物质形态。与Project One的接口：Gary Works同样处于多个平行时间层：1906年建城（工业帝国高峰）、1970年代峰值雇工（工人社区繁荣）、2001年大规模关闭（铁锈带叙事的转折）、2026年BF#14重砌与锡薄板厂重启（再工业化）；如果为每个时间层寻找对应的图像来源与拍摄方式（企业档案图、工人私人相册、当下废墟影像、重启设施实时记录），Gary系列将从"废墟的当下记录"升维为"废墟在不同时间截面上的连续时间档案"，与Kreidler长期项目逻辑直接对话，并呼应Orianne Ciantar Olive"被阻断的返程"（7月9日灵感）形成时间叙事策略的互补光谱。[相关链接](https://www.zitadelle-berlin.de/en/ev_event/eroeffnung-volker-kreidler-half-life-chornobyl/)
+2. **Eliza Douglas「GHOSTS」哈恭托罗吉操作：让过去作品成为被当下图像覆盖的底层——在废墟中寻找"幽灵层"，是Gary系列将历史时间物质化于当下影像的摄影构图路径** - Derrida的hauntology核心命题：过去不是已完成的时代，而是以幽灵方式在当下出没。Douglas的操作把这一点具体化：十年前的画作作为底层被UV透光印刷"附体"，幽灵不被叙述，而是直接在图像中变成可感知的物质层。与Project One的接口：Gary Works废墟内部存在大量"幽灵层"——锈蚀下残存的工安色标油漆、地面磨损痕迹中仍可辨认的特定工序路径、烟熏墙面隐约可见的人形阴影、被遗弃但仍展开的操作手册页面；在拍摄时专门寻找这些"废墟幽灵层"——历史仍在场的图层与当下衰败状态同时可见的构图——将每张照片同时做成"废墟记录"与"历史幽灵显影"的双重图像，把hauntology转化为摄影构图的具体操作原则，与Mendieta Silueta（7月14日灵感）在物质尺度上形成互补，激活canvas中"缺席者的痕迹"节点。[相关链接](https://gagosian.com/exhibitions/2026/eliza-douglas-ghosts-curated-by-francesco-bonami/)
+3. **Arch Connelly展览的装配逻辑：把消逝社群的生命从友人私人珍藏中拼接回一个可被当代看见的完整形态——Gary Works退休工人群体的私人珍藏处于完全同构的处境，田野工作的核心价值在于"让沉默的私人珍藏重新成为可被看见的历史"** - Connelly展览的核心工作不是整理机构档案，而是把散落于友人家中35年的私人收藏"从沉默中解放出来"，使一个消逝的艺术家重新进入当代讨论。这种工作的可能性前提：当事人群体仍在，记忆尚未完全消逝，只是需要有人主动寻找并创造让这些珍藏"被看见"的框架。Gary Works退休工人社区处于完全同构的处境：大量工人私人照片、厂区带走的小物件、非正式纪念物散落于各自家中，没有机构在主动收集。与Project One的接口：效仿Connelly展览的田野逻辑，在Gary田野中把"退休工人私人珍藏的拍摄授权与档案化"作为核心任务之一——不只是拍摄废墟空间，同时主动搜集"工人群体自己选择保存的图像与物件"，使Project One获得一个"工人视角的自我选择档案层"，与企业宣传照和EPA文件的"外部凝视档案层"并置，呼应Ghana!（7月14日灵感）"图像主权"框架：档案不只是记录，也是"谁有权决定什么被保存"的证据。[相关链接](https://aspenartmuseum.org/exhibition/arch-connelly/)
+
+---
+
 ## 2026-07-15
 
 ### 艺术圈新闻
