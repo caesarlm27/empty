@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-17
+
+### 艺术圈新闻
+1. **Pat Oleszko 荣获2026年惠特尼双年展 Bucksbaum 大奖（10万美元）：评审团一致推举这位50年来以充气服装、文字把戏与语言游戏构建超高密度表演宇宙的艺术家，称其"拥有美国当代艺术中最独特的作品集之一"，展览持续至8月23日** - 惠特尼双年展策展人 Marcela Guerrero 与 Drew Sawyer 提名，Oleszko 以可穿戴雕塑与高能量即兴表演著称，本届双年展共56位艺术家参展；Bucksbaum 奖每两年颁发一次，是美国最重要的当代艺术双年展奖项，获奖者须仍积极从事创作实践。[ARTnews](https://www.artnews.com/art-news/news/pat-oleszko-whitney-biennial-bucksbaum-award-1234792393/) · [Artforum](https://www.artforum.com/news/pat-oleszko-receives-whitney-biennials-2026-bucksbaum-award-1234754957/)
+2. **Hauser & Wirth 宣布10月3日以「Calder｜O'Keeffe」首展开设帕洛阿托新画廊：百年历史邮政局大楼改建、2600平方英尺空间，标志超级画廊首次进驻硅谷** - 首展聚焦两位艺术家数十年友谊——Calder 于1930年代末为 O'Keeffe 铸造刻有首字母的黄铜胸针，O'Keeffe 将 Calder 黑色活动雕塑挂于新墨西哥州家中；展览由 Calder 基金会及乔治亚·欧基芙博物馆联合策划，空间内设书店兼社区讲座场地。[ARTnews](https://www.artnews.com/art-news/market/hauser-wirth-palo-alto-gallery-calder-okeeffe-opening-1234792145/) · [Hauser & Wirth](https://www.hauserwirth.com/news/hauser-and-wirth-palo-alto-to-open/)
+3. **欧盟委员会7月13日正式建议撤回对威尼斯双年展200万欧元资助：俄罗斯馆缺席两届后重返、委托人为俄FSB将军之女，14个欧盟成员国批评此举，欧委会执行副主席 Virkkunen 称"公共资助文化不应支持背离民主价值的参与"** - 双年展基金会拒绝排除俄方，坚持展览"须是对话与艺术自由之地"；意大利副总理萨尔维尼支持俄方参与，与布鲁塞尔立场相左；俄方宣布展馆对媒体开放但不对公众开放，威尼斯双年展持续至11月22日。[ARTnews](https://www.artnews.com/art-news/news/venice-biennale-grant-unesco-florence-morning-links-1234791920/) · [Euronews](https://www.euronews.com/my-europe/2026/05/12/eu-countries-back-suspension-of-funding-for-the-venice-biennale-over-russian-participation)
+4. **犹太博物馆「维也纳工坊的女性们：现代性与奢华」7月17日于纽约开幕：200余件作品呈现约30位犹太女性艺术家在早期20世纪维也纳现代主义设计运动中的核心角色，展至11月15日** - 展览以陶瓷家 Vally Wieselthier 与纺织设计师 Felice Rix-Ueno 为重点，横跨时装、陶瓷、图形设计与绘画，与维也纳 MAK 应用艺术博物馆联合呈现；约四分之一的维也纳工坊女性从业者具有犹太背景，展览首次系统性地将其创作从欧洲现代主义叙事的边缘拉回中心；《艺术报》7月16日刊发评论称其为"恢复手工艺温度、对抗工业化量产的内在宣言"。[The Jewish Museum](https://thejewishmuseum.org/exhibitions/women-of-the-wiener-werkstatte/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/07/16/new-york-exhibition-explores-how-the-wiener-werkstatte-preserved-the-human-touch-of-handcraft)
+5. **Andrew Borowiec「铁锈带之后」于阿尔勒IRIS展出至8月16日：耶鲁MFA出身的摄影师历时40年沿从纽约州到密歇根湖岸的铁锈带记录工业衰退，曾获2023年城市摄影奖项目与作品集大奖** - Borowiec 深耕阿克伦及周边俄亥俄-大湖区地带，以平静、不戏剧化的正面构图记录同一工厂或街道的时间演变；其作品被誉为"美国工业记忆最冷静的长期档案之一"，Trieste Photo Days 将其列为后工业摄影核心方法论案例。[L'Oeil de la Photographie](https://loeildelaphotographie.com/en/nebraska-the-post-industrial-rust-belt-by-andrew-borowiec/) · [LensCulture](https://www.lensculture.com/projects/1883138-the-post-industrial-rust-belt)
+6. **Aperture No. 263「秘密」夏季号6月11日出版：约翰·迪沃拉首发未公开新作 + 塔林·西蒙生涯完整访谈，并收录 Sarah Charlesworth 遗作与 Polly Brown 专委手势秘密系列** - 本期以"秘密如何作为结构性力量塑造摄影实践"为题；Divola 新图像延续 Zuma 系列对废弃空间的介入逻辑；Simon 访谈是迄今对其方法论最系统的再梳理，将"摄影证据的被构造性"放回当下语境重审；Iñaki Bonillas 探索 Barragán 工作室的壁橱与隐蔽角落。[Aperture](https://aperture.org/editorial/the-secret-life-of-photography/) · [Aperture Store](https://store.aperture.org/products/aperture-no-263)
+
+### Project One 灵感
+1. **Andrew Borowiec 40年铁锈带纵向档案：在与 Gary Works 直接地理重叠的大湖区工业带，"平静凝视"是记录方法论而非情绪立场——不渲染、不干预，让时间在图像序列中自行显形** - Borowiec 方法论核心不是废墟美学，而是"在同一地点连续返回"：以数年甚至10年为间隔返回同一工厂或街道，不调整构图只记录时间对物质的处理——序列变成"工业时间的可见化档案"而非"废墟猎奇"。Gary Works 与他拍摄的俄亥俄-密歇根湖带属于同一经济地理圈（同受去工业化冲击的大湖区钢铁带），他的实践直接示范了如何以长时段跨度将同一工业景观从奇观提升为档案；Gary 系列若采用类似的"固定视角 + 时间序列"路径，可以在初次拍摄的基础上设置明确的"回返节点"（如每隔12个月返回同一构图坐标），使项目在时间中积累为"Gary Works 时间档案"。"平静凝视"作为记录伦理，也是与 Sophie Ristelhueber "缺席而非悲悼"并行的记录立场——不以情绪耗尽自己，而是以档案的冷静承担时间，对于 Gary 长期项目的可持续性有直接的实践意义。[相关链接](https://loeildelaphotographie.com/en/nebraska-the-post-industrial-rust-belt-by-andrew-borowiec/)
+2. **Aperture「秘密」框架下的 Divola 新作 + Taryn Simon 访谈：Project One 两位核心参考艺术家被同期放入"废墟秘密层"与"摄影证据被构造性"的新框架重读，为项目主题提供从"记录废墟"升维为"调查废墟所掩盖的秘密"的契机** - Divola 在废弃房屋里引入涂鸦可以读作"在废墟中设置秘密图像"——制造痕迹、让"有人曾在此"的假象成立；Simon 则揭示摄影如何以"证据外观"掩盖制造过程。两者的张力在「秘密」框架下格外清晰。Gary Works 废墟中存在大量字面意义上的"秘密层"——被掩埋的污染点、从未进入正式档案的工安事故口述、操作手册上被工人手写覆盖的非标准操作注记。以「秘密」作为 Gary 系列的新结构框架，可以将 Divola 式介入（在废墟中主动设置秘密）与 Simon 式批判（质疑影像的证据性从何而来）整合进同一操作体系，使项目主题从"记录废墟"升维为"调查废墟掩盖了什么"，激活 canvas 中"记录与重构之间的张力"节点的另一层含义：记录本身也是一种掩盖，秘密不只在废墟里，也在照片里。[相关链接](https://aperture.org/editorial/the-secret-life-of-photography/)
+3. **威尼斯双年展欧盟资助撤回：谁被允许进入文化空间，与谁被允许进入 Gary Works 废墟，在政治-经济结构上完全同构——"参与边界"是被制度划定的，不是自然形成的** - 展览开放原则（任何被意大利承认的国家均可参展）与欧盟政治条件（公共资助不应支持背离民主价值的行为者）之间的张力，本质是"谁有权占据一个文化空间"的争夺；Gary Works 的废墟访问受到完全同构的条件约束：产权边界（U.S. Steel/Nippon Steel 私有产权）、EPA 安全法规（有毒区域准入）、地方政府法令，共同划定一套"谁被允许进入这个废墟"的政治经济边界——都是"表面上的开放原则"被"潜在的政治经济条件"实际管理。与 Project One 的接口：在田野调查申请过程中，追踪并记录"Gary Works 访问权限申请的完整路径"——谁审批、基于什么条款、什么人可以豁免——将这份行政路径本身作为项目的文献层之一，使"废墟的可进入性"本身成为分析对象，而非只是拍摄的前提；这直接激活 canvas 中"为什么偏偏是废墟"节点：废墟的边界是权力的地形，拍摄之前首先需要弄清这个地形。[相关链接](https://www.artnews.com/art-news/news/venice-biennale-grant-unesco-florence-morning-links-1234791920/)
+
+---
+
 ## 2026-07-16
 
 ### 艺术圈新闻
