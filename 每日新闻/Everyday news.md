@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-19
+
+### 艺术圈新闻
+1. **Rauschenberg基金会将「Gluts」系列三件废金属雕塑捐赠ARTIST ROOMS，9月20日于Tate Modern首展：从德克萨斯石油过剩废墟拾得的汽车零件与工业碎片被转化为对"贪婪与过剩"的物质批判** - 三件作品（G-I Glut 1986、Rasputin's Revenge Early Winter Glut 1987、Mobile Cluster Glut 1987）由Rauschenberg在1980年代德克萨斯石油过剩经济危机现场收集的废弃加油站标志、汽车零件与工业废金属拼组而成；"贪婪横行，我只是试图揭示它，唤醒人们"是艺术家自述的创作动因；Tate Modern展览将汇聚逾25件横跨其职业生涯的作品，展至2027年底后巡回ARTIST ROOMS全英国各地，为艺术家诞辰百年系列纪念活动的组成部分。 [Artforum](https://www.artforum.com/news/robert-rauschenberg-sculptures-donated-to-artist-rooms-1234754495/) · [ARTnews](https://www.artnews.com/art-news/news/rauschenberg-foundation-tate-national-galleries-of-scotland-1234791631/)
+2. **Sotheby's公布2026年上半年销售额44亿美元创历史纪录：拍卖额上升59%至34亿、私人销售上升52%至8.26亿，自2010年以来最高场内成交率** - 5-6月纽约季拍贡献约15亿美元（成交率92.5%），设计拍卖史上最高价的Jean与Terry de Gunzburg珍藏（9600万美元）领衔；《艺术报》同期分析Christie's与Sotheby's上半年结果呈现截然不同的市场结构，"超级拍卖行已转型完成，而初级画廊市场仍在追赶"的判断同步浮现——结合Pace画廊同期大规模裁员，拍卖行与画廊市场的两极分化态势清晰。 [ARTnews](https://www.artnews.com/art-news/news/sothebys-record-first-half-2026-analysis-1234792047/) · [Artforum](https://www.artforum.com/news/sothebys-records-all-time-high-4-4-billion-in-sales-1234754774/)
+3. **纽约当局将59件被盗古代文物归还意大利、伊拉克与印度尼西亚，同期曼哈顿地区检察官向墨西哥归还三件文物（含大都会博物馆在案藏品）** - 多起案件涉及非法贩运网络的多年刑事调查；被归还文物此前均以"合法持有"状态存于博物馆或私人珍藏，标志纽约当局在文化财产来源追溯与归还方面的系统性持续推进，与法国同期归还23件文物给叙利亚的行动一道构成2026年夏的跨国文物返还浪潮。 [ARTnews（59件）](https://www.artnews.com/art-news/news/new-york-returns-59-antiquities-to-italy-iraq-indonesia-1234791699/) · [ARTnews（墨西哥）](https://www.artnews.com/art-news/news/manhattan-district-attorney-repatriation-mexico-1234792453/)
+4. **William Klein「This Way to Heaven」百年诞辰回顾展于阿尔勒Museon Arlaten（展至10月4日）：首次系统呈现其媒体批评与政治影像实践，超越城市书系列的公众认知，含大量首次公开文件** - Klein（1926-2022）的实践以《纽约》《罗马》《莫斯科》《东京》《巴黎》城市书系列闻名，但本次百年诞辰回顾展将重心移向他对"媒体如何制造与维持权力体系"的视觉政治批判——以批判性影像语言系统拆解大众传媒的权力运作机制；阿尔勒本届（第57届）主题"Worlds in View"，Klein政治批评实践的历史位置作为摄影节主轴之一被重新审视。 [L'Œil de la Photographie](https://loeildelaphotographie.com/en/arles-2026-william-klein-this-way-to-heaven/)
+5. **Meghann Riepenhoff「Upwelling」于阿尔勒（展至10月4日）：无相机氰版照相让水、沉积物与污染物质直接在感光纸上留下化学痕迹——"不是照片记录自然，而是自然本身制作照片"** - Riepenhoff以自制氰版乳剂涂布纸张后直接置入海浪、雨水与沉积物中，令自然化学过程直接书写蓝白图像；LensCulture形容其作品"看起来与其说是自然的照片，不如说是天气事件被短暂驯服后留下的痕迹"——摄影的记录主客体关系被完全颠覆：媒介不是中介，而是接触点本身。 [LensCulture](https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview)
+6. **Taring Padi「Rakyat Pasti Menang（人民团结必胜）」7月8日于伦敦Ibraaz开幕（展至11月22日）：印度尼西亚集体艺术工作者近30年反独裁社会运动档案首次以完整规模在英国呈现** - 1998年由日惹进步艺术学生于苏哈托独裁末期创立，Taring Padi三十年间将横幅、木偶、版画与档案文件作为社会运动工具与记录；此展以"Majlis"对话集会空间为框架，同期开设木刻版画工作坊与木偶制作课程，将集体实践转化为可参与的公共档案行动；新空间Ibraaz定位为"全球多数群体的艺术、文化与思想中心"，于2025年末在伦敦中心开设。 [Ibraaz](https://ibraaz.org/whats-on/taring-padi)
+
+### Project One 灵感
+1. **Rauschenberg「Gluts」物质路径：去现场→识别"过剩废料"→收集→重组为迫使观看者面对"谁来承担过剩代价"的物体——Gary Works同样是产能过剩与有毒废料造就废墟的现场，拾取其废弃工业零件可以是介入性物质实践的起点** - Rauschenberg的操作逻辑：德克萨斯石油过剩→加油站关门→废弃标志与金属堆在路边→识别它们为"过剩本身的物质证据"→拾取→重组为G-I Glut这样逼问观看者的雕塑；Gary Works废墟中存在同构的"过剩物质证据"：关停车间里遗留的仪表盘、废弃的安全标识牌、阀门与滤芯、未拆卸的生产工具——这些并非单纯的废料，而是"工业产能过剩与关停决策"的物质遗迹；将它们从废墟语境识别、拾取、重组为询问"是谁的决策让这里变成废墟"的物质装置，既是Gluts式的材料批判，也将废墟物质性从"背景"提升为"主体"，与Divola在废墟中主动引入异物的操作形成方法论接续，激活canvas"介入与矛盾"节点。 [相关链接](https://www.artforum.com/news/robert-rauschenberg-sculptures-donated-to-artist-rooms-1234754495/)
+2. **Meghann Riepenhoff「Upwelling」：让Gary Works的工业废水、粉煤灰或高炉粉尘直接接触感光材料——"污染物质书写图像"而非"镜头记录污染"——这是Anna Tsing contamination理论最字面的摄影实践落地** - Riepenhoff颠覆了"摄影师→记录→自然"的权力关系：感光纸不是记录工具，而是自然过程的参与者，化学反应的结果是无法复制的"物质痕迹"而非可重复的"视觉再现"。将同一逻辑迁移至Gary Works：用氰版乳剂纸直接接触Gary Works的工业废水（厂区边界积水）、粉煤灰或高炉粉尘（设备表面擦取），让Gary Works的污染化学成分直接在感光材料上书写图像——"被污染物书写的照片"将是Gary系列迄今为止最彻底的"缺席者的痕迹"：工人身体所承受的毒素在感光纸上的化学书写，不需要任何叙事框架，毒素本身就是证词；直接激活canvas"缺席者的痕迹"与Anna Tsing contamination节点的字面物质维度。 [相关链接](https://www.lensculture.com/articles/lensculture-editors-photography-still-restless-les-rencontres-d-arles-festival-2026-preview)
+3. **59件文物归还与Gary Works企业档案：当"合法持有"被追溯权力来源后瓦解，档案合法性神话暴露为权力关系的结果——Gary Works影像档案处于同构逻辑的临界** - 被归还的文物在被认定为盗窃之前都是"合法"的博物馆馆藏；"合法性"通过文件、来源叙事与机构权威制造，而非来自所有权本身的正当性。US Steel/Nippon Steel企业档案中的Gary Works图像处于同构逻辑：劳动现场产生的摄影图像在被"企业档案化"之后成为服务于资本叙事的视觉材料，"谁的权利归谁"的问题同样适用于Gary Works影像档案的来源追溯。与Project One接口：在Gary田野调查中记录企业档案开放申请的完整行政路径——哪些图像被保存、哪些被销毁、谁有权决定——将档案来源调查本身作为项目元叙事层；在Taryn Simon"摄影证据被构造性"节点上增加新维度：证据不只是被构造的，也是被选择性保存的，档案遗漏与档案存在一样重要，"空档案"同样是一种证词。 [相关链接](https://www.artnews.com/art-news/news/new-york-returns-59-antiquities-to-italy-iraq-indonesia-1234791699/)
+
+---
+
 ## 2026-07-18
 
 ### 艺术圈新闻
