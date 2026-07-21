@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-21
+
+### 艺术圈新闻
+1. **New Museum 8200万美元新翼竣工不足一年即漏水：7月18日纽约闪洪警报下展厅出现多处渗水，WangShui铝版墨迹作品《oppose the serpent》所在画廊启用水桶接水，馆方7月19日全日关闭并退还全部门票** - 新翼2024年末以8200万美元完工，开幕初期即遭施工质量质疑；Artforum以"新建的博物馆，新出现的漏水"为题直接点名，将此次事件定性为在承包商与观察者早已提出结构警告之后的公信力危机；馆方坚称"作品无一受损"，但闪洪只是触发器——现代扩建建筑在第一场大雨中败于渗水，是比任何施工质量争议更直接的物质性宣判。 [ARTnews](https://www.artnews.com/art-news/news/new-museum-leaks-closure-flash-floods-wangshui-work-1234792787/) · [Artforum](https://www.artforum.com/news/newly-expanded-new-museum-newly-leaking-1234755102/)
+2. **Armory Show 2026公布近230家画廊、展期移至9月24-27日：加勒比海离散社群首次成为Focus专题展核心，约25组Solo单人呈现，White Cube、Skarstedt、Tanya Bonakdar等重量级画廊退出名单** - 本届由Kyla McMillan主导，参展画廊覆盖30余国；Focus与Platform双专题聚焦加勒比及第一代北美裔艺术家，是近年最明确的地区文化聚焦策略；White Cube等主要画廊集体退出，与Pace大裁员、David Zwirner关闭上东区空间共同构成2026年夏纽约画廊版图的三重收缩信号，印证高租金城区商业画廊空间可持续性危机正在重塑博览会生态。 [ARTnews](https://www.artnews.com/art-news/market/armory-show-2026-new-dates-exhibitor-list-1234792648/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/07/20/armory-show-unveils-230-gallery-line-up-after-moving-fair-to-late-september)
+3. **David Zwirner关闭纽约上东区69街空间，Chelsea改造工程完工后集中运营西切尔西四处画廊与TriBeCa分部** - 画廊于2017年入驻东69街联排别墅，最后一展「Set in Stone」（与巴黎Galerie Kuegel联合策划）6月26日闭幕；公司声明称"退出上东区始终是完成Chelsea最后改造阶段后的既定计划"；此次整合使David Zwirner的纽约版图精简至537 W. 20th St.与519/525/533 W. 19th St.的Chelsea核心地块加上TriBeCa空间，与Pace危机、Armory Show重量级画廊撤退共同指向同一结构原因：超级画廊过度扩张模式的系统性修正。 [Artforum](https://www.artforum.com/news/david-zwirner-leaves-the-upper-east-side-in-new-york-1234755116/) · [ARTnews](https://www.artnews.com/art-news/market/david-zwirner-closes-upper-east-side-gallery-1234792819/)
+4. **Manifesta 16 Ruhr「这不是一座教堂」在德国鲁尔后工业区4城市12座废弃战后教堂中展出，107位艺术家以67件新委任作品重新激活矿业关闭后社区空间——展至10月4日；同期爆发抄袭争议** - 参展艺术家包括Mona Hatoum、Luc Tuymans等，来自30国；主题追问"废弃公共建筑能否成为后工业时代的新城市支柱"，以鲁尔德-波-土移工史为社区基底，Monocle将其列为"为场域特定双年展提供有力证明"的年度展览；Nasan Tur的翻转教堂长椅装置「Elevation」遭当地雕塑家Dorothee Bielfeld指控抄袭其16年前旧作，Manifesta宣布支持策展人决定维持展出，引发双年展机构公信力辩论。 [Manifesta 16 Ruhr](https://www.manifesta16.org/) · [Artforum](https://www.artforum.com/news/plagiarism-dispute-manifesta-16-in-germany-1234754109/)
+5. **FotoFocus摄影双年展2026「The Long View」10月于辛辛那提登场：美国规模最大摄影双年展74场展览遍布大湖区各城市，新建FotoFocus Center正式启用，以时间性与透视深度为主轴，呼应美国建国250周年** - FotoFocus Center于2026年春落成，14,700平方英尺永久摄影展览空间；双年展开幕周9月30日-10月3日含主旨演讲、艺术家座谈与策展导览，74场展览遍及大辛辛那提、代顿、哥伦布与北肯塔基；The Art Newspaper将FotoFocus Center的开放定性为"推进摄影作为民主媒介"的基础设施宣言，是北美当代摄影机构化扩张的标志性案例。 [FotoFocus](https://www.fotofocus.org/biennial/2026/) · [Amateur Photographer](https://amateurphotographer.com/latest/exhibitions/dont-miss-out-on-americas-largest-photography-exhibition-fotofocus-biennial-2026/)
+
+### Project One 灵感
+1. **Manifesta 16 Ruhr的「临时激活」模型：不修复废弃建筑，而是在废弃空间中以艺术协议创造新的公共集会——鲁尔区与Gary Works的移工史-工业关闭-社区凋零结构高度同构，提供了"废弃空间→临时社区档案行动"的可操作框架** - Manifesta 16的操作逻辑：不申请永久使用权，不等待修缮资金，而是以短期展览协议介入废弃建筑，在其中激活被迁散社区的集体记忆；鲁尔的波兰/土耳其移工社区与Gary的波兰/墨西哥/黑人工人社区构成跨大西洋镜像，经济结构（矿业/钢铁→产能过剩→大规模关闭→工人迁散）几近同构。与Project One的接口：效仿Manifesta 16的"临时协议介入"逻辑，将Gary系列的进入策略从"申请采访拍摄许可"升级为"申请短期社区档案行动协议"——在厂区某一废弃建筑内，以有限时间、有限规模的社区档案展示作为协议交换，把访问本身转化为给Gary当地居民而非外部艺术圈的价值生产；这同时呼应Rauschenberg/Warhol非营利基金会资助路径（7月18日灵感）——社区档案行动比孤立摄影项目更容易获得非营利机构支持，回应canvas"为什么偏偏是废墟"节点：废弃建筑的社会潜能不等待永久开发，临时性本身就是可以被设计的行动格式。 [相关链接](https://www.manifesta16.org/)
+2. **FotoFocus「The Long View」：大湖区工业文化语境中最重要的摄影机构以"时间深度"为双年展主轴——Gary Works时间档案与辛辛那提的地域邻近性，提供了Project One向中西部摄影档案语境展示的具体机构入口** - 辛辛那提与Gary同属大湖区工业文化圈（俄亥俄-印第安纳工业走廊），FotoFocus的美国建国250周年框架要求摄影作品能够"同时回顾过去与预视未来"；Gary Works作为美国制造业最辉煌时刻与最彻底衰败共存的遗址，字面上就是「长视野」在时间轴上的物质化：高炉建于1906年、巅峰运作于1970年、大规模关闭于2001年、再工业化正在2026年进行——这个时间弧度正是FotoFocus主题想要摄影捕捉的。与Project One的接口：以FotoFocus 2026的提案窗口作为项目首次机构展示的申请节点，若时间档案第一期成果（高炉序列+Becher类型志+工人口述片段）能进入双年展，Gary系列将在商业画廊语境之外建立起以档案机构为首选的展示路径，回应canvas"记录与重构之间的张力"节点：档案的时间性比市场的时间性更长，投入档案机构语境的作品更接近Gary系列的核心目的。 [相关链接](https://www.fotofocus.org/biennial/2026/)
+3. **New Museum漏水：8200万美元造价的现代扩建在第一场暴雨中败于渗水——"无论多精密的密封系统，水总会找到路回来"是Anna Tsing contamination理论在建筑现实层面最字面的当代例证** - New Museum新翼的防水系统在正式投入使用的几个月内失守；"无作品受损"的声明以艺术品安全掩盖了一个更核心的问题：现代建筑密闭性神话被一场大雨戳穿。Gary Works厂区的屋顶早已不存，渗水是其预设状态，没有人会为"Gary漏水"撰写危机公关；而New Museum的漏水成为新闻，恰好是因为"现代建筑密封内外"的神话维持失败——这使两者共同说明密闭性是社会建构而非物理常态：Gary废墟只是更诚实地存在于这一现实之中，从来没有那层造价8200万美元的密封谎言；Anna Tsing的contamination不只是生态理论，也是建筑-物质现实——没有哪个外壳能把外部永久隔绝，Gary的锈蚀与New Museum的漏水是同一物质逻辑在不同预算规模下的两种表现，激活canvas中contamination节点在建筑尺度上的物质维度。 [相关链接](https://www.artnews.com/art-news/news/new-museum-leaks-closure-flash-floods-wangshui-work-1234792787/)
+
+---
+
 ## 2026-07-20
 
 ### 艺术圈新闻
