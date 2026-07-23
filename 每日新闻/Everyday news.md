@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-23
+
+### 艺术圈新闻
+1. **Jessica Morgan接任Tate总监：来自Dia Art Foundation的策展人将于2027年1月1日出任英国四馆网络掌门人，接替已卸任的Maria Balshaw，是英国近十年来最重要的博物馆人事更迭** - Morgan（57岁）此前在Tate担任策展人12年（2010-2014年任国际艺术Daskalopoulos策展人），后执掌纽约Dia Art Foundation逾十年；她将监管Tate Britain、Tate Modern、Tate Liverpool与Tate St Ives四馆，在文化资助收紧与AI冲击等系统性压力下接盘；ARTnews与Artforum同日报道，Artnet分析称Morgan带来的Dia"场域特定-长期遗址"逻辑可能重塑Tate的展览方向。 [The Art Newspaper](https://www.theartnewspaper.com/2026/07/22/jessica-morgan-named-new-tate-director) · [Artforum](https://www.artforum.com/news/dias-jessica-morgan-appointed-director-of-tate-1234755310/)
+2. **卢浮宫阿波罗长廊7月22日重开但陈列柜空置：2025年10月皇冠珠宝大盗案9个月后，价值8800万欧元的8件王室珠宝除欧仁妮皇后王冠外仍下落不明，镀金展厅以空置状态对外开放** - 四人突击队于2025年10月以卡车升降台在光天化日下破窗劫走王室珠宝；法国文化部决定向公众开放长廊内的17世纪镀金天花板与希腊壁画，但剩余未被盗珠宝已转移至无窗密室、不再展出；《华盛顿邮报》将空置展厅形容为"一件关于缺席的展览"——参观者进入一个为展示物件而建造、此刻只剩容器的空间。 [ARTnews](https://www.artnews.com/art-news/news/louvre-reopens-apollo-gallery-morning-links-july-22-2026-1234793139/) · [Euronews](https://www.euronews.com/culture/2026/07/22/louvres-apollo-gallery-reopens-after-crown-jewels-theft-scandal)
+3. **安迪·伯纳姆7月20日出任英国新首相，成为史上首位前文化部长出任首相的领导人：《艺术报》列出文化部继承的五大挑战——艺术委员会资助模式、AI对创意产业的冲击、博物馆归还文物、文化设施可持续性与创意劳工权益** - 伯纳姆首席幕僚James Purnell亦为前文化部长兼前伦敦艺术大学副校长，使本届内阁成为英国史上与文化政策关联最深的执政团队；Lisa Nandy留任文化、媒体与体育大臣，职权扩至涵盖数字事务；Arts Council England已启动对大型机构补贴模式的审查，新政府须在削减公共开支与维持文化基础设施间作出抉择。 [The Art Newspaper](https://www.theartnewspaper.com/2026/07/20/as-andy-burnham-becomes-the-new-uk-prime-minister-here-are-five-key-challenges-facing-his-culture-ministry) · [ARTnews](https://www.artnews.com/art-news/news/uk-culture-ministry-new-prime-minister-morning-links-july-21-2026-1234792921/)
+4. **「日本女摄影师：从1950年代至今」于伦敦摄影师画廊展至9月27日、同期移展东京涩谷Hikarie（7-8月）：27位艺术家200余件作品，石内都、川内伦子、蜷川实花等，Aperture同步出版同名图录** - 展览由摄影师画廊、日本国际交流基金与Aperture联合主办，策展人为Lesley A. Martin、竹内麻里子与Pauline Vermare；策展框架以"让被遮蔽的声音可见"为轴，尤其突出石内都「ひろしま/hiroshima」（广岛原爆遗物超近距离摄影）与「Mother's」（母亲遗物）两系列，定位为展览的方法论核心；呈现战后日本女性以摄影重建"被抹除的生命痕迹"的历史谱系。 [摄影师画廊](https://thephotographersgallery.org.uk/whats-on/japanese-women-photographers-1950s-now) · [Aperture](https://aperture.org/exhibitions/im-so-happy-you-are-here-japanese-women-photographers-from-the-1950s-to-now-the-photographers-gallery-london/)
+5. **Aperture 6月出版《石内都：痕迹》（Ishiuchi Miyako: Traces）：迄今最完整英文调查集，三章节「城镇」「皮肤与疤痕」「遗物」覆盖横须贺系列、广岛原爆遗物与Frida Kahlo遗物，首次收录艺术家自述新文章** - 图录以「痕迹」（Traces）命名，恰是艺术家整个创作生涯的方法论关键词：横须贺后占领期的城市肌理（历史的物质层）、被疤痕改变的身体（创伤的皮肤记忆）、死者遗留的私人物件（缺席者的物质代理）——三套痕迹系统在同一本书中共存；Aperture将此书定位为"让时间、氛围与记忆在摄影中可见"的方法论文本，与「日本女摄影师」展览互为文本支撑。 [Aperture](https://aperture.org/books/ishiuchi-miyako-traces/)
+
+### Project One 灵感
+1. **石内都「ひろしま/hiroshima」与「遗物」系列：让死者遗留的私人物件成为缺席者最字面的物质代理——Gary Works工人遗留在废弃车间的个人物品处于完全同构的处境，物件摄影比空间摄影更彻底地锚定"有人曾在此"** - 石内都的核心操作：不拍摄广岛的建筑废墟，而是拍摄受难者遗留的和服、皮带、眼镜——每一件物品都是一个具体缺席者的物质代理，布料的烧痕与褶皱比任何建筑遗址都更直接地携带"有人曾拥有这个"的信息。Gary Works废墟中存在同构的物件层：工人遗留的安全帽、操作手套、工具柜里的私人物件、储物柜门上褪色的家庭照片——这些物件正在以同样的速度被清理或腐烂，在消失之前是比任何废墟壁面都更字面的"缺席者的痕迹"；石内都的方法论提示Gary系列应设立专项的"工人遗留物件档案"：系统拍摄废弃车间内所有仍可辨认的个人遗留物，与空间记录并行，使项目从"废墟影像"进入"缺席者物质系谱"，直接激活canvas核心节点并与Connelly展览"从友人家中集合私人珍藏"（7月16日灵感）在物质操作逻辑上形成精确接续。 [相关链接](https://aperture.org/books/ishiuchi-miyako-traces/)
+2. **卢浮宫空陈列柜：失去的收藏品缺席而陈列柜在场——"缺席本身"作为被制度化的展览形式，是Project One"废墟作为展示失去的剧场"这一命题最字面的当代制度性案例** - 卢浮宫的空置并非过渡性状态，而是经过决策的展览形式：博物馆选择向公众开放一个没有展品的珠宝展厅，让"缺席"本身成为可以被参观的内容。Gary Works的废弃车间是"没有工人的工厂"，阿波罗长廊是"没有珠宝的珠宝展厅"——两者都在以"容器在场+内容缺席"的结构制造压力：原本应该在这里的东西不在了，但"应该在这里"的预期仍然在场。《华盛顿邮报》将空置展厅命名为"关于缺席的展览"，这是Gary系列视觉语言的最佳注脚：Gary Works系列可以在构图策略上引入同样的操作——系统拍摄"工位而非工人、工具架而非工具、头盔悬钩而非头盔"，让"位置"的在场比任何叙事都更彻底地呈现"缺席者的痕迹"，直接激活canvas核心节点，并与Mendieta Silueta（7月14日灵感）的负空间方法论在工业尺度上形成对位。 [相关链接](https://www.euronews.com/culture/2026/07/22/louvres-apollo-gallery-reopens-after-crown-jewels-theft-scandal)
+3. **Jessica Morgan从Dia到Tate：Dia Art Foundation的场域特定永久委任模式——Walter De Maria「闪电原野」、Donald Judd的Marfa永久装置——是Project One锚定Gary Works"遗址就是作品"承诺时最精确的机构参照** - Dia最核心的操作逻辑：不在白盒子展览，而是与特定场所缔结长期协议，委任作品成为遗址的永久组成部分；Morgan在Dia执掌逾十年，将这套"遗址就是作品"的逻辑维持并深化。新任Tate总监的Dia背景意味着这套场域特定框架正进入全球最大博物馆网络的战略视野。与Project One的接口：效仿Dia的"遗址协议"逻辑，与Gary Works所属机构（Nippon Steel）洽谈一份明确的"社区档案行动协议"——约定特定废弃区域的长期档案权限与社区返还义务，让Project One从孤立的拍摄行为升格为有法律约束的遗址承诺；这是把"记录与重构之间的张力"从摄影美学问题升格为机构制度问题的可操作路径，激活canvas中"为什么偏偏是废墟"节点的制度性维度，并与Manifesta 16"临时协议介入"框架（7月21日灵感）形成由短期到长期的机构策略光谱。 [相关链接](https://www.artforum.com/news/dias-jessica-morgan-appointed-director-of-tate-1234755310/)
+
+---
+
 ## 2026-07-22
 
 ### 艺术圈新闻
