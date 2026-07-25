@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-25
+
+### 艺术圈新闻
+1. **格拉斯哥艺术学院宣布麦金托什大楼2.65亿英镑完整修复"无法负担"：两次火灾后保险理赔金仅够"启动性工程"，"忠实复原"方案正式放弃** - GSA 7月23日正式声明，2014年与2018年两度大火毁损的查尔斯·雷尼·麦金托什楼完整修复估算为2.65亿英镑（约为学校年营业额五倍），学校"无力独力推进忠实复原"；保险理赔金将用于创造未来重建条件的"启动性工程"（enabling project），完整重建路径仍悬而未决；遗产保护界批评人士指出，这是文化遗产在极端保存成本下的系统性失陷，修复主导权将不得不移交公私合营融资框架。 [The Art Newspaper](https://www.theartnewspaper.com/2026/07/23/glasgow-school-of-art-says-265m-needed-to-restore-destroyed-mackintosh-building-is-unaffordable) · [ARTnews](https://www.artnews.com/art-news/news/glasgow-school-art-restoration-fire-1234793257/)
+2. **杰夫·昆斯「天堂制造」版权上诉胜诉：第二巡回上诉法院以三年追诉时效驳回Hayden诉求，版权归属实质问题永久悬置** - 雕塑家Michael Hayden主张其为Cicciolina演出制作的"假岩石与蛇"装置先于昆斯「天堂制造」（Made in Heaven）色情摄影系列，2021年提诉；法院以Hayden 2019年已可从意大利媒体获知侵权事实、却未在三年时效内提诉为由裁定昆斯胜诉，不就版权归属作实质裁决；《艺术报》、ARTnews与Artforum同日报道，法律评论者指出判决令"谁真正制作了这件作品"的问题在司法层面永久留白。 [The Art Newspaper](https://www.theartnewspaper.com/2026/07/23/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden) · [ARTnews](https://www.artnews.com/art-news/news/jeff-koons-made-in-heaven-series-lawsuit-appeal-win-1234793187/)
+3. **「Made in L.A. 2027」策展人确认：汉默博物馆首席策展人Michael Wellen与MOCA高级策展人José Luis Blondet联合主导第八届洛杉矶双年展，2027年秋季开幕** - Wellen此前任Tate Modern国际艺术高级策展人，2026年4月接任汉默博物馆首席策展人；Blondet自2023年起任MOCA高级策展人（此前在LACMA工作十三年）；Artforum与ARTnews 7月24日同日宣布，「Made in L.A.」系列以聚焦大洛杉矶在地、新兴与代表性不足艺术家著称。 [Artforum](https://www.artforum.com/news/michael-wellen-jose-luis-blondet-to-curate-made-in-la-2027-1234755592/) · [ARTnews](https://www.artnews.com/art-news/news/made-in-la-2027-curators-michael-wellen-jose-luis-blondet-1234793256/)
+4. **Shabbir Hussain Mustafa出任第七届爱知三年展2028艺术总监：新加坡美术馆首席策展人接掌日本最重要当代艺术三年展，带入东南亚与海湾地区策展视角** - Mustafa曾任新加坡国家美术馆高级策展人（2013–2023）与古根海姆阿布扎比展览负责人，目前正策划2026年11月多哈Rubaiya Qatar四年展；Artforum与ArtReview 7月24日同日报道，爱知三年展历届因政治敏感作品引发国际争议，Mustafa的跨区域背景将为第七届注入显著的机构多元性。 [Artforum](https://www.artforum.com/news/shabbir-hussain-mustafa-artistic-director-aichi-triennale-1234755641/) · [ArtReview](https://artreview.com/shabbir-hussain-mustafa-appointed-artistic-director-of-aichi-triennale-2028/)
+5. **Nature Communications 7月9日刊发艺术界性别不平等最大规模量化研究：分析65,000位艺术家、37.8万场展览后发现，机构网络的性别构成对拍卖成功的预测力强于艺术家自身性别——系统性偏差以"结构性连接"而非显性歧视自我维持** - 研究由Wang、Gates、Resch与Barabási联合完成，覆盖20,000家博物馆与画廊数据；核心发现：58%的机构在性别上属"中性"但仅24%真正"平衡"，机构声望越高男性过度代表越显著；"在哪里展览"比"是谁"更决定职业命运，系统性偏差无需个体歧视行为即可自我再生产；ARTnews 7月23日将其列为当日重要新闻。 [arXiv预印本](https://arxiv.org/abs/2506.22103) · [Newswire](https://www.newswire.com/news/new-nature-study-highlights-the-critical-role-of-institutional-22823016)
+
+### Project One 灵感
+1. **格拉斯哥「忠实复原」的放弃：当完整修复成本超出现实，遗址处理只剩"启动性工程"——Gary Works影像档案化正是这种意义上的"启动性工程"，不是保存建筑，而是在建筑消失前创造理解历史的最低限度条件** - GSA的关键框架：在"忠实复原"（faithful reinstatement）与"启动性工程"（enabling project）之间，前者成本超出承受范围，后者在现有资金条件下切实可行；"启动性工程"的逻辑是"在完整保存不可能时，优先完成让未来重建或理解成为可能的前期条件性工作"。Gary Works废墟处于完全同构的框架中：高炉序列的物质性保存从来不是真正选项（激活BF#14已耗资3.5亿美元），但"历史理解的条件性工作"——影像档案、口述历史、地层记录——在当前条件下切实可行；Project One所做的工作（系统拍摄、口述采集、企业档案追踪）正是Gary Works废墟的"启动性工程"：不是保存钢铁，而是在钢铁消失之前完成让50年后的人仍能理解这段历史的最低限度条件；激活canvas"记录与重构之间的张力"节点：记录是"保存不可能时的条件性承诺"，是让未来的重构拥有可以工作的历史材料，而非对保存本身的替代。 [相关链接](https://www.theartnewspaper.com/2026/07/23/glasgow-school-of-art-says-265m-needed-to-restore-destroyed-mackintosh-building-is-unaffordable)
+2. **昆斯「天堂制造」版权判决的悬置逻辑：法律以时效让"谁真正制作"的问题永久留白——Gary Works工人从未有机会在时效内主张自己的图像权，企业档案版权是结构性"时效终结"的产物，而非创作权利的正当确认** - 法院逻辑：不判断Hayden是否先于昆斯制作了原件，以"你早该知道却没在三年内主张"为由关闭实质讨论——侵权是否存在在法律层面永久留白。Gary Works企业档案中的工人影像处于同构困境：US Steel官方摄影师拍摄的车间照片版权属于US Steel，影像中的工人从未获知这些照片的存在（无法主张），从未在三年时效内行使任何权利——时效以信息不对称、工人的去世或迁散为方式自然届满；Project One档案伦理因此面临比Hayden案更棘手的问题：当原始主张权因结构性信息封锁从未被激活，后来者的记录处于什么位置——应主动与工人社区缔结参与性档案协议，让"诠释权"在任何未来"时效"开始之前就被归还；激活canvas"记录与重构之间的张力"节点在法律-伦理维度的最具体落地：档案的正当性不来自法律沉默许可，而需要主动建立的社区参与协议。 [相关链接](https://www.theartnewspaper.com/2026/07/23/jeff-koons-made-in-heaven-copyright-infringement-appeals-court-michael-hayden)
+3. **机构网络量化研究：系统性偏差以"结构性连接"而非个体歧视维持——Gary Works的历史消隐同样以"机构叙事优先权的结构性分配"而非"主动抹除"的方式运作，Project One需要介入的是结构，而非个案** - 研究最精确的洞见：艺术界性别不平等不通过个体决策者的歧视行为再生产，而通过机构网络的性别构成本身传递——"在哪里展览"比"是谁"更决定命运，系统性偏差无需任何人主观歧视即可自我维持。Gary Works历史可见性的消隐处于同构结构：工人故事所依附的机构（工会、地方历史学会、劳工档案组织）在去工业化中系统性失去资源，剩下代表该历史的机构是US Steel企业档案（服务资本叙事）与EPA环境记录（服务监管叙事）——工人叙事不是被主动抹除的，而是因为"代表它的机构网络节点"在去工业化中系统性瓦解而自然消隐；Project One进入Gary Works的意义在量化研究框架下变得更清晰：不只是拍摄废墟，而是建立一个新的机构连接节点——让Gary Works工人历史接入档案机构、摄影机构、学术机构的网络，激活canvas"为什么偏偏是废墟"节点的制度维度：废墟是机构放弃的产物，复原其历史可见性需要建立新的机构连接，而非单独依靠一个艺术项目。 [相关链接](https://arxiv.org/abs/2506.22103)
+
+---
+
 ## 2026-07-24
 
 ### 艺术圈新闻
