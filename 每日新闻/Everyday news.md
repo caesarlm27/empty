@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-07-26
+
+### 艺术圈新闻
+1. **费城艺术博物馆「梵高的向日葵：蓝与黄的交响」7月24日开幕：伦敦国家美术馆1888年「黄底向日葵」首次横渡大西洋赴费城展出，展期至10月11日** - 这张1888年向日葵自1924年入藏伦敦以来仅四次出借、从未曾跨越大西洋；两幅向日葵（伦敦1888年+费城1889年）并置，实现梵高本人设想的双联作；此次互借源于2024年费城版向日葵赴伦敦「诗人与恋人」展的回礼；《艺术报》7月24日独家报道，称其为"2026年夏最重要的博物馆外交事件"，展览同时将Philadelphia Museum of Art推向美国250周年庆典的核心叙事。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/24/philadelphia-opens-its-van-gogh-sunflowers-display-with-a-very-rare-loan-from-londons-national-gallery) · [Philadelphia Museum of Art](https://www.philamuseum.org/exhibitions/van-gogh-sunflowers)
+2. **Mursal Mohammadi「BAQĀ/بقا（未被遗忘者）」于多伦多Image Centre展至8月1日：以1997年内战中失踪的阿富汗叔叔Baqauddin为核心，影像、织物、声音与家族档案信件将政治暴力造成的个人缺席构建为代际遗传的家族条件** - 艺术家叔叔被绑架失踪近三十年，家族历时多年寻人、上书政府，至今杳无音讯；作品以其名Baqauddin命名，baqā意为"endurance/坚忍"，将一个人的消失转化为可以被档案化、被展览的"继承而来的缺席"；属多伦多都市大学MFA纪录媒体项目DocNow 2026；PhMuseum将其列为7月2026摄影节指南重点推荐。[Image Centre](https://theimagecentre.ca/exhibition/mursal-mohmmadi-the-unforgotten/) · [PhMuseum](https://phmuseum.com/news/a-guide-to-july-2026-photography-festivals-exhibitions)
+3. **「Steel Valley Visions: An American Legacy」于韦斯特摩兰美国艺术博物馆荣获2026年宾夕法尼亚博物馆机构成就奖：以19世纪历史绘画→劳工纪实摄影→当代装置三层并置呈现西宾夕法尼亚大钢铁时代兴衰，传统展览展至2027年1月18日，沉浸式体验至11月8日** - 展览建立在博物馆2000年代「Born of Fire」的基础上，策展人Erica Nuckles以近期新藏与重要借展扩充，核心包含钢铁巅峰期工人场景历史绘画与当代摄影档案；沉浸式体验以多屏投影重现高炉运转的光与声；Pittsburgh Quarterly评为"铁锈带视觉记忆的年度最重要展览"；宾夕法尼亚博物馆奖与Arthur St. Clair历史保护奖双重认可，为同类工业遗产展览提供最新机构背书。[Westmoreland Museum](https://thewestmoreland.org/exhibitions/steel-valley-visions/) · [Pittsburgh Quarterly](https://pittsburghquarterly.com/articles/steel-valley-visions-an-american-legacy/)
+4. **Céleste Boursier-Mougenot「clinamen」于纽约公园大道军械库持续展出至8月9日：迄今最大规模——五个环形水盆、数百个漂流陶瓷碗持续随机碰撞产生微音调即兴声音，是艺术家在纽约逾二十年来首次呈现该系列** - "clinamen"出自卢克莱修《物性论》，指原子从直线运动中的随机偏斜，Boursier-Mougenot以此构建"不需要任何人类演奏行为的自发声音系统"；Surface Magazine称其为"2026年夏纽约最具冥想性的沉浸体验"；Paula Cooper Gallery将此定位为"把物理随机性转化为作曲原则"的核心实践，是在人工控制与偶然事件之间找到聆听姿态的最彻底的当代装置之一。[Park Avenue Armory](https://www.armoryonpark.org/season-events/2026-season/clinamen/) · [Surface](https://www.surfacemag.com/articles/celeste-boursier-mougenot-park-avenue-armory/)
+5. **Gagosian London宣布「This Is Still Not a Pipe: The Afterlife of Magritte」将于Frieze London期间开幕（9月24日–12月12日）：约70件马格利特原作与受其影响的当代艺术家并置，由Jasper Sharp联合马格利特基金会策划** - ARTnews与Artnet 7月23–24日同日报道，展览聚焦马格利特"语言与图像之间的断裂"对当代艺术的持续辐射；展名援引《这不是一只烟斗》，以"仍然不是"暗示这种悖论的永不终止；Gagosian以Frieze周最受瞩目的画廊项目为切口，将超现实主义议题从历史文化符号重新楔入当代批判话语。[Gagosian](https://gagosian.com/exhibitions/2026/this-is-still-not-a-pipe-the-afterlife-of-magritte/) · [ARTnews](https://www.artnews.com/art-news/news/gagosian-rene-magritte-exhibition-london-frieze-2026-1234793166/)
+6. **摩德纳足球俱乐部以企业收藏整批收入Archie Rand 44件「字母画」（1968–71年）：这批艺术家16–20岁时创作的半抽象字母系列，曾在1983年卡内基博物馆展出后逾三十年几乎不见于公众视野** - 「字母画」长期是画家与批评家圈子的膜拜对象，Roberta Smith 1991年曾为其撰写高度评价的《纽约时报》评论；ARTnews 7月25日报道此次由纽约Jarvis Art画廊居中促成的整批移交；意大利足球俱乐部作为当代艺术收藏机构，是近年"体育资本进入艺术收藏"浪潮（PSG、麦克拉伦等）的最新案例。[ARTnews](https://www.artnews.com/art-news/news/archie-rand-letter-paintings-modena-fc-acquisition-1234793377/)
+
+### Project One 灵感
+1. **Mursal Mohammadi「BAQĀ」的"代际遗传的缺席"框架：政治暴力造成的失踪不只是个人损失，而是整个家族在下一代出生时就已携带的历史负荷——Gary Works去工业化的缺席对工人后代同样是代际遗传的条件** - Mohammadi的方法论核心：不拍摄叔叔（无法拍摄，他消失了），而是拍摄缺席如何在家族档案、母亲手写信、留存的图像中"具身化"——缺席通过它留下的痕迹被重构为可以被档案化的现实。Gary Works第二代移民子女（波兰、墨西哥、黑人工人的后代）处于完全同构的处境：他们从未在高炉旁工作过，却通过父辈口述、家庭相册与失业创伤继承了整座工厂的历史缺席；Project One可以效仿Mohammadi的方法：不只拍摄废墟空间本身，同时采集第二代、第三代工人后代对"从未亲历的工厂记忆"的口述——让"被继承的缺席"成为档案中与实物缺席并行的叙事层，将canvas"缺席者的痕迹"节点延伸至代际记忆的最深维度，与石内都「母亲系列」（7月23日灵感）"遗物作为缺席者物质代理"形成代际时间轴上的接续。[相关链接](https://theimagecentre.ca/exhibition/mursal-mohmmadi-the-unforgotten/)
+2. **「Steel Valley Visions」的"跨时代工业视觉并置"方法论：19世纪历史绘画+劳工纪实摄影+当代装置在同一展览空间共存，让钢铁史在一次性观看中同时呈现多个时间截面——Gary Works档案具备同等结构** - 展览最精准的策展操作：以"同一产业在不同时代的视觉再现方式"为轴心，而非以单一媒介或艺术家为轴，使观众在画作→摄影→装置的叙事中感受工业历史的时间厚度；Gary Works的时间资料已具备同等三层：①US Steel宣传绘画与摄影（1910–1970s）②工人私人相册与企业档案（1940s–2000s）③Becher式废墟类型志+BF#14再工业化纪录（当下）——三层并置，比任何单一时间截面都更彻底地呈现"同一空间在工业时间中的连续演化"；Steel Valley Visions还提供了机构语言参照：宾夕法尼亚博物馆奖认可"跨时代工业视觉史"的策展框架，为Project One向大湖区机构（Westmoreland、FotoFocus）申请展示提供成功先例，直接激活canvas"记录与重构之间的张力"节点的机构路径层。[相关链接](https://thewestmoreland.org/exhibitions/steel-valley-visions/)
+3. **Boursier-Mougenot「clinamen」：物理随机系统作为自发声音的发生器——Gary Works废弃车间的铁皮热胀冷缩、残余积水滴落、风过破损管道谐振，是工业尺度的"自然clinamen"，声景记录应成为Gary系列的平行档案层** - clinamen的核心洞见：不需要人类演奏行为，只需要物理过程被允许展开，声音就会自然产生——陶瓷碗漂浮碰撞是有意设计的随机系统，Gary工厂的金属声景则是遗忘设计之后自然生成的随机声景，两者共享"物理随机性→听觉事件"的基本结构，区别仅在有意/无意；Project One应设立专项声景录制计划：在Gary废弃车间内使用全指向麦克风定时录制，捕捉"废墟自己发出的声音"，这层声景档案与视觉图像并置将Gary系列从"无声的静物"升格为"有自己时间节律的活的空间"；clinamen提供框架，让Gary废墟的声景从"噪音"升格为"工业随机性的听觉证词"，激活canvas"缺席者的痕迹"节点在听觉维度的延伸——听觉缺席（工人劳作时发出的声音）与视觉缺席并行，而废墟自己的声音是对那层缺席最直接的物质置换。[相关链接](https://www.armoryonpark.org/season-events/2026-season/clinamen/)
+
+---
+
 ## 2026-07-25
 
 ### 艺术圈新闻
