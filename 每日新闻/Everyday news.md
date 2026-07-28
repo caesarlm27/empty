@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-07-28
+
+### 艺术圈新闻
+1. **法国博物馆2500年前凯尔特公主金项圈被盗·文化部宣布启动国家文物安全计划** - 7月24日，两名伪装成游客的盗贼在勃艮第沙蒂隆-塞纳博物馆砸柜窃走"维克斯公主"6世纪BCE凯尔特金项圈（24克拉稀世文物）；7月28日法国文化部长Catherine Pégard宣布启动"国家博物馆与纪念碑安全计划"——这是继2025年10月卢浮宫皇冠珠宝大案后法国一年内第二次严重博物馆盗窃，一名嫌疑人已被捕，但文物下落仍不明。 [ARTnews](https://www.artnews.com/art-news/news/police-arrest-suspect-theft-celtic-princess-gold-torque-1234793543/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/07/28/culture-minister-catherine-pegard-reveals-national-security-plan-following-another-major-museum-theft-in-france)
+2. **费城艺术博物馆创纪录财政赤字：本财年亏损1000万美元、下年度或达1600万，三年内无平衡路径** - 截至2026年6月30日的财年，PMA在7650万美元年度预算上亏损约1000万；下年度赤字预估扩大至1600万，馆长Daniel Weiss以"重大但可解决"描述现状，目前以机构准备金弥补亏空；费城作为宾夕法尼亚钢铁带文化中心，其财政危机直接映射去工业化城市税基收缩对文化机构的下游压力。 [Artnet](https://news.artnet.com/artnet-bulletin/philadelphia-museum-crisis-july-28-2026-2791097) · [Philadelphia Inquirer](https://www.inquirer.com/arts/philadelphia-museum-of-art-finances-deficits-20260726.html)
+3. **英国国家肖像美术馆入藏Harley Weir拍摄的Charli XCX「Brat时代」肖像：从拍摄到永久收藏仅历时两年** - 摄影师Harley Weir 2024年拍摄的Charli XCX「Brat」专辑标志性肖像通过NPG「Collecting the Now」计划（Bukhman基金会100万英镑资助）进入永久收藏，即日展于History Makers展厅；同周Charli发布第八张专辑《Music, Fashion, Film》；此次收藏展示当代摄影被机构化历史化的快速通道，从拍摄到永久入藏仅需两年。 [The Art Newspaper](https://www.theartnewspaper.com/2026/07/27/music-fashion-film-photography-charli-xcx-image-acquired-by-londons-national-portrait-gallery) · [PetaPixel](https://petapixel.com/2026/07/28/uks-national-portrait-gallery-acquires-photograph-of-charli-xcx/)
+4. **V&A博物馆逾300名员工就薪资与极端高温工作条件启动罢工投票（7月23日至8月20日）** - PCS工会代表南肯辛顿、V&A East Storehouse、East Museum及Young V&A四处场馆员工开启罢工投票；核心诉求：薪资谈判失败（馆方拒绝「Real Living Wage」认证）+ 酷热健康安全（East Storehouse工作人员被禁止在工作区域携带或饮水）；Prospect工会平行投票7月29日截止，两工会合计涵盖全部伦敦V&A场馆专业员工。 [ARTnews](https://www.artnews.com/art-news/news/va-workers-strike-ballot-pay-heatwave-conditions-1234793516/) · [PCS](https://www.pcs.org.uk/news-events/news/strike-ballot-opens-va-workers)
+5. **Roy Lichtenstein「如新（Like New）」将于惠特尼博物馆10月11日开幕：市场行情强劲背景下130件大作云集，借展方含对冲基金亿万富翁Ken Griffin** - 展览由惠特尼策展人Meg Onli与艺术家Alex Da Corte联合策划，跨越波普艺术家五个十年；Artnet市场分析同期指出Lichtenstein拍卖价格处于强势周期，惠特尼展览将与11月纽约拍卖周共振；展览从2023年百年诞辰延迟至2026年，背景是遗孀Dorothy Lichtenstein 2024年去世后借展谈判方才完成。 [Artnet](https://news.artnet.com/market/roy-lichtensteins-whitney-museum-loans-2788895) · [Whitney](https://whitney.org/press/lichtenstein)
+
+### Project One 灵感
+1. **法国"国家文物安全计划"与Gary Works"被容忍的文化消失"：国家对例外事件（盗窃）调动机器，对系统性过程（废墟化）保持沉默——两种文化损失的国家可见性等级** - 凯尔特金项圈被盗24小时内触发媒体风暴、国际刑警通报、文化部长亲赴声明，法国因一年内两次重大博物馆盗窃而启动国家级保护计划；而Gary Works高炉群系列从1970年代开始的"缓慢盗走"（去工业化每一次拆除、每一批档案遗失、每一件工人遗物腐烂），因"太缓慢"永远不触发新闻阈值——没有刑事立案，没有政府宣布保护，没有国际通报。这暴露了"文化损失的国家可见性"背后的逻辑：损失必须以例外事件（盗窃、炸毁）的形式发生才能激活国家保护机制；以资本主义常规运转（关厂、去工业化、社区解散）形式发生的损失不构成"文化紧急情况"。Project One的工作是命名一种特殊形式的"被容忍的文化盗窃"——它不是犯罪行为，正因如此从未进入任何保护框架；激活canvas"为什么偏偏是废墟"节点在国家合法性维度的最明确表述：废墟是国家允许发生的文化损失，而非被偷走的文化遗产。 [相关链接](https://www.theartnewspaper.com/2026/07/28/culture-minister-catherine-pegard-reveals-national-security-plan-following-another-major-museum-theft-in-france)
+2. **费城艺术博物馆赤字：铁锈带城市文化机构的财政地质层——Gary Works历史进入大机构叙事的窗口正在系统性关闭，赤字期也是档案合作的机会窗口** - PMA赤字反映整个大湖区铁锈带城市（费城、匹兹堡、克利夫兰、底特律）文化机构系统性面临的税基收缩压力，而这些机构原本是最有可能将铁锈带工业遗产研究纳入收藏日程的地理候选者。赤字压力的结构效应：机构进入财政紧急状态时，边缘历史项目（如Gary Works工业档案）首先被压缩，因为它既非核心收藏方向又无外部资金支撑。这与Project One的时间性直接相关：记录工作需要在这些机构能力尚存时建立合作（展览权限、研究协议、档案接收）；但赤字周期内机构也需要低成本的高价值内容合作，Project One提供的正是这样的内容——这是"机构困难期也是档案合作机会窗口"的双面逻辑，与McMichael"机构性缺席时藏品流动性更广"（7月27日灵感）形成辩证张力，激活canvas"记录与重构之间的张力"节点的时间紧迫性论证。 [相关链接](https://news.artnet.com/artnet-bulletin/philadelphia-museum-crisis-july-28-2026-2791097)
+3. **NPG「Collecting the Now」机制透明化：两年从拍摄到永久收藏——反向工程Gary Works影像的机构入口设计** - NPG「Collecting the Now」的操作结构：①专项收藏资金（Bukhman基金会100万英镑）②明确的文化影响力叙事框架（"History Makers"）③从生产到收藏的快速通道（2年）。这个机制的透明化让Project One可以反向工程Gary Works影像的"机构入口"：不是等待机构自发发现其重要性，而是主动构建平行于「Collecting the Now」的专项收藏框架——找到具有铁锈带劳工历史收藏意向的基金会（如Mellon Foundation工业遗产项目、Ford Foundation），以"Gary Works：美国铁锈带工业生命最后影像档案"为框架，设计"从记录到收藏"的具体通道；Harley Weir两年即入藏NPG，Gary Works工人影像可能永远无法进入任何机构——这个差距的结构性原因是前者有文化资本运作者把关，后者的文化资本转换通道从未被建立，Project One任务之一是建立这个通道；激活canvas"记录与重构之间的张力"节点在机构主动权维度，与石内都「痕迹」（7月23日灵感）的档案伦理议题形成制度路径层面的接续。 [相关链接](https://www.theartnewspaper.com/2026/07/27/music-fashion-film-photography-charli-xcx-image-acquired-by-londons-national-portrait-gallery)
+
+---
+
 ## 2026-07-27
 
 ### 艺术圈新闻
