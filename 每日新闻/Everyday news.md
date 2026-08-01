@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-08-01
+
+### 艺术圈新闻
+1. **Gilberto Cárdenas（1946–2026）7月26日辞世：拉丁裔艺术顶级收藏家、诺特丹大学拉美研究创始所长，与妻子共同建立逾20,000件奇卡诺与拉丁裔艺术藏品，将摄影与版画提升至与架上绘画同等的收藏地位** - 以研究社会流动性与拉丁裔社区的社会学家身份在诺特丹大学任教，创建拉美研究所，同时以系统性收藏弥补美国主要机构对奇卡诺/拉丁裔艺术的长期忽视；其藏品重点涵盖摄影与版画，将边缘媒介提升至与油画同等地位；ARTnews 7月30日整版报道，AP同步发出。 [ARTnews](https://www.artnews.com/art-news/news/gilberto-cardenas-collector-sociologist-dead-1234794000/) · [AP/WTOP](https://wtop.com/education/2026/07/gilberto-cardenas-revered-for-his-advocacy-for-chicanos-and-latino-art-dies-at-79/)
+2. **Gary市议会一致通过决议：呼吁Nippon Steel/US Steel在Gary Works引入直接还原铁（DRI）清洁炼钢技术，以保护工人就业与降低有害排放为双重诉求，决议抄送联邦、州政府及周边钢铁产区** - 决议明确要求将余下承诺投资用于安装DRI设施取代老旧煤基高炉；Gary市议会同时敦促遵守联邦空气污染新标准，并承诺在技术转型中保障工会就业与本地雇用优先——是Gary社区首次以立法行动正式定义其对母公司工业路径的诉求。 [NWI Times](https://nwitimes.com/news/local/lake/gary/article_dfd2d647-6ac6-4bd9-acef-61af418dcbff.html) · [InkFreeNews](https://www.inkfreenews.com/2026/07/27/gary-common-council-calls-for-us-steel-plant-modernization/)
+3. **Robert Lazzarini美国威尼斯馆方案流产后转赴波士顿：MassArt Art Museum 9月30日呈现原为国家馆设计的全套装置——数学扭曲的秃鹰、华盛顿雕像与内战炮——以美国象征失形作为国家认同危机的物质化** - Lazzarini入选美国馆后因合作机构谈判破裂被撤回，美国2026年全程缺席威尼斯，是近年来美国在双年展中最显目的制度性缺席；原版作品将于9月30日在波士顿MassArt Art Museum以非官方展览形式完整亮相，Artnet称其"以数学形变消解了国家图腾的稳固性"。 [ARTnews](https://www.artnews.com/art-news/news/show-boston-robert-lazzarini-us-pavilion-venice-1234793663/) · [MassArt](https://massart.edu/news/massart-art-museum-presents-solo-exhibitions-by-banu-cennetoglu-and-robert-lazzarini/)
+4. **MCA芝加哥宣布Rashid Johnson大型个展「A Poem for Deep Thinkers」11月7日开幕：横跨近三十年60余件作品，曾展于古根海姆与沃斯堡现代美术馆，此为Johnson第三次在芝加哥主场MCA回归** - 展览由古根海姆策展人Naomi Beckwith与沃斯堡Andrea Karnes联合策划，以Johnson以黑人身份经验为核心的当代焦虑与历史重量叙事为主线，跨装置、绘画与视频多种媒介；New City 7月31日将此列为芝加哥艺术圈本周最重要动态。 [MCA Chicago](https://mcachicago.org/exhibitions/2026/rashid-johnson-a-poem-for-deep-thinkers) · [New City](https://www.newcity.com/2026/07/31/today-in-culture-friday-july-31-2026-mca-announces-rashid-johnson-survey-julia-momoses-f1-cocktails-the-chicago-origins-of-paul-mccartneys-dj/)
+5. **David Nahmad被追加数百万美元诉前利息：法院裁定Modigliani《持手杖的坐姿男子》归还须同时赔偿全部纽约法定诉前利息，将在已判归还赔偿基础上再叠加可观金额——Nahmad宣布上诉** - 本案自2015年起历经11年，4月裁定归还，6月进入30日强制执行期，7月末法官新增利息裁决使赔偿额大幅扩大；纽约法规要求同类归还案件必须计入全部诉前利息，此案或成为战后纳粹掠夺艺术品赔偿利息追索的新先例；Urgentmatter.Press已公布完整法庭文件。 [ARTnews](https://www.artnews.com/art-news/market/judge-awards-interest-nahmad-modigliani-restitution-case-1234793997/) · [The Art Newspaper](https://www.theartnewspaper.com/2026/04/06/judge-rules-dealer-david-nahmad-must-return-nazi-looted-modigliani)
+6. **Catherine Opie「To Be Seen」8月8日于爱丁堡国家苏格兰画廊（皇家苏格兰学院）开幕：近80件肖像横跨酷儿社区、运动员、政治集会与自画像，Opie在苏格兰首次机构个展，展至11月1日** - 此展从英国国家肖像美术馆巡回至苏格兰，延续Opie标志性的"社会决定不去看者"肖像伦理——同性社区、跨性别者、边缘亚文化——在英国最大摄影机构背书下成为历史性可见性事件；Opie以社会导向摄影延续Arbus-Goldin谱系，为当代肖像伦理的核心实践者。 [National Galleries of Scotland](https://www.nationalgalleries.org/exhibition/catherine-opie-be-seen) · [NEN Edinburgh](https://nen.press/tag/8-august-1-november-2026/)
+
+### Project One 灵感
+1. **Gary市议会DRI决议：高炉退役的第二轮废墟化正在被立法催化——项目档案窗口从「记录消亡」转向「记录技术政治的历史过渡时刻」，DRI争议是Project One的当下现实背景** - 决议要求安装DRI设施意味着：若Nippon Steel响应，Gary Works高炉群（包括已耗资3.5亿美元重新衬砌的BF#14）将面临第二次废弃——不是因为无人使用，而是因为"使用方式被迫更换"；这是Anna Tsing contamination理论中"没有未被污染的过去可以回去"的字面现实：煤基高炉时代是一层污染，DRI转型是另一层污染的开始，两者都不构成"清洁出发点"；Project One档案因此获得了一个新的历史层：不只是记录"最后的钢铁工业废墟"，而是记录"在高炉与直接还原铁之间的技术政治争议窗口中的Gary Works"——进入这个窗口期才是历史见证的最佳位置，激活canvas"记录与重构之间的张力"节点的当下时事维度。 [相关链接](https://nwitimes.com/news/local/lake/gary/article_dfd2d647-6ac6-4bd9-acef-61af418dcbff.html)
+2. **Robert Lazzarini的「失形美国象征」：数学扭曲消解国家图腾稳固性——Gary Works废墟是同类扭曲在工业-地理尺度的自然版本，两者共享「美国自我叙事从内部失形」的物质结构** - Lazzarini的操作逻辑：选取美国最稳固的象征载体（秃鹰、国父雕像、内战炮），以数学算法将其三维形态从内部扭曲——外观仍可辨认但比例完全失常，是"象征在场、意义失形"的物质化；Gary Works废墟与此完全同构：高炉、军事调度塔、运煤传送带的工业形态仍然在场，但"让美国成为美国"的那套工业-劳动叙事从内部失形——不是拆毁，而是比例失常；这让Project One的拍摄策略在Lazzarini框架下获得新定义：Gary Works高炉不需要废墟化妆，它已经是"美国自我叙事的自然失形版"——比例仍在，意义已失，一张正确的照片就是一件Lazzarini式的美国象征研究；激活canvas"为什么偏偏是废墟"节点在美国国家叙事象征维度，与Taryn Simon古根海姆展（7月27日灵感）"建国神话是被精心挑选的图像星座"形成物质-形态层面的互补。 [相关链接](https://www.artnews.com/art-news/news/show-boston-robert-lazzarini-us-pavilion-venice-1234793663/)
+3. **Rashid Johnson芝加哥主场归来：Gary仅距芝加哥50公里，Johnson的「黑人现代性疲惫与自我修复」叙事与Gary铁锈带黑人工人社区历史构成50公里的地理-文化接续，MCA是Project One建立芝加哥机构连接的最近候选节点** - Johnson的核心方法论：以黑人个体的焦虑、失落与日常韧性为起点，建立"黑人现代性的内部档案"；Gary Works历史的最重要缺失层正是同等意义的内部档案——黑人工人在生产高峰期（1940s–1960s）如何体验工业现代性、在去工业化中如何体验失落，这一历史层从未被系统记录；MCA展览在地理上创造了一个窗口：MCA距Gary 50公里，是大湖工业走廊中最重要的当代艺术机构锚点；Project One若能在档案完成后与MCA建立研究性对话，"Gary Works黑人工人内部影像档案"作为Johnson所属芝加哥黑人现代性叙事的地理延伸具备机构语言；激活canvas"缺席者的痕迹"节点在种族-机构-地理三重维度，与Arthur Jafa「I Am Tony」（7月27日灵感）在Gary作为黑人工人聚居地历史维度的接续中添加一个芝加哥机构的现实落点。 [相关链接](https://mcachicago.org/exhibitions/2026/rashid-johnson-a-poem-for-deep-thinkers)
+
+---
+
 ## 2026-07-31
 
 ### 艺术圈新闻
