@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-08-24
+
+### 艺术圈新闻
+1. **Dawoud Bey「Material Histories, Living Landscapes」于多伦多美术馆（AGO）开幕，联合2026多伦多双年展呈现** - 23幅黑白摄影、一部双屏影像装置与馆藏非洲雕塑并置，将地景重塑为承载暴力、位移、抵抗与生存记忆的"活档案"；《The Art Newspaper》8月19日刊发艺术家专访"A brush with… Dawoud Bey"。[AGO](https://ago.ca/exhibitions/dawoud-bey-material-histories-living-landscapes) · [The Art Newspaper](https://www.theartnewspaper.com/2026/08/19/a-brush-with-dawoud-bey)
+2. **Mark Maio「Against the Grain」于波特兰Blue Sky摄影中心展出至8月29日** - 摄影师历时16年记录布法罗谷物搬运工（"scoopers"）社区，黑白影像追踪自动化取代人工前最后二十年的码头劳作与爱尔兰裔街区生活，8月29日下午艺术家将出席讲座与签售。[Blue Sky Gallery](https://www.blueskygallery.org/currently-showing)
+3. **Frieze Seoul宣布2027年起迁至东大门设计广场（DDP）新场馆** - 现址COEX即将启动重建工程，新场馆为扎哈·哈迪德设计的曲面铝质文化建筑。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/17/frieze-seoul-to-move-to-new-venue-from-2027)
+4. **Hauser & Wirth与David Zwirner英国分部最新财报显示营收同比骤降近90%** - 超级画廊在英国市场遭遇罕见收缩，延续今夏Gagosian退出巴塞尔与伦敦据点后行业结构性调整的趋势。[Hyperallergic](https://hyperallergic.com/hauser-wirth-david-zwirner-uk-galleries-report-nearly-90-percent-drop-in-earnings/)
+5. **世界摄影日（8月19日）：巴黎摄影双百年庆典启动，全城多场摄影展同期集中呈现** - 法国文化部主导的"摄影两百年"全国性纪念活动将自9月1日起正式展开，持续至2027年。[Paris Select Book](https://www.parisselectbook.com/en/2026/08/19/world-photography-day-the-5-paris-exhibitions-you-cant-miss-this-19-august/)
+6. **威尼斯双年展平行展聚焦数字与AI艺术**：多个场馆呈现涉及人工智能生成与感知边界的作品，展期持续至11月22日。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/13/digital-art-exhibition-venice-biennale-collateral)
+
+### Project One 灵感
+1. **Dawoud Bey「活的地景」方法论** - 地景不是被动背景，而是承载暴力、位移与幸存记忆的活体档案；黑白摄影与实物雕塑并置的策展逻辑，为Gary Works提供"影像档案与实物遗存共同展示"的具体范式，直接呼应Project One"记录与重构"的张力与"缺席者的痕迹"命题。[相关链接](https://ago.ca/exhibitions/dawoud-bey-material-histories-living-landscapes)
+2. **Mark Maio 16年「Against the Grain」驻场记录法** - 与拍摄对象建立近二十年信任关系后完成的谷物搬运工肖像与劳动空间影像，是Curran Hatleberg"耐心等待＋长期关系"方法论在铁锈带劳工语境下的先例实践，也提示Project One可采用"技术性劳动消逝前最后记录窗口"的紧迫性叙事框架。[相关链接](https://www.markmaio.com/against-the-grain-photographic-portfolio-mark-maio-irish-grain-scoopers-buffalo-ny-burchfield-penny-art-museum)
+3. **Hauser & Wirth / Zwirner英国营收暴跌90%与Project One的机构策略** - 超级画廊的高固定成本模式在市场收缩期显露结构性脆弱，延续此前对Gagosian退出巴塞尔/伦敦的分析框架，进一步印证工业遗产存档项目"低固定成本、高机动性"相对于画廊系统的制度竞争优势窗口仍在扩大。[相关链接](https://hyperallergic.com/hauser-wirth-david-zwirner-uk-galleries-report-nearly-90-percent-drop-in-earnings/)
+
 ## 2026-08-04
 
 ### 艺术圈新闻
