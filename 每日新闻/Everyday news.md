@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-08-25
+
+### 艺术圈新闻
+1. **The Art Newspaper 任命 Benjamin Sutton 为全球总编辑** - 8月21日公布的这一人事变动标志着这家老牌艺术媒体在国际化扩张中的编辑部重组。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/21/amtd-appoints-benjamin-sutton-global-editor-chief-the-art-newspaper)
+2. **英国杜伦「The Light」艺术中心8月22日开幕** - 原杜伦轻步兵博物馆2016年闭馆后空置十年，如今被拆至基础结构、扩建至两倍面积后重新开放，以Tracey Emin、Dan Flavin等光主题作品揭幕首展。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/24/art-centre-launches-in-durham-uk-with-light-themed-works-by-tracey-emin-dan-flavin) · [Willmott Dixon](https://www.willmottdixon.co.uk/news/willmott-dixon-completes-rebuild-of-former-dli-museum-as-new-cultural-venue-the-light)
+3. **乌克兰赫尔松州立艺术博物馆8月24日遭俄军导弹袭击起火** - ARTnews当日报道该馆遭遇袭击并引发火灾，是俄乌战争持续对文化机构造成物理性破坏的最新一例。[ARTnews](https://www.artnews.com/art-news/news/russian-strike-fire-ukraines-kherson-regional-art-museum-1234795602/)
+4. **Magnum基金会公布2026年度Inge Morath Award得主** - 乌克兰摄影师Dara Petrova凭战时基辅纪实项目《Circle》（记录宵禁间隙的锐舞、老兵康复与葬礼）获7500美元制作资助。[Magnum Foundation](https://www.magnumfoundation.org/news/2026-inge-morath-award)
+5. **群展「Traces」8月22日于美国Erin Cluley画廊（德州）开幕** - 国际艺术家阵容以摄影、绘画、雕塑探讨身体如何理解并穿行于地方之中，聚焦拉美与东南亚的非西方地理经验，展至9月26日。[Glasstire](https://glasstire.com/events/2026/08/03/traces-3/)
+
+### Project One 灵感
+1. **The Light Durham 的"废墟—重建"实证案例** - 原杜伦轻步兵博物馆空置十年后被"拆至基础结构"再重建为新馆：这是「记录与重构」张力在建筑尺度上的字面发生——拆除行为本身，恰恰抹去了闲置十年间累积的废墟证据，重构以清除记录为代价。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/24/art-centre-launches-in-durham-uk-with-light-themed-works-by-tracey-emin-dan-flavin)
+2. **赫尔松艺术博物馆的战时废墟化** - 与Sophie Ristelhueber《贝鲁特》形成对照：铁锈带的废墟由缓慢的经济性废弃生成，战争则以瞬间的暴力生成废墟——两种截然不同的时间性，都指向"关于人的证据，但没有人在场"的画面逻辑。[ARTnews](https://www.artnews.com/art-news/news/russian-strike-fire-ukraines-kherson-regional-art-museum-1234795602/)
+3. **「Traces」展览的非西方地理—身体观** - 拉美与东南亚艺术家以身体经验而非纯粹视觉记录来理解迁徙与地方：为Curran Hatleberg式的公路摄影提供另一种"缺席者痕迹"的方法论参照——痕迹未必只留在物理空间里，也留在身体记忆之中。[Glasstire](https://glasstire.com/events/2026/08/03/traces-3/)
+
+---
+
 ## 2026-08-24
 
 ### 艺术圈新闻
