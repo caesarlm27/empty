@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-08-26
+
+### 艺术圈新闻
+1. **Kehinde Wiley画作被美国国务院从多米尼加共和国大使馆撤下** - 8月25日，美国驻圣多明各大使馆撤除2013年委任创作的《Young Artists After Siamesas 1960》，官方称其"过于觉醒"、"审美上令人恐惧"，国务院并考虑将画作出售。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/25/kehinde-wiley-painting-removed-us-embassy-dominican-republic-state-department) · [ARTnews](https://www.artnews.com/art-news/news/trump-administration-weighs-sale-kehinde-wiley-painting-1234795673/)
+2. **中国艺术家高兟因毛泽东讽刺雕塑被判监三年** - 河北三河市法院8月25日宣判，高氏兄弟之一高兟因2005-2009年间创作的毛泽东雕塑被依"侮辱英雄烈士"条款（该法2021年才通过）追溯定罪，本人已表示将上诉。[Hyperallergic](https://hyperallergic.com/chinese-artist-gao-zhen-gets-3-year-prison-sentence-for-mao-sculptures/) · [Artforum](https://www.artforum.com/news/chinese-court-sentences-gao-zhen-to-three-years-in-prison-1234757829/)
+3. **Franco Vaccari大型回顾展「Feedback」于博尔扎诺Museion展出至9月13日** - 策展人Frida Carazzato与Luca Panaro梳理这位意大利战后观念艺术家以"实时展览"（Esposizione in tempo reale）为核心的环境装置实践，是艺术家2025年12月去世后首次大型机构呈现，恰逢其九十诞辰。[Museion](https://www.museion.it/en/exhibitions/12118-feedback-the-environments-of-franco-vaccari) · [ArtReview](https://artreview.com/franco-vaccari-reverie-against-ruin/)
+4. **Lotus L. Kang个展「I hear the hollow boom of time」于西雅图Frye艺术博物馆展至9月27日** - 艺术家迄今最大规模美术馆个展，用大幅未定影的工业感光胶片经不同光源长时间曝光（她称之为"晒制"），与以榻榻米为基座的雕塑一同悬垂于展厅，作品被她视为"永远处于转化中、从未完成"。[Frye Art Museum](https://fryemuseum.org/exhibitions/lotus-l-kang-i-hear-hollow-boom-time)
+5. **Janet Cardiff声音装置「The Forty Part Motet」8月于香港M+首展** - M+与纽约MoMA合作框架下呈现这件21世纪最负盛名的声音装置之一：40位索尔兹伯里座堂唱诗班歌手的独立录音分别经40只环形排列的扬声器播放，声音在空间中游走、最终汇聚成合唱。[M+](https://www.mplus.org.hk/en/exhibitions/janet-cardiff-the-forty-part-motet/) · [Ocula](https://ocula.com/institutions/m-plus-hong-kong/exhibitions/janet-cardiff-the-forty-part-motet/)
+
+### Project One 灵感
+1. **Lotus Kang「未定影胶片」的持续曝光状态** - 感光胶片被有意不定影，持续对光线产生反应、不断变化，艺术家称"没有一件作品是完成的"——这为Project One提供了一种与"废墟即终结状态"相反的模型：废墟同样从未真正定影，它持续暴露在风化、拆除、再占用之中，记录它就是记录一个仍在显影的过程，而非一个已完成的物件。[相关链接](https://fryemuseum.org/exhibitions/lotus-l-kang-i-hear-hollow-boom-time)
+2. **Janet Cardiff「四十声部经文歌」：缺席的身体，在场的声音** - 唱诗班歌手本人完全不在场，只有他们的声音通过四十只独立扬声器占据空间——这是「缺席者的痕迹」最直接的物理演绎：痕迹不必是视觉的（涂鸦、废弃物），也可以是纯粹时间性、非物质的。为Gary Works提示一种可能：为铁锈带工厂收集口述录音或环境声，让消失的劳动身体以声音形式重新"占据"废墟空间。[相关链接](https://www.mplus.org.hk/en/exhibitions/janet-cardiff-the-forty-part-motet/)
+3. **Franco Vaccari「实时展览」与访客自留的痕迹** - Vaccari标志性的Photomatic自拍亭装置邀请普通观众自行拍照、把照片钉满展墙，作品的最终形态由无数匿名访客的短暂在场共同"重构"而成，而非艺术家单方面记录；ArtReview的评论标题直接以"Reverie Against Ruin"（对抗废墟的白日梦）呼应这一机制。这提示Project One："记录与重构"未必是艺术家单向施加于废墟之上的行为，废墟本身也可能邀请偶然闯入者（拾荒者、涂鸦者、探险者）留下自己的即时印记，成为共同作者。[相关链接](https://artreview.com/franco-vaccari-reverie-against-ruin/)
+
 ## 2026-08-25
 
 ### 艺术圈新闻
