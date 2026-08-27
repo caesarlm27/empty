@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-08-27
+
+### 艺术圈新闻
+1. **草间弥生逝世，享年97岁** - 8月14日于东京医院因多器官衰竭辞世，消息经草间弥生基金会于8月26/27日正式公布。这位以圆点、南瓜与「无限镜屋」闻名全球的日本艺术家，其八十年创作生涯深刻影响了安迪·沃霍尔等波普艺术家。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/27/yayoi-kusama-polka-dots-mirror-rooms-has-died-aged-97) · [Artnet News](https://news.artnet.com/art-world/yayoi-kusama-obit-2611735)
+2. **Piers Secunda「Nature Morte: The Extermination of Ukraine」于伦敦Fitzrovia画廊展出至9月6日** - 艺术家用自己收集自2022年哈尔科夫州政府大楼遭导弹袭击后的灰烬制成炭墨，绘制21幅乌克兰传统静物画，并展出记录逾5000处文化遗址受损的地图与40分钟纪录片，销售所得15%捐赠基辅佩乔尔斯克大修道院教堂修复。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/27/artist-piers-secunda-creates-paintings-from-ashes-of-ukrainian-buildings-bombed-by-russia) · [FAD Magazine](https://fadmagazine.com/2026/08/03/piers-secunda-nature-morte-ukraine/)
+3. **西班牙比连纳青铜时代黄金珍宝遭"闪电盗窃"** - 8月27日凌晨，窃贼在西班牙阿利坎特省比连纳博物馆四分钟内洗劫欧洲最重要的青铜时代黄金藏品之一——59件金、银、铁与琥珀制品，市长称"珍宝的大部分已被带走"。[Euronews](https://www.euronews.com/culture/2026/08/27/thieves-steal-villena-treasure-in-under-four-minutes-one-of-europes-great-bronze-age-hoard) · [Al Jazeera](https://www.aljazeera.com/news/2026/8/27/thieves-raid-bronze-age-collection-in-super-fast-spain-museum-heist)
+4. **World Press Photo 2026伦敦展8月21日于MPB Gallery开幕，展至9月30日** - 汇集本届获奖的42位摄影师作品，呈现战争、政治动荡、气候变化、抗议与迁徙等主题的纪实摄影项目。[World Press Photo](https://www.worldpressphoto.org/calendar/2026/london-united-kingdom) · [Ikon London Magazine](https://www.ikonlondonmagazine.com/world-press-photo-2026-london/)
+5. **Frieze Abu Dhabi公布84家参展画廊名单，11月举办首届博览会** - 全球艺博会版图进一步向中东扩张，标志Frieze品牌在阿布扎比的首次落地。[ARTnews](https://www.artnews.com/art-news/market/frieze-abu-dhabi-2026-exhibitor-line-up-1234795989/)
+6. **达特茅斯学院Hood美术馆任命惠特尼美术馆首席策展人Kim Conaty为新任馆长** - Conaty将于10月27日就任，接替退休的John Stomberg，此前在惠特尼策划过Edward Hopper、Mary Corse、Ruth Asawa等重要个展。[ARTnews](https://www.artnews.com/art-news/news/kim-contay-hood-museum-dartmouth-director-1234796004/)
+
+### Project One 灵感
+1. **Piers Secunda「灰烬作画」：被摧毁建筑的物质残余直接成为图像的媒介** - 艺术家不是"拍摄"废墟，而是将废墟本身（导弹袭击后的灰烬）研磨为颜料，让被摧毁的物质在新的图像里继续存在。这为Project One提供了比摄影记录更进一步的方法论：Gary Works高炉区的锈粉、煤灰、金属氧化物，或许同样可以脱离"被拍摄对象"的位置，直接成为记录媒介本身的物质构成——尘埃不再只是画面的主题，而是画面的材料。[相关链接](https://www.theartnewspaper.com/2026/08/27/artist-piers-secunda-creates-paintings-from-ashes-of-ukrainian-buildings-bombed-by-russia)
+2. **草间弥生逝世：创作者的缺席与作品持续「在场」的悖论** - 艺术家本人已经离开，但"无限镜屋"仍在世界各地的美术馆里被无数观众持续体验、拍摄、复制——这是「缺席者的痕迹」最极端的当代案例：本体消失后，痕迹（作品）不但没有随之消逝，反而以更高强度继续生产意义。提示Project One：Gary Works工人的缺席与他们留下的实体痕迹（工具、涂鸦、工牌）之间，或许也存在类似的"痕迹超越本体"的能量关系，而非单纯的哀悼逻辑。[相关链接](https://www.theartnewspaper.com/2026/08/27/yayoi-kusama-polka-dots-mirror-rooms-has-died-aged-97)
+3. **World Press Photo展览的"新闻纪实"与"策展叙事"张力** - 战地新闻摄影被摘取出原本的报道语境，重新以美术馆式的策展逻辑排列、悬挂、观看——这与巴特"那个东西真的在那里存在过"的证据性命题、以及Taryn Simon对摄影证据性的质疑构成直接对话。为Project One提示一个需要明确表态的问题：Gary Works的影像档案最终应以"新闻式的直接见证"还是"经过策展重构的意义系统"呈现，两者对废墟的伦理姿态截然不同。[相关链接](https://www.worldpressphoto.org/calendar/2026/london-united-kingdom)
+
 ## 2026-08-26
 
 ### 艺术圈新闻
