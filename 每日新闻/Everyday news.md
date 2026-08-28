@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-08-28
+
+### 艺术圈新闻
+1. **新西兰Govett-Brewster美术馆群展「Economies of Deferral」8月8日开幕，展至11月15日** - 新展聚焦塔拉纳基地区能源产业半个世纪的开发与荒废史，Fiona Clark五十年生态摄影记录、Darcy Lange 1987年录像作品《Lack of Hope》等作品，共同呈现政治与工业决策的后果如何被延迟并转嫁到时间、社区与地景之上。[Govett-Brewster](https://govettbrewster.com/exhibitions/2026/economies-of-deferral) · [ArtReview](https://artreview.com/the-10-exhibitions-to-see-in-august-2026/)
+2. **Art-o-rama马赛艺博会第20届8月28-30日在原烟草工厂Friche la Belle de Mai举办** - 38家画廊参展，半数以上为首次参展（含利马、东京画廊），以低摊位费与年轻血液著称，是欧洲夏季最受欢迎的艺术盛事之一，也延续着废弃工业建筑改造为文化场所的欧洲传统。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/28/art-fair-art-o-ramas-winning-formula-low-fees-young-blood-bold-ideas)
+3. **维也纳应用艺术博物馆（MAK）8月27日遭"闪电盗窃"，价值逾430万美元钻石项链被盗** - 两名嫌犯购票入馆后砸碎展柜，盗走一条镶嵌673颗钻石、曾属埃及末代王室（Fawzia公主婚礼佩戴）的Van Cleef & Arpels项链，是维也纳自2003年萨利耶拉黄金盐罐失窃案以来最高价值的艺术品失窃案。[The National](https://www.thenationalnews.com/news/europe/2026/08/28/necklace-made-for-egyptian-queen-stolen-in-vienna-heist/) · [CBS News](https://www.cbsnews.com/news/carat-platinum-diamond-necklace-heist-vienna-museum/)
+4. **英国政府对价值7100万英镑的伦勃朗肖像画发出出口禁令** - 该作品成为英国史上被授予"国宝"地位物品中估值最高者，当局希望争取时间由本土机构筹资购藏留英。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/28/uk-government-places-export-bar-on-%C2%A371m-rembrandt-portrait)
+5. **斯德哥尔摩Bonniers Konsthall开幕「艺术作为反法西斯抵抗」群展，呼应瑞典大选前夕政治气候** - 展览包括乌克兰艺术家Kateryna Lysovenko以人体器官为背景描绘"法西斯家庭"的新作《Madness of Fascism》(2026)。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/28/bonniers-konsthall-opens-exhibition-art-antifascist-resistance-ahead-swedish-election)
+6. **悉尼Powerhouse Parramatta博物馆首席执行官Lisa Havilah在开馆前十周突然离任** - 这座耗资9.15亿澳元的重要文化项目原定11月7日开幕，Havilah因治理与采购问题接受调查而暂时离职，由新州政府建筑师Abbie Galvin代理。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/27/chief-executive-of-sydneys-anticipated-parramatta-powerhouse-museum-steps-down-two-months-before-grand-opening)
+
+### Project One 灵感
+1. **「Economies of Deferral」：工业决策的后果如何被"延迟"并转嫁给时间、社区与地景** - 展览标题本身提供了Project One尚未使用过的关键词——"deferral"（延迟/推迟）。铁锈带的废墟不是工业决策的"结果"，而是决策后果被系统性推迟兑现之处：关厂决定发生在某一天的董事会会议室，真正的代价（失业、污染、社区解体）却在几十年里持续兑付给不在场的Gary工人后代。这为canvas「记录与重构之间的张力」节点提供了新的时间性框架：记录废墟，其实是在记录一笔尚未还清的债务的利息。[相关链接](https://govettbrewster.com/exhibitions/2026/economies-of-deferral)
+2. **Art-o-rama在原烟草工厂Friche la Belle de Mai举办：废墟作为持续被使用的文化基础设施，而非被封存的遗迹** - 与John Divola式"介入废墟"或Ristelhueber式"无人的废墟"不同，Friche la Belle de Mai代表第三条路径：废墟被完整功能性地重新占用，废弃与在场同时成立、不再互斥。这提示Project One：若Gary Works部分厂房走向"再利用"而非"博物馆化保存"，摄影记录的对象将从"静止的废墟"变为"仍在被使用、仍在变化的历史现场"，记录的伦理姿态需要相应调整。[相关链接](https://www.theartnewspaper.com/2026/08/28/art-fair-art-o-ramas-winning-formula-low-fees-young-blood-bold-ideas)
+3. **维也纳钻石失窃案：被砸碎的展柜玻璃，是"缺席者"留下的最新鲜的物证** - 窃贼已经离开现场，但破碎的玻璃、空荡的展台成为一个瞬间生成的、极小尺度的"废墟"——一个原本完整、被凝视保护的机构空间，在两分钟内被暴力打断并留下无法修复的痕迹。这与Sophie Ristelhueber「关于人的证据，但没有人的在场」的画面逻辑高度共振：Project One或许可以借鉴这种"事件刚刚发生但主体已经消失"的取景时刻，去捕捉Gary Works中那些看起来像是"昨天才被废弃"而非"废弃了几十年"的角落。[相关链接](https://www.thenationalnews.com/news/europe/2026/08/28/necklace-made-for-egyptian-queen-stolen-in-vienna-heist/)
+
 ## 2026-08-27
 
 ### 艺术圈新闻
