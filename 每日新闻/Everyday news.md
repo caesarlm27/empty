@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-08-29
+
+### 艺术圈新闻
+1. **Felix Gonzalez-Torres大型回顾展「Sweet Revenge」于马德里索菲亚王后艺术中心持续展出，The Art Newspaper 8月28日刊发评论文章** - 这是艺术家在马德里的首次大型个展（他童年曾途经马德里逃离古巴），由Nancy Spector与Alejandro Cesarco联合策划，评论文章指出其作品"既是尖锐的政治，又是温柔的抒情"，展至10月12日。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/28/comment-%7C-felix-gonzalez-torress-major-survey-in-madrid-shows-how-he-was-both-stridently-political-and-gently-lyrical)
+2. **爱尔兰国家博物馆一名员工被控藏有394克军用级炸药"塞姆汀"，案件本周持续发酵** - 该员工任职于都柏林Collins Barracks馆区，警方指控涉爆装置曾存放于博物馆内部，本周获得高等法院4万欧元保释。[ARTnews](https://www.artnews.com/art-news/news/national-museum-ireland-employee-charged-car-bomb-plot-1234793637/)
+3. **玻利维亚波托西「国家造币厂」博物馆8月26日启动五年期修复计划** - 这座巴洛克风格建筑是玻利维亚参观人数最多的博物馆，以木质"卷币机"与殖民时期宗教艺术、钱币收藏闻名，此次修复是该机构历史上最大规模的一次系统性保护工程。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/26/bolivia-museum-five-year-restoration-casa-nacional-moneda-potosi)
+4. **野口勇雕塑《密西西比喷泉》（1961–62）捐赠新奥尔良艺术博物馆，闲置多年的水景装置即将重新通水** - 这件将安装于博物馆Beaux Arts入口处的喷泉此前因维护中断多年未能运作，捐赠后水景功能将被完整修复。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/27/monumental-isamu-noguchi-sculpture-donated-moving-new-orleans-museum-art-mississippi-fountain)
+5. **已故巴西艺术家Amélia Toledo纪录片新近发布，回顾其跨越雕塑、绘画与新具体主义（Neoconcretism）的开创性实践** - 影片梳理了这位拓展了巴西现代主义边界的艺术家、教育者的多线创作生涯。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/27/amelia-toledo-brazilian-contemporary-artist-documentary)
+
+### Project One 灵感
+1. **Felix Gonzalez-Torres「Sweet Revenge」：用糖果堆、成对时钟、灯串等日常物件的持续损耗与流逝，编码逝去爱人的身体与在场** - 这是"缺席者的痕迹"在物件/装置维度上最抽象、也最彻底的对应版本：不是静态遗物证明"有人曾在此"，而是物件本身正在进行的消耗过程标记着"正在失去"。提示Project One：Gary Works的记录也许不必只拍摄已经废弃的静态残骸，也可以尝试捕捉仍在缓慢进行中的锈蚀、渗漏、坍塌过程本身，把"消逝"作为动态的、正在发生的事件来对待，而非已完成的既定事实。[Museo Reina Sofía](https://www.museoreinasofia.es/en/exhibition/felix-gonzalez-torres/)
+2. **野口勇《密西西比喷泉》断流复通：一件功能性"死亡"多年的雕塑重新获得水流** - 这是废墟叙事里罕见的"可逆"反例，与Gary Works高炉不可逆的锈蚀进程形成尖锐对照。它逼出一个Project One必须面对的问题：谁的工业/艺术遗产会被资本与机构选中重新激活，谁则被留给自然侵蚀——这种"选择性复活"本身就是一种权力关系的物质化证据。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/27/monumental-isamu-noguchi-sculpture-donated-moving-new-orleans-museum-art-mississippi-fountain)
+3. **玻利维亚波托西国家造币厂博物馆五年修复计划：国家资本选择性投入保护哪种"过去"** - 与此前记录中反复出现的"谁的损失被算作值得保存"命题一脉相承，这次提供的是一个具体的、正在进行的对照案例——殖民时期的钱币与宗教艺术获得五年期系统性修复，而Gary Works这类工业劳工遗产至今没有任何等量级的国家保护动议进入议程。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/26/bolivia-museum-five-year-restoration-casa-nacional-moneda-potosi)
+
 ## 2026-08-28
 
 ### 艺术圈新闻
