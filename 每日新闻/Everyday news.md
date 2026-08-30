@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-08-30
+
+### 艺术圈新闻
+1. **佩斯画廊创始人Arne Glimcher公开批评大都会博物馆策划John Galliano大展，威胁重新考虑遗赠计划** - Glimcher致信大都会现代与当代艺术部策展人David Breslin，称"你们没有考虑这一行动及其后续影响的代价"，并表示他与妻子正"认真重新考虑"原计划遗赠大都会的藏品；争议聚焦大都会计划为2011年因反犹言论被判仇恨罪的时装设计师Galliano举办的展览，且展期恰与下届Met Gala、犹太人大屠杀纪念日（Yom HaShoah）重合。8月29日ARTnews报道。[ARTnews](https://www.artnews.com/art-news/news/met-john-galliano-controversy-arne-glimcher-1234796260/)
+2. **「2026LOOK+沈阳艺术季」于辽宁省博物馆旧址启幕，当代艺术展「旷野的考古」集结34位国内外艺术家聚焦东北地域文化** - 展览由鲁迅美术学院跨媒体艺术学院主办、联合多家专业艺术机构发起，借助沈阳和平区百年历史建筑，以油画、雕塑、装置、交互影像等媒介，依托旧博物馆承载的历史记忆，试图突破传统风景叙事、重构东北文化叙事系统。8月30日中新网报道。[中新网](https://www.chinanews.com.cn/sh/2026/08-30/10686841.shtml)
+3. **日本艺术家池田亮司获第九届白南准奖，9月8日于白南准艺术中心颁奖，2027年将举办个展** - 池田以融合声音、光影与数学概念的沉浸式装置与表演闻名，早年因在CD介质上使用"glitch"故障音效起家；奖金5000万韩元（约3.63万美元），该奖由白南准艺术中心两年一届颁发，表彰以创造力与实验性推动当代艺术与世界和平的艺术家。8月28日Artforum、ArtReview报道。[Artforum](https://www.artforum.com/news/ryoji-ikeda-awarded-2026-nam-june-paik-prize-1234758313/) · [ArtReview](https://artreview.com/ryoji-ikeda-wins-2026-nam-june-paik-prize/)
+4. **伊萨卡摄影师Harry Littell新书《Factory Stories》8月6日发布，将南山工业园区（原Morse Chain/BorgWarner/Emerson动力传动工厂）的当代影像与前雇员肖像、口述记忆并置成书** - Littell作为SouthWorks驻地艺术家，最初计划仅拍摄空置厂房，最终转向以曾在此工作的雇员访谈与肖像为核心，让停用的工业园区重新"活"过来；新书定价40美元，发布会于伊萨卡FOUND艺术空间举行。[Ithaca.com](https://www.ithaca.com/entertainment/art/factory-stories-a-southworks-mural-walk-expanding-community-projects/article_3a9eaf93-f5dc-41e9-840b-574425410596.html) · [Fingerlakes1](https://www.fingerlakes1.com/2026/07/17/new-book-preserves-stories-from-ithacas-southworks-factory/)
+5. **Dawn Surratt个展「Real But Not True」8月6日至29日于波特兰Blue Sky摄影中心展出，以照片、拾得影像与层叠纸质构造探讨记忆的不稳定性** - Surratt曾长期从事临终关怀社工工作，此次将摄影与装置结合，把记忆处理为"不稳定、可触摸、可被不断修订"的物质对象，探讨哀伤、过渡与疗愈。[All About Photo](https://www.all-about-photo.com/photography-exhibition/4441/dawn-surratt-real-but-not-true) · [Blue Sky Gallery](https://www.blueskygallery.org/gallery-exhibitions/2026/dawn-surratt)
+6. **M+香港公布9月新展计划：赫尔佐格与德梅隆建筑档案首度公开，高桥龙太郎收藏日本当代艺术同期呈现** - 「Herzog & de Meuron：焦点」9月12日至2027年1月10日在M+焦点艺廊展出，呈现包括M+大楼、大馆、北京国家体育场在内的建成与未建成项目模型、图纸与材料样本；同期焦点艺廊呈现高桥龙太郎收藏中的日本当代艺术，含奈良美智、村上隆、池田学等作品，多件为香港首展。[M+](https://www.mplus.org.hk/en/press/mplus-announces-2026-exhibition-and-programmes/)
+
+### Project One 灵感
+1. **沈阳「旷野的考古」：中国版铁锈带如何以"考古学"而非"纪实摄影"重构地域叙事——为Gary Works提供非西方参照系与另一重方法论视角** - 展览依托辽宁省博物馆旧址这座本身即经历废弃与再利用的百年建筑，聚焦东北老工业基地的地域文化特质，标题中的"考古"隐喻值得注意：不是"记录正在消失的东西"，而是"把已经沉积的东西当作可供未来研究的地层来挖掘"。这为Project One提供了记录之外的另一重立场——把Gary Works厂区的遗留物（操作手册、安全告示、更衣柜内的私人物品）当作等待被"考古发掘"的地层物证，而非单纯需要被抢救记录的哀悼对象；同时，东北与铁锈带的镜像关系（同为国家工业化叙事的核心地带，同样经历产业转移后的系统性衰落）为Project One的"铁锈带语境"节点提供了一个直接可比较的非西方案例：两地废墟叙事在"由谁讲述""为何被遗忘"上的异同，本身构成一层新的比较研究材料。[中新网](https://www.chinanews.com.cn/sh/2026/08-30/10686841.shtml)
+2. **Harry Littell《Factory Stories》：从"拍空厂房"到"记录曾在此工作的人"的方法论转向，为Gary Works的最终呈现形式提供直接先例** - Littell最初的设想与许多废墟摄影师一样，只想记录SouthWorks厂区的空间本身；但十六年的驻地积累让他发现，真正值得留存的不是空间的静态废墟感，而是曾经在这里劳作的人的记忆与肖像——最终成书时，当代厂房影像与前雇员的口述、肖像被并置在同一本书里。这与此前石川真生"局内人摄影伦理"（长期驻场获得内部权威性）、以及ICP「Photobooks USA」与David Campany"编辑即重构"逻辑（书作为记录与重构共存的容器）形成三重呼应；对Gary Works而言，这提示一条具体的执行路径：不必等到拍摄"完成"才决定呈现形式，而应在田野调查阶段就同步收集工人口述与老照片，让最终的Gary Works摄影书从一开始就以"当代影像+人的记忆"的双轨结构搭建，而非先拍完废墟、再考虑是否需要"补充人的声音"。[Ithaca.com](https://www.ithaca.com/entertainment/art/factory-stories-a-southworks-mural-walk-expanding-community-projects/article_3a9eaf93-f5dc-41e9-840b-574425410596.html)
+3. **Dawn Surratt「Real But Not True」：把记忆处理为"不稳定、可触摸、可被修订"的物质对象——为废墟摄影提供一种主动承认建构性而非掩饰它的方法论** - Surratt用拾得影像与层叠纸质构造制造记忆的物质版本，让记忆从看似可靠的"证据"变成一层层可被重新排列、随时可被修订的结构；展览标题本身——「真实但不真」——直接呼应了Taryn Simon"照片如何模糊现实边界"与巴特"那个东西真的在那里存在过"之间的张力，但Surratt的方法更进一步：不试图证明或否认摄影的证据性，而是把这种不确定性直接做成可触摸的物理形态。与Project One的接口：在处理Gary Works工人老照片、企业档案与当下废墟影像的关系时，可以借鉴这种"层叠物质化"的展示策略——用实体拼贴或多层透叠的方式并置不同时期的影像，让"记录"与"重构"之间的张力不再只是策展文本里的抽象论述，而成为观者可以直接用眼睛、甚至用手感知到的物质层次，呼应Zelenkova"腐朽既带来生命，也带来毁灭"的循环命题。[All About Photo](https://www.all-about-photo.com/photography-exhibition/4441/dawn-surratt-real-but-not-true)
+
 ## 2026-08-29
 
 ### 艺术圈新闻
