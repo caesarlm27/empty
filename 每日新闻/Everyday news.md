@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-08-31
+
+### 艺术圈新闻
+1. **大英博物馆秘密安排硅谷巨头彼得·蒂尔独享《贝叶挂毯》特别展示，引发内部质询** - 蒂尔于8月18日（挂毯尚未对公众开放期间）获博物馆发展总监Charlotte Appleyard安排的私人专场，馆长乔治·奥斯本知情但未出席；此事在员工中引发关于"优待"与蒂尔个人争议关联（Epstein案人脉、Palantir与英国国家安全体系角色）的担忧，博物馆确认蒂尔并非捐赠人。8月31日ARTnews晨报综合报道。[ARTnews](https://www.artnews.com/art-news/news/morning-links-august-31-2026-1234796275/)
+2. **伦敦科学博物馆8月31日正式终止与BP长达25年的教育赞助合作** - 该赞助曾培训逾1.1万名科学教育工作者、覆盖逾百万青少年，但因气候倡导者与教师工会多年抵制而终止；博物馆同时被呼吁进一步切断与阿达尼集团（涉煤炭等能源业务）的赞助关系。[AOL](https://www.aol.co.uk/articles/london-science-museum-cuts-links-164319000.html)
+3. **光州双年展「台湾馆」名称在中方施压下一度被改为"NTMoFA馆"，本周在台湾文化部最后通牒下恢复原名，中国大使表态"遗憾关切"并要求中方策展与布展团队撤出光州** - 争议海报最初以国立台湾美术馆英文缩写取代"Taiwan"字样，被普遍视为政治审查；光州双年展基金会本周二联系台湾文化部确认恢复名称，中国驻韩使馆随即发表声明施压。8月28-31日多家媒体持续追踪。[ARTnews](https://www.artnews.com/art-news/news/gwangju-biennale-restores-taiwan-pavilion-1234795792/)
+4. **加拿大联邦原住民艺术中心藏品审计两年后，仍有111件作品"下落不明"** - 该中心1965年建立，收藏逾5000件、990余位原住民艺术家作品，估值约1440万加元；2024年内部审计曾发现132件物品无法定位，成因指向2022年藏品迁移至临时仓储设施导致的失窃与安保风险，目前仅17件被寻回或确认为数据库重复记录。8月中下旬The Art Newspaper等持续报道。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/21/canada-federal-indigenous-art-collection-111-works-unaccounted-for)
+5. **鹿特丹Boijmans Van Beuningen美术馆卷入行贿丑闻，两名参与石棉清除工程审批的市府雇员被解雇** - 调查发现两人以内定虚高造价换取供应商好处，涉嫌伪造文件与被动受贿；丑闻涉及的正是该馆建筑石棉处理工程的招标环节。8月28-29日ARTnews报道。[ARTnews](https://www.artnews.com/art-news/news/museum-boijmans-van-beuningen-alleged-bribery-scandal-1234796228/)
+6. **MoMA PS1宣布日裔摄影师Masao Gozu个展「Windows and Bars」11月5日开幕，为其首个美国机构级个展** - 1970年移民纽约的Gozu数十年间穿行于Bay Ridge至小意大利的街区，透过廉租公寓的窗棂与铁栏拍摄居民的日常剧场，展览聚焦其「Windows」与「Harry's Bar」系列，呈现横跨半个世纪的城市变迁与时间静观。[MoMA PS1](https://www.momaps1.org/en/programs/799-masao-gozu-windows-and-bars)
+
+### Project One 灵感
+1. **加拿大原住民藏品"111件下落不明"：审计报告本身成为一份关于缺席的档案** - 这批作品既无被销毁的确证，也无被找到的证据，只以一份持续更新的"未寻回清单"的形式存在——审计报告作为文本，反而比任何一张照片都更精确地记录了"消失"这件事本身的轮廓：数量、估值、可能的失窃时间窗口、迁移仓储的责任链条。这提示Project One一种审计式的记录策略：与其只拍摄Gary Works厂区目前的物理残骸，不如同时收集（或整理）一份平行的"缺失清单"——列出哪些设备、档案、安全告示、更衣柜物品应当存在却已无法定位，让文字清单与影像互为对照，逼近Sophie Ristelhueber"关于人的证据，但没有人的在场"这一命题的行政版本。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/21/canada-federal-indigenous-art-collection-111-works-unaccounted-for)
+2. **Boijmans美术馆石棉工程贿赂丑闻：处理"污染物"的权力本身成为新的污染源** - 这起事件把Anna Tsing的contamination理论推进了一层：石棉不仅是建筑物质层面遗留的毒素，围绕"谁被授权清除毒素、谁从中牟利"所形成的腐败网络，是叠加在物理污染之上的第二重、纯粹社会性的contamination——制度对危害的处理过程本身也可以被"污染"。对Project One而言，这提醒在处理Gary Works的石棉、粉煤灰等工业遗留污染物时，不能只把它们当作视觉/物质母题，还应追问：历史上是谁被雇来"清理"这些污染、清理的记录是否可信、清理本身是否制造了新的不透明与不公正。[ARTnews](https://www.artnews.com/art-news/news/museum-boijmans-van-beuningen-alleged-bribery-scandal-1234796228/)
+3. **Masao Gozu「Windows and Bars」：半个世纪透过窗框与铁栏窥看他人生活的方法论** - Gozu的方法几乎是一种反向的废墟摄影：不进入被抛弃的空间内部，而是长期停留在建筑之外，把窗户本身当作画框，让居住者的存在始终被一层玻璃、一道铁栏中介、部分遮蔽却持续在场。这为Gary Works提供了一种与"进入并记录空置车间"完全相反的取景策略——从外部经由破损的窗洞、变形的铁栏窥视车间内部，让观者始终意识到自己是隔着一层物理与时间的屏障在看，呼应canvas中"记录与重构之间的张力"：摄影者从未真正抵达过去，只能透过一道已经锈蚀的窗框远远张望它。[MoMA PS1](https://www.momaps1.org/en/programs/799-masao-gozu-windows-and-bars)
+
 ## 2026-08-30
 
 ### 艺术圈新闻
