@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-01
+
+### 艺术圈新闻
+1. **Aperture第264期《Fall 2026》"Stop Time"专号9月1日发行，杉本博司担任客座主编** - 以"停止时间"为主题，深入探讨时间、光与历史三者交织的不确定性。[Amazon详情页](https://www.amazon.co.uk/Stop-Time-Aperture-No-Magazine/dp/1597116033)
+2. **Curran Hatleberg入围2026年Janet & Walter Sondheim艺术奖决赛名单**，作品于巴尔的摩沃尔特斯美术馆展出至9月13日 [The Walters Art Museum](https://thewalters.org/exhibitions/sondheim-2026/)
+3. **韩国首部艺术市场法《艺术振兴法》施行开局艰难**：执行细则仅提前两天公布、电子申报系统尚未建立，画廊与拍卖行仓促应对新规 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/01/koreas-new-art-market-law-gets-off-to-a-shaky-start)
+4. **Frieze London与Frieze Masters公布2026年度（10月14-18日）新策展单元**：新增由陆思瑶（Carol Yinghua Lu）策划的"The Code Universe"单元与Anke Kempkes策划的"Queering Modernism"单元 [Frieze Newsroom](https://press.frieze.com/flfm26-first-details/)
+5. **Jordan Wolfson将于9月在Gagosian纽约西24街空间举办首个大型雕塑个展**，艺术家罕见接受媒体访谈 [Artnet News](https://news.artnet.com/art-world/jordan-wolfsons-gagosian-interview-2799964)
+
+### Project One 灵感
+1. **Aperture「Stop Time」由摄影史上最擅长"以时间为媒介"的杉本博司客座主编** - 长曝光让时间本身显影为画面的一部分，为Gary Works提供一种把"锈蚀速度"转译为"曝光时长"的技术隐喻：废墟的时间性或许不该只被记录，还可以被拍摄手法本身编码进图像 [Amazon详情页](https://www.amazon.co.uk/Stop-Time-Aperture-No-Magazine/dp/1597116033)
+2. **Curran Hatleberg入围Sondheim奖**：这位以"偶然与意外"为核心方法论的公路摄影师作品正于巴尔的摩公开展出——去现场实地观摩其大画幅原作的输出尺寸与装裱方式，是检验Project One最终呈现形式的直接参照机会，窗口仅至9月13日 [The Walters Art Museum](https://thewalters.org/exhibitions/sondheim-2026/)
+3. **Sophie Ristelhueber在巴黎欧洲摄影之家的个展「Déplier les mondes（展开的世界）」持续展出**：她一贯拒绝在废墟影像中安放"人的在场"，转而让物质本身的褶皱与断裂讲述暴力的痕迹——这与Project One在Gary Works中处理"缺席者痕迹"时应保持的克制姿态直接呼应 [Galerie Poggi](https://galeriepoggi.com/en/sophie-ristelhueber-deplier-les-mondes-en/)
+
 ## 2026-08-31
 
 ### 艺术圈新闻
