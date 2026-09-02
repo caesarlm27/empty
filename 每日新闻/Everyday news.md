@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-02
+
+### 艺术圈新闻
+1. **弗兰克·劳埃德·赖特唯一洛杉矶「Usonian」住宅Sturges House面临"疏于维护式拆除"** - 洛杉矶建筑局7月1日发出违规通知，8月24日再发整改令；洛杉矶市并无"疏于维护式拆除"专项条例，地标身份挡得住推土机，却挡不住无人维护的时间本身。[Artforum报道](https://www.artforum.com/news/frank-lloyd-wrights-sturges-housea-at-risk-for-demolition-1234758464/)
+2. **费城科学院博物馆宣布9月30日闭馆，结束近两百年运营史** - 因疫后客流未能回升、联邦资助削减与慈善捐赠前景不明，这座1812年成立的老牌自然科学博物馆正式关闭其展馆。[The Inquirer报道](https://www.inquirer.com/education/academy-of-natural-sciences-closing-museum-philadelphia-20260901.html)
+3. **The Art Newspaper 9月1日刊文《艺术界的亿万富翁问题正在恶化》** - 头部拍卖成交额日益集中于极少数博物馆级作品，竞逐买家收窄为一小撮超级富豪，市场重心持续向顶端塌缩。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/01/the-art-worlds-billionaire-problem-is-getting-worse)
+4. **Frieze Seoul 2026第五届9月3-5日开幕，新设Spotlight策展单元** - 由Wonseok Koh策划，12组个展聚焦印度、德国、塞尔维亚、尼泊尔等地20世纪被主流西方艺术史边缘化的现代艺术家。[The Art Newspaper报道](https://www.theartnewspaper.com/2026/09/01/many-roads-to-modern-art-frieze-seoul-spotlights-overlooked-artists)
+5. **The Art Newspaper「9月书单」9月1日发布** - 收录唐·麦卡林越战影像首次结集出版新书，以及深入葆拉·雷戈工作室幕后的新传记。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/01/september-book-bag-from-don-mccullins-powerful-vietnam-images-to-a-behind-the-scenes-dive-into-paula-regos-studio)
+
+### Project One 灵感
+1. **Sturges House的"疏于维护式拆除"** - 没有一次性拆除令，只有年复一年不做的维修：地标保护法律能挡推土机，挡不住时间本身。Gary Works的多数车间正处于同一种"无主动决定的消失"中，这提示Project One的拍摄窗口本身就是一种正在流逝的、无法重来的证据。[Artforum](https://www.artforum.com/news/frank-lloyd-wrights-sturges-housea-at-risk-for-demolition-1234758464/)
+2. **费城科学院博物馆的机构性废墟化** - 客流、拨款、慈善捐赠三重收缩，让一座近两百年的机构走向闭馆——这与Gary Works工厂的衰退共享同一逻辑：废墟不只发生在工业建筑里，也发生在维系"记忆与知识"的机构本身，两者都是被系统性放弃而非被摧毁。[The Inquirer](https://www.inquirer.com/education/academy-of-natural-sciences-closing-museum-philadelphia-20260901.html)
+3. **「Sites of Memory」（丹佛，展至9月19日）：创伤、历史与韧性如何沉淀进地方并代际传递** - Harlan Bozeman、Justin A. Carney、Taylor E Edgerton、Letitia Huckaby四位艺术家共同关注"一个社群经历事件、记忆或损失之后留下了什么"——为Project One处理Gary Works工人后代的代际记忆提供了直接的方法论参照。[All About Photo](https://www.all-about-photo.com/photography-exhibition/4417/sites-of-memory)
+
 ## 2026-09-01
 
 ### 艺术圈新闻
