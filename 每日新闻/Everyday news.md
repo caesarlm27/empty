@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-04
+
+### 艺术圈新闻
+1. **中国政府下令艺术家集体撤出光州双年展，抗议"台湾馆"命名恢复** - 光州双年展基金会此前将台湾展区名称由"NTMoFA"改回"台湾馆"，中国驻韩大使随即要求中方策展人、艺术家与布展团队在开幕前两天全部撤出，称此举违反"一个中国"原则。[ArtNews报道](https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234/)
+2. **特朗普政府再向史密森尼学会发出警告信，威胁切断联邦机构合作** - 内政部长伯格姆与白宫国内政策委员会主任联名致信理事会，称若不调整现任领导方向，多个联邦机构或将停止藏品外借与资助合作，并指控其在机会分配上存在系统性歧视。[ArtNews报道](https://www.artnews.com/art-news/news/trump-accuses-smithsonian-discrimination-threatens-grants-1234796921/)
+3. **美国钢铁公司耗资3.5亿美元完成Gary Works 14号高炉大修，重新投产** - 项目历时逾百万工时，将公司旗下最大高炉的服役寿命延长最多20年；环保组织Industrious Labs随即发布声明，称此举实质是"确认了未来20年的污染"。[Inside Indiana Business](https://www.insideindianabusiness.com/articles/u-s-steel-completes-350-million-blast-furnace-project-at-gary-works) · [Industrious Labs声明](https://industriouslabs.org/archive/press-release-usx-relining-garyworks)
+4. **卢卡斯叙事艺术博物馆9月22日在洛杉矶正式开放，会员预展9月5日启动** - 由马岩松设计、造价约10亿美元的30万平方英尺建筑将呈现从洞穴壁画到漫画、电影的"叙事艺术"收藏，馆藏逾4万件，涵盖弗里达·卡罗、诺曼·洛克威尔等。[Lucas Museum新闻稿](https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026)
+5. **David Zwirner纽约将呈现Thomas Ruff个展「jpegs ny」，9月10日开幕，聚焦9/11题材** - 展出12件取材自2001年9月11日世贸中心影像、经压缩失真处理的"jpegs"系列作品，恰逢事件25周年，此前曾在巴塞尔艺术展"无限"单元展出。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/thomas-ruff-jpegs-ny)
+
+### Project One 灵感
+1. **Gary Works 14号高炉"续命"而非"废弃"，与Industrious Labs的污染回应形成对照** - canvas预设的"废墟"叙事默认工厂走向锈蚀与遗弃，但这座全公司最大高炉刚被投入3.5亿美元续命20年——环保组织随即把这次"重生"重新定义为"20年更多的污染"。这恰好印证Anna Tsing的contamination理论：没有一处"未被污染的过去"可以回去，废墟与持续的伤害是同一枚硬币的两面。Project One或许可以拍摄"仍在运转、仍在扩张伤害"的Gary Works一角，而不只是它废弃的角落。[Inside Indiana Business](https://www.insideindianabusiness.com/articles/u-s-steel-completes-350-million-blast-furnace-project-at-gary-works) · [Industrious Labs声明](https://industriouslabs.org/archive/press-release-usx-relining-garyworks)
+2. **Thomas Ruff《jpegs ny》：像素化、失真的创伤影像** - Ruff用网络上被反复压缩、退化的9/11图片重新处理历史现场，让"记录"本身带着噪点与不可信感浮出水面。这与Taryn Simon关于"照片如何模糊现实边界"的实践、以及Project One处理Gary Works工人集体记忆时面对的"记录与重构"命题直接呼应：当原始现场已经消失，能依赖的证据本身就是被中介、被压缩过的。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/thomas-ruff-jpegs-ny)
+3. **光州双年展「台湾馆」集体撤出事件：缺席本身成为最响亮的表态** - 中国艺术家与布展团队在开幕前两天集体撤离，让展场里留下空掉的展位与未完成的搭建——不是自然衰败留下的痕迹，而是被主动制造出来的、蓄意的空白。这为canvas中"缺席者的痕迹"节点提供了一个当代回声：废墟未必只源于时间的侵蚀，也可以是权力运作后刻意留白的产物。[ArtNews报道](https://www.artnews.com/art-news/news/china-pulls-artists-from-gwangju-biennale-as-taiwan-pavilion-moves-forward-1234796234/)
+
 ## 2026-09-02
 
 ### 艺术圈新闻
