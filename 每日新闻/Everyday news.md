@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-05
+
+### 艺术圈新闻
+1. **德国萨克森-安哈尔特州选举在即，极右翼AfD若胜选或波及包豪斯经费** - AfD将包豪斯运动称为"现代主义的畸变"，若该党在本周末州选举中胜出并掌控地方财政，理论上可削减对德绍包豪斯学院与博物馆的州拨款；德国文化部长沃尔弗拉姆·魏默称"AfD正用纳粹一百年前用过的同样语言攻击包豪斯"。[The Art Newspaper报道](https://www.theartnewspaper.com/2026/09/03/answering-to-the-afd-what-germanys-regional-elections-could-mean-for-arts-funding)
+2. **特朗普"凯旋门"未获国会授权即将于两周内动工，退伍军人紧急提起诉讼阻止** - 内政部长伯格姆9月3日宣布将启动奠基所需的挖掘工程：250英尺高凯旋门拟建于林肯纪念堂与阿灵顿国家公墓之间的哥伦比亚岛纪念圆环，国家首都规划委员会仅给予初步批准、最终批准最早需等到10月1日，一批退伍军人已就"缺乏国会授权"提起紧急诉讼。[CBS News报道](https://www.cbsnews.com/news/trump-triumphal-arch-washington-dc-excavation-burgum/) · [CNN报道](https://www.cnn.com/2026/09/03/politics/trump-arch-construction-start)
+3. **詹姆斯·特瑞尔全新Ganzfeld系列作品《Blue Sea Sky》于迈阿密Superblue首展** - 这是Superblue自开幕以来收藏的第五件新作，色彩灵感取材于迈阿密的蓝色海洋、棕榈叶与装饰艺术风格晚霞，"均匀无结构的视野"令观者的深度与距离感知彻底失效。[ArtNews报道](https://www.artnews.com/art-news/news/james-turrell-superblue-miami-1234797054/)
+4. **第16届光州双年展9月5日正式开幕，何子彦领衔策展，参展艺术家数创历届最低** - 主题「你必须改变你的生命」取自里尔克同名诗句末句，43组艺术家参展，策展团队称此届"以作品密度取代规模扩张"，恰与本届开幕前中方策展与布展团队因台湾馆命名风波集体撤出的争议同期发生，展至11月15日。[The Art Newspaper报道](https://www.theartnewspaper.com/2026/09/01/busan-and-gwangju-biennials-take-a-deep-dive-into-resistance-and-change) · [e-flux公告](https://www.e-flux.com/announcements/6787431/16th-gwangju-biennaleyou-must-change-your-life)
+5. **法国利摩日国立阿德里安·杜布歇博物馆9月4日凌晨遭窃，950万欧元中国瓷器"国宝"被盗** - 窃贼凌晨3时15分破窗进入历史展厅，盗走两件14至15世纪中国瓷盘与一件18世纪花瓶，检方以"团伙加重盗窃并损毁公共文化财产"立案调查，为继卢浮宫大盗案后法国博物馆系列失窃事件的最新一起。[CBS News报道](https://www.cbsnews.com/news/national-treasures-stolen-adrien-dubouche-national-museum-france/)
+
+### Project One 灵感
+1. **韩永收「人工城市」系列亮相Frieze Seoul新设Spotlight单元** - 这位记录战后首尔日常生活的摄影师，其作品聚焦韩国快速工业化阴影下被遗留的边缘空间，以强烈而深情的凝视捕捉"严酷地景与顽强求生的痕迹"——为Gary Works提供了非西方语境下"工业化伤痕如何被重新看见并进入国际艺博会叙事"的直接方法论参照。[Baik Art Gallery介绍](https://baikart.com/han-youngsoo/)
+2. **特朗普凯旋门：一座尚未建成就已被起诉的纪念碑** - 250英尺高的凯旋门将强行楔入林肯纪念堂与阿灵顿国家公墓之间的视觉轴线，未获国会授权却已启动挖掘工程——与Gary Works"缓慢的、非蓄意的废墟化"相反，这是一座"自诞生起就携带争议与潜在拆除命运"的纪念碑，为Project One提供了"人为强加的宏大叙事"与"自然衰败的宏大叙事"之间的对照案例。[CBS News报道](https://www.cbsnews.com/news/trump-triumphal-arch-washington-dc-excavation-burgum/)
+3. **萨克森-安哈尔特州选举与包豪斯经费危机：谁执掌财政，谁就决定哪种现代主义遗产被允许存续** - 这与Gary Works命运背后"谁有权决定保留或清除工业历史"的结构性问题完全同构，为Project One提供了"政治权力直接裁定遗产存废"的当代欧洲参照案例。[The Art Newspaper报道](https://www.theartnewspaper.com/2026/09/03/answering-to-the-afd-what-germanys-regional-elections-could-mean-for-arts-funding)
+
 ## 2026-09-04
 
 ### 艺术圈新闻
