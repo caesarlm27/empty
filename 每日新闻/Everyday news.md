@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-09-06
+
+### 艺术圈新闻
+1. **Melissa Chiu从史密森尼跳槽古根海姆：8月31日卸任赫希霍恩博物馆馆长，9月1日走马上任** - 这位在赫希霍恩任职十余年的馆长转任纽约古根海姆博物馆掌门人，正值史密森尼与特朗普政府关系紧张之际，成为近期最重要的美国博物馆人事更迭之一。[原文链接](https://www.washingtonpost.com/entertainment/art/2026/08/31/smithsonian-museum-director-departs-guggenheim/)
+2. **圣地亚哥当代艺术学院（ICA San Diego）财政与治理危机全面公开化** - 该馆7-8月裁员近半、闭馆停摆后，8月19日员工联名致信理事会要求罢免馆长Andrew Utt，指控财务管理不善与拖欠薪资，The Art Newspaper与KPBS本周相继跟进报道。[原文链接](https://www.theartnewspaper.com/2026/09/01/institute-contemporary-art-san-diego-financial-leadership-crisis-layoffs)
+3. **纳粹掠夺后归还的康定斯基名作《缤纷人生》将登陆佳士得伦敦拍卖，估价逾3000万美元** - 这幅曾在慕尼黑伦巴赫美术馆展出半个多世纪的作品，历经六年追索后于2023年归还犹太家族后人，10月14日正式开拍。[原文链接](https://www.artnews.com/art-news/market/christies-london-offers-restituted-kandinsky-german-museum-1234796483/)
+4. **史密森尼学会决定将美国拉丁裔国家博物馆安置于145年历史的"艺术与工业大楼"内，绕过国会新建审批** - 理事会推翻2022年在国家广场新建馆舍的方案，转而启用林肯时代红砖老建筑，使项目得以不经国会拨款程序推进。[原文链接](https://www.axios.com/local/washington-dc/2026/09/01/latino-museum-arts-industries-building-smithsonian)
+5. **湾区艺术家Mildred Howard荣获2026年度Artists' Legacy Foundation艺术家奖（2.5万美元）** - 该奖由已故雕塑家Viola Frey遗赠设立，表彰"手工痕迹清晰可见"的艺术家，Howard以拼贴、装置与"打捞物件讲述黑人历史"的实践获评审团一致推举。[原文链接](https://www.artforum.com/news/mildred-howard-wins-artists-legacy-foundation-award-1234758857/)
+
+### Project One 灵感
+1. **Damien Aubin《Pyramiden》摄影书9月开始发货：北极苏联矿业聚落的"悬置"状态** - 法国摄影师历时记录斯瓦尔巴群岛这座1998年停产后被整体冻结的苏联矿业城镇——课桌上摊开的书本、完好无损的列宁像，摄影师称其"并非废弃，而是被悬置"。这种"未经清理、时间原地凝固"的现场状态，为记录废墟如何在不"净化"的前提下保留其原初物质状态提供了一份极端案例参照。[相关链接](https://www.thisiscolossal.com/2026/07/damien-aubin-pyramiden-photo-book/)
+
 ## 2026-09-05
 
 ### 艺术圈新闻
