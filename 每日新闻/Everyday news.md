@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-09-07
+
+### 艺术圈新闻
+1. **让·阿尔普阔别纽约十五年后重返：Hauser & Wirth「Arp – Heads or Tails」9月10日开幕** - 展览以阿尔普晚期"门槛"（Threshold）系列雕塑为切入点，由策展总监Alexis Lowry携手柏林Arp基金会共同策划，同步发布新书《Arp: Paper》。[Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/arp-heads-or-tails/)
+2. **The Art Newspaper 9月7日刊发博物馆藏品收购综述：法国"不安"陶瓷面具与伊丽莎白一世肖像入藏** - 奥赛博物馆新入藏法国雕塑家让·卡里耶斯融合哥特复兴与日本陶艺风格的搪瓷石炻面具，同期报道还包括一幅伊丽莎白一世肖像画的机构收购。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/07/museum-acquisitions-round-up-an-unsettling-french-mask-and-a-portrait-of-queen-elizabeth-i)
+3. **ArtNews 9月4日晨报：法国创纪录热浪令国家古迹与博物馆损失数十万美元** - 极端高温对文物保存与游客接待造成连锁冲击，成为本周欧洲文化机构关注的焦点议题之一，晨报同期还提及特朗普"凯旋门"工程持续推进与德国大选前艺术资助的紧张局势。[ArtNews](https://www.artnews.com/art-news/news/morning-links-september-4-2026-1234797046/)
+4. **Gagosian纽约将于9月10日起呈现摄影师Deana Lawson个展**，持续至10月24日 - 展出Lawson标志性的、以精心搭建场景重构黑人家庭生活与身体尊严的大画幅摄影作品。[Gagosian](https://gagosian.com/artists/deana-lawson/)
+5. **悉尼当代艺博会十周年：9月3-6日于Carriageworks举办，逾百家画廊、500位艺术家参展** - 本届设有12件大型装置贯穿由废弃铁路车间改造而成的会场，并邀请多位原住民艺术家举办重要个人呈现。[Sydney Contemporary](https://sydneycontemporary.com.au/)
+
+### Project One 灵感
+1. **第比利斯"Rike管子"拆除风波：建成于2012年却从未启用的建筑，此刻正被拆解** - 意大利建筑师Fuksas夫妇设计的里克公园音乐厅与展览馆，因萨卡什维利时代政权更迭后始终未曾开放，市政厅7月批准拆除许可，拆除工程本月持续推进，建筑师本人与保育界公开反对——一座从未活过的建筑，如今正经历它唯一被使用的时刻：被清除。这为canvas"缺席者的痕迹"与"谁有权决定保留或清除"提供了近乎寓言式的当代案例：Gary Works的废墟至少曾经运转过，而Rike管子的废墟状态从落成之日起就已注定。[Hyperallergic](https://hyperallergic.com/demolition-of-georgian-architectural-landmark-sparks-outcry/) · [ArchDaily](https://www.archdaily.com/1148847/studio-fuksas-rike-park-cultural-complex-approved-for-demolition-by-tbilisi-city-hall)
+2. **TSL「On Fire」：前消防员的双重创作路径，让废墟成为职业创伤的直接产物** - Jim Denney以二十余年荒野消防员经历创作"人类世"火灾绘画，Dennis Gordon则将南布朗克斯纵火废弃建筑的记忆铸成雕塑，缅怀被地产资本与纵火驱逐的居民；9月5日开幕。两位艺术家均以"曾亲手进入废墟救援/灭火"的局内人身份创作，为Project One处理Gary Works工人记忆提供了另一种局内人伦理参照——不是事后到访的摄影师，而是曾在现场承担责任的劳动者本人转化为创作者。[Rural Intelligence](https://www.ruralintelligence.com/on-fire-wildfire-paintings-and-ruin-sculptures-open-at-tsl/)
+
 ## 2026-09-06
 
 ### 艺术圈新闻
