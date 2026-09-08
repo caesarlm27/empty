@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-08
+
+### 艺术圈新闻
+1. **法国雷诺阿博物馆遭窃：两名窃贼盗走两幅雷诺阿油画，另两幅弃于现场** - 位于法国南部卡涅－绪尔梅（Cagnes-sur-Mer）的雷诺阿博物馆发生盗窃案，两名嫌疑人成功携两幅雷诺阿真迹逃逸，另两幅作品在逃跑途中被丢弃；ARTnews晨报同期报道墨西哥首位职业女雕塑家Geles Cabrera逝世（享年100岁），以及被驱逐的肯尼迪中心前主席David Rubenstein买下刚从中心撤下的Joel Shapiro雕塑作品《Blue》。[ARTnews](https://www.artnews.com/art-news/news/morning-links-september-8-2026-1234797448/)
+2. **BIG设计的苏州当代美术馆正式对公众开放**，8月30日以系列预展"软开幕"，现已全面开馆 - 6万平方米建筑由12座展亭组成的"村落"，以连续飘带状屋顶串联展厅、公共空间与金鸡湖岸线，空间逻辑取法苏州园林传统，是BIG事务所首座完整建成的美术馆建筑。[ArchDaily](https://www.archdaily.com/1184463/suzhou-museum-of-contemporary-art-opens-as-bigs-first-completed-art-museum)
+3. **刘韡获大都会博物馆"创世纪立面委任"，个展「Speculation」9月17日开幕**，展至2027年6月8日 - 作品占据大都会第五大道立面四个壁龛，回应博厄斯艺术建筑与百科全书式馆藏；这是刘韡在美国的首个大型项目，也是大都会自2006年以来首次委任中国艺术家创作立面作品，回应其在全球化与中国高速现代化转型期的生活经验。[The Met](https://www.metmuseum.org/exhibitions/the-genesis-facade-commission-liu-wei)
+4. **David Zwirner纽约9月10日起同期呈现Scott Kahn「Silent Night」与Nate Lowman「Hanging Out」** - Kahn在20街空间展出横跨25年的风景画新作与旧作；Lowman在19街空间首次展出以"钥匙"为造型的异形画布系列，探讨准入、安全与排斥的物件联想。[Scott Kahn](https://www.davidzwirner.com/exhibitions/2026/scott-kahn) · [Nate Lowman](https://www.davidzwirner.com/exhibitions/2026/nate-lowman)
+5. **TCG Gallery「Memory: What Remains」国际摄影展持续至9月30日**：46位艺术家49幅作品，以五个篇章追溯记忆如何附着于物件、姿态、地点与影像 - 展览征集主题聚焦"人们留下的痕迹，以及过去如何持续塑造当下"，涵盖纪实、观念、实验与另类摄影实践，采用盲选评审机制。[TCG Gallery](https://chateaugallery.com/exhibitions)
+
+### Project One 灵感
+1. **Julien Chatelin「A Breathtaking」：埃及、底特律、中国西部、西伯利亚诺里尔斯克——用四片大陆的工业废墟拼成同一张"美与衰败张力"的地图** - Chatelin将其跨十余年的四个系列（Egyptorama、The Beaver and the Cadillac〔底特律〕、China West、Siberian Limbo〔诺里尔斯克〕）并置为一次展览，直接以"资本主义式发展"为阅读框架，邀请观者面对增长与衰败的复杂纠缠。与Project One的接口：这提供了一个"去地方化"的比较框架——Gary Works不必被孤立处理为美国铁锈带的特例，而可以被理解为全球资本流动在不同大陆留下的同构废墟之一；Chatelin将埃及沙漠、底特律工厂、西伯利亚矿业小镇并置的手法，提示Project One在后期编辑中可以尝试引入一到两处非美国的对照案例，让Gary Works的地方性历史获得跨地理的对话维度，呼应Anna Tsing"contamination"理论中"资本废墟具有可比较的结构"这一命题。[Villa Albertine & Hana Pietri Gallery](https://loeildelaphotographie.com/en/villa-albertine-hana-pietri-gallery-julien-chatelin-a-breathtaking/)
+2. **Sophie Calle「Marriages, Breakups and Funerals Included」伦敦国家美术馆首次英国大型回顾展（11月21日至2027年4月11日）**：跨越四十余年创作，聚焦"连接与疏离、爱与缺席、在场与失去"——不同于此前路易斯安那馆已闭幕的《Something Missing?》回顾展，这是Calle在英国的新章 - 与Project One的接口：展览标题本身把"婚姻、分手、葬礼"并置为同一序列的"缺席事件"，提示废墟摄影或许也该把"建成、投产、停工、拆除"处理为同一序列的仪式性时刻，而非孤立的终点；可尝试为Gary Works的时间轴设计类似的"仪式化"章节结构，呼应canvas"缺席者的痕迹"节点。[imfirenzedigest](https://imfirenzedigest.com/2026/08/28/autumn-2026-art-exhibitions/)
+3. **「Demolition And Reconstruction」（FOTOSEPTIEMBRE 2026）：圣安东尼奥Blue Star艺术聚落群展，标题直接对应Project One核心命题"记录与重构"** - Deborah Keller-Rihn与多位摄影师参展，以"拆除与重建"为题探讨影像如何在物理结构消失后承担记忆重构的功能。与Project One的接口：展览标题本身即是canvas核心张力节点"记录与重构之间的张力"的直接同名回响，值得追踪其具体参展作品是否处理了"记录"与"重构"两种姿态的分野与合流，作为方法论参照。[FOTOSEPTIEMBRE](https://fotoseptiembre.com/2026/09/)
+
+---
+
 ## 2026-09-07
 
 ### 艺术圈新闻
