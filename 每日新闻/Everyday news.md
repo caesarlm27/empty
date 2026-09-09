@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-09
+
+### 艺术圈新闻
+1. **匈牙利新政府叫停SANAA设计的布达佩斯新国家美术馆项目**：耗资3.2亿美元的方案历经六年选址与预算争议后被彻底放弃，馆长László Baán仍寄望该设计能在别处落地，但改用城堡建筑改造方案预计需8至10年工期 - 该项目自2019年布达佩斯市府叫停以来长期停摆，此次是首次被新一届政府正式撤销。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/08/hungary-new-government-scraps-national-gallery-plans) · [ArtNews](https://www.artnews.com/art-news/news/morning-links-september-9-2026-1234797600/)
+2. **马里齐奥·卡特兰个展「NIGHT」9月10日于柏林新国家美术馆开幕，展至2027年3月7日**：作为2026年度"国家美术馆奖"个展，这是卡特兰在德国的首个大型个展，米斯·凡德罗建筑内呈现《Him》《Novecento》等历史名作与全新场域特定委任作品，探讨天真与暴力的张力、身份建构与历史创伤记忆的持续在场。[SMB柏林国家博物馆群](https://www.smb.museum/en/exhibitions/detail/maurizio-cattelan-night/)
+3. **Lynda Roscoe Hartigan本周正式就任史密森尼美国艺术博物馆馆长（9月8日生效）**：这位曾在该馆工作二十年、官至首席策展人的资深策展人"回归"娘家，此前任皮博迪·埃塞克斯博物馆执行馆长兼CEO，在任内大幅扩充该馆现当代及素人艺术家收藏。[Smithsonian新闻室](https://www.si.edu/newsdesk/releases/lynda-roscoe-hartigan-named-director-smithsonian-american-art-museum)
+4. **Jenny Holzer与Andy Goldsworthy获2026年度高松宫殿下纪念世界文化奖（Praemium Imperiale）**：9月8日公布获奖名单，两人分获绘画与雕塑奖项，各获约15万美元奖金，颁奖礼将于10月28日在东京举行；其他获奖者包括建筑师Daniel Libeskind、指挥家Herbert Blomstedt与演员Cate Blanchett。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/09/artists-jenny-holzer-and-andy-goldsworthy-among-winners-of-2026-praemium-imperiale-awards)
+5. **希腊雅典卫城博物馆拒绝法兰克福利比格雕塑收藏馆借展帕特农神庙雕塑的请求**：因该计划中的展览将同期呈现大英博物馆藏帕特农雕塑残片、首次尝试"拼合"神庙原貌，希腊方面以此为由回绝借展，帕特农大理石雕塑归属争议再添一笔。[ArtNews晨报](https://www.artnews.com/art-news/news/morning-links-september-9-2026-1234797600/)
+
+### Project One 灵感
+1. **David Lynch遗作摄影展「The Factory Photographs」9月8日于Castle Hill开幕**：逾80幅黑白照片拍摄于1980至2000年间纽约、英国、德国与波兰的废弃工厂内部，画面中"没有一个人"，呈现出比其电影更冷峻、更梦境化的废墟气质，明年1月还将移展伦敦摄影师画廊并由Prestel出版同名画册 - 与Project One的接口：Lynch用二十年时间横跨四个国家持续拍摄同一类"空无一人的工厂"，证明废墟摄影可以脱离具体地理叙事、独立成为一套视觉语法；这提示Gary Works系列在保留地方历史特殊性的同时，也可以追问画面本身"去人物化"构图逻辑如何单独成立为方法论。[Hyperallergic](https://hyperallergic.com/david-lynchs-abandoned-factory-photographs/)
+2. **「Second Nature: Photography in the Age of the Anthropocene」于堪萨斯城Kemper当代艺术博物馆展至9月13日**：集合Edward Burtynsky、Noémie Goudal、Gohar Dashti、Sammy Baloji等43位摄影为主的艺术家，以影像追问人类世如何系统性重塑地表与生态 - 与Project One的接口：展览将"资源开采—工业转型—生态代价"处理为全球同构的视觉议题而非孤立地方事件，为Gary Works提供了可直接借用的策展框架语言，即把铁锈带个案纳入"人类世摄影"谱系，而非仅仅作为"美国衰败叙事"的地方注脚。[Kemper Museum](https://www.kemperart.org/exhibition/second-nature)
+3. **「La poética de la huella: Memoria, espacio y ausencia（痕迹的诗学：记忆、空间与缺席）」9月8日于墨西哥拉巴斯Carlos Olachea画廊开幕**：艺术家Ulises Verde以数字影像、剪辑手法与旅行摄影，探讨episodic memory、建筑遗迹与摄影经验之间的关系 - 与Project One的接口：展览标题本身即是canvas核心命题"缺席者的痕迹"在西语语境下的同源回响，其方法论——将记忆处理为可被空间重新激活的"痕迹"而非静态档案——为Gary Works如何在图像中"激活"而非仅"记录"缺席，提供了直接的方法论参照。[circulopoliticobcs](https://www.circulopoliticobcs.com/post/la-memoria-y-el-arte-se-encuentran-en-la-po%C3%A9tica-de-la-huella)
+
+---
+
 ## 2026-09-08
 
 ### 艺术圈新闻
