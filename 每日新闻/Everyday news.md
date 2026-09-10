@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-09-10
+
+### 艺术圈新闻
+1. **史密森尼学会秘书长Lonnie Bunch宣布年底退休，特朗普政府借董事会大规模人事空缺扩大对机构的控制权**：Bunch在史密森尼供职近38年，是首位担任秘书长的黑人历史学家；其退休恰逢董事会逾三分之一席位即将空缺，且此前白宫发布162页报告指控该机构"意识形态偏向"，观察者认为这是特朗普政府重塑机构叙事的最大契机。[Washington Post](https://www.washingtonpost.com/style/2026/09/09/smithsonian-leadership-changes-give-trump-an-opening-control/) · [CNN](https://www.cnn.com/2026/09/08/politics/lonnie-bunch-smithsonian)
+2. **洛杉矶405高速公路旁突发野火，盖蒂中心9日下午紧急闭馆疏散**：火势蔓延约25英亩，逼近盖蒂中心所在山坡，博物馆下午4:45关闭并引导观众从车库撤离，消防直升机洒水后于当晚6:15遏制火势蔓延，晚8:40解除疏散警告，未造成人员伤亡或建筑损毁。[ARTnews](https://www.artnews.com/art-news/news/getty-center-closes-fire-405-freeway-1234797792/)
+3. **法国雷诺阿故居博物馆失窃四幅画作中至少三幅疑为纳粹掠夺艺术品，其中一幅已有大屠杀受害者后裔提出返还请求**：9月8日法国里维埃拉Cagnes-sur-Mer的雷诺阿博物馆遭窃，两幅画作后在馆内花园寻回；剩余作品中三幅被归类为"二战后寻回未认领藏品"（MNR），巴黎犹太画商Jadwiga Zak（死于奥斯维辛）的后裔已就其中一幅《Jeune femme au puits》（1886）提出返还申请。[ARTnews](https://www.artnews.com/art-news/news/three-stolen-renoir-paintings-may-have-been-nazi-looted-1234797636/)
+4. **伦敦特拉法加广场「第四基座」第16件委任作品：Tschabalala Self新作9月10日揭幕**：作品以"向平凡女性致敬"为主题，延续该项目对公共纪念碑传统的介入与重构。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/10/a-tribute-to-everyday-women-tschabalala-selfs-fourth-plinth-commission-unveiled-in-london)
+5. **Rabkin基金会公布2026年度艺术新闻奖八位得主，每人获5万美元奖金**：获奖者供职于Artforum、《纽约时报》等媒体，旨在支持长期从事视觉艺术报道的记者与评论人。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/10/rabkin-prizes-winners-2026)
+
+### Project One 灵感
+1. **Thomas Hauser「The Wake of Dust」摄影装置项目 · LensCulture专访（Cat Lachowskyj）**：Hauser将拾得材料与未定影的照片结合，把废墟摄影处理为一种"同时掩埋与发掘"的行为——记忆不断被重新发明、如考古现场般层层重建 - 与Project One「记录与重构之间的张力」直接呼应，也与Tereza Zelenkova"腐朽带来新生"的表述形成对话：两者都拒绝把废墟视为终点，而是视为持续被改写的地层。[LensCulture](https://www.lensculture.com/articles/thomas-hauser-the-wake-of-dust-contemporary-ruins-in-the-age-of-photography)
+2. **Marc Wilson新摄影集《The Edge of Ruin》：英国后工业地貌调查**：拍摄矿渣堆、被野草覆盖的铁轨遗迹、伤痕般的山丘等工业遗留的"隐形纪念碑"，刻意不使用怀旧或浪漫化的处理方式 - 为Project One提供了"美国铁锈带"母题之外的跨地域对照样本，其"拒绝奇观化废墟"的伦理立场可直接用于反思Gary Works系列的取景与用光策略。[Marc Wilson Photography](https://www.marcwilson.co.uk/book-print-sales/p/edgeofruin)
+
 ## 2026-09-09
 
 ### 艺术圈新闻
