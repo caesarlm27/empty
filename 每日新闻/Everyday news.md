@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-11
+
+### 艺术圈新闻
+1. **大英博物馆《贝叶挂毯》展览赞助人肖像上墙，其与以色列国防军的关联引发审视** - 英国肖像画家Jonathan Yeo（曾为查尔斯三世、小布什作画）为展览首席赞助人、亿万富翁Igor Tulchinsky创作的肖像已在展厅公开展示；Tulchinsky向该展捐款约500万英镑，其与以色列国防军的关联引发博物馆内部及公众对赞助伦理的质疑。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/11/portrait-of-bayeux-tapestry-exhibition-sponsor-goes-on-view-at-british-museum-amid-scrutiny-over-ties-to-idf)
+2. **格哈德·里希特与Selldorf Architects合作设计的多哈展馆将于11月开幕** - 94岁的里希特亲自参与设计这座专属其个人作品的永久展馆；建筑师Annabelle Selldorf近年主持了弗里克收藏馆与英国国家美术馆塞恩斯伯里翼楼的翻修工程。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/11/gerhard-richters-mosaic-like-doha-pavilion-will-open-in-november)
+3. **画家Lucien Smith于9月7日在纽约去世，享年37岁** - 这位2010年代早期以"雨画"（用灭火器喷洒稀释颜料于未上底的画布）闻名于纽约下城艺术圈的画家，晚年将市场成功转化为扶持青年艺术家的社区项目，包括非营利艺术家登记平台Serving the People，以及复兴70年代SoHo艺术家食堂"Food"的项目。[Artforum](https://www.artforum.com/news/lucien-smith-dies-at-37-1234758939/)
+4. **The Art Newspaper：特朗普"大而美"签字法案或令美国艺术教育更加昂贵** - 9日报道分析该法案条款如何波及艺术院校学费、学生贷款与联邦资助结构，为特朗普政府与文化机构持续紧张的关系再添一条战线。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/09/how-trumps-signature-bill-could-make-arts-education-even-more-expensive)
+5. **Tokyo Gendai第四届9月11-13日于横滨太平洋会展中心开幕，69家画廊参展** - 主展区汇集佩斯画廊、Sadie Coles HQ等国际画廊，新设"Hana"单元聚焦早中期艺术家，本届还新增纸本作品专项单元。[TFWSA](https://www.tfwsa.or.jp/post/tokyo-gendai-2026-opens-in-yokohama-with-69-galleries-and-an-expanded-contemporary-art-programme)
+
+### Project One 灵感
+1. **「Between Dust & Light」9月12日于阿姆斯特丹Gallery Intussen开幕** - 艺术家以碎片化建筑空间中的远处人影、动物与日常物件为题材，用尘埃象征侵蚀、失落与被打断的历史，用光象征在场、韧性与延续；作品不直接描绘冲突本身，而是聚焦断裂发生之后所剩下的：废弃的室内、散落的物件、含混的姿态 - 与Project One的接口：这正是canvas核心命题"尘埃即被压抑而归来之物"在绘画媒介中的直接对应，其"不拍冲突现场、只拍冲突之后"的取舍，可直接用于反思Gary Works系列该如何处理"事件"与"余波"之间的取景边界。[Gallery Intussen](https://galleryintussen.nl/exposities/)
+2. **Noémie Goudal个展「The Story of Fixity」于勒阿弗尔Le Portique展至9月27日** - 该沉浸式装置最初为伦敦一处工业遗址而构想（与Artangel合作），以四块屏幕呈现持续演变的水域与地质景观，探讨风景、与自然的关系以及遭遇生命世界时的情感 - 与Project One的接口：作品诞生于"工业遗址"这一具体场域，却最终抽象为地质时间尺度上的景观装置，提示Gary Works的记录也可以尝试从"具体历史现场"跳向"更长地质/生态时间尺度"的表达层，呼应Anna Tsing"contamination"理论中人类世时间与地质时间交织的视角。[Le Portique](https://www.leportique.org/expositions/noemie-goudal)
+3. **J Henry Fair航拍摄影展「A Great Breach in Nature」9月29日于格林威治Bruce Museum开幕** - 展出20幅从小型飞机上拍摄的大画幅航拍作品，按能源、食品、金属、纸张、塑料等门类呈现工业活动对山体、河流、森林与海岸线造成的、通常被隐藏起来的规模性改造 - 与Project One的接口：Fair将"资源开采的代价"处理为一种审美化、近乎抽象的视觉奇观，这提示Gary Works在处理钢铁工业的物质遗留时需主动警惕"废墟奇观化"的风险，或可从Marc Wilson"拒绝奇观化"的伦理立场中寻找平衡点。[Bruce Museum](https://brucemuseum.org/exhibitions/a-great-breach-in-nature-aerial-photography-by-j-henry-fair/)
+
 ## 2026-09-10
 
 ### 艺术圈新闻
