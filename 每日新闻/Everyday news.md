@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-12
+
+### 艺术圈新闻
+1. **纽约两幅失窃近50年的Eastman Johnson油画在康涅狄格州被追回** - 1978年从纽约画廊被盗的《Mary and Her Lamb》与《The Young Mother》近日经古董商与拍卖行协助，在一处遗产收藏中被发现并确认身份，两作品估值合计约20万美元。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/11/decades-after-theft-eastman-johnson-paintings-returned)
+2. **Hauser & Wirth纽约9月10日三展齐开：Lee Bul与Anna Maria Maiolino同期呈现新展** - Lee Bul在22街空间首次于该画廊展出新作「The Anatomy of Every Setting Sun」，以巨型银色飞艇雕塑延续其对技术乌托邦崩塌的探讨；Maiolino在18街空间呈现跨越60年创作历程的「ANNA—And the Infinite Line」。[FAD Magazine](https://fadmagazine.com/2026/08/18/lee-bul-hauser-wirth-new-york-2026/)、[Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/anna-maria-maiolino-anna-and-the-infinite-line/)
+3. **David Zwirner洛杉矶9月19日起呈现Roy DeCarava摄影个展「the sound i saw」** - 该系列将纽约街头日常生活影像与爵士乐手台前幕后的瞬间并置，展出至10月31日，是DeCarava作品在洛杉矶的第四次个展。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw)
+4. **MoMA摄影新展「Taking Back Our Space: Photographic Perspectives」9月20日开幕** - 将Marianne Wex 1977年记录身体姿态与权力关系的经典摄影项目，与七位当代艺术家的新作并置展出至2027年春。[MoMA press](https://press.moma.org/exhibition/taking-back-our-space-photographic-perspectives/)
+5. **Frieze Sculpture 2026于伦敦摄政公园开展（9月16日–11月1日）** - 露天展呈现Angel Otero、Conrad Shawcross、Ivana Bašić等11位国际艺术家的雕塑新作。[Frieze](https://www.frieze.com/article/frieze-sculpture-2026-announcement)
+
+### Project One 灵感
+1. **Lee Bul「The Anatomy of Every Setting Sun」中的"未来废墟"意象** - 巨型银色飞艇雕塑以脆弱材质构筑技术乌托邦崩塌后的残骸，评论直接称其为"future ruins" - 与Project One的接口：提示一种反向时间路径——不只回望已发生的废墟，也可以构造向前投射、尚未发生却已可预见的废墟形态，作为Gary Works未来命运的推测性影像补充。[FAD Magazine](https://fadmagazine.com/2026/08/18/lee-bul-hauser-wirth-new-york-2026/)
+2. **Roy DeCarava「the sound i saw」的刻意欠曝方法论** - DeCarava长期以偏暗、低对比度的印相方式主动拒绝过度曝光带来的"可见性"，让影像携带一种主动的隐匿 - 与Project One的接口：为处理"缺席者的痕迹"提供了另一种技术选项——用曝光与印相本身制造"半可见"，而非仅靠取景排除人物。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/roy-decarava-the-sound-i-saw)
+3. **Eric Holubow跨越Gary、底特律、水牛城、克利夫兰、芝加哥的超广角废墟摄影实践** - 他长期用超广角镜头记录五大湖工业带的衰败现场，包括Gary城内建于1925年的City Methodist Church，明确将拍摄目的表述为"引发对正在消逝之物的关注" - 与Project One的接口：其跨城市、系列化的拍摄方法可作为Gary Works单点深挖之外，建立区域性比较框架的直接参照。[Eric Holubow](https://www.ericholubow.com/gallery)
+
 ## 2026-09-11
 
 ### 艺术圈新闻
