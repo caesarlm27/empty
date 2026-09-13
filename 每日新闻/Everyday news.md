@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-09-13
+
+### 艺术圈新闻
+1. **布鲁克林博物馆9月11日起于大厅展出Michael Richards遗作「Free F'All」，纪念9/11二十五周年** - 作品刻画一名闭眼佩戴飞行帽、护目镜与降落伞的飞行员，全身被数十枚钉子刺穿，致敬塔斯基吉飞行员，钉子同时引用刚果nkisi nkondi守护像与圣塞巴斯蒂安殉道图像；艺术家本人1963年出生，2001年9月11日在世贸中心工作室中遇难，展期持续至2027年6月6日。[Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/michael-richards)、[Hyperallergic](https://hyperallergic.com/brooklyn-museum-displays-work-of-artist-killed-in-9-11-on-25th-anniversary/)
+2. **贝叶挂毯被发现两处细微新损伤，法国文化部长强调"状态基本未变"** - 大英博物馆保护团队在挂毯抵达伦敦后发现约70米处两根线断裂，长度仅数毫米，馆方与法方均确认损伤轻微，可能早在2025年9月拍摄"运前照片"时已存在。[ARTnews Morning Links](https://www.artnews.com/art-news/news/morning-links-september-11-2026-1234797976/)、[France 24](https://www.france24.com/en/live-news/20260904-two-broken-threads-on-bayeux-tapestry-no-major-damage-french-minister)
+3. **法国艺术家Claude Lévêque被裁定就强奸及性侵未成年人指控出庭受审** - 这位曾代表法国参加威尼斯双年展的装置艺术家将面临刑事审判。[ARTnews Morning Links](https://www.artnews.com/art-news/news/morning-links-september-11-2026-1234797976/)
+4. **Rita Ackermann个展「The Chemical Alphabet」9月9日于Hauser & Wirth纽约Wooster街空间开幕** - 展至10月17日，艺术家以闪含字母系统的绘画语言为新作源头，用字母符号结构为每幅构图提供锚点。[Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/rita-ackermann-the-chemical-alphabet/)
+5. **马雅·哈伦（Hailun Ma）中国境外首个大型个展9月18日将于阿姆斯特丹Foam摄影博物馆开幕** - 展至2027年1月20日，呈现她以时尚为切口拍摄的新疆维吾尔族青少年、哈萨克族牛仔等常被主流叙事忽略的族群日常与风格，配套出版摄影书《Hometown》。[Foam](https://www.foam.org/events/hailun-ma)
+6. **美国钢铁公司董事会批准向Gary Works热轧带钢车间追加投资2亿美元** - 资金将用于优化生产成本并扩展重型管线钢、汽车用钢等高端产品线，是继14号高炉3.5亿美元重砌之后同一厂区内的又一笔独立投资。[NWI Times](https://www.nwitimes.com/news/local/article_9d510225-0c76-42ca-8afc-4b35379a7489.html)
+
+### Project One 灵感
+1. **Michael Richards「Free F'All」：艺术家之死使作品本身成为缺席的物证** - Richards在创作这件描绘飞行员被穿刺的雕塑后，本人于2001年9月11日在世贸北塔97层工作室中遇难，作品此后成为唯一"在场"的艺术家痕迹 - 与Project One的接口：为"缺席者的痕迹"提供了一个极限案例——不是作品记录缺席者，而是作者的骤然缺席反过来重新定义了作品的全部意义，Gary Works工人若留有创作或记录，同样可能因同等的历史断裂而被重新赋予见证性。[Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/michael-richards)
+2. **美国钢铁公司2亿美元热轧带钢投资：Gary Works的"废墟化"与"资本化"仍在同一厂区并行发生** - 这笔独立于14号高炉重砌的新投资表明，同一片被Project One视为"废墟"的土地上，部分产线正被资本持续激活、扩产 - 与Project One的接口：提醒项目档案不能把Gary Works处理成单向衰败的静态遗址，而应记录"哪些车间被选择性续命、哪些被留给锈蚀"这一实时展开的政治-经济过程。[NWI Times](https://www.nwitimes.com/news/local/article_9d510225-0c76-42ca-8afc-4b35379a7489.html)
+3. **Hailun Ma以"时尚"为切口拍摄被主流叙事忽略的新疆族群** - 她不直接采用纪实摄影的宏大叙事，而是通过日常穿着、家族影像与青年风格进入一个通常只被地缘政治话语覆盖的地区 - 与Project One的接口：提供了一种迂回的入口方法论——当宏大历史叙事已把某个群体压平为单一标签时，从最私人、最日常的物质细节（衣着、姿态、家居）切入，或许比正面记录废墟本身更能触及Gary Works黑人钢铁工人社区被遮蔽的日常生活维度。[Foam](https://www.foam.org/events/hailun-ma)
+
 ## 2026-09-12
 
 ### 艺术圈新闻
