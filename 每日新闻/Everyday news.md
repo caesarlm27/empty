@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-14
+
+### 艺术圈新闻
+1. **Baldwin Lee个展「New York」9月18日至10月31日于纽约Howard Greenberg画廊开幕** - 呈现摄影师1975-79年间以4x5大画幅相机拍摄的纽约清晨空街，包括看似被遗弃的世贸双塔脚下金融区阁楼，半世纪后首次冲印展出。[Howard Greenberg Gallery](https://www.howardgreenberg.com/exhibitions/baldwin-lee)、[Aperture](https://aperture.org/editorial/14-exhibitions-to-see-this-fall/)
+2. **特朗普9月11日要求史密森尼拆除国家历史博物馆前雕塑「Infinity」，代以30英尺华盛顿雕像** - José de Rivera 1967年创作的旋转不锈钢动态雕塑是美国联邦政府委任的首件现代艺术品，特朗普称其"奇怪的现代主义雕塑对美国毫无意义"，是否有权下令尚不明确，史密森尼董事会含最高法院首席大法官与两党议员。[ARTnews](https://www.artnews.com/art-news/news/trump-demands-sculpture-replaced-george-washington-1234798088/)
+3. **Makeda Best本月正式就任MoMA摄影部Ehrenkranz首席策展人** - 她从奥克兰艺术博物馆策展副馆长任上履新，接替2022年离任的Clément Chéroux，将统领逾3万件摄影藏品的收藏、展览与出版方向。[MoMA Press](https://press.moma.org/news/makeda-best/)、[Hyperallergic](https://hyperallergic.com/art-movements-meet-momas-new-photo-chief/)
+4. **Nadav Kander个展「The Edge of Things」9月18日于阿姆斯特丹Foam摄影博物馆开幕，David Campany客座策展** - 横跨其四十年创作生涯的首个大型回顾展，聚焦"人类存在的脆弱性与时间流逝"，展至2027年1月20日。[Foam](https://www.foam.org/events/nadav-kander)、[FEP](https://www.fep-photo.org/exhibitions/nadav-kander/)
+5. **第35届匹兹堡爱尔兰节9月11-13日再度落地Carrie Blast Furnaces废弃高炉旧址** - 这座国家历史地标钢铁厂废墟继续承办与工业生产完全无关的社区节庆，Rivers of Steel同期提供6、7号高炉迷你导览与钢铁工人家族谱系检索服务。[Hoodline](https://hoodline.com/2026/08/pittsburgh-irish-festival-returns-to-carrie-furnaces-with-stone-lifting-and-trivia/)
+
+### Project One 灵感
+1. **Baldwin Lee「New York」：半世纪的冲印延迟本身构成"记录与重构"的时间证据** - 1975-79年拍摄的世贸双塔脚下废弃阁楼底片，直到2025年才被冲印、2026年才首次展出——影像本身经历了与被摄对象同等漫长的"悬置"状态 - 与Project One的接口：Gary Works田野底片同样面临"拍摄时间"与"呈现时间"之间的巨大间隔，Lee的案例说明这种延迟本身可以被主动保留为作品的一部分，而非仅仅是制作滞后。[Howard Greenberg Gallery](https://www.howardgreenberg.com/exhibitions/baldwin-lee)
+2. **Carrie Blast Furnaces爱尔兰节：同一片工业废墟，谁被允许在此"复活"** - 这座钢铁厂高炉遗址持续以移民文化节庆的形式被激活，却与曾在此劳作的钢铁工人本身的历史叙事脱节，族裔谱系检索台与高炉导览并置在同一场地却服务于不同的记忆诉求 - 与Project One的接口：为"哪些群体的记忆被允许附着在工业废墟之上"提供了一个正在进行时的对照案例，Gary Works的黑人与移民工人社区历史需要追问自己是否拥有同等的"复活"渠道。[Hoodline](https://hoodline.com/2026/08/pittsburgh-irish-festival-returns-to-carrie-furnaces-with-stone-lifting-and-trivia/)
+3. **David Campany策划Nadav Kander回顾展：从「尘埃」到「脆弱边缘」，策展人的方法论持续演化** - 继「A Handful of Dust」与Burtynsky「The Great Acceleration」后，Campany此次转向Kander"人类存在的脆弱性"这一更内在的命题 - 与Project One的接口：Campany三个策展项目形成一条清晰的方法论轨迹——从物质痕迹（尘埃）到景观尺度（加速）再到存在状态（脆弱），为Project One思考"废墟摄影"最终指向的到底是物质、地理还是存在论层面，提供了一份可参照的策展谱系。[Foam](https://www.foam.org/events/nadav-kander)
+
 ## 2026-09-13
 
 ### 艺术圈新闻
