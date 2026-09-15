@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-09-15
+
+### 艺术圈新闻
+1. **纽约州布法罗Richardson Olmsted Campus（原Buffalo State Asylum）9月开放"硬帽导览"摄影工作坊**，CEPA Gallery联合Martin House推出两日工作坊：周五拍摄赖特设计的Martin House，周六进入自1970年代起空置的原精神病院区域拍摄，作品将遴选入Richardson Hotel九月联展 [Martin House活动页](https://martinhouse.org/event/photography-tour-with-cepa-gallery/)
+2. **罗马图拉真浴场地下发现的"史上最大罗马马赛克"9月12-13日首次对公众开放**，该马赛克与同期壁画于1990年代发掘，尘封三十余年后终于揭幕 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public)
+3. **被De Stijl运动长期"埋没"的构成主义艺术家Marlow Moss个展「Space, Movement & Light」9月14日于伦敦Ward Moretti画廊开幕**，这是其半个多世纪以来在出生地伦敦的首次商业个展，展至10月30日 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/14/marlow-moss-exhibition-london)
+4. **佛罗里达一家庭9月9日提起诉讼，指控一国际团伙向其兜售逾200幅仿冒安迪·沃霍尔作品**，涉案金额逾670万美元 [ARTnews Morning Links 9/14](https://www.artnews.com/art-news/news/morning-links-september-14-2026-1234798097/)
+5. **底特律历史博物馆「LENI: Looking Through the Lens」摄影展9月17日举行延时开放活动**，展出摄影师Leni Sinclair 1959年从东德移居底特律后记录的城市文化与行动主义现场 [Detroit Historical Society](https://www.detroithistorical.org/exhibitions/leni-looking-through-lens)
+6. **巴黎地下墓穴摄影展「纳达尔：发明巴黎，从深处到天空」定档9月29日至2027年1月31日**，呈现19世纪摄影师纳达尔从地下墓穴到城市高空的巴黎影像谱系 [Sortiraparis](https://www.sortiraparis.com/zh/zai-bali-canguan-shenme/zhanlan-bowuguan/guides/55341-2026nian-ba-li-yi-shu-hui-gui-jiu-yue-jiang-cheng-jiao-dian-de-zhong-bang-zhan-lan)
+
+### Project One 灵感
+1. **CEPA Gallery的"硬帽导览+摄影工作坊+遴选联展"模式** - 从进入空置制度建筑（精神病院）到最终呈现的完整流程，为Gary Works的田野拍摄与展览落地提供了一套可直接复制的操作框架 [Martin House活动页](https://martinhouse.org/event/photography-tour-with-cepa-gallery/)
+2. **图拉真浴场马赛克"发掘于90年代、尘封三十年后揭幕"** - 与Baldwin Lee冲印延迟半世纪构成同一命题：发现与公开展示之间的时间差本身就是"记录与重构"张力的物证，Gary Works档案的"延迟公开"同样可以被有意保留为作品的时间结构 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public)
+3. **纳达尔「从深处到天空」的垂直摄影谱系** - 从地下墓穴到城市高空的单一摄影师全景实践，提示Gary Works可以尝试打通"地下管廊/高炉基座"与"高炉顶部/天际线"的垂直轴线叙事，而不只是水平铺陈的厂区全景 [Sortiraparis](https://www.sortiraparis.com/zh/zai-bali-canguan-shenme/zhanlan-bowuguan/guides/55341-2026nian-ba-li-yi-shu-hui-gui-jiu-yue-jiang-cheng-jiao-dian-de-zhong-bang-zhan-lan)
+
+---
+
 ## 2026-09-14
 
 ### 艺术圈新闻
