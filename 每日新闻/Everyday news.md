@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-16
+
+### 艺术圈新闻
+1. **中国当代艺术家梁绍基9月13日逝世**，其自1980年代末起以蚕丝为核心媒介，将生物生命周期与装置、纤维艺术结合，是中国"以自然材料记录时间流逝"实践的代表人物 [ARTnews Morning Links 9/16](https://www.artnews.com/art-news/news/morning-links-september-16-2026-1234798458/)
+2. **法国艺术家JR 9月14日在梵蒂冈使徒图书馆外立面揭幕70米巨浪装置《Diluvium》**，取材自多雷1866年大洪水版画，作为图书馆"灾难与奇迹"五年展览系列（未来将依次转向火、光、昆虫与人类介入）的开篇之作，主展「AQVA」9月25日正式开幕 [designboom](https://www.designboom.com/art/jr-sends-giant-wave-across-vatican-apostolic-library-facade-with-diluvium/)
+3. **加纳阿克拉新文化中心Si Hene将于10月正式开放**，选址一座废弃制药厂改造建筑，是加纳首个会员制文化中心，内设文化参考图书馆与档案实验室，收藏数十年历史的影像、报纸、布料与文献 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/15/new-cultural-centre-focused-on-archiving-ghanas-history-to-open-in-accra)
+4. **俄罗斯圣三一修道院内安德烈·鲁布廖夫名作《三位一体》圣像因恒温展柜设备故障已被移出展示**，湿度长期高达80%导致木板翘曲变形，德国专家此前一次维修后设备再次损坏，却因"国际关系困难"无法再次前来修复 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/16/russias-revered-trinity-icon-being-assessed-after-climate-control-system-breaks-down)
+5. **已故画家Lucien Smith之父Terrence Sanders-Smith公开征集公众对其子的记忆**，用于筹建纪念基金会与传记出版物，并首次坦承二人生前因药物成瘾、疏远等原因多年未和解 [Whitehot Magazine](https://whitehotmagazine.com/articles/loss-his-son-lucien-smith/8041)
+
+### Project One 灵感
+1. **鲁布廖夫《三位一体》的"故障—僵局—悬置"链条** - 设备故障本身不致命，真正致命的是"国际关系困难"让维修永久搁置——这与Gary Works EPA排放标准执行期被官僚程序合法推迟的逻辑完全同构：政治僵局才是废墟化的真正引擎，而非物理损耗本身 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/16/russias-revered-trinity-icon-being-assessed-after-climate-control-system-breaks-down)
+2. **Sanders-Smith征集公众记忆重建亡子档案** - 用"公开征集私人记忆"的方式为一个缺席者拼出完整形象，这为Gary Works退休工人及其家属的口述史田野工作提供了一套可直接复制的操作模型：档案不是等来的，而是主动征集来的 [Whitehot Magazine](https://whitehotmagazine.com/articles/loss-his-son-lucien-smith/8041)
+3. **Si Hene旧制药厂改造为持续运作的档案基础设施** - 不同于"废墟保存"或"一次性策展介入"，Si Hene把工业建筑改造成会员制、自我造血的长期档案空间——这提示Gary Works档案的终极形态或许不是一场展览，而是一个持续运作的机构容器 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/15/new-cultural-centre-focused-on-archiving-ghanas-history-to-open-in-accra)
+
+---
+
 ## 2026-09-15
 
 ### 艺术圈新闻
