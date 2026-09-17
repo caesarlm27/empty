@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-17
+
+### 艺术圈新闻
+1. **马格南资历最长的摄影师Ian Berry 9月13日逝世，享年92岁**，这位英国摄影师是唯一拍下1960年南非沙佩维尔惨案的记者，其影像曾在审判中作为证据证明遇难者无辜；1962年受卡蒂埃-布列松邀请加入马格南，职业生涯跨越65年，覆盖苏联入侵捷克斯洛伐克、越战、北爱尔兰"麻烦时期"与种族隔离终结等重大历史现场 [Magnum Photos](https://www.magnumphotos.com/newsroom/remembering-ian-berry-1934-2026/)
+2. **迷幻波普艺术家Peter Max 9月14日在纽约曼哈顿一家医院逝世，享年88岁**，长期与阿尔茨海默病抗争后离世；其标志性的鲜艳漩涡色彩定义了1960年代反主流文化的视觉语言，曾为米克·贾格尔、吉米·亨德里克斯等音乐人创作肖像 [Hollywood Reporter](https://www.hollywoodreporter.com/lifestyle/arts/peter-max-dead-psychedelic-pop-artist-1236704324/)
+3. **莫奈《鸢尾花》将于10月22日在苏富比巴黎拍卖，估价2200万至3000万欧元，有望刷新法国拍卖纪录**，这幅创作于1924-25年、尺幅160×180厘米的作品是莫奈晚年"鸢尾花"系列中现存私人收藏里最大的一幅，出自石油世家继承人Jeanne Schlumberger藏品，此前近一个世纪未曾公开展出 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/17/monets-iris-could-break-record-for-most-expensive-painting-ever-sold-at-auction-in-france)
+4. **艺术家Santiago Sierra将于9月22日起在伦敦、都柏林与卢布尔雅那连续多日朗读被以色列杀害的巴勒斯坦人姓名**，由伦敦非营利机构A/POLITICAL组织，表演场地包括伦敦Bacon Factory艺术空间、都柏林Rua Red与卢布尔雅那现代美术馆 [ARTnews](https://www.artnews.com/art-news/news/santiago-sierra-palestinians-killed-israel-performance-1234798132/)
+5. **加拿大艺术委员会9月16日公布2026年度总督视觉与媒体艺术奖八位得主**，包括因纽特艺术家Shuvinai Ashoona、跨界艺术家Carole Itter等，每人获2.5万加元奖金与铜质奖章，获奖作品展将于11月7日在弗雷德里克顿Beaverbrook美术馆开幕 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/16/canada-governor-general-awards-2026-winners)
+
+### Project One 灵感
+1. **Ian Berry"安静的人"的65年见证伦理：唯一在场者的消失如何重新赋予影像证词的分量** - Berry一生拒绝介入镜头前的事件，只以持续在场作为方法——沙佩维尔惨案的影像因"唯一记录者"的身份成为审判证据；他的离世意味着这条见证链条的活体端点彻底消失，只剩影像独自承担证词功能。与Project One的接口：这为"缺席者的痕迹"提供了一个反向案例——不是被摄对象缺席，而是拍摄者本人终将缺席，Gary Works田野记录同样需要考虑"记录者终将离场后，影像如何独自继续作证"这一伦理维度。[Magnum Photos](https://www.magnumphotos.com/newsroom/remembering-ian-berry-1934-2026/)
+2. **莫奈《鸢尾花》雪藏近一个世纪后重新现身：私人收藏的"悬置状态"与Baldwin Lee冲印延迟构成同一时间命题** - 这幅作品与藏家一起在私人空间里沉默近百年，直到藏家身后才被"发掘"进入公共视野，其"被雪藏—被发现"的时间结构与Baldwin Lee底片延迟半世纪冲印高度同构。与Project One的接口：进一步印证"记录与重构之间的时间差"可以被主动设计为作品结构的一部分——Gary Works田野影像的"公开时刻"本身也可以成为项目叙事的一个可操作变量，而非仅仅是制作进度问题。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/17/monets-iris-could-break-record-for-most-expensive-painting-ever-sold-at-auction-in-france)
+3. **Santiago Sierra连日朗读死者姓名：用声音行为让缺席者以"被念出的名字"重新在场** - 这场跨越伦敦、都柏林、卢布尔雅那三地的表演不依赖影像或实体证物，而是用持续多日、逐一念出姓名的行为本身，把统计数字还原为一个个具体的、曾经在场过的个体。与Project One的接口：为处理Gary Works工人档案中"只有姓名、没有影像"的缺失部分提供了直接可操作的方法论——若某些工人仅存工牌记录或名册而无照片留存，逐一诵读或铭刻姓名本身即可构成一种独立于影像之外的"缺席者的痕迹"呈现方式。[ARTnews](https://www.artnews.com/art-news/news/santiago-sierra-palestinians-killed-israel-performance-1234798132/)
+
+---
+
 ## 2026-09-16
 
 ### 艺术圈新闻
