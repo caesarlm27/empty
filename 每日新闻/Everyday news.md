@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-18
+
+### 艺术圈新闻
+1. **Elmgreen & Dragset新作《Eight》9月17日装置于华盛顿赫西霍恩雕塑园北入口**，这座28英尺高的不锈钢泳池雕塑内壁漆青绿色、配跳板与扶梯，却被整体倒扣、永远无法盛水——是艺术家"后院泳池"系列第四件公共委托作品；雕塑园由杉本博司主持四年、6800万美元改造，10月31日正式重新开放 [ARTnews](https://www.artnews.com/art-news/news/hirshhorn-museum-elmgreen-dragset-pool-1234798777/)
+2. **伦敦V&A博物馆9月14日起展出"基辅圣物"**：两对18世纪基辅洞穴修道院银质圣门首次离开吉尔伯特收藏公开亮相，圣门1784年由修道院委制，苏联时期于1930年代被没收变卖流散海外，此次展览恰逢洞穴修道院建立975周年 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/16/ukrainian-orthodox-treasures-kyiv-monastery-view-va-london)
+3. **布宜诺斯艾利斯Malba博物馆9月17日宣布由墨西哥建筑师Frida Escobedo主持扩建**，新馆将建于毗邻的Perú广场地下、使展览面积翻倍，预计2029年底或2030年初开放，馆长同期启动5000万美元信托基金保障长期运营 [The Art Newspaper](https://www.theartnewspaper.com/2026/09/17/malba-museum-buenos-aires-frida-escobedo-architect-expansion)
+4. **第16届华沙画廊周9月18日开幕**，持续至9月20日，60余场展览由波兰及国际画廊、机构、艺术家团体联合呈现，全部免费向公众开放 [Warsaw Gallery Weekend](https://warsawgalleryweekend.pl/en?wgw=1)
+5. **美国密苏里州哥伦比亚市"Katy车站"9月14日被曝面临拆除风险**，这座1909年建成、1979年即列入国家史迹名录的百年铁路站房目前无任何法律条款可阻止业主拆除，前县议员发起民间自救行动试图寻找买家修复保留 [ABC 17 News](https://abc17news.com/news/columbia/2026/09/14/effort-underway-to-save-historic-katy-station-from-demolition/)
+
+### Project One 灵感
+1. **Katy车站"无法可阻止拆除"的官僚真空** - 建筑本身的历史价值从未被否认，真正致命的是现行法规里没有一条能强制阻止业主拆除的条款——这与此前Gary Works EPA排放标准被官僚程序合法搁置同构：废墟化的引擎从来不是物理损耗，而是制度性空白本身。与Project One的接口：民间发起的Facebook自救运动也提示了一种"记录与重构"之外的第三种介入方式——用社群动员本身去争夺一座建筑存续与否的最后窗口期，Gary Works的口述史田野工作或许也能主动设计出类似的"抢救倒计时"叙事结构。[ABC 17 News](https://abc17news.com/news/columbia/2026/09/14/effort-underway-to-save-historic-katy-station-from-demolition/)
+2. **Elmgreen & Dragset《Eight》："建成即废墟"的反向逻辑** - 这座泳池从诞生起就被设计为不可能被使用——没有经历衰败，却与衰败后的废墟共享同一种"形式尚在、功能已被清空"的状态。与Project One的接口：为Zelenkova"腐朽的房间可能比防腐的房间更充满活力"提供了一个反例参照——Gary Works的田野记录可以尝试寻找厂区中那些从建成起就从未真正投入使用、或功能被制度性悬置的角落，把"从未运转"和"曾经运转后停摆"两种废墟并置对比。[ARTnews](https://www.artnews.com/art-news/news/hirshhorn-museum-elmgreen-dragset-pool-1234798777/)
+3. **基辅圣门："物件先于场所被看见"的展览伦理** - 圣门在原生场域（战火中的基辅洞穴修道院）依然存在但难以抵达的情况下，先以"离散文物"的身份在伦敦被观看，物与场所之间的距离本身成为展览叙事的核心，而非被隐去的背景。与Project One的接口：呼应Ristelhueber"呈现关于人的证据、却没有人在场"的方法论——若Gary Works能取得工牌、名册等可移动实物档案，或许应刻意保留、甚至凸显它们与钢厂原址之间无法弥合的物理距离，让这段距离本身成为作品的一部分，而不是被展陈技术抹平。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/16/ukrainian-orthodox-treasures-kyiv-monastery-view-va-london)
+
+---
+
 ## 2026-09-17
 
 ### 艺术圈新闻
