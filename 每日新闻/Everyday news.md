@@ -11,6 +11,23 @@ tags:
 
 ---
 
+## 2026-09-19
+
+### 艺术圈新闻
+1. **美国印第安纳州加里市"城市卫理公会教堂"9月2日敲定540万美元拆除合同**，西北印第安纳区域发展管理局将合同授予Homrich Wrecking公司，涵盖教堂及原圣玛丽仁慈医院建筑；这座由美国钢铁公司1925年捐款38.5万美元建成、历经大火与屋顶坍塌后成为"全美最具辨识度的废墟"之一的建筑，因始终未能筹到420万美元加固资金，最终被列入拆除计划 [Chicago Sun-Times](https://chicago.suntimes.com/real-estate/2026/09/05/city-methodist-church-largest-midwest-gary-demolition)
+2. **MIT人类学家Christine Walley主持的"东南芝加哥档案与讲述计划"9月4日被MIT News作为"劳工历史共享范式"报道**，该项目收录超过1100件来自当地历史博物馆的实物、照片、剪报与口述史录音；Walley本人的父亲曾是威斯康星钢铁厂工人，她主张"以实物讲述地方史"的方法任何社区都可复制 [MIT News](https://news.mit.edu/2026/steel-mill-stories-sharing-workers-histories-model-0904)
+3. **洛杉矶犹太联合会近日在洛杉矶高等法院起诉诺顿·西蒙博物馆，追讨纳粹掠夺名画**，诉讼要求归还老卢卡斯·克拉纳赫1530年作品《亚当与夏娃》，是加州与国会近期通过强化追索法案后提起的首批诉讼之一 [Washington Times](https://www.washingtontimes.com/news/2026/sep/19/heirs-holocaust-victims-sue-la-museums-nazi-looted-masterpieces/)
+4. **Gagosian 9月15日在纽约西21街空间开幕Brice Marden跨六十年回顾展《I Am Plane Image》**，展览与艺术家基金会合作，借展芝加哥艺术学院、惠特尼美术馆等机构藏品，是这位抽象画家二十年来首次在纽约举办的大型回顾展，同期耶鲁大学出版社出版其作品全集 [Gagosian](https://gagosian.com/exhibitions/2026/brice-marden-i-am-plane-image/)
+5. **香港M+博物馆9月12日开幕建筑展《Herzog & de Meuron：聚焦》**，呈现这家瑞士建筑事务所二十年来在中国的设计历程，展出逾200件过程性材料，包括模型、原型、草图与档案文件 [ArchDaily](https://www.archdaily.com/1184216/m-plus-hong-kong-exhibition-traces-herzog-and-de-meurons-design-process-across-china)
+6. **第21届伊斯坦布尔当代艺博会将于9月24日至27日在Tersane Istanbul举行**，汇聚24个国家逾70家画廊、逾500位艺术家1500余件作品，本届新设"聚焦亚洲"两年期专题，并设面向新兴画廊的"新领域"单元 [artdogistanbul](https://artdogistanbul.com/en/contemporary-istanbul-announces-participating-galleries-for-its-21st-edition)
+
+### Project One 灵感
+1. **"城市卫理公会教堂"：建造者与毁灭者共享同一资金源头** - 美国钢铁公司1925年的捐款让这座教堂拔地而起，而一个世纪后正是资金的彻底断裂（420万美元加固款始终无着）让它走向拆除——钢铁工业既是废墟的缔造者，也是其最终清除者的隐形推手。与Project One的接口：这与此前Gary Works笔记里"EPA排放标准被官僚程序合法搁置"的逻辑同构，进一步印证废墟化的引擎从来是资金/制度的中断而非物理损耗；更关键的是，这座"全美最具辨识度的废墟"即将被永久拆除，为田野记录提出一个迫在眉睫的时间窗口——废墟本身也有"保存期限"，记录必须与拆除倒计时赛跑 [Chicago Sun-Times](https://chicago.suntimes.com/real-estate/2026/09/05/city-methodist-church-largest-midwest-gary-demolition)
+2. **东南芝加哥档案计划："局内人"身份对记录伦理的复杂化** - Christine Walley的"以实物讲故事"方法论本身可直接复制到Gary Works田野工作中，但更值得借鉴的是她的位置——父亲曾是钢厂工人，她既是记录者也是被记录群体的后代。与Project One的接口：这为"记录与重构"提出一个此前未被充分讨论的方法论问题——记录者与被记录对象之间的物理与情感距离该如何处理，局内人身份究竟是让记录更真实，还是引入新的叙事偏移，Gary Works团队若存在与铁锈带有私人渊源的成员，或许应主动将这种"局内视角"本身作为项目的一条明线，而非隐去的背景 [MIT News](https://news.mit.edu/2026/steel-mill-stories-sharing-workers-histories-model-0904)
+3. **诺顿·西蒙诉讼：产权归属作为持续被重写的叙事，而非静止的历史事实** - 克拉纳赫《亚当与夏娃》的物权在近一个世纪里几经流转、掠夺、沉默，如今又因新法案被重新激活为一场法律叙事的当事方。与Project One的接口：呼应Artist research中Taryn Simon"摄影证据性被构造"的核心观点——所谓"证据"从来不是一次性被发现的静态真相，而是被反复重新讲述的过程；Gary Works工人档案中残缺的工牌、合同、产权文件，或许同样应被处理成一种开放的、持续被重新讲述的叙事结构，而非一次性"完成"的考据成果 [Washington Times](https://www.washingtontimes.com/news/2026/sep/19/heirs-holocaust-victims-sue-la-museums-nazi-looted-masterpieces/)
+
+---
+
 ## 2026-09-18
 
 ### 艺术圈新闻
