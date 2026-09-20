@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-09-20
+
+### 艺术圈新闻
+1. **Elle Pérez《Devotions》首部专著出版** - 摄影师Elle Pérez首部摄影专著《Devotions》由Aperture于9月22日出版，收录其近20年创作，并混入私人手稿、Xerox复印件等研究素材；9月23日在Aperture纽约新馆举办新书发布会。[原文链接](https://store.aperture.org/products/elle-perez)
+2. **Emma McIntyre「This body holds / swamp stuff」个展** - David Zwirner纽约Tribeca空间9月18日至10月24日呈现新西兰裔画家Emma McIntyre新展，她将氧化铁粉倒在未干颜料上任其自然锈蚀，让物质"自我衰变"生成画面。[原文链接](https://www.davidzwirner.com/exhibitions/2026/emma-mcintyre)
+3. **Louis Fratino「Prose」伦敦首展** - David Zwirner伦敦空间9月18日至10月31日举办Fratino加盟画廊后的首个伦敦个展，全部为新作，延展其描绘私密身体经验与公共生活的主题。[原文链接](https://www.davidzwirner.com/exhibitions/2026/louis-fratino)
+4. **George Rouy「REPRISE」纽约个展** - Hauser & Wirth纽约9月10日至10月24日举办Rouy在该画廊的首个纽约个展，新系列「Procession」以土红色调呈现被侵蚀、消解的人体，仿佛从画面中被"发掘"出来。[原文链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/george-rouy-reprise/)
+5. **Keerthana Kunnath「Not What You Saw」美术馆首展** - 荷兰FOAM摄影美术馆9月18日至11月27日举办印度艺术家Keerthana Kunnath首个美术馆个展，聚焦喀拉拉邦女子健美运动员群体，探讨影像如何建构而非仅仅记录现实。[原文链接](https://www.meer.com/en/107517-not-what-you-saw)
+
+### Project One 灵感
+1. **Ilan Benattar《Lost Factories》** - 法国摄影师Ilan Benattar走访欧洲各地废弃工厂（纺织厂、电器厂、酒厂等），刻意隐藏具体拍摄地点以保护现场的原真状态，自述"我的照片让死去的地方重新活过来"。与Project One的接口：直接呼应"记录与重构"之间的张力——摄影既保存废墟，也通过取景与保密制造出一层新的虚构。[相关链接](https://ilanbenattar.com/lost-factories/)
+2. **Decay Devils · Gary联合车站保护行动** - 印第安纳州Gary市的摄影师团体"Decay Devils"从单纯拍摄废弃建筑转向发起对1910年建成的联合车站（Union Station）的保护与修复运动。与Project One的接口：Gary正是Taryn Simon《The Innocents》中Larry Mayes被捕现场所在地——当地摄影师从"记录废墟"走向"介入废墟"，为canvas中「介入与矛盾」节点提供了一个现实案例。[相关链接](https://nextcity.org/urbanist-news/historic-preservation-gary-abandonded-buildings-train-station)
+
 ## 2026-09-19
 
 ### 艺术圈新闻
