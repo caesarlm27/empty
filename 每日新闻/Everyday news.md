@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-21
+
+### 艺术圈新闻
+1. **Robert Szot个展「Dust Do Shine」9月23日于纽约Anita Rogers Gallery开幕** - 画廊夏休后首展，呈现这位以"无常"为核心命题的画家新作，标题直指尘埃与光的悖论关系。[原文链接](https://www.anitarogersgallery.com/exhibitions/robert-szot3)
+2. **Douglas McCulloh个展「Dispatches」9月12日于加州大学河滨分校UCR ARTS开幕，展至12月20日** - 这是南加州观念摄影师近四十年创作生涯的首个完整回顾，McCulloh长期以自建的"系统"决定取景位置，探讨机遇与规则如何共同生成影像。[原文链接](https://hyperallergic.com/ucr-arts-presents-dispatches-the-photography-of-douglas-mcculloh-1990-2025/)
+3. **Olivo Barbieri「Time Space Geometry」个展与「Haunted」群展9月19日于伊斯坦布尔Borusan Contemporary同期开幕** - 意大利摄影师在土耳其的首个个展，汇聚跨越四十余年的五个系列，以俯瞰视角重构城市与地景的尺度；同期「Haunted」群展探讨数字时代图像如何塑造现实感知。[原文链接](https://hyperallergic.com/borusan-contemporary-presents-two-new-exhibitions/)
+4. **Hauser & Wirth香港9月17日开幕Lucio Fontana大型个展「Spatialism. Pioneering the Contemporary」，展至12月19日** - 由Luca Massimo Barbero联合Fontana基金会策划，聚焦其1949年后开创的"Buchi"（洞）与"Tagli"（割痕）系列，追溯"空间主义"运动如何将画布本身变为可被物理穿透的场域，同期发布首本简体中文版艺术家专论。[原文链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/lucio-fontana-spatialism-pioneering-the-contemporary/)
+5. **TBW Books再版Curran Hatleberg摄影书《Lost Coast》，F-Stop Magazine 8月29日刊发书评** - 该书原版2016年出版后长期绝版、成为藏家追捧的稀缺本；书评指出Hatleberg在加州尤里卡任教期间将驻留式教职转化为专注拍摄的契机，画面中的人物与其所栖居的环境彼此不可分割。[原文链接](https://www.fstopmagazine.com/blog/2026/book-review-lost-coast-by-curran-hatleberg/)
+
+### Project One 灵感
+1. **Curran Hatleberg《Lost Coast》二版："人物与环境不可分割"补完Artist Research中Hatleberg的方法论空白** - 书评指出Hatleberg把在尤里卡的教职经历当作一次"驻留"，用数月时间与拍摄对象建立关系后才按快门，画面里的人始终无法与其所处的滨海衰退小镇剥离——这正是Artist Research文件TODO中"Curran Hatleberg部分需要补完"所缺的具体方法论描述：不是"公路摄影"式的过境凝视，而是长期驻留后人与地景相互定义的记录方式，可直接用于补全该文件条目。[相关链接](https://www.fstopmagazine.com/blog/2026/book-review-lost-coast-by-curran-hatleberg/)
+2. **Robert Szot「Dust Do Shine」：尘埃与光的悖论标题，呼应David Campany"A Handful of Dust"的核心命题** - Szot的绘画实践长期处理"无常"这一主题，新展标题本身就构成一个悖论——尘埃通常被视为衰败、被压抑之物，却在此处与"发光"并置。与Project One的接口：与Artist Research中David Campany策展的「A Handful of Dust」形成跨媒介呼应——尘埃"永远会回来"的不可驱逐性，此处被进一步推向"尘埃本身即具有光泽"的悖论，为Gary Works厂区弥漫粉尘、氧化物粉末在特定光线下的物质表现提供了一个绘画领域的平行参照。[相关链接](https://www.anitarogersgallery.com/exhibitions/robert-szot3)
+3. **Lucio Fontana的Buchi/Tagli（洞与割痕）：把画布表面的物理创伤本身当作作品，而非隐去的痛感** - Fontana自1949年起用锥子戳穿、用刀片划开画布，让"空间"从被描绘的幻觉变成画面上真实存在的孔洞与裂缝——伤害行为的痕迹本身即是作品的全部内容，不加修饰、不被掩盖。与Project One的接口：为记录Gary Works厂房表面的锈蚀孔洞、爆裂管道、坍塌屋顶提供了一种态度参照——这些物理裂痕不必被摄影"修复"或赋予美学滤镜，裂痕本身作为工业身体所承受的时间创伤，可以像Fontana的画布一样被直接呈现为核心内容，而非背景细节。[相关链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/lucio-fontana-spatialism-pioneering-the-contemporary/)
+
+---
+
 ## 2026-09-20
 
 ### 艺术圈新闻
