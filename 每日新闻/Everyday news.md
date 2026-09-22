@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-22
+
+### 艺术圈新闻
+1. **Teresa Margolles美国首个机构级回顾展「En el lugar de los hechos (At the Scene)」9月24日于MoMA PS1开幕** - 这位法医病理学家出身的墨西哥艺术家以其对跨国暴力与失踪、灭绝女性谋杀案的长期研究著称；展览核心作品《La promesa》(2012)将一座在华雷斯城被家庭遗弃后拆解的房屋，经参与者亲手碾碎成22吨粉尘，以低矮绵长的纪念碑形态陈列于展厅。[MoMA Press](https://press.moma.org/exhibition/teresa-margolles/)、[Hyperallergic](https://hyperallergic.com/first-us-survey-of-mexican-artist-teresa-margolles-coming-this-fall/)
+2. **Independent 20th Century艺博会9月24-27日迁入苏富比布劳耶大楼（原惠特尼美术馆馆舍），规模创历届之最** - 56家参展商、130余位艺术家参展，80%展位为单人或双人呈现，展品含Philippe Parreno雪人装置、Yves Klein与Lucio Fontana对话及Joel Sternfeld染料转印摄影。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/21/independent-20th-century-2026-preview-breuer-building-sothebys)
+3. **文件显示特朗普任命官员曾计划"去馆藏化"肯尼迪中心艺术收藏，拟以支持者选定作品替换** - 据报道方案包括将藏品退回原属国、与其他机构交换或公开出售乃至销毁，逾千人9月19日聚集抗议特朗普对肯尼迪中心的接管。[ARTnews](https://www.artnews.com/art-news/news/trump-deaccession-kennedy-center-collection-morning-links-september-21-2026-1234798959/)
+4. **非营利组织Museums Moving Forward最新研究显示：85%美国艺术博物馆离职员工将"管理不善"列为离职首因** - 该研究调查近700名前艺术机构员工，揭示沟通不畅、缺乏保护机制等系统性管理问题正持续驱离博物馆行业人才。[ARTnews](https://www.artnews.com/art-news/news/morning-links-september-22-2026-1234799023/)
+5. **《世界报》调查揭露埃菲尔铁塔长期监管失灵：监控系统雨天必瘫、地下电子设备反复被淹、历史构件被移入库房后下落不明** - 调查源于9月7日一场因管理层要求女性员工为接待外宾让岗而引发的员工罢工，进一步揭出工人接触铅污染等安全隐患。[ARTnews](https://www.artnews.com/art-news/news/morning-links-september-22-2026-1234799023/)
+
+### Project One 灵感
+1. **Teresa Margolles《La promesa》：把一整座被遗弃的房屋亲手碾碎成22吨尘埃，陈列为纪念碑本身** - 与David Campany"尘埃永远会回来"的核心命题形成最激进的物质呼应：这里的尘埃不是废墟自然风化的残留，而是失踪者、被谋杀女性生活现场经由集体劳动被主动粉碎、再重构为公共纪念形态的产物。与Project One的接口：为"记录与重构"提供了一种极端操作路径——不止是拍摄废墟，而是让参与者亲手完成"从建筑到尘埃"的转化过程本身成为作品，Gary Works厂区若能组织退休工人参与整理、粉碎或封存某处即将拆除的建筑残料，或许能把"记录"升级为一次共同完成的物质仪式。[MoMA Press](https://press.moma.org/exhibition/teresa-margolles/)
+2. **埃菲尔铁塔监管失灵：历史构件"移入库房后下落不明"，与Gary Works EPA执行延迟同属制度性废墟化** - 巴黎最负盛名的地标建筑同样存在监控失效、地下设备反复被淹、拆卸构件失踪等官僚失职链条，证明废墟化并非美国铁锈带的地方性病症，而是任何依赖持续维护的巨型基础设施都共享的结构性风险。与Project One的接口：可以把"世界最著名地标同样正在经历隐性废墟化"作为项目引言的对照案例，提醒观者Gary Works的衰败并非例外状态，而是维护体系一旦松动便普遍发生的过程。[ARTnews](https://www.artnews.com/art-news/news/morning-links-september-22-2026-1234799023/)
+3. **Independent 20th Century入驻苏富比布劳耶大楼：同一座建筑历经惠特尼美术馆→大都会分馆→弗里克临时馆→拍卖行艺术博览会的机构漂移** - 建筑主体从未改变，却在数十年间不断被赋予全新的机构身份与叙事，物理空间与其功能标签之间始终存在错位。与Project One的接口：为思考Gary Works厂房未来"再利用"提供了一种非线性的想象——废弃工业建筑的下一段生命未必要固定于"博物馆化"或"遗址保护"的单一路径，也可以像布劳耶大楼一样，在保留原有物理结构的前提下反复承载完全不同、甚至彼此矛盾的机构叙事。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/21/independent-20th-century-2026-preview-breuer-building-sothebys)
+
+---
+
 ## 2026-09-21
 
 ### 艺术圈新闻
