@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-23
+
+### 艺术圈新闻
+1. **摄影师Tyler Mitchell获2026年度Crystal Bridges美国艺术博物馆「Don Tyson Prize」，奖金增至25万美元** - 该奖项由Crystal Bridges美国艺术博物馆颁发，今年起改为常年评选并将奖金提高至25万美元；Mitchell 1995年生于亚特兰大，2018年成为首位为《Vogue》美国版拍摄封面（碧昂丝）的黑人摄影师，长期以"美"与"欲望"为核心，处理黑人历史与未来想象的交叠。[ARTnews](https://www.artnews.com/art-news/news/tyler-mitchell-wins-don-tyson-prize-crystal-bridges-museum-1234799079/)
+2. **Taryn Simon个展「Father Country I Do Love You」9月18日于纽约古根海姆美术馆中庭开幕，展至2027年3月14日** - 历时近十年创作，通过42个"篇章"追溯一名匿名联邦特工的真实人生，融合从未展出的摄影、文本、影像与雕塑，是该馆中庭首次呈现摄影艺术家个展，也是馆史上规模最大的新作首展。[Guggenheim](https://www.guggenheim.org/exhibition/taryn-simon)
+3. **Armory Show宣布设立建馆三十年来首个博物馆收藏奖：迈阿密当代艺术馆(PAMM)与Bronx Museum将于9月24-27日展会现场分别拨款2万/1.5万美元购藏作品** - PAMM奖项面向聚焦加勒比海离散社群的Focus单元，Bronx Museum奖项面向55家新兴画廊组成的Presents单元。[The Art Newspaper](https://www.theartnewspaper.com/2026/08/20/the-armory-show-acquisition-prizes-perez-art-museum-miami-bronx-museum)
+4. **日本画家高木大地（Daichi Takagi）个展「Suchness」9月24日于David Zwirner伦敦空间开幕，为其英国首次个展** - 展至10月31日，画面模糊具象与抽象的边界，以树木、石头、雨水、月亮等日常反复出现的意象，指向感知的短暂性与"事物如其所是"的状态。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/daichi-takagi-suchness)
+5. **巴西画家Amadeo Luciano Lorenzato个展9月23日于David Zwirner洛杉矶空间开幕，系其作品首次在加州展出** - 这是Lorenzato与画廊合作的第四次个展，以简化的几何形态与密实肌理描绘故乡Belo Horizonte的日常场景，展览也为其2027年圣保罗Pinacoteca美术馆大型回顾展预热。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/amadeo-luciano-lorenzato)
+
+### Project One 灵感
+1. **Jeff Brouws新书《Silent Monoliths: The Coaling Tower Project》（MIT Press，2026）：五年、两万英里，拍摄105座美国蒸汽铁路"加煤塔"遗迹** - 这些1910-1930年代建造的混凝土巨型构筑物，随铁路"蒸汽转柴油"于1950年代前后被整体"原地退役"，此后散落北美各地、从未被拆除；Brouws延续Bernd & Hilla Becher式的类型学取景方式记录下这些沉默的纪念碑。与Project One的接口：为"美国铁锈带"母题提供了一个更聚焦单一建筑类型（而非整片厂区）的类型学取景范式——Gary Works系列或可尝试挑出某一类反复出现的构筑物（高炉、料仓、传送带支架）做系统性的类型学并置，找到Becher传统与铁锈带叙事的交汇点。[MIT Press](https://mitpress.mit.edu/9780262051750/silent-monoliths/)
+2. **Francesco Pennacchio摄影计划「Unlike flowers, she won't come back with spring」· LensCulture专文（Magali Duzant撰）** - Pennacchio将家庭档案、民间影像、植物意象与新拍摄的照片编织在一起，构建一座通往亡母记忆的"影像之桥"；项目提出"影像制作即爱的行为"——不解决丧失本身，而是坚持对记忆与联结的重构。与Project One的接口：直接呼应canvas中「缺席者的痕迹」与「记录与重构之间的张力」——比起单纯记录空间的缺席，Pennacchio示范了如何用档案与新作的混合编辑，让"缺席者"在影像内部被重新构造出一种在场；这提示Gary Works系列可以尝试混入工人家庭相册等档案材料，而不仅是纯粹的现场空间记录。[LensCulture](https://www.lensculture.com/articles/francesco-pennacchio-unlike-flowers-she-won-t-come-back-with-spring)
+3. **Taryn Simon「Father Country I Do Love You」的42章节结构：用"证据式"材料重新讲述一个人的真实人生** - 该作品延续Artist Research中已梳理的核心命题——摄影"证据性"的可构造性；此次她将文本、影像、雕塑等多种物证形式并置于42个"篇章"中，让一个真实特工的人生变成一套可被反复编辑、永不"完成"的档案系统。与Project One的接口：为Gary Works工人档案的整理方式提供直接参照——残缺的工牌、合同、产权文件等"证据"材料，或许同样可以被组织成分章节的、持续可扩展的叙事结构，而非试图还原出一个封闭、确定的"历史真相"。[Gagosian](https://gagosian.com/news/museum-exhibitions/taryn-simon-guggenheim-new-york/)
+
 ## 2026-09-22
 
 ### 艺术圈新闻
