@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-24
+
+### 艺术圈新闻
+1. **温哥华Polygon Gallery群展「Traces」9月25日开幕：Dënesųłinë́艺术家Catherine Blackburn与Vuntut Gwich'in艺术家Jeneen Frei Njootli以摄影呈现"缺席"** - 两人用珠绣的身体劳作与遮蔽、切口等手法，让被殖民历史抹除的对象始终不直接现身于画面——缺席本身被处理为一种记忆的容器，展期至2027年3月14日。[The Polygon Gallery](https://thepolygon.ca/exhibition/catherine-blackburn-jeneen-frei-njootli-traces/)
+2. **MUUS Collection公布「Todd Webb & Eugène Atget: Senses of Place」将于11月12-15日巴黎摄影博览会（Paris Photo）展出，David Campany策展** - 展览呼应MUUS Collection今年6月收购Todd Webb档案：将其战后纽约、巴黎街拍与阿杰（Atget）本人的巴黎影像并置对话，Campany称二者关系"与其说是影响，不如说是相互确认"。[MUUS Collection](https://www.muuscollection.com/)
+3. **阿姆斯特丹Foam摄影博物馆新展「Not What You Saw」9月18日开幕：印度摄影师Keerthana Kunnath首个美术馆个展，聚焦喀拉拉邦女子健美运动员** - 展期至11月27日，影像在力量与柔情之间游走，探讨性别与身体的刻板印象如何被重新协商。[Foam](https://www.foam.org/events/keerthana-kunnath)
+4. **荷兰Kröller-Müller博物馆「Van Gogh, All Our Paintings」9月15日开幕：馆藏全部88幅梵高油画时隔逾二十年首次同时展出** - 展览依据"信、望、爱"三种美德重新编排画作，展至2027年1月3日。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/18/all-the-van-goghs-opening-in-the-netherlands)
+5. **Paris Photo公布2026年（第29届）阵容：以"摄影两百周年"为主题，蓬皮杜中心将呈现近30位历史与当代摄影师逾百件馆藏，另有Thomas Ruff大型回顾展由五家画廊联合呈现** - 展会11月12-15日于大皇宫举行，集结242家参展方（195家画廊、47家出版社），来自38个国家。[Arts & Collections](https://www.artsandcollections.com/paris-photo-2026-at-the-grand-palais/)
+
+### Project One 灵感
+1. **「Traces」用"不展示"来记录缺席，而非用影像填满空白** - Blackburn与Njootli刻意遮蔽、切割身体图像，拒绝把殖民暴力还原为可消费的"证据"影像。与Project One的接口：canvas中「缺席者的痕迹」节点目前仍以"拍摄空荡场景"为主要策略；这个展览提示另一条路径——Gary Works系列或可尝试主动遮蔽/裁切部分画面（工人面孔、身份信息），让"不可见"本身成为对废墟中缺席者的一种保护性记录，而非单纯的空间证据。[The Polygon Gallery](https://thepolygon.ca/exhibition/catherine-blackburn-jeneen-frei-njootli-traces/)
+2. **Campany将Todd Webb与阿杰跨越百年并置，定义为"确认"而非"影响"** - 两位相隔一个世纪的城市摄影师被放入同一空间对话，历史档案不再是当代创作的"背景资料"，而是平等的对话者。与Project One的接口：Gary Works系列目前主要处理"当代影像记录昔日废墟"，可以尝试引入铁锈带工业时期的历史档案照片（如钢铁厂官方记录照、WPA时期影像）与当代拍摄并置展示，让"记录与重构"的张力直接发生在展陈结构里，而不只停留在单幅照片内部。[MUUS Collection](https://www.muuscollection.com/)
+3. **Paris Photo以"摄影两百周年"回望媒介自身的物质演变史，Thomas Ruff回顾展由多家画廊联合呈现同一艺术家不同阶段的技术语言（胶片、像素化、数字挪用）** - 与Project One的接口：Ruff式的做法提示"废墟"不必只是被拍摄的对象，影像本身的媒介载体、冲洗与后期处理方式也可以承担"衰败"的隐喻——Gary Works后期或可尝试让照片的物质工艺本身经历做旧、降解或数字失真，使记录媒介与被记录的废墟同步"老化"。[Arts & Collections](https://www.artsandcollections.com/paris-photo-2026-at-the-grand-palais/)
+
 ## 2026-09-23
 
 ### 艺术圈新闻
