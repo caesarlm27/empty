@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-25
+
+### 艺术圈新闻
+1. **Pace画廊洛杉矶9月19日起呈现「David Lynch: LA」：艺术家逝世后首次在其故乡举办的摄影展，将1979-2008年间五个系列共35件作品并置，其中"L.A."系列聚焦城市被遗忘的废弃工业区与片场遗址** - 展期至12月23日，是继本月早些时候柏林"The Factory Photographs"（9月8日于Castle Hill开幕）后，Lynch工业/废墟题材摄影本月内的第二次机构呈现。[Pace Gallery](https://www.pacegallery.com/exhibitions/david-lynch-la/) · [Hoodline](https://hoodline.com/2026/09/pace-gallery-opens-first-l-a-show-of-david-lynch-s-photography-since-his-death/)
+2. **多伦多双年展第四届「Things Fall Apart」9月26日开幕：以"断裂"（rupture）为核心策展框架，集结逾30位艺术家，Dawoud Bey、Coco Fusco、Kent Monkman等在列** - 策展人Allison Glenn称展览关注"以断裂作为理解世界的本体论工具"，展期至12月20日，并首次将项目延伸至底特律、纽约、安克雷奇等城市。[Artforum](https://www.artforum.com/news/toronto-biennial-of-art-artists-and-theme-for-2026-edition-1234747801/) · [Toronto Biennial](https://torontobiennial.org/)
+3. **UCCA尤伦斯当代艺术中心9月19日于北京开幕「John Baldessari」：美国观念艺术标志性人物在中国的首个个展**，回顾其五十年创作生涯，从70年代的文字影像实验到晚期关于色彩、缺席与空间的作品，展至2027年1月3日。[UCCA](https://ucca.org.cn/en/exhibition/john-baldessari/)
+4. **上海西岸美术馆与蓬皮杜中心五年展陈合作项目年度特展「计算万千世界」9月24日开幕：以近180件作品、文献与档案回望逾75年计算机艺术史** - 从战后实验室到生成艺术、互联网艺术直至AI创作，展至2027年2月14日。[西岸美术馆](https://wbmshanghai.com/zh-hans/exhibition)
+5. **香港Tai Kwun户外装置「Alicja Kwade: Waiting Pavilions」9月20日被发现遭破坏：一块原本安放在椅子上的巨石从底座跌落，警方已列为刑事毁坏案调查** - 该作品自2024年12月起长期陈列于大馆前监狱操场，以玻璃砖囚室与"石头压椅"意象探讨内在与外在环境的关系。[The Standard](https://www.thestandard.com.hk/news/article/343297/Tai-Kwun-art-installation-vandalized-in-suspected-criminal-damage) · [ArtAsiaPacific](https://www.artasiapacific.com/news/weekly-news-roundup-september-25-2026/)
+
+### Project One 灵感
+1. **David Lynch「LA」的"片场即废墟"取景法** - Lynch将洛杉矶被遗忘的工业地带处理为"带着电影感宏大叙事的被遗弃片场"，与Project One"记录与重构"的张力直接呼应：镜头选择本身即是一种叙事建构，废墟从不是被动记录的中性对象。[Pace Gallery](https://www.pacegallery.com/exhibitions/david-lynch-la/)
+2. **多伦多双年展"断裂作为本体论工具"** - 策展人Allison Glenn将"rupture"从灾难叙事转化为一种主动的方法论姿态，提示Project One：废墟不必只被处理为衰败的终点，也可以是审视迁移、边界与生态正义的分析工具；Dawoud Bey的参展进一步印证了"活的地景"方法论在更大策展语境中的延续可能。[Artforum](https://www.artforum.com/news/toronto-biennial-of-art-artists-and-theme-for-2026-edition-1234747801/)
+3. **Alicja Kwade「Waiting Pavilions」的意外损坏** - 一件本以"重力压迫"为隐喻的装置，因一次真实的、非计划的物理坠落而被重新书写，模糊了艺术家介入与偶然熵变之间的边界——为Project One"介入与矛盾"节点提供具体案例：废墟现场的"损坏"本身也可能是意料之外的第二作者。[The Standard](https://www.thestandard.com.hk/news/article/343297/Tai-Kwun-art-installation-vandalized-in-suspected-criminal-damage)
+
 ## 2026-09-24
 
 ### 艺术圈新闻
