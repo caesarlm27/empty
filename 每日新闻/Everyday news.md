@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-26
+
+### 艺术圈新闻
+1. **透纳奖2026于9月26日在英格兰米德尔斯堡当代艺术中心（MIMA）正式向公众开放**：入围四人为Simeon Barclay、Kira Freije、Marguerite Humeau与Tanoa Sasraku，得主将于12月10日公布 - Sasraku个人呈现《Morale Patch》聚焦"采掘主义"（extractivism），用康沃尔与加纳采集的天然颜料、封存原油的树脂镇纸等材料直指资源掠夺的历史。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/25/turner-prize-2026-open-north-yorkshire-middlesbrough-institute-of-modern-art) · [Artnet 评论](https://news.artnet.com/art-world/turner-prize-exhibition-2026-review-2815574)
+2. **德国艺术家安妮·伊姆霍夫（Anne Imhof）个展「House of Swans」9月25日于香港大馆开幕**：这是这位威尼斯双年展金狮奖得主在亚洲的首个个展，横跨JC当代馆与F仓三层空间，开幕两日联动香港芭蕾舞团呈现现场表演 - 恰与此前同样发生在大馆、9月20日遭破坏的Alicja Kwade户外装置形成同一场馆内两种"在场"状态的对照。[ARTnews](https://www.artnews.com/art-news/news/anne-imhof-tai-kwun-contemporary-hong-kong-exhibition-1234795736/) · [Tai Kwun](https://www.taikwun.hk/en/programme/detail/anne-imhof-house-of-swans/1776)
+3. **利雅得Diriyah双年展基金会9月24日公布2027年第三届伊斯兰艺术双年展四位首席策展人**：Nada Raza、William Robinson、Alain Fouad George与Idries Trevathan将各自独立策划一场展览，共同聚焦"无形遗产、韧性与社群"，双年展将于2027年11月1日重返吉达机场原址举行。[Artforum](https://www.artforum.com/news/islamic-arts-biennale-announces-curatorial-team-2027-1234759319/) · [ArtAsiaPacific](https://www.artasiapacific.com/news/weekly-news-roundup-september-25-2026/)
+4. **伦敦蛇形画廊北馆9月23日起呈现印度纪录片艺术家阿马尔·坎瓦尔（Amar Kanwar）大型个展，展至2027年1月31日**：汇聚其"三部曲"影像——长片《Such a Morning》、多屏装置《The Peacock's Graveyard》，以及在此首映的全新作品《The Charcoal Man》(2026)，持续追索印巴分治与去殖民化的历史遗留。[Serpentine](https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/)
+5. **Photo London宣布2027年展会档期定于5月13-16日，现已开放画廊申请**：延续2026年170家参展商、来自31个国家的规模，摄影界年度盛事进入下一轮筹备周期。[Photo London](https://photolondon.org/applications-for-photo-london-2027-open-now/)
+
+### Project One 灵感
+1. **Tanoa Sasraku把原油封入树脂镇纸，将"采掘主义"变成一件件可触摸的企业纪念品** - 装置中那些印着"Offshore and Alaska""Kandahar Oil Corporation"字样的塑料镇纸，本是石油公司派发的promotional赠品，如今被搬进展厅，让资源掠夺的抽象经济学变成一件件荒诞而具体的"纪念物"。与Project One的接口：直接呼应Anna Tsing的contamination——铁锈带的钢铁、煤灰、矿渣同样是被开采、被工业化的物质痕迹，Gary Works田野记录或可尝试收集厂区遗留的实物残料（螺栓、耐火砖碎块、员工纪念品）像Sasraku一样"封存"陈列，让废墟的物质性本身替代照片发言。[Artnet 评论](https://news.artnet.com/art-world/turner-prize-exhibition-2026-review-2815574)
+2. **Amar Kanwar新作《The Charcoal Man》：用一种基础工业原料串起个人叙事与历史创伤** - 延续其一贯"文献—游记—视觉散文"的混合形式，让炭这种最朴素的燃料/材料成为串联个体命运与更宏大历史断裂（去殖民化、分治）的线索。与Project One的接口：为Gary Works工人档案提供方法论参照——不必用宏大全景镜头讲述铁锈带的衰落，反而可以像Kanwar一样，选定一种具体的工业材料（生铁、焦炭、炉渣）作为叙事锚点，让物质本身承载记忆的重量。[Serpentine](https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/)
+3. **伊斯兰艺术双年展2027以"无形遗产、韧性与社群"为核心，四位策展人各自独立成展而非合并统一叙事** - 这种"多声部并置"而非单一策展视角统合的结构，提示大型历史创伤/遗产主题未必需要被收束进一个连贯的宏大叙事。与Project One的接口：Gary Works的记录材料（口述史、档案、当代影像）或许也可以采用类似的"多重独立视角并置"结构，让不同来源、甚至相互矛盾的记忆版本共存，而非强行编辑成一个统一的"废墟叙事"。[Artforum](https://www.artforum.com/news/islamic-arts-biennale-announces-curatorial-team-2027-1234759319/)
+
+---
+
 ## 2026-09-25
 
 ### 艺术圈新闻
