@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-09-27
+
+### 艺术圈新闻
+1. **艺术家Arthur Jafa迄今最大规模个展「I Am Tony」9月24日于纽约新美术馆（New Museum）开幕**：展览横跨三、四层空间，呈现九件影像装置、绘画、雕塑与摄影作品，并从其庞大的图像档案——200余本三孔活页夹中遴选素材，展至2027年1月4日，由Massimiliano Gioni与Gary Carrion-Murayari联合策划。[Hyperallergic](https://hyperallergic.com/largest-ever-arthur-jafa-survey-coming-to-new-museum/) · [New Museum](https://www.newmuseum.org/exhibition/arthur-jafa-i-am-tony/)
+2. **歌手/艺术家Solange Knowles 9月24-27日在纽约高线公园首次展出个人大型公共雕塑**：作为Google Chrome「Unfinished Projects」项目的一部分，作品源自她七年前的一张草图，探讨"人如何感知空间与结构"。[ARTnews](https://www.artnews.com/art-news/news/solange-knowles-sculpture-high-line-1234799082/)
+3. **慕尼黑近郊一座由艺术家故居改建的博物馆花园9月13日遭窃，6件雕塑家Peter Gehring的青铜作品被盗**：案件于9月24日经ARTnews「晨报」披露，价值逾11.4万美元，警方仍在调查中。[ARTnews Morning Links](https://www.artnews.com/art-news/news/morning-links-september-24-2026-1234799246/)
+4. **希腊总理米佐塔基斯9月24-25日公开撰文反对大英博物馆将「贝叶挂毯借展模式」套用于帕特农雕塑归还谈判**：他以"没有人会认真考虑把挂毯剪成两半，一半留伦敦一半留贝叶"类比帕特农雕塑被分割陈列的处境，强调雕塑的完整性本身承载叙事。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/25/greek-prime-minister-rejects-british-museum-suggestion-that-bayeux-tapestry-exhibition-could-serve-as-template-for-parthenon-marbles-deal)
+5. **Armory Show 2026首日（9月24日VIP预展）销售报告出炉**：Michael Rosenfeld画廊以逾200万美元售出一幅Joan Mitchell作品，为本届开幕日最高单笔成交，延续昨日博物馆收藏奖设立报道之后本届展会的市场表现侧面。[ARTnews](https://www.artnews.com/art-news/market/armory-show-2026-sales-new-york-1234799366/)
+
+### Project One 灵感
+1. **加里（Gary, Indiana）NIPSCO大范围停电满一个月，居民仍在等待联邦援助与赔付**：8月11日德雷科风暴造成加里全境断电，WBEZ/芝加哥太阳报9月22日跟踪报道称部分家庭至今仍无着落——"被遗忘的城市"这一叙事持续在废墟研究之外的现实层面重演，与Gary Works厂区的制度性衰败形成互文。[WBEZ](https://www.wbez.org/weather/powerless/2026/09/22/power-outage-nipsco-gary-indiana-melissa-dixon-fema)
+2. **Arthur Jafa「I Am Tony」以200余本三孔活页夹私人影像档案构建个展**：不经叙事化整理、直接呈现庞杂原始素材的档案方法论，呼应Taryn Simon"证据式"摄影与John Divola"介入废墟"的实践路径，为Project One如何呈现现场收集的文献/物件提供参照。[Hyperallergic](https://hyperallergic.com/largest-ever-arthur-jafa-survey-coming-to-new-museum/)
+3. **希腊总理的贝叶挂毯类比：完整性叙事 vs. 碎片化陈列**：米佐塔基斯"剪开挂毯"的比喻提出一个方法论问题——废墟档案究竟应作为完整叙事重构，还是保留其被切割、残缺的原初状态？这与Project One"记录与重构"的核心张力直接相关。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/25/greek-prime-minister-rejects-british-museum-suggestion-that-bayeux-tapestry-exhibition-could-serve-as-template-for-parthenon-marbles-deal)
+
+---
+
 ## 2026-09-26
 
 ### 艺术圈新闻
