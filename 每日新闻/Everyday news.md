@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-09-28
+
+### 艺术圈新闻
+1. **Tereza Zelenková 个展「Haus」9月10日至10月16日于捷克奥斯特拉发Fiducia Photographic Gallery展出**：艺术家回到自己的出生地，用三年时间从自己买下的对面小屋持续拍摄一栋自1990年代中期便空置的废弃房屋，记录其光线、植被、天气与腐朽的微妙变化，并展出从屋内及周边收集的物件与现成材料。[Fiducia Gallery](https://www.artmap.cz/en/institutions/fiducia-photographic-gallery) · [1000 Words](https://1000wordsmag.com/10-must-see-exhibitions-autumn-2026/)
+2. **南非艺术家Mikhael Subotzky个展「A Johannesburg Landscape (or Thirteen Tons Settled to Brick)」9月24日至11月7日于约翰内斯堡Goodman Gallery展出**：以摄影、绘画与其标志性的"胶带转印"（sticky-tape transfers）技法拼合出一幅十联全景画，用被撕扯、拼贴的城市肖像回应家族记忆与移民历史。[Goodman Gallery](https://goodman-gallery.com/artists/mikhael-subotzky) · [Mail & Guardian](https://mg.co.za/friday/2026-08-20-the-road-that-brought-subotzky-to-johannesburg/)
+3. **MoMA新展「Full Disclosure: The Edge of Information Design」9月27日开幕**：这是MoMA首个完全聚焦信息设计的展览，展出30件作品，含6件新入藏之作，展至2027年6月13日。[MoMA Press](https://press.moma.org/exhibition/fulldisclosure/)
+4. **Magnum画廊巴黎空间9月24日开幕René Burri回顾展「Traversées」**：从摄影师庞大档案中精选30幅作品，横跨其二十年创作，聚焦地理穿行与人类经验、时间流逝的主题；开幕当晚由Burri遗产代表Clotilde Burri与摄影师Richard Kalvar举行对谈。[Magnum Photos](https://www.magnumphotos.com/newsroom/)
+5. **由乔治·卢卡斯与梅洛迪·霍布森创办的卢卡斯叙事艺术博物馆9月22日在洛杉矶正式向公众开放**：建筑由马岩松/MAD设计，逾10万平方英尺、30余展厅呈现1300余件藏品，梳理从史前岩画到漫画、电影的叙事艺术史。[Lucas Museum](https://lucasmuseum.org/press/lucas-museum-of-narrative-art-opens-to-the-public-on-september-22-2026)
+
+### Project One 灵感
+1. **Tereza Zelenková「Haus」的"定点长期跟踪+现场物件"方法** - 三年间反复造访同一栋废屋，记录其逐渐被时间与自然接管的过程，并将屋内found material一并展出，直接呼应 canvas 中 Anna Tsing 的"废墟里的生命"与"Contamination"节点——没有一个未被污染的过去可以回去；也为 Project One 提供了一种可操作的方法论参照（定点、长期、伴随物证）。[1000 Words](https://1000wordsmag.com/10-must-see-exhibitions-autumn-2026/)
+2. **Mikhael Subotzky 的"胶带转印"拼贴法** - 用撕扯、覆盖、层叠的物理拼贴而非单张决定性瞬间来呈现一座城市，是"记录与重构"张力的另一种解法：影像本身携带被撕裂、被覆盖的痕迹，如同废墟本身就是历史的胶带转印。[Goodman Gallery](https://goodman-gallery.com/artists/mikhael-subotzky)
+3. **Ali Cherri「To Fall, Patiently」（6月13日至10月3日，加拿大Oakville Galleries）与e-flux 2026年策展主题「Ghosts, Ruins, Resistance」** - Cherri长期关注考古修复、废墟与暴力地理学；该策展框架明确提出"让幽灵与废墟可见，以此悼念逝者并生产抵抗"，为Project One如何处理"缺席者的痕迹"提供了策展语言层面的参照。[e-flux](https://www.e-flux.com/announcements/6785410/programme-2026-ghosts-ruins-resistance) · [Akimbo](https://akimbo.ca/listings/ghosts-ruins-resistance-2026-exhibitions-at-oakville-galleries/)
+
 ## 2026-09-27
 
 ### 艺术圈新闻
