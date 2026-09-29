@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-09-29
+
+### 艺术圈新闻
+1. **乌克兰基辅国家科学院大楼9月28日遭俄军喷气式"沙赫德"无人机直接袭击，严重损毁并引发大火**：这座建于1850年代的古典主义建筑由建筑师Oleksandr Beretti设计，袭击造成至少2人死亡，馆方称自俄乌战争全面爆发以来，其名下已有逾300处建筑及财产遭破坏或摧毁。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/29/ukraine-historic-academy-sciences-damaged-russian-drone)
+2. **艺术家Kehinde Wiley 9月24日致信特朗普，请求购回今年8月被美国国务院从多米尼加共和国大使馆撤下的壁画**：该作品此前被特朗普政府官员斥为"过于woke"并已考虑出售，画廊9月29日公开了这封信。[ARTnews](https://www.artnews.com/art-news/news/kehnide-wiley-donald-trump-letter-repurchase-painting-1234799839/)
+3. **两名伊拉克考古学家因公开批评文物古迹管理局腐败问题本月遭逮捕，引发国际学界联署声援**：其中一人是该国资深无人机测绘师，长期负责发掘前后的遗址航拍记录工作，官方以"敲诈"罪名起诉，国际合作方普遍质疑此举意在报复其反腐言论。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/29/he-has-committed-no-offence-other-than-wanting-to-defend-heritage-sites-arrest-of-iraqi-archaeologists-sparks-backlash)
+4. **Art Basel迈阿密海滩宣布2026年展会大幅缩减规模，取消Meridians大型装置单元并重排展位布局**：多家去年参展画廊今年缺席，同时逾30家画廊首次参展，被视为效仿Frieze伦敦两年前的展位重排策略。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/29/art-basel-miami-beach-scaled-down-floorplan-galleries-sector)
+5. **泰特现代美术馆新展「Light and Magic: The Birth of Art Photography」定档10月14日开幕**：首个从全球视野考察"画意摄影"（Pictorialism）运动的大型展览，集结逾80位摄影师约200件珍稀原版蛋白工艺原作，涵盖欧洲、南北美洲、亚洲与澳洲，展至2027年2月21日。[Tate](https://www.tate.org.uk/press/press-releases/light--magic-the-birth-of-art-photography)
+6. **MoMA「Brancusi: The Artist and His Studio」定档10月25日开幕**：占据美术馆整个六层楼面，围绕布朗库西巴黎impasse Ronsin工作室呈现罕见外借雕塑、手工家具与档案材料，蓬皮杜中心提供核心支持，展至2027年2月27日。[MoMA Press](https://press.moma.org/exhibition/brancusi-the-artist-and-his-studio/)
+
+### Project One 灵感
+1. **日本摄影师Seido Kino《The Strata of Time》获LensCulture Art Photography Awards 2026评委精选**：将1940-60年代日本经济高速发展期的档案影像与同一地点的当代场景直接叠印，呈现工业化、城市变迁作为可视的"时间地层"——为Project One将Gary Works历史影像与当下废墟并置提供了一种直接可借鉴的图像语法。[LensCulture](https://www.lensculture.com/kinoseido)
+2. **基辅科学院大楼"一夜之间"被炸成废墟，与Gary Works历经数十年缓慢锈蚀而成的废墟形成鲜明的时间尺度对照**：一个是瞬时的、暴力的废墟化，一个是渐进的、被资本与政策共谋拖延的废墟化——这组对照可以帮助Project One更精确地定义自己所处理的究竟是哪一种"废墟时间"。
+3. **伊拉克考古学家因记录/曝光遗产管理腐败问题而遭逮捕，揭示"谁被允许记录废墟、谁的记录会被消音"这一权力问题**：呼应Anna Tsing污染理论中权力与知识生产的交织，也呼应Sophie Ristelhueber"有证据却无人在场"命题的另一面——废墟摄影本身也是一种可能触怒既得利益者、进而被审查的证据生产行为。
+
 ## 2026-09-28
 
 ### 艺术圈新闻
