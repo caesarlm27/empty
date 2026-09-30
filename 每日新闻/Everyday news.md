@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-09-30
+
+### 艺术圈新闻
+1. **阿根廷藏家Blaquier家族价值4.5亿美元印象派珍藏9月30日于伦敦苏富比公开预展，梵高、塞尚、雷诺阿、德加、莫奈作品在列**：藏品中梵高油画估价1.5亿至2亿美元，塞尚《Harlequin》估价或超1.2亿美元，多件作品"雪藏近半个世纪"后首次公开亮相，将于11月18日在苏富比纽约拍卖。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/30/450m-impressionist-collectionincluding-a-potentially-record-breaking-van-gogh-paintingto-be-sold-at-sothebys-new-york)
+2. **Frieze London与Frieze Masters公布2026年度（10月14-18日）新委任与展览计划**：Gray Wielebinski与Dean's Bottom为艺博会创作新委任作品《Production》，Tarek Atoui将呈现泰特现代涡轮大厅委任作品，同期伦敦另有Robert Ryman、Cecilia Vicuña个展与大英博物馆《贝叶挂毯》展呼应艺术周。[Frieze](https://www.frieze.com/article/toilet-cubes-and-grayson-perry-programming-frieze-london-and-masters-2026)
+3. **国际摄影大奖Prix Pictet公布第十二届主题「Jungle（丛林）」独立评审团名单**：评审团由伊甸园项目联合创始人Tim Smit担任主席，成员包括V&A摄影部主任Duncan Forbes、艺术家Alfredo Jaar、大都会博物馆摄影策展人Jeff Rosenheim等，入围名单将于2027年夏公布。[Prix Pictet](https://prix.pictet.com/news/jungle-jury-announced)
+4. **Aperture基金会9月18日正式开放其成立以来首个永久实体空间**：新址位于纽约上西区哥伦布大道380号，紧邻美国自然历史博物馆，开幕展「Aperture Loves New York」以Diane Arbus、Robert Frank、Nan Goldin、Stephen Shore等经典纽约影像与馆藏图书并置。[Aperture](https://aperture.org/editorial/aperture-welcomes-the-public-to-its-new-home-this-september/)
+
+### Project One 灵感
+1. **Blaquier珍藏"雪藏近半个世纪后重见天日"**：私人收藏的悬置状态与突然的公开亮相，恰是"记录与重构"命题的另一种版本——不是废墟的物质衰变，而是价值与叙事在秘密流通中被冻结、再被激活。[The Art Newspaper](https://www.theartnewspaper.com/2026/09/30/450m-impressionist-collectionincluding-a-potentially-record-breaking-van-gogh-paintingto-be-sold-at-sothebys-new-york)
+2. **Prix Pictet选定「Jungle」为下一届主题**：丛林作为失控生长、非人类能动性的意象，与Anna Tsing"废墟里的生命"及contamination理论形成跨媒介呼应——评委会成员Pi Li（深圳容美术馆）也提供了非西方策展视角的对照。[Prix Pictet](https://prix.pictet.com/news/jungle-jury-announced)
+3. **Aperture放弃"游牧"办公史、首次拥有永久物理空间**：一个以出版和记录摄影史为业的机构，选择在此刻将自己"固定"下来，与Gary Works工业厂区持续瓦解的轨迹构成尖锐对照——谁有能力将"记录"场所化为永久建筑，谁的记录只能悬置在废墟里。[Aperture](https://aperture.org/editorial/aperture-welcomes-the-public-to-its-new-home-this-september/)
+
 ## 2026-09-29
 
 ### 艺术圈新闻
