@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-10-01
+
+### 艺术圈新闻
+1. **纽约现代艺术博物馆（MoMA）10月21日重新开放，为期五年、耗资4.5亿美元的扩建工程完工**：由Diller Scofidio + Renfro携手Gensler设计，新增约10.2万平方英尺展览与公共空间，展厅面积扩大约三分之一至16.6万平方英尺，并新设表演与时基艺术专属空间及"Creativity Lab"教育项目。[World Architecture](https://worldarchitecture.org/architecture-news/eezfg/the-new-moma-to-open-on-october-21.html)
+2. **UCCA北京9月19日起呈现美国观念艺术先驱约翰·巴尔代萨里跨越五十年创作的大型回顾展，展至2027年1月3日**：展览梳理巴尔代萨里从画家转向观念实践的轨迹，其标志性事件为1970年「焚烧计划」（The Cremation Project）——将大部分早期画作付之一炬，此后转向摄影、影片静帧、录像与表演，呈现作品、档案文献、艺术家手稿与模型。[UCCA](https://ucca.org.cn/en/exhibition/john-baldessari/)
+3. **David Zwirner纽约两大空间将于10月29日至12月12日呈现奈良美智大型个展**：切尔西537 West 20th Street展出其2026年最新绘画与大尺幅素描，533 West 19th Street则呈现13件白铜巨型头像雕塑，形成跨空间的建筑性在场。[Artprice](https://news.artprice.com/en/15989/yoshitomo-nara-at-david-zwirner-new-york-a-major-two-venue-exhibition-from-october-29-to-december-12-2026)
+4. **高古轩巴黎rue de Ponthieu空间10月19日起呈现李·克拉斯纳1960年代作品个展，为其作品首次在法国举办个展**：展览与纽约大都会艺术博物馆10月4日至2027年1月31日举办的克拉斯纳与杰克逊·波洛克首次大型双人展形成呼应，延续2019-21年欧洲巡回回顾展「Lee Krasner: Living Color」带来的国际关注。[Gagosian](https://gagosian.com/exhibitions/2026/lee-krasner/)
+5. **欧洲历史最悠久的公共艺术大展「松斯比克」（Sonsbeek）第十三届将于10月11日闭幕**：由Amira Gad与Christina Li策划，主题为"记忆作为一种活的行动"，18位艺术家（12件新委任作品）将记忆处理为易碎、被争夺、正在消逝的集体材料，展场横跨阿纳姆松斯比克公园、市中心与多家合作机构。[e-flux](https://www.e-flux.com/announcements/6787460/sonsbeek-2026ik-hoef-geen-tuin-ik-deel-een-park)
+6. **罗马图拉真浴场地下遗址「大马赛克」与「彩绘之城」壁画9月正式对公众开放，距发现已近三十年**：考古学家称其为古罗马世界已发现最大的墙面马赛克，描绘四层叠加的海港城市场景，1990年代发掘后历经修复，如今以周末限额预约形式首次开放参观。[Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/ancient-romes-largest-fresco-and-mosaic-complex-featuring-depictions-of-a-mysterious-maritime-city-opens-to-the-public-after-2000-years-180989484/)
+
+### Project One 灵感
+1. **图拉真浴场马赛克："发掘"与"开放"之间近三十年的沉默间隔** - 这处遗址在1990年代就已被发掘，却直到2026年9月才真正向公众开放——"记录"（考古发掘）与"重构"（公众可见的展示）之间存在一个长达三十年的制度性延迟。与Project One的接口：为"记录与重构之间的张力"提供了一个极端的时间尺度参照——Gary Works若干区域的影像记录或许同样会先于其"被允许公开"的时刻，档案本身需要忍受一段无人可见的潜伏期；也提示Project One可以主动为拍摄素材标注"记录时间"与"公开/展出时间"的双重时间戳，让这段间隔本身成为作品的一部分。[相关链接](https://www.smithsonianmag.com/smart-news/ancient-romes-largest-fresco-and-mosaic-complex-featuring-depictions-of-a-mysterious-maritime-city-opens-to-the-public-after-2000-years-180989484/)
+2. **Sonsbeek 2026"记忆作为一种活的行动"：把记忆处理为易碎、被争夺、持续变化的材料，而非静态的历史事实** - 策展论述刻意强调记忆"vulnerable, contested, or fading"，拒绝把记忆固定为单一、完成的叙事。与Project One的接口：直接呼应Anna Tsing"没有未被污染的过去可以回去"——Gary Works工人口述史同样处于被争夺、被不同立场重新讲述的状态；可借鉴这一策展语言，把档案材料明确标注为"活的、仍在变化的记忆"而非"已完成的历史记录"，呼应canvas中"记录与重构之间的张力"节点。[相关链接](https://www.e-flux.com/announcements/6787460/sonsbeek-2026ik-hoef-geen-tuin-ik-deel-een-park)
+3. **约翰·巴尔代萨里「焚烧计划」（1970）：艺术家亲手销毁自己早期档案的反向"记录"行动** - 与Project One试图保存、记录废墟中的痕迹正相反，巴尔代萨里选择主动焚毁自己的画作档案，将"销毁"本身确立为方法论的起点而非终点的缺失。与Project One的接口：为"记录与重构"提供了一个对照极端——如果说Gary Works的厂房是被动、渐进地走向消失，巴尔代萨里的"焚烧计划"提示了一种主动、瞬时的档案清除姿态；可以反向追问Gary Works项目中是否也存在某些"应当被主动舍弃而非强行保存"的素材，让"选择不记录什么"也成为编辑方法论的一部分。[相关链接](https://ucca.org.cn/en/exhibition/john-baldessari/)
+
 ## 2026-09-30
 
 ### 艺术圈新闻
