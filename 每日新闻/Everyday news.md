@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-02
+
+### 艺术圈新闻
+1. **Fotografiska摄影博物馆10月1日于深圳湾MIXC开馆，为其继斯德哥尔摩、塔林、柏林、上海后的全球第五座、中国第二座场馆**：场馆约5300平方米，开馆项目并置TOILETPAPER、Michael Najjar、史国威（Shi Guowei）三档个展，以及源自第十一届Prix Pictet「Storm」周期的同名群展。[Fotografiska Shenzhen](https://shenzhen.fotografiska.com/en/press/fotografiska-announces-new-museum-in-shenzhen-expanding-its-presence-in-china)
+2. **世界新闻摄影大赛（World Press Photo）2026全球巡展10月6日至28日移师荷兰埃因霍温理工大学（TU/e）**：本站继续呈现本届42位获奖摄影师作品，其中埃及摄影师Mohamed Mahdy凭借长期项目《Moon Dust》获评非洲区「长期项目类」大奖——该系列记录了亚历山大「月亮谷」逾三万居民与水泥厂粉尘共处数十年的生活。[World Press Photo](https://www.worldpressphoto.org/calendar/2026/eindhoven-the-netherlands) · [Qantara](https://qantara.de/en/article/egypt-world-press-photo-winner-2026-mohamed-mahdy)
+3. **国际摄影中心（ICP）纽约Ludlow街新空间10月15日起呈现Laia Abril个展「On Rape and Institutional Failure」，展至2027年1月11日**：作为其长期项目「A History of Misogyny」第二章，展览以影像、证词、档案材料、实物与声音/影像装置交织而成，聚焦制度性失职而非个体受害者奇观。[Untitled Magazine](https://untitled-magazine.com/laia-abrils-on-rape-and-institutional-failure-brings-a-history-of-misogyny-to-new-york/)
+4. **泰特英国美术馆新展「The 90s: Art and Fashion」10月8日开幕，展至2027年2月14日**：由Edward Enninful策划，集结近70位艺术家、摄影师与设计师逾百件作品，含Corinne Day、Nigel Shafran、Juergen Teller等为《i-D》《Dazed and Confused》拍摄的影像，重新审视90年代英国视觉文化。[Tate](https://www.tate.org.uk/press/press-releases/the-90s-art-and-fashion)
+5. **Untitled Art休斯顿艺博会第二届10月2日至4日于乔治·布朗会展中心举行，10月1日VIP预览**：汇聚来自20个国家的95家画廊参展，较上届增加7家，并与梅尼尔收藏、休斯顿当代艺术博物馆（CAMH）、休斯顿美术馆（MFAH）持续联动。[usaartnews](https://usaartnews.com/news/untitled-art-houston-lines-up-95-galleries-for-2026-edition-in-october)
+6. **Art Basel巴黎第五届10月23日至25日于大皇宫举行，10月21-22日预展**：这是新任总监Karim Crippa上任后首届，汇聚逾200家来自40余个国家与地区的画廊。[Art Basel](https://www.artbasel.com/paris/galeries)
+
+### Project One 灵感
+1. **Mohamed Mahdy《Moon Dust》：局内摄影师用近十年时间把自己呼吸的毒尘变成一场胜诉的法律证据** - Mahdy本人患有哮喘，与「月亮谷」逾三万居民一样长年生活在水泥厂粉尘笼罩之下；他从2016年开始记录社区与水泥厂的诉讼拉锯，2018年法院最终判定企业污染罪名成立。与Project One的接口：这为此前Christine Walley"局内人身份"讨论提供了一个更进一步的案例——局内视角不仅改变记录的情感距离，还可以直接转化为介入性的证据生产；Gary Works若存在与铁锈带有私人渊源的拍摄者，或可参照Mahdy的路径，让影像档案同时承担"证词"与"行动"的双重功能，而不止停留在记录尘埃本身。[World Press Photo](https://www.worldpressphoto.org/mohamed-mahdy)
+2. **Laia Abril「On Rape and Institutional Failure」：用证词、档案与实物的三重编织控诉制度，而非用受害者影像制造奇观** - Abril刻意避免依赖冲击性受害者肖像，转而将文本证词、机构档案文件、实物与声音/影像装置并置，把"谁该为失职负责"的追问指向制度本身。与Project One的接口：为处理Gary Works叙事中已反复出现的制度性失职（EPA排放标准被搁置、拆除资金缺口、教堂加固款始终无着）提供了一种可直接借鉴的策展结构——用档案文件、工牌/合同等实物与口述证词的编织取代"废墟奇观"式的影像，让"记录与重构"的张力落在对制度责任的指认上。[Untitled Magazine](https://untitled-magazine.com/laia-abrils-on-rape-and-institutional-failure-brings-a-history-of-misogyny-to-new-york/)
+
 ## 2026-10-01
 
 ### 艺术圈新闻
