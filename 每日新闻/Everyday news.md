@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-10-03
+
+### 艺术圈新闻
+1. **Josef Koudelka《Ruins》新版12月15日由Hannibal Books/Thames & Hudson出版，Irma Boom设计，Seán Hemingway编辑**：收录Koudelka二十余年间走访意、利比亚、希腊、叙利亚逾200处地中海考古遗址的全景摄影；此前巡展于布拉格装饰艺术博物馆开幕时，艺术家自述"废墟不是过去，而是邀请我们关注、享受当下的未来"。[Rizzoli Bookstore](https://www.rizzolibookstore.com/product/josef-koudelka-ruins) · [Radio Prague Int'l](https://english.radio.cz/node/8836559)
+2. **巴黎证券交易所（Bourse de Commerce - Pinault Collection）新展「Remember Me」10月7日开幕，展至2027年1月18日**：为纪念摄影诞生两百周年，展览集结逾70位艺术家约700件作品（含Cartier-Bresson、Lee Miller、Irving Penn、Cindy Sherman），以"记忆"为唯一线索、不设时间顺序地串联全馆；展名借自Barbara Kruger的同名作品，艺术家将在中庭呈现其在法国最大规模的装置。[Sortir à Paris](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/346413-remember-me-the-masterpieces-of-photography-from-the-pinault-collection-are-on-display-at-the-bourse-de-commerce)
+3. **法国勒克索（Le Creusot）工业博物馆10月7日起推出「Photographie et sciences. Témoins des mondes industriels」常设展，呼应「摄影两百周年」主题年**：展览围绕"发明、物质、运动"至更具人文语境的主题展开，呈现摄影作为科学工具与工业世界见证者的双重角色，立足Le Creusot自身钢铁重镇的产业遗产。[Unidivers](https://unidivers.fr/event/exposition-photographie-et-sciences-temoins-des-mondes-industriels-pavillon-de-lindustrie-le-creusot-2026-10-07t1730000200/)
+4. **美国宾州Westmoreland美国艺术博物馆「Steel Valley Visions: An American Legacy」持续展出至2027年1月18日（沉浸式部分至11月8日）**：以绘画、雕塑与摄影梳理西宾州"大钢铁时代"的兴衰视觉史——移民与本地工人共同"用肌肉对接机器"锻造出钢铁，也锻造了美国现代性的另一面；展览同时配有大型动画与声音的沉浸式体验。[The Westmoreland](https://thewestmoreland.org/exhibitions/steel-valley-visions)
+5. **阿姆斯特丹Huis Marseille摄影博物馆10月24日起同时开幕两档新展，展至2027年2月7日**：「Andrzej Steinbach, Hier」将"观看行为本身"作为需要被审视的美学问题；「Adolphe de Meyer: The Substance of a Venetian Dream」则首度完整展出2019年在图尔市立图书馆重新发现的75张德梅耶尔威尼斯时期照片，是欧洲首个以该摄影师为主题的美术馆级个展。[ArtRabbit](https://www.artrabbit.com/events/adolphe-de-meyer-the-substance-of-a-venetian-dream) · [WhichMuseum](https://whichmuseum.com/exhibition/andrzej-steinbach-hier-huis-marseille-museum-for-photography-23911)
+6. **马格南与富士胶片在FUJIKINA NYC 2026延续长期合作，重新数字化马格南大型彩色档案并与当代社员的回应并置**：此次项目被形容为一部"视觉时间胶囊"，让历史性的、鲜少露面的档案与当下摄影师的新作形成跨时代对话。[FUJIFILM-X USA](https://shopusa.fujifilm-x.com/fujikina-nyc-2026-magnum/)
+
+### Project One 灵感
+1. **Koudelka「废墟不是过去，而是未来」：把Project One的核心矛盾压缩成一句宣言** - Koudelka用二十年走访地中海古迹得出的结论，与Anna Tsing"没有未被污染的过去可以回去"形成跨时空互证——废墟不是历史的终点，而是持续邀请人去"关注、享受当下"的现场。与Project One的接口：为Gary Works系列提供一句可直接引用的方法论宣言——铁锈带的高炉与锈蚀厂房不是"已完结的工业史尸体"，而是始终在场、始终邀请凝视与重新理解的"未来时态废墟"；全景式、长期走访的拍摄方法（Koudelka式的"二十年×多国遗址"）也提示Gary系列可以向更长时间跨度、更广地理网络的"铁锈带全景"扩展，而非局限于单一厂区。[Rizzoli Bookstore](https://www.rizzolibookstore.com/product/josef-koudelka-ruins)
+2. **「Remember Me」策展语言：不设时间顺序，让「记忆」而非「历史」成为串联全馆的唯一线索** - 策展团队刻意放弃编年式叙事，让观众在Cartier-Bresson、Lee Miller、Cindy Sherman之间自由游走，以记忆的碎片化、非线性特质对抗档案惯常的"时间轴"逻辑；Barbara Kruger的同名装置进一步把"记住我"变成一句对观众、也对历史本身的直接命令。与Project One的接口：直接回应canvas"记录与重构之间的张力"节点——Gary Works的最终呈现（无论展览还是摄影书）可以尝试放弃"企业兴起—衰落—废弃"的线性叙事骨架，转而以退休工人口述记忆的碎片、残留物件与现场影像交织的非线性结构组织素材，让"谁记得、记得什么、如何被记得"本身成为作品的结构性问题，而非背景说明。[Sortir à Paris](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/346413-remember-me-the-masterpieces-of-photography-from-the-pinault-collection-are-on-display-at-the-bourse-de-commerce)
+3. **「Steel Valley Visions」：用动画与声音的沉浸式体验，为静态的钢铁废墟影像补上"曾经轰鸣"的听觉维度** - 展览没有止步于绘画、雕塑与照片的平面呈现，还搭建了大型动画与声音装置，试图复原西宾州河谷"三条河流被熔融金属照亮、浓烟弥漫天空"的感官现场。与Project One的接口：提示Gary Works的最终呈现可以不止依赖静态照片的"沉默废墟"美学，而是考虑加入声音档案（高炉运转录音、工会集会录音、现存工人的口述录音）作为并行的感知层，让锈蚀的寂静与曾经的轰鸣形成直接的听觉对照，呼应canvas"记录与重构之间的张力"——重构的手段不必局限于影像本身。[The Westmoreland](https://thewestmoreland.org/exhibitions/steel-valley-visions)
+
 ## 2026-10-02
 
 ### 艺术圈新闻
