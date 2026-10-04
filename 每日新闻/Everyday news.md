@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-10-04
+
+### 艺术圈新闻
+1. **MOCA多伦多10月3日开启秋季新展季：Bharti Kher「Bones」、Delcy Morelos「Ombligo」与Beverly Glenn-Copeland声音装置同期呈现，展至2027年2月14日**：Bharti Kher带来兼具失衡与控制的骨骼/身体意象雕塑群；哥伦比亚艺术家Delcy Morelos受邀创作大型场域特定装置《Ombligo》，以泥土、天然纤维与玉米根系编织出子宫轮廓；Beverly Glenn-Copeland一段近乎遗失的录音则在美术馆南楼梯间持续回响。[MOCA Toronto](https://moca.ca/press-releases/2026-exhibition-programme/) · [Delcy Morelos: Ombligo](https://moca.ca/exhibitions/delcy-morelos/)
+2. **Aperture位于纽约新馆的画廊空间10月17日起推出摄影展，配合Martin Parr新版画册《Life's a Beach》发布**：购票观众可获赠限量预发行画册，采用日式装订与贝壳压纹封面，收录阿根廷、中国、日本、英国等地数十年海滩度假者田野记录。[Aperture](https://aperture.org/?p=9138)
+3. **旧金山现代艺术博物馆（SFMOMA）10月3日起推出「RM x SFMOMA: Between You and Me」，展至2027年2月7日**：防弹少年团成员RM亲自参与策展、撰写双语展签与导览词，将其个人收藏与馆藏共约200件作品并置，含尹亨根、朴栖甫、金煥基与罗斯科、Agnes Martin、Georgia O'Keeffe等东西方现代主义作品的跨文化对话，系SFMOMA首次与K-pop艺人合作办展。[SFMOMA](https://www.sfmoma.org/exhibition/rm-x-sfmoma/)
+4. **第三届亚特兰大艺博会10月1日至4日在历史工业遗址Pullman Yards举行**：场地原为1900年建成的Pratt工程机械厂，一战期间曾用于军火制造，后由普尔曼公司改为铁路车厢维修车间，如今以保留原始砖墙、钢构与磨损混凝土地面的状态改造为文化活动场地；本届吸引逾70家画廊参展，远至韩国、西班牙、乌干达。[Travel And Tour World](https://www.travelandtourworld.com/news/article/go7tppgshzej/)
+
+### Project One 灵感
+1. **Delcy Morelos《Ombligo》：不用影像而用泥土与有机材料本身编织出「子宫」形态的装置** - 展览不借助摄影或绘画的中介，直接用泥土、天然纤维、玉米根系等物质本身呈现腐坏与新生的循环，呼应Anna Tsing的contamination理论与Tereza Zelenkova"死亡带来新生"的自述。与Project One的接口：提示Gary Works系列或可尝试超越纯影像媒介——直接采集厂区现场的粉煤灰、锈蚀碎屑、杂草根系等物质，编织或悬挂为装置，让观者的身体直接面对废墟的物质本身，而不止是观看废墟的图像。[MOCA Toronto](https://moca.ca/exhibitions/delcy-morelos/)
+2. **Pullman Yards：百年军火/铁路车厢维修厂房，不经"忠实修复"直接作为当代艺博会的容器** - 场地保留原始砖墙、钢构与磨损的混凝土地面，未被翻新抹平，产业历史的物质痕迹与当代艺术品在同一空间共同在场、互为背景。与Project One的接口：为Gary Works"废墟应否被修复、如何被重新激活"的核心困境提供一个可操作的当代案例——不修复，而是保留"磨损"本身作为场地叙事的一部分，直接呼应canvas中「介入与矛盾」节点，也可延伸David Campany"图像之间相互共鸣"的策展方法论为"场地与图像相互共鸣"。[Travel And Tour World](https://www.travelandtourworld.com/news/article/go7tppgshzej/)
+3. **Beverly Glenn-Copeland《Light of the Heavens》：一段"失而复得"的录音，在美术馆楼梯间持续回响** - 展览没有依赖视觉档案，而是让一段几乎被遗忘的歌声通过建筑空间本身重新被听见，声音在楼梯井中循环，建筑成为记忆的扩音器。与Project One的接口：呼应此前"Steel Valley Visions"声音装置的讨论——缺席者的痕迹不必只靠影像锚定，一段被找回的录音在特定建筑空间中重新播放，同样可以承载"记录与重构"之间的张力；可考虑为Gary Works档案中现存但从未被使用的工人口述、厂区广播录音，寻找类似的"建筑空间重新激活"方式。[MOCA Toronto](https://moca.ca/press-releases/2026-exhibition-programme/)
+
 ## 2026-10-03
 
 ### 艺术圈新闻
