@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-05
+
+### 艺术圈新闻
+1. **纽约切尔西画廊Aicon Art更名为AINA Gallery，10月1日以「Other Stories — A Genealogy for the Present」开启新篇**：AINA取自波斯语与南亚语系中"镜子"一词，由studioMDA设计空间，延续原画廊对南亚二十世纪现代主义大师的研究积累，同时将策展视野扩展至非洲及其全球离散群体的当代创作，首展集结罕见历史大师作品与多位当代艺术家新作并置对话。[Hyperallergic](https://hyperallergic.com/aicon-art-becomes-aina-gallery-a-new-chapter-in-chelsea-begins-october-1/)
+2. **悉尼新南威尔士州美术馆10月3日开幕「Nolan: Origins」，系悉尼60余年来首次完整重聚西德尼·诺兰「奈德·凯利」全套27幅画作**：展览呈现诺兰移居英国前的近百件早期作品，追溯其与圣基尔达、维梅拉平原、弗雷泽岛及维多利亚东北部丛林地带之间的地理关系，呈现澳洲传奇窃贼如何被绘入国家风景的神话建构过程。[Time Out Sydney](https://www.timeout.com/sydney/art/nolan-origins)
+3. **辛辛那提艺术博物馆10月2日起推出南希·雷克斯罗思首个回顾展「Secrets of My Power」，纪念其摄影书《Iowa》出版50周年**：展览收录150余件照片、手稿与工作素材，多数从未公开展出；雷克斯罗思1970年代以廉价Diana相机在俄亥俄阿巴拉契亚地区拍摄，刻意利用塑料镜头的模糊与暗角将现实乡村景观转化为梦境般的私人心理地形。[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/)
+4. **M+香港公布「Myths, Monsters, and Manga: 亚洲幻想艺术」将于10月17日开幕，展至2027年4月**：展览横跨200年亚洲视觉文化中的奇幻想象，逾400件作品涵盖绘画、建筑模型、时装、电子游戏与动画电影，呈现神怪叙事如何持续塑造亚洲当代视觉语言。[M+](https://www.mplus.org.hk/en/press/mplus-presents-myths-and-monsters-the-art-of-fantasy-in-asia/)
+5. **ARTnews10月5日「Morning Links」专栏披露杰夫·昆斯正悄然通过佳士得私下出售约1亿美元个人艺术收藏**：同期消息还包括达米恩·赫斯特为新一季Barrie羊绒联名系列推广"可穿戴艺术"概念，反映艺术市场在年末拍卖季前的资金与话题动向。[ARTnews](https://www.artnews.com/art-news/news/morning-links-october-5-2026-1234800955/)
+
+### Project One 灵感
+1. **南希·雷克斯罗思《Iowa》："不精确的相机"如何把真实地点转化为心理地形而非文献证据** - Rexroth刻意选择塑料廉价相机，用镜头的模糊、暗角与不可控的失焦，将俄亥俄阿巴拉契亚的真实乡村拍成了一个不存在于地图上的梦境地名"Iowa"；50年后回顾展证明，这种"反精确"的记录策略反而比清晰纪实留存得更久、唤起更强的心理真实感。与Project One的接口：这为"记录与重构之间的张力"节点提供了一个具体的技术化解法——Gary Works系列若始终追求清晰锐利的证据式影像，或许可以在部分素材中引入类似的"降级"装置（廉价相机、故意失焦、暗角），让某些段落脱离"证据"范畴进入"心理地形"范畴，呼应巴特"那个东西真的在那里存在过"命题在废墟摄影中的失效与再生。[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/about/press-room/cincinnati-art-museum-presents-nancy-rexroth-secrets-of-my-power/)
+2. **AINA Gallery「Other Stories — A Genealogy for the Present」：把"谁的历史被允许进入叙事"做成一次具体的空间实践，而非停留在策展理念层面** - 画廊更名本身即是一次公开的"谱系重写"行为——将原本聚焦南亚现代主义的收藏，扩展接入非洲与全球离散社群的当代创作，用并置陈列替代单一地域叙事。与Project One的接口：直接对应canvas"缺席者的痕迹"节点——Gary钢铁厂的劳工史同样存在被遗漏的谱系（黑人迁徙劳工、东欧移民社群、临时工），AINA的操作提示一种具体方法：不是单独补拍"被遗漏群体"的新素材，而是重新编排已有档案的并置顺序，让原本被边缘化的痕迹获得与"主叙事"同等的空间位置。[Hyperallergic](https://hyperallergic.com/aicon-art-becomes-aina-gallery-a-new-chapter-in-chelsea-begins-october-1/)
+3. **「Nolan: Origins」：一个国家级神话（奈德·凯利）如何被反复画进同一片具体地理，使风景本身变成叙事的容器** - 诺兰没有满足于画一次凯利故事，而是在数十年创作生涯中反复回到维多利亚东北部的同一片丛林，让"窃贼传奇"逐渐沉积进风景本体，最终27幅画作构成的不是一组插画，而是一种地理化的国家记忆。与Project One的接口：铁锈带的"钢铁美国梦"同样是一个被反复书写进Gary地理的国家级神话；若Gary Works系列不止拍摄当下的废墟状态，也有意识地在同一地点进行跨年份的重访与再创作（参照Andrew Borowiec式的固定视角回归），"美国制造业神话的兴衰"也能像凯利传奇一样沉积进影像本身，而不只是停留在文字说明里。[Time Out Sydney](https://www.timeout.com/sydney/art/nolan-origins)
+
 ## 2026-10-04
 
 ### 艺术圈新闻
