@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-06
+
+### 艺术圈新闻
+1. **Henry Taylor与导师James Jarvaise双人展于苏黑艺术周期间在Hauser & Wirth欧洲首次并置呈现**：展览将Henry Taylor与其早年导师James Jarvaise的作品并排挂出，呈现一段跨代际的师承对话——师徒二人如何在相隔数十年的创作中彼此回应。[Ocula](https://ocula.com/art-galleries/hauser-wirth/exhibitions/sometimes-a-straight-line-has-to-be-crooked-(1)/)
+2. **国际摄影中心（ICP）公布冬季展览计划：尤金·阿杰「The Making of a Reputation」、「HARD COPY NEW YORK」与「Latitudes: Nuits Balnéaires」三展同期推出**：阿杰个展聚焦其作为"纪实摄影之父"的声誉如何在身后被策展与出版机制逐步建构，呼应摄影史写作本身的建构性。[ICP](https://www.icp.org/index%2ephp/news?page=14)
+3. **法国苏谢（Souchez）「Silence After Impact: Photographing the Ruins of War」摄影展持续展出**：展览聚焦第一次世界大战遗留废墟如何作为记忆标记被摄影反复凝视，画面中没有战斗场景，只有静默的残迹。[France Voyage](https://www.france-voyage.com/events/souchez-commune-24546.htm)
+4. **「ULTRARUIN」亚特兰大摄影协会废墟主题群展**：摄影师Jody Fausett策划，集结9位亚特兰大艺术家围绕废墟展开的摄影实践，探讨被遗弃空间如何持续生成新的图像意义。[Atlanta Photography Group](https://atlantaphotographygroup.org/events/exhibition-ultraruin/)
+5. **约瑟夫·寇德卡「RUINS」系列将于大都会艺术博物馆「Across Wine-Dark Seas」展出（2026年12月20日至2027年4月11日）**：寇德卡拍摄古希腊罗马遗址的黑白系列将与地中海古代文明文物并置展出，让当代摄影师的废墟凝视进入考古学叙事框架。[Pace Gallery](https://www.pacegallery.com/journal/museum-exhibitions/bibliotheque-nationale-presents-josef-koudelka-ruines)
+
+### Project One 灵感
+1. **Prestel重版经典废墟摄影集《The Ruins of Detroit》（Marchand & Meffre）新增前言反思"废墟猎奇"（ruin porn）争议** - 这本曾售出三万余册、长期缺货的底特律废墟摄影经典重新出版，新前言直面"将衰败城市景观审美化"的伦理指控。与Project One的接口：这正是canvas中"记录与重构之间的张力"节点最直接的当代案例——Gary Works系列同样面临"审美化废墟是否等于消费他人的衰落"的追问，重版前言提供了一种公开承认而非回避这种张力的写作范式。[Better Read Than Dead](https://www.betterread.com.au/book/the-ruins-of-detroit.do)
+2. **寇德卡「RUINS」与古代地中海废墟并置展出：铁锈带废墟在千年废墟谱系中的位置** - 大都会博物馆把寇德卡拍摄的古希腊罗马遗址黑白影像嵌入一个跨越数千年的"酒色深海"考古叙事中，废墟不再只是现代工业衰败的证据，而被安放进一个更长的人类文明周期。与Project One的接口：为Gary Works提供一个时间尺度上的参照——铁锈带的"废墟化"不是历史的例外，而是人类建造-遗弃循环中最近的一次重复，这为项目陈述提供一种对抗"美国例外主义式衰落叙事"的历史纵深。[Pace Gallery](https://www.pacegallery.com/journal/museum-exhibitions/bibliotheque-nationale-presents-josef-koudelka-ruines)
+3. **Marjan Teeuwen「Destroyed House」：把待拆住宅亲手拆解重构为建筑雕塑** - 荷兰艺术家在建筑被正式拆除前进入其中，将墙体、地板与门窗拆解后重新堆叠、编排为近单色的空间装置，再拍摄记录——拆除行为本身成为创作行为。与Project One的接口：这是"记录与重构"张力最字面的物质实践方式之一——不是先记录废墟再在后期重构叙事，而是在废墟仍处于被拆除的过程中直接介入其物质结构，Gary Works废弃车间内的残留构件或许也可以成为类似"就地重组"的介入对象，而非仅被动记录。[Dodho](https://www.dodho.com/?p=69772)
+
 ## 2026-10-05
 
 ### 艺术圈新闻
