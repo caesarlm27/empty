@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-07
+
+### 艺术圈新闻
+1. **巴黎路易威登基金会10月9日起推出「Gustave Fayet：收藏家与创作者」大展，展至2027年3月8日**：展览横跨767件作品与文献，首次时隔近一个世纪重聚Fayet收藏的250余件藏品（含10幅凡·高、78件高更、88件Redon），并重新展出他本人长期被收藏家身份遮蔽的325件创作，呈现这位世纪之交人物在"收藏者"与"创作者"双重身份间的张力。[Sortir à Paris](https://www.sortiraparis.com/arts-culture/exposition/articles/346700-gustave-fayet-a-la-fondation-louis-vuitton-van-gogh-gauguin-et-redon-dans-une-exposition-evenement)
+2. **Phillips纽约10月8日举行秋季摄影拍卖，集结逾240件阿维顿、欧文·佩恩、赫尔穆特·牛顿、罗伯特·梅普尔索普、辛迪·舍曼、萨莉·曼恩等经典与当代摄影作品**：拍卖同期线上「Exposure」专场持续至10月13日，延续摄影市场在实体与数字渠道的双线运作。[Phillips](https://www.phillips.com/press/release/iconic-works-of-portraiture-fashion-and-contemporary-photography-lead-phillips-october-photographs-auction)
+3. **卢森堡「欧洲文化遗产日2026」10月16-17日以「风险中的遗产：复兴、抵抗、重新想象」为主题，在前香蕉仓库Banannefabrik举行创意空间15周年纪念活动**：节目包括戏剧化导览、舞蹈工作坊与录像舞蹈装置，将工业建筑的"保存"与"持续被使用"并置为同一叙事。[Visit Luxembourg](https://www.visitluxembourg.com/event/banannefabrik-heritage-in-motion)
+4. **同一遗产日框架下，卢森堡国家工业文化中心10月17-18日在Belval高炉旧址推出「工业遗产：声音、面孔、痕迹」导览项目**：由见证者、志愿者与早期修复工程参与者亲自讲述工厂记忆，串联Stolzembourg、Rumelange、Esch-Schifflange等多处钢铁/矿业遗址。[Visit Luxembourg](https://www.visitluxembourg.com/event/industrial-heritage-voices-faces-traces)
+5. **伦敦Cell Project Space10月8日起呈现Jeff Preiss个展「Orchard Documents」，展至12月13日**：展览首次完整公开其2005至2008年为纽约下东区合作画廊Orchard记录各项展览时拍摄的实验影像，这些"记录影像"本身采用了迥异于常规展览纪实的拍摄手法，揭示了艺术实践中通常不可见的一面。[Art Rabbit](https://www.artrabbit.com/events/orchard-documents-jeff-preiss)
+
+### Project One 灵感
+1. **「工业遗产：声音、面孔、痕迹」：把修复工程的见证者、志愿者请回现场口述，而非仅陈列修复后的建筑本身** - 卢森堡钢铁/矿业遗址的导览刻意邀请亲历"废墟如何被激活"全过程的人现场讲述，让"谁参与了复活"本身成为展示内容，而非只呈现复活后的结果。与Project One的接口：直接呼应canvas"缺席者的痕迹"节点——Gary Works若干拆除或加固工程背后同样存在具体的参与者（工程人员、争取保留的居民、反对拆除的教会成员），这为项目提供了一个方法论参照：把"记录与重构"的过程本身（谁决定保留什么、谁出面争取）作为素材的一部分，而不只记录工程完成后的状态。[Visit Luxembourg](https://www.visitluxembourg.com/event/industrial-heritage-voices-faces-traces)
+2. **Banannefabrik「风险中的遗产：复兴、抵抗、重新想象」：一句官方主题短语，恰好提供了三个可直接套用的动词框架** - 这座前香蕉仓库用"复兴（revive）、抵抗（resist）、重新想象（reimagine）"三个动词取代单一的"保存"叙事，把工业建筑的持续使用本身当作一种对抗遗忘的具体行动。与Project One的接口：Gary Works系列目前的素材整理仍偏向单一的"记录衰败"逻辑，可尝试借用这三个动词作为分类标签重新编排已有影像——哪些画面是"抵抗"（仍在被使用/被守护的结构）、哪些是"重新想象"（被艺术或社区介入改造的空间）、哪些仍停留在单纯"复兴"的修复许诺层面，让素材的分类本身呼应canvas"记录与重构之间的张力"。[Visit Luxembourg](https://www.visitluxembourg.com/event/banannefabrik-heritage-in-motion)
+3. **Jeff Preiss「Orchard Documents」：把"记录展览的影像"本身当作独立作品，暴露常规纪实手法遮蔽的东西** - Preiss为Orchard画廊拍摄的"展览记录"并非中立的存档录像，而是采用实验性的拍摄与剪辑手法，使记录行为本身呈现出通常被标准纪实抹去的细节与视角。与Project One的接口：为"记录与重构之间的张力"提供一个可操作的技术路径——Gary Works的拍摄过程记录（选址、构图决策、与当地人交涉的片段）或许可以作为与最终成片并行的"第二套档案"保留并部分公开，让"如何记录"本身成为项目反思"记录即构造"命题的一部分，而不只是幕后花絮。[Art Rabbit](https://www.artrabbit.com/events/orchard-documents-jeff-preiss)
+
 ## 2026-10-06
 
 ### 艺术圈新闻
