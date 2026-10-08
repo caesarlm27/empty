@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-10-08
+
+### 艺术圈新闻
+1. **香港非营利艺术空间Para Site宣布告别运营11年的鲸鱼湾场地，2027年起转为「游牧」模式**：值其成立30周年之际，新任执行总监James Taylor-Foster表示机构将暂无固定展览空间，转而在不同地点进行实验性合作，同时筹划在香港建立新据点；鲸鱼湾现场2026年度展览项目（包括30周年展「Site-seeing」）仍将按计划运行至年底。[SCMP](https://www.scmp.com/lifestyle/arts/article/3369006/hong-kong-art-space-para-site-leave-its-quarry-bay-home-11-years-and-go-nomadic) · [e-flux](https://www.e-flux.com/announcements/6788180/para-site-is-live)
+2. **阿姆斯特丹STRAAT街头艺术博物馆10月9日起推出「Art Is Not a Crime」，呈现涂鸦摄影师Henry Chalfant 1977-1987年纪录纽约地铁涂鸦文化的档案**：展览以1:1比例巨幅呈现当年被喷涂的地铁车厢原照，SUSO33担任内容策展、荷兰涂鸦图书馆协同策划，是荷兰首次以文献核心视角回顾涂鸦文化的大型展览，展至2027年3月13日。[STRAAT Museum](https://straatmuseum.com/en/exhibitions/art-is-not-a-crime) · [STRAAT新闻稿](https://straatmuseum.com/en/press/straat-museum-brings-archive-of-legendary-photographer-henry-chalfant-to-amsterdam)
+3. **法国伊苏瓦尔当代艺术中心10月4日至5日夜间遭窃，达利设计的青铜《启示录》封面被盗**：这件1958至1961年间制作、全球仅此一件的羊皮卷书籍，其150公斤重青铜封面镶嵌宝石与贝壳，估价数百万欧元，书本本身据称未被带走，克莱蒙费朗检察院已介入调查，目前尚无人被捕或追回线索。[CP24](https://www.cp24.com/news/world/2026/10/05/priceless-book-designed-by-surrealist-dali-stolen-in-france/)
+4. **纽约新美术馆（New Museum）10月6日公布其第六届三年展「The Outside Expands」完整参展名单：36组艺术家与团体来自34个国家，是该三年展史上最具国际视野的一届**：由馆内策展人Vivian Crockett与圣保罗MASP策展人Isabella Rjeille联合策划，展览将于扩建后的新馆于2027年2月4日开幕。[Hyperallergic](https://hyperallergic.com/these-are-the-artists-in-the-2027-new-museum-triennial/)
+5. **多位艺术家公开指控北京/香港唐人艺术中心拖欠款项并扣留作品，继此前房东与供应商类似投诉后再添一案**：据ARTnews10月8日晨报摘要，相关争议延续了画廊运营方与合作艺术家之间持续发酵的信任危机。[ARTnews Morning Links](https://www.artnews.com/art-news/news/morning-links-october-8-2026-1234801688/)
+6. **开罗一幅由AI辅助设计、呈现深色皮肤图坦卡蒙与娜芙蒂蒂的巨幅壁画，在争议声中于中国国家主席访埃前一天被当局下令涂抹覆盖**：壁画由青年志愿团体Rasmet Basma耗时五至七天绘制，使用AI生成约百版设计方案后定稿；开罗省政府10月2日被证实下令覆盖，组织者承认"未咨询考古与艺术专家"系设计失误，事件再次引爆"古埃及人肤色"的身份论争。[GreekReporter](https://greekreporter.com/2026/10/06/dark-skinned-nefertiti-tutankhamun-mural-sparks-controversy-egypt/) · [ArtInContext](https://artincontext.org/cairo-ai-nefertiti-tutankhamun-mural-painted-over/)
+
+### Project One 灵感
+1. **开罗壁画的"二次涂抹"：当一幅形象本身就是一场未决的证据争议** - 被覆盖的不是废墟，而是一幅刚刚诞生、尚未定型就被迫抹去的图像——它因"肤色"引发的身份论争，与Taryn Simon对摄影证据性被构造的质疑形成直接呼应：图像从未单纯地"记录"过去，它总是在争夺谁有权定义过去。与Project One的接口：Gary Works的工人影像档案同样卷入"谁的历史被看见"的张力，壁画被刷白的瞬间提示一种更激进的记录策略——与其只拍摄废墟本身，也可以记录"图像被抹除"这一动作本身，让缺席的生成过程成为作品的一部分。[GreekReporter](https://greekreporter.com/2026/10/06/dark-skinned-nefertiti-tutankhamun-mural-sparks-controversy-egypt/)
+2. **Henry Chalfant的地铁涂鸦档案：摄影作为一种"抢救性"记录，对抗的是一种必然会被清洗、报废的物质载体** - 1970-80年代纽约地铁车厢定期被除漆、报废，涂鸦本身从不打算"持久"；Chalfant用摄影把这种注定消失的即时性转译为可长期保存的档案，四十年后成为唯一留存的"证词"。与Project One的接口：铁锈带的厂房与设备同样处于"随时可能被拆除、永不被官方记录"的状态，Chalfant的方法提示Gary Works或许该把"抢在拆除/清除之前完成记录"本身设定为项目的时间紧迫性与伦理动机，而不仅是美学选择。[STRAAT Museum](https://straatmuseum.com/en/exhibitions/art-is-not-a-crime)
+3. **达利青铜书封被盗后留下的，是一个空置的展柜——而照片成为了这件独一无二作品存在过的唯一证据** - 这起失窃案把巴特"那个东西真的在那里存在过"的命题推向了一个荒诞的反面：作品本身消失了，唯有展览开幕前拍下的照片、新闻图片仍在网络上流传，充当着它唯一的存在证明。与Project One的接口：Gary Works若有建筑构件、设备最终被拆解贩卖或彻底消失，项目摄影本身就会从"记录现存的废墟"转变为"废墟曾经存在过的唯一证据"——这提示需要提前规划一种"抢在物质彻底消失前完成取证式记录"的工作方法。[CP24](https://www.cp24.com/news/world/2026/10/05/priceless-book-designed-by-surrealist-dali-stolen-in-france/)
+
 ## 2026-10-07
 
 ### 艺术圈新闻
