@@ -11,6 +11,22 @@ tags:
 
 ---
 
+## 2026-10-09
+
+### 艺术圈新闻
+1. **纽约现代艺术博物馆（MoMA）10月6日场外再遭抗议，维权团体要求移除董事利昂·布莱克（Leon Black）** - We Are UltraViolet 等团体及"Epstein问责计划"在馆外聚集逾二十人，指布莱克留任董事会等于帮其"洗白"与爱泼斯坦的关联。[Hyperallergic](https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/)
+2. **惠特尼美术馆「Roy Lichtenstein: Like New」10月11日开幕** - 以艺术家"重返自己旧构图"的"remake"为策展核心线索，130余件作品串联四十余年创作，包括对其1962年"Pop"首展的整体重构。[Untitled Magazine](https://untitled-magazine.com/how-the-whitneys-roy-lichtenstein-like-new-reframes-a-pop-art-icon/)
+3. **大都会艺术博物馆「Krasner and Pollock: Past Continuous」10月4日开幕** - 逾120件作品将李·克拉斯纳与杰克逊·波洛克的创作并行呈现，展至2027年1月31日。[Artprice](https://www.artprice.com/artprice-news/13610/krasner-pollock-at-the-metropolitan-museum-of-art-past-continuous-the-major-rewriting-of-american-abstraction)
+4. **第46届徕卡奥斯卡·巴纳克摄影奖（LOBA）10月8日于德国韦茨拉尔公布获奖名单** - 前职业摔跤手、摄影师Damir Faizulin凭系列《Preserving Nature as Preserving Ourselves》（记录达吉斯坦山区）获主奖；Laila AnnMarie Stevens获新人奖；首届LOBA Women Grant授予Valentina Sinis。[PetaPixel](https://petapixel.com/2026/10/08/the-three-eye-opening-winners-of-the-2026-leica-oskar-barnack-awards/)
+5. **苏富比纽约「Photographs Part II」网络拍卖10月1日至9日举行** - 横跨19世纪至当代摄影史，囊括安塞尔·亚当斯、赫尔穆特·牛顿、沃尔夫冈·蒂尔曼斯等人作品，9日收官。[Sotheby's](https://www.sothebys.com/buy/a3513fad-e470-4b00-8eec-6157ce4bd7a1)
+
+### Project One 灵感
+1. **Damir Faizulin《Preserving Nature as Preserving Ourselves》** - 标题把"保护自然"直接等同于"保护自身"：记录行为本身被当作抵抗消逝的手段，呼应 Project One 中"记录与重构"命题——影像不只是见证废墟，也是自我存续的方式。[PetaPixel](https://petapixel.com/2026/10/08/the-three-eye-opening-winners-of-the-2026-leica-oskar-barnack-awards/)
+2. **惠特尼「Like New」的"remake"策展法** - 艺术家亲手重返并重构自己的旧作，制造"原作—复刻"之间的张力，与 Taryn Simon 对摄影"证据性"的构造性质疑形成呼应：复刻品本身也能成为一种新的在场证据。[Untitled Magazine](https://untitled-magazine.com/how-the-whitneys-roy-lichtenstein-like-new-reframes-a-pop-art-icon/)
+3. **MoMA抗议中的"移动阅览室"（Epstein-Trump Reading Room）** - 维权者以 zine、文献与移动阅览室的形式持续记录、问责一桩被机构"冷处理"的事件，呼应 canvas 中"谁被允许记录、谁的记录会被消音"——记录本身构成对抗遗忘与粉饰的行动。[Hyperallergic](https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/)
+
+---
+
 ## 2026-10-08
 
 ### 艺术圈新闻
