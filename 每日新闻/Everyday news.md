@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-10
+
+### 艺术圈新闻
+1. **辛迪·舍曼全新系列「Fabric Matrons」10月13日于伦敦Hauser & Wirth（Savile Row）开幕，与Lorna Simpson个展共享开幕酒会**：新作以大量垫布、织物包裹人物，使身形与周遭环境彼此渗透，探讨女性在不同人生阶段如何管理"被看见"的方式；部分素材取自Chanel档案库的面料与配件。[Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/cindy-sherman-london/)
+2. **Sophie Ristelhueber策划的摄影工作坊成果展「An Act of Attention」将于11月11日在巴黎瑞典文化中心（Institut suédois）开幕，展至2027年2月21日**：七位法国与瑞典新锐摄影师先与Ristelhueber共同完成一场工作坊，再由此结集成展，呈现"被注视"本身如何训练出一种观看方法。[Unidivers](https://unidivers.fr/event/exposition-an-act-of-attention-institut-suedois-paris-2026-11-11t1200000100/)
+3. **伦敦PhotoMonth 2026三人摄影群展「Is It Unreached Ruins」10月2日至4日于Photo Book Cafe展出**：艺术家Audrey Ni Ruorong、Iris Jingyi Zeng、Xinyu Huang混合数码拼贴、模拟摄影与行走实践，将废墟处理为仍在进行、尚未抵达终点的状态，而非已经终结的过去。[ArtRabbit](https://www.artrabbit.com/events/is-it-unreached-ruins-a-threeperson-exhibition-at-photomonth-london-2026)
+4. **美国FotoFocus 2026摄影双年展「The Long View」9月30日开幕，10月持续推进，横跨辛辛那提、代顿、哥伦布及北肯塔基65个场馆、74档展览**：主题聚焦摄影与影像媒介如何塑造人们对时间与视角的理解，是美国规模最大的摄影类双年展之一。[FotoFocus](https://www.fotofocus.org/biennial/2026/map)
+5. **莫斯科苏联时期工业建筑Elektrozavod（电力工厂）9月起遭开发商动工拆除，仅承诺"保留立面"，引发逾两万人联署抗议**：该建筑2025年已被从"认定文物"名录中移除、失去法律保护，开发商Etalon集团表示拆除后将在原址建住宅并"保留立面与可识别特征"，但维权者质疑立面最终会被替换为复制品。[Meduza](https://meduza.io/en/feature/2026/09/08/demolition-begins-at-elektrozavod-one-of-moscow-s-most-striking-examples-of-industrial-architecture-the-developer-promises-to-preserve-its-facades-but-they-could-be-replaced-with-replicas)
+
+### Project One 灵感
+1. **Elektrozavod："只留立面"的拆除方案，让建筑变成自己的复制品** - 开发商承诺保留的不是建筑本身，而是建筑的"表皮"；维权者担心最终留下的立面会是后制的复制品而非原物，这把"修复"直接推向了Anna Tsing"没有未被污染的过去可以回去"的反面——被保留下来的东西恰恰已经被替换过一次。与Project One的接口：Gary Works若有构件被"保留性拆除"或迁移重装，项目可以把"立面/复制品"之间那条模糊的界线作为拍摄对象，追问铁锈带的"保存"究竟保存了什么、又替换掉了什么。[Meduza](https://meduza.io/en/feature/2026/09/08/demolition-begins-at-elektrozavod-one-of-moscow-s-most-striking-examples-of-industrial-architecture-the-developer-promises-to-preserve-its-facades-but-they-could-be-replaced-with-replicas)
+2. **Sophie Ristelhueber「An Act of Attention」：把"注视"本身训练成一种可传授的方法，而非只呈现注视的结果** - 这场展览的起点不是作品，而是一场工作坊——Ristelhueber与七位新锐摄影师共同经历了"如何看"的训练过程，展览呈现的是这套方法论的产出。与Project One的接口：呼应Ristelhueber本人"关于人的证据，但没有人的在场"的方法论，也提示Gary Works或可记录、保留拍摄过程本身的决策与训练痕迹，让"如何被看见"成为作品的一部分，而不止是最终成片。[Unidivers](https://unidivers.fr/event/exposition-an-act-of-attention-institut-suedois-paris-2026-11-11t1200000100/)
+3. **「Is It Unreached Ruins」：把废墟处理为"尚未抵达"的状态，用行走与拼贴对抗"废墟=终点"的默认叙事** - 三位艺术家刻意不把废墟当作历史的收尾，而是用混合媒介呈现其仍在变化、仍在被经过的状态，废墟因此从名词变成了一个持续发生的动词。与Project One的接口：直接呼应canvas"记录与重构之间的张力"节点——Gary Works若始终以"衰败已完成"的姿态记录铁锈带，可参照这一方法论调整视角，把工厂拍成一个仍在被生命、天气、介入持续改写的现场，而非一座已经盖棺的纪念碑。[ArtRabbit](https://www.artrabbit.com/events/is-it-unreached-ruins-a-threeperson-exhibition-at-photomonth-london-2026)
+
 ## 2026-10-09
 
 ### 艺术圈新闻
