@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-11
+
+### 艺术圈新闻
+1. **伦敦摄影师画廊（The Photographers' Gallery）10月14日起推出威廉·埃格尔斯顿个展「All That Goes Unnoticed」，纪念其经典摄影集《Guide》出版50周年，展至2027年2月21日**：展览集结其标志性染料转印彩色作品，及少量此前罕见展出的黑白与早期"布朗尼"相机影像，呈现埃格尔斯顿如何把被忽视的日常场景提升为摄影主体。[Artrabbit](https://www.artrabbit.com/events/william-eggleston-all-that-goes-unnoticed)
+2. **巴黎网球场美术馆（Jeu de Paume）10月20日起推出斯坦·道格拉斯回顾展「Parallax」，展至2027年1月10日，后巡展至巴塞罗那MACBA**：汇集约40件涵盖其30余年创作的影片、录像装置与摄影系列，包括重新编排格里菲斯1915年影片叙事的最新录像装置《Birth of a Nation》(2025)，是法国30年来首个该艺术家的大型回顾展。[Jeu de Paume](https://jeudepaume.org/en/evenement/35043/)
+3. **David Campany策划的「Todd Webb & Eugène Atget: Senses of Place」将于11月12-15日巴黎摄影展（Paris Photo）期间由MUUS Collection呈现**：展览将Todd Webb与尤金·阿杰两位相隔近一个世纪、同样专注记录城市日常街景与地方感的摄影师作品并置对话，延续MUUS今年6月收购Todd Webb档案后的首次重要策展呈现。[MUUS Collection](https://www.muuscollection.com/news/todd-webb-eugne-atget-senses-of-place-at-paris-photo-2026)
+4. **第11届布加勒斯特摄影节（Bucharest Photofest）10月9日至18日举行，今年主题为「Witness（见证）」，横跨15个以上场馆、逾40场活动**：节目包括记录被围困中的马里乌波尔的战地影像、两届普利策奖摄影师Evgeniy Maloletka主持的战争摄影工作坊，以及一组与阿列克桑德里亚一处即将被拆除的渔民社区居民共同建立的影像档案。[Agerpres](https://agerpres.ro/english/2026/10/07/bucharest-photofest-over-200-artists-and-50-events-in-10-venues--1600893)
+5. **Frieze London与Frieze Masters 10月14日至18日在伦敦摄政公园举行，近300家画廊参展，规模创历史新高**：Anish Kapoor、Ibrahim El-Salahi等艺术家获得个人专区呈现，同期免费户外展「Frieze Sculpture」已开放至11月1日。[Frieze](https://press.frieze.com/?p=43328)
+
+### Project One 灵感
+1. **布加勒斯特摄影节「Witness」：在推土机抵达前，与即将消失的渔民社区共同建立影像档案** - 该项目不是摄影师单方面记录即将拆除的阿列克桑德里亚渔民社区，而是与居民共同参与建立档案，让"谁有权决定记录什么、以何种方式记录"本身成为项目的伦理核心，呼应本届主题"见证"将摄影视为具有社会能动性的行为，而非被动的影像采集。与Project One的接口：直接对应canvas"缺席者的痕迹"节点——Gary Works若能邀请仍留在当地的退休工人、居民参与影像档案的共同建立（而非项目组单方面取证式拍摄），"记录与重构之间的张力"便从方法论议题落地为具体的合作实践。[Agerpres](https://agerpres.ro/english/2026/10/07/bucharest-photofest-over-200-artists-and-50-events-in-10-venues--1600893)
+2. **斯坦·道格拉斯「Parallax」：用同一历史事件的多重"平行"版本，取代单一的、可被验证的"记录"** - 道格拉斯近年代表作《Birth of a Nation》(2025)刻意保留格里菲斯1915年原片的黑白质感与默片形式，却从四种不同视角重新编排其叙事，让"重构"本身暴露出原始记录从未中立过。与Project One的接口：为"记录与重构之间的张力"节点提供一个具体的影像语言方案——Gary Works若对同一处厂房遗址采集多个时间点、多个视角甚至多种工人口述版本的素材，并有意保留它们彼此矛盾、互不调和的部分，而非剪辑成单一"真相"，便能像道格拉斯一样让"平行版本"本身成为对抗摄影证据性神话的手段，呼应Taryn Simon对摄影"证据性"构造的质疑。[Jeu de Paume](https://jeudepaume.org/en/evenement/35043/)
+3. **埃格尔斯顿《Guide》50周年：把加油站、购物车与超市货架提升为值得凝视的对象，证明"平庸"本身足以承载意义** - 展览标题「All That Goes Unnoticed」直指埃格尔斯顿的方法论核心：不寻找戏剧性场景，而是让镶嵌在日常生活背景中、通常被视而不见的平凡物件与色彩本身成为主体。与Project One的接口：这正是Curran Hatleberg承袭的Walker Evans-Eggleston美国公路摄影谱系的源头——Gary Works若过度聚焦废墟中最具视觉冲击力的坍塌结构，或可参照埃格尔斯顿的方法，把镜头转向厂区周边那些"什么都没发生"的平凡角落，让铁锈带的衰败感不只靠废墟奇观承载，也靠弥漫在日常生活背景中的、不易察觉的氛围来传递。[Artrabbit](https://www.artrabbit.com/events/william-eggleston-all-that-goes-unnoticed)
+
 ## 2026-10-10
 
 ### 艺术圈新闻
