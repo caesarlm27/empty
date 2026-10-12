@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-12
+
+### 艺术圈新闻
+1. **罗马MAXXI国立21世纪艺术博物馆10月16日起推出苏菲·卡尔（Sophie Calle）大型个展「Matrimoni, Rotture e Funerali inclusi」，展至2027年2月7日**：这是艺术家作品首次在罗马举办的全面回顾展，横跨其四十余年创作生涯，梳理这位以"侦探式"介入他人私生活著称的观念艺术家如何持续游走于亲密与公开、真实与虚构之间。[Turismo Roma](https://www.turismoroma.it/en/events/sophie-calle)
+2. **世界新闻摄影大赛（World Press Photo）2026全球巡展10月12日起登陆爱丁堡苏格兰议会大楼，展至11月初，为该展览本届巡展英国唯一一站**：展出第69届大赛获奖作品，核心主题包括权力的全球性逾越、气候危机与冲突，含Carol Guzy凭记录移民家庭被美国移民执法部门拆散瞬间的《Separated by ICE》摘得的本届年度照片。[World Press Photo](https://www.worldpressphoto.org/calendar/2026/edinburgh-scotland)
+3. **巴黎卢浮宫10月7日起推出弗朗西斯科·德·苏尔巴兰（Francisco de Zurbarán）大型回顾展，展至2027年1月25日**：展览由卢浮宫联合伦敦国家美术馆、芝加哥艺术学院共同策划，梳理这位17世纪西班牙画家为安达卢西亚修道院创作的大型委托画作，以及肖像与静物作品，并呈现其子胡安·德·苏尔巴兰的创作与其对马奈、毕加索的影响；重头展品《阿西西的圣方济各》为本次展览专门修复后首次公开。[Artprice](https://news.artprice.com/en/15776/at-the-louvre-zurbaran-s-saint-francis-of-assisi-will-be-a-highlight-of-the-exhibition-starting-october-7-2026)
+4. **法国戛涅-梅尔雷诺阿博物馆9月失窃的两幅画作10月9日被追回，六名嫌疑人被捕**：失窃的雷诺阿《Madame Colonna Romano》与《Young Woman at the Well》（均为奥赛博物馆藏品借展）在警方介入后被寻回，窃贼当时还抢走另外两幅作品，但在逃跑途中弃置于博物馆花园内。[CP24](https://www.cp24.com/news/world/2026/10/09/2-renoir-paintings-stolen-from-a-french-museum-have-been-found-6-arrested/)
+5. **阿姆斯特丹Foam摄影博物馆持续展出中国摄影师马海伦（Hailun Ma）个展「Hometown」，为其在中国以外首个重要美术馆级个展**：展览集结她近年围绕新疆家庭、青年与日常风格拍摄的系列作品，并呈现其为《纽约杂志》《i-D》《Vogue》等国际时尚媒体拍摄的部分封面作品。[Foam](https://www.foam.org/events/hailun-ma)
+
+### Project One 灵感
+1. **苏菲·卡尔「Matrimoni, Rotture e Funerali inclusi」：用"在场"去记录"缺席"本身——婚姻、决裂与葬礼都是某种关系终结后留下的证物** - 卡尔四十年创作始终围绕跟踪、窥看与被遗弃之物展开，这场回顾展把艺术家自己的私人经历（婚姻、决裂、葬礼）当作档案般陈列，让"记录者"与"被记录对象"的身份重叠为一。与Project One的接口：直接呼应canvas"缺席者的痕迹"与Sophie Ristelhueber"关于人的证据，但没有人的在场"——Gary Works若进一步挖掘工厂关闭、工人遣散这类"关系终结"的瞬间（解雇通知、最后一班下班记录、工会解散文件），或可借鉴卡尔把私人化的终结事件转化为公共档案的方法论。[Turismo Roma](https://www.turismoroma.it/en/events/sophie-calle)
+2. **苏尔巴兰《阿西西的圣方济各》："为展览而修复"把作品的物质状态本身变成了一次历史性的重构行动** - 这幅四百年前的油画并非以原始状态展出，而是经过专门修复后首次向公众亮相——"修复"在这里不是幕后的技术工序，而是构成展览叙事本身的一部分。与Project One的接口：为"记录与重构之间的张力"节点提供一个具体的对照案例——若Gary Works的某些建筑构件或设备未来经历加固、清洁或局部复原，项目可以像卢浮宫一样，把"修复过程"本身作为与最终影像并行呈现的素材，公开承认重构对原始状态的介入，而非把修复后的"完美状态"当作天然如此。[Artprice](https://news.artprice.com/en/15776/at-the-louvre-zurbaran-s-saint-francis-of-assisi-will-be-a-highlight-of-the-exhibition-starting-october-7-2026)
+3. **雷诺阿失窃案中被弃置花园的两幅画：决定"什么被偷走、什么被留下"的不是价值，而是逃跑途中的偶然** - 窃贽本抢走四幅画，却在警方追捕的混乱中随手丢弃了其中两幅；最终"幸存"下来的作品，并非因为它们更重要，而是纯属逃亡路线上的意外。与Project One的接口：呼应Curran Hatleberg以"chance and accident"为核心的拍摄方法论——铁锈带哪些构件被拆除贩卖、哪些因无人在意而意外留存至今，同样是一连串偶然决定的结果而非理性规划；Gary Works的编辑逻辑或可主动承认这种偶然性，把"为什么偏偏是这些痕迹留了下来"本身写入项目陈述。[CP24](https://www.cp24.com/news/world/2026/10/09/2-renoir-paintings-stolen-from-a-french-museum-have-been-found-6-arrested/)
+
 ## 2026-10-11
 
 ### 艺术圈新闻
