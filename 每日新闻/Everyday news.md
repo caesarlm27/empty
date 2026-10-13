@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-10-13
+
+### 艺术圈新闻
+
+1. **格拉斯哥当代艺术中心（CCA）清算危机持续发酵，社区发起"保卫我们的CCA"行动阻止建筑与档案被出售**：这家标志性当代艺术机构今年初已进入清算、解雇全部39名员工；10月8日《艺术新闻报》报道称，建筑业主Creative Scotland仍计划"以文化资产名义"出售该址，本地艺术界联名抗议，呼吁保留档案与空间的公共属性。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/08/uncertain-future-for-glasgows-art-scene-as-citys-centre-for-contemporary-art-closes)
+2. **马丁·帕尔经典系列《Common Sense》27年后重新展出，10月16日起亮相布里斯托摄影节**：这组以消费社会讽刺美学著称的代表作，将在帕尔去世后首次于其家乡布里斯托大规模回顾展出，展期至11月15日。[PetaPixel](https://petapixel.com/2026/10/10/martin-parrs-iconic-common-sense-photo-series-is-being-exhibited-again-27-years-on)
+3. **纽约现代艺术博物馆（MoMA）10月4日起推出《超现实主义之书》特展，首次公开Zell夫妇捐赠的珍稀藏书**：展览横跨1920年代至1960年代，呈现布勒东、达利、克劳德·卡恬（Claude Cahun）、恩斯特等人以碎玻璃装订、金属封面制成的实验性书籍，展至2027年1月23日。[MoMA](https://press.moma.org/exhibition/the-surrealist-book/)
+4. **罗伯特·劳森伯格基金会位于纽约NoHo的故居与档案馆建筑被悄然挂牌出售，邻地大型改建项目威胁建筑完整性**：该建筑自1965年起为劳森伯格居所与工作室，现为基金会与档案所在地；基金会表示若邻地施工推进，可能被迫迁离这处逾六十年历史的现场。[Artnet News](https://news.artnet.com/art-world/robert-rauschenberg-foundation-building-listing-2794288)
+5. **印第安纳波利斯艺术博物馆馆长Belinda Tate宣布离任，格拉斯哥艺术界同期持续动荡**：据ARTnews 10月9日晨报综述，美英两地美术馆系统近期同时面临管理层变动与资金危机的双重压力。[ARTnews Morning Links](https://www.artnews.com/art-news/news/morning-links-october-9-2026-1234801847/)
+
+### Project One 灵感
+
+1. **Jim Westphalen《Echoes on the Land》：美国西部被遗弃的宅地农舍，被当作"劳动与失落的见证者"而非单纯废墟来拍摄** - Westphalen用改装过的4x5座机拍摄1862年《宅地法》后被放弃的农舍残骸，展览文本同时承认这片土地此前被原住民长期占据、西进运动本身即伴随驱逐。与Project One的接口：直接呼应canvas"为什么偏偏是废墟"与Ristelhueber"关于人的证据，但没有人的在场"——Gary Works的厂房与住宅废墟同样需要在"劳动者痕迹"与"被驱逐/被遗弃的历史层"之间建立双重叙事，而非单一的美学化拍摄。[Gilman Contemporary](https://www.gilmancontemporary.com/exhibitions/75-jim-westphalen-echoes-on-the-land/)
+2. **史密森尼美国艺术博物馆《Much Here Is Beautiful》：1976年美国建国两百周年由NEA资助的全国摄影普查档案首次系统性回顾** - 展览集结70余项联邦资助摄影普查项目中的225张照片，将"国家叙事"与"地方田野记录"并置展出。与Project One的接口：呼应canvas"记录与重构之间的张力"节点——NEA普查模式证明大规模、多摄影师协作的地方志式记录可以被档案机构认可为一种方法论，为Gary Works这类长期社区记录项目提供"个人项目如何被纳入国家叙事"的参照路径。[Smithsonian American Art Museum](https://americanart.si.edu/press/2026/29/landmark-exhibition-smithsonian-american-art-museum-unites-us-bicentennial)
+
 ## 2026-10-12
 
 ### 艺术圈新闻
