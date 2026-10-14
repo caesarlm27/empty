@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-14
+
+### 艺术圈新闻
+1. **巴基斯坦卡拉奇双年展因"地区战争局势"宣布取消第五届，是该双年展创办以来首次整届被迫停办** - 据ARTnews 10月14日晨报摘要（转引Hyperallergic报道），主办方称当前地区冲突条件使展览无法安全举行，原计划的策展工作与参展作品均未能与公众相遇。[ARTnews Morning Links](https://www.artnews.com/art-news/news/karachi-biennale-cancelled-shattered-british-museum-porcelain-sparks-debate-china-morning-links-1234802321/)
+2. **大英博物馆95号展厅一件康熙年间御制瓷碗（Percival David藏品）10月初意外坠落损毁，引发中英文化外交争议** - 博物馆证实瓷碗从展架坠落压损下层另一件文物，当时室内无人，货架与支架"未见故障"，具体原因仍在调查；中国社交媒体与官媒借此重提帕特农神庙雕塑归还议题，质疑大英博物馆的文物保管能力。[SCMP](https://www.scmp.com/news/china/diplomacy/article/3370446/cracks-security-qing-dynasty-ceramics-damaged-british-museum-display) · [Greek City Times](https://greekcitytimes.com/2026/10/12/british-museum-damaged-artefacts-parthenon-sculptures/)
+3. **伦敦摄影师画廊10月14日起推出Sanlé Sory个展「Colour Years」，首次在英国展出这位西非摄影师经专业修复、从未公开的彩色底片原作，展至2027年2月21日** - Sory以1960-70年代在其Volta Photo影楼拍摄的黑白肖像闻名，展览聚焦他从1980年代中期起同步拍摄却长埋档案近四十年的彩色作品，并同期展出配套新书《Volta Colour》。[ArtRabbit](https://www.artrabbit.com/events/sanlé-sory-colour-years)
+4. **纽约州卡托纳（Katonah）：Gochman家族原住民艺术收藏的新永久空间「Branchline」将于11月6日开幕** - 由前惠特尼策展人Laura Phipps主导，这座万平方英尺的新空间将呈现收藏中逾800件当代原住民艺术作品的轮换展览，并设驻留工作室。[Hyperallergic](https://hyperallergic.com/gochman-collection-of-indigenous-art-to-open-katonah-space-in-november/)
+5. **香港2026秋季拍卖季（苏富比、佳士得、富艺斯）总成交额突破港币20亿元，草间弥生作品市场反应转冷** - 据《南华早报》报道，本季整体成交额较春季上扬，但草间弥生多件拍品遇冷，反映亚洲艺术市场内部的分化走势。[SCMP](https://www.scmp.com/lifestyle/arts/article/3369448/hong-kong-autumn-2026-art-auctions-top-hk2-billion-kusama-works-get-cool-reception)
+
+### Project One 灵感
+1. **大英博物馆瓷碗坠落损毁："货架与支架未见故障"却坠落的瓷碗，把"什么被保存下来"重新交还给纯粹的偶然** - 这件历经四百年的宫廷御制瓷器,并非毁于战乱或蓄意破坏，而是在无人在场的展厅里一次无法解释的坠落中受损；调查未能给出因果，意外本身成为唯一"证据"。与Project One的接口：直接呼应Curran Hatleberg"chance and accident"方法论与此前雷诺阿失窃案"逃亡路线决定哪幅画被丢弃"的讨论——铁锈带废墟中哪些构件因偶然锈蚀断裂而消失、哪些因无人注意而意外留存，本质上与博物馆货架上瓷碗的命运处于同一种"偶然决定存续"的逻辑中，Gary Works的编辑或可主动标注这种偶然性，而非把"现存"误读为"值得保存"。[SCMP](https://www.scmp.com/news/china/diplomacy/article/3370446/cracks-security-qing-dynasty-ceramics-damaged-british-museum-display)
+2. **Sanlé Sory「Colour Years」：沉睡近四十年的彩色底片，经"精心修复"后才第一次被允许进入摄影史叙事** - Sory以黑白摄影室肖像确立声誉，但他从1980年代中期起同步拍摄的彩色作品被埋藏在个人档案里近四十年，直到此次专业修复才首次公开展出，长期"缺席"于摄影史叙事并非因为不存在，而是从未被认定值得整理。与Project One的接口：呼应canvas"记录与重构之间的张力"与此前「Japanese Women Photographers」讨论过的"谁被允许在场"议题——Gary钢铁厂档案中或许同样存在从未被系统整理、长期被判定为"次要材料"的彩色快照、内部通讯或非正式记录，Sory的案例提示"修复并首次公开"本身即可构成项目叙事的一部分，而非只处理已被认定重要的素材。[ArtRabbit](https://www.artrabbit.com/events/sanlé-sory-colour-years)
+3. **卡拉奇双年展因战争局势整届取消：当"展览"本身成为缺席者，废墟化不只发生在建筑里** - 这是该双年展创办以来首次因地区战争局势被迫整届停办，意味着原本计划的策展工作、参展作品与公众相遇在实现之前即已"废弛"——废墟发生在尚未成形的文化事件里，而非已建成的空间中。与Project One的接口：为canvas"缺席者的痕迹"节点提供一个脱离具体建筑废墟的变体——缺席不仅发生在被拆除的厂房里，也可以发生在一场因外部暴力而从未真正举行的展览中；Gary Works若记录因资金、政治或社区阻力而"流产"的保存/修复/策展计划本身，同样是一种值得捕捉的废墟化痕迹。[ARTnews Morning Links](https://www.artnews.com/art-news/news/karachi-biennale-cancelled-shattered-british-museum-porcelain-sparks-debate-china-morning-links-1234802321/)
+
 ## 2026-10-13
 
 ### 艺术圈新闻
