@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-10-15
+
+### 艺术圈新闻
+1. **东京都写真美术馆「デュエット――アジアン・コンテンポラリー」9月30日开幕（至2027年1月17日）：与北京三影堂厦门摄影艺术中心执行总监滕青云联合策划，六位中日摄影与影像创作者首度以机构级规格同台** - 展览为该馆2018年「About Love」亚洲当代系列的第二回，呈现村越仁、今野富美子、王拓、塔可、罗洋、蒋鹏奕六人作品，是中国艺术家在日本美术馆的首次公开呈现之一。[Tokyo Art Beat](https://www.tokyoartbeat.com/en/events/-/Duet-Asian-Contemporary/B6131856/2026-09-30)
+2. **NPR Illinois 10月12日报道：伊利诺伊州斯普林菲尔德废弃近百年的Pillsbury Mills面粉厂拆除工程接近完成，艺术家/策展人Robert Mazrim同步推出摄影书《Pillsbury Abandoned: Art & Ruin in the Industrial Midwest》，洛杉矶导演Matthew Konicek的纪录片《Ruined》也即将完成** - 该厂1930年代投产、1955年雇员逾1500人，2001年关闭时仅剩约45名工人；非营利组织Moving Pillsbury Forward主导清拆的同时，Mazrim 2022-2025年间持续记录厂区腐朽内部与现场创作的涂鸦/装置艺术，纪录片聚焦"公众罕见得见"的废弛内部空间。[NPR Illinois](https://www.nprillinois.org/arts-life/2026-10-12/ben-singson-speaks-with-robert-mazrim-and-moving-pillsbury-forwa-chris-richmond-about-the-abandon-pillbury-mill-the-art-that-arose-out-of-it-and-the-future-of-the-property)
+3. **法国国家图书馆（BnF）新展「Photographies japonaises de la BnF : 1945-2025, Scènes, signes, sensations」9月30日开幕（至2027年1月31日）：首次系统梳理馆藏近4000件日本摄影藏品，300件展品、近百位摄影师跨越战后80年** - 作为"摄影诞生两百周年"系列活动之一，展览覆盖1945年至今的日本摄影实践演变，含大量黑白原版照片与珍稀摄影书。[Sortir à Paris](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/346410-japanese-photographs-from-the-bnf-an-exhibition-tracing-the-evolution-of-photographic-practice-in-japan-since-1945)
+4. **英国布莱顿POST艺术空间10月16日举办乌克兰主题摄影展「Ukraine: Life Un/Broken」慈善之夜：摄影师Dasha Tenditna与Igor Chekachkov（《100 Days of War》影像日记）现场导览，所得款项捐助乌克兰** - Tenditna 2022年逃离乌克兰后移居剑桥，持续以纪实摄影保持与故土的联系；展览串联"尊严革命"至全面入侵及其持续后果的影像叙事。[Ticket Tailor](https://www.tickettailor.com/events/post/2308371)
+
+### Project One 灵感
+1. **Pillsbury Mills拆除工程与Mazrim的"同步记录"方法论：废墟的终结与关于废墟的艺术，被压缩进同一个正在消失的时间窗口** - Mazrim并未等待拆除完成后再做回顾性记录，而是在2022-2025年拆除进程中持续进驻厂区创作与拍摄，摄影书与纪录片几乎是和推土机同步完成的"抢救式"档案；厂区从1500名工人的鼎盛期萎缩到45人才关闭，本身即是铁锈带去工业化的典型时间弧线。与Project One的接口：直接验证了canvas"记录与重构之间的张力"节点最紧迫的版本——如果Gary Works或其周边建筑进入实际拆除程序，记录工作应尽可能与拆除进度本身同步展开，而非等废墟"稳定"下来才进场；Konicek纪录片聚焦"公众罕见得见的废弛内部"这一取景策略，也可直接用于规划Gary系列中哪些空间最值得被作为"即将永久消失的视角"抢先记录。[NPR Illinois](https://www.nprillinois.org/arts-life/2026-10-12/ben-singson-speaks-with-robert-mazrim-and-moving-pillsbury-forwa-chris-richmond-about-the-abandon-pillbury-mill-the-art-that-arose-out-of-it-and-the-future-of-the-property)
+2. **塔可（Taca Sui）在「デュエット」中的入选：以长曝光、低饱和影像拍摄中国古代碑刻与荒废遗址，让"证据"本身呈现出被时间侵蚀的质感** - 塔可的代表方法是用大画幅相机与极长曝光时间拍摄石刻、古碑与被遗弃的历史遗迹，画面色调压抑、近乎单色，让物理性的风化痕迹成为影像美学的核心而非干扰。与Project One的接口：为Gary Works高炉与车间的构图提供一种具体的技术参照——长曝光本身可以成为一种"让时间自己显影"的记录策略，与Andrew Borowiec"平静凝视"、Becher"中立类型学"形成互补的第三种技术路径，尤其适用于拍摄那些锈蚀速度极慢、肉眼难以察觉变化的金属结构。[Tokyo Art Beat](https://www.tokyoartbeat.com/en/events/-/Duet-Asian-Contemporary/B6131856/2026-09-30)
+3. **BnF「日本摄影80年」展：把一个国家战后至今的摄影实践整体性地当作一份"持续生成中的档案"来策展，而非切割为互不相关的若干"运动"或"流派"** - 展览以近4000件馆藏为基础、横跨80年梳理日本摄影，隐含的策展逻辑是把整个国家摄影史本身视为一份不断被重新编辑、尚未封闭的档案系统。与Project One的接口：为Gary Works档案的长期规划提供一种尺度参照——如果项目持续多年记录同一地点，最终呈现或许不必追求"完整叙事"，而可以像BnF这样，承认档案本身仍在生长、仍待后续材料补全，让"未完成性"成为呈现形式的一部分，呼应canvas"记录与重构之间的张力"。[Sortir à Paris](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/346410-japanese-photographs-from-the-bnf-an-exhibition-tracing-the-evolution-of-photographic-practice-in-japan-since-1945)
+
 ## 2026-10-14
 
 ### 艺术圈新闻
