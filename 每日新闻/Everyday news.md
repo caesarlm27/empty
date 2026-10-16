@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-16
+
+### 艺术圈新闻
+1. **纽约德里画廊Nature Morte创始人Peter Nagy于10月13日去世，享年67岁，是最早将印度当代艺术推向国际视野的美国出身艺术家-画廊主之一** - Nagy与Alan Belcher于1982年在纽约东村创立Nature Morte，1988年关闭后于1992年移居新德里，1997年在印度重开画廊，先后扶持Subodh Gupta、Bharti Kher、Jitish Kallat等艺术家进入国际视野；德里与孟买两地空间将依其遗愿继续运营，原定展览「The Evolution of the Soothsayer Part 2」10月22日照常开幕。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/14/peter-nagy-nature-morte-gallery-indian-contemporary-art-died) · [ArtReview](https://artreview.com/peter-nagy-artist-and-founder-of-nature-morte-1959-2026/)
+2. **南非艺术家Gabrielle Goliath因加沙题材被政府撤回的威尼斯双年展南非馆方案「Elegy」，10月14日转至伦敦私人机构Ibraaz展出，南非馆本身将在威尼斯空置** - 南非文化部长Gayton McKenzie今年1月以"外国势力借国家平台传递地缘政治信息"为由撤回该方案，其中争议焦点是纪念巴勒斯坦诗人Hiba Abu Nada的篇章；艺术家与策展人Ingrid Masondo的法律挑战在2月聆讯中未获支持，南非自2011年以来首次缺席威尼斯双年展。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/14/gabrielle-goliath-brings-work-banned-from-venice-biennale-to-london)
+3. **巴黎塞甘岛（Île Seguin）原雷诺汽车工厂旧址上，新当代艺术中心「Large」10月17日开幕，由RCR Arquitectes设计，开幕展「Moteur Imaginaire」由Cecilia Alemani（第59届威尼斯双年展策展人）策划，首次在法国策展** - 5000平方米场馆中2500平方米用于展览，开幕展联合雷诺艺术文化基金会，集结Vasarely、Dubuffet、Tinguely、Doisneau等历史藏品与55位当代艺术家约120件新作，围绕"人与机器"关系及汽车工业的象征遗产展开，展至2027年3月7日。[Sortiraparis](https://www.sortiraparis.com/en/news/in-paris/articles/349389-imaginary-engine-the-opening-exhibition-of-le-large-on-ile-seguin) · [ArchDaily](https://www.archdaily.com/1056611/rcr-arquitectes-designs-new-paris-cultural-institution-large-on-ile-seguin)
+4. **都灵Gallerie d'Italia-Turin推出摄影师Luca Campigotto大型个展「Wandering Europe」，10月1日开幕至2027年2月7日，由Walter Guadagnini策划，属Roberto Koch「意大利大摄影」系列** - 展出逾80幅2025-2026年间拍摄的照片，行程横跨土耳其、亚美尼亚、格鲁吉亚至葡萄牙、法国大西洋海岸，北抵斯瓦尔巴群岛，南至兰佩杜萨岛与埃特纳火山，聚焦被政治与社会变迁塑造的工业建筑与"记忆之地"。[Gallerie d'Italia](https://gallerieditalia.com/en/turin/exhibitions-and-initiatives/exhibitions/2026/10/01/luca-campigotto-wandering-europe-exhibition-in-turin/) · [Intesa Sanpaolo](https://group.intesasanpaolo.com/en/newsroom/all-news/art-exhibitions/2026/luca-campigotto-wandering-europe-turin)
+5. **诺古奇美术馆将第13届「Isamu Noguchi Award」同时颁予艺术家Danh Vo与时装设计师Yohji Yamamoto，10月6日于纽约举行年度晚宴颁奖** - 该奖设立于2014年，表彰跨领域、具实验性与跨文化交流特质的创作者；Vo此前多次与Noguchi遗产直接对话，包括2018年香港M+ Pavilion「Noguchi for Danh Vo: Counterpoint」及卢森堡Mudam的Akari灯具装置。[The Noguchi Museum](https://www.noguchi.org/benefit)
+
+### Project One 灵感
+1. **「Large」以雷诺汽车藏品与当代艺术并置于原厂址之上：工业遗址不必被清空才能获得新生，它可以把自己的历史直接作为展览内容** - 开幕展没有把Île Seguin的汽车工厂历史当作需要抹去的背景，而是将雷诺艺术文化基金会收藏的历史名作与委任新作并置在同一空间里，让"人与机器"的象征遗产成为展览本身的结构。与Project One的接口：为Gary Works提供了另一种"记录与重构"路径——如果厂区最终被改造或部分保留，呈现方式未必是清空废墟后植入全新白盒子空间，也可以让高炉、天车、工牌等实物本身作为"藏品"与当代摄影并陈，让钢铁厂的工业史直接构成展览的物质基底，而非被摄影图像单方面"翻译"。[Sortiraparis](https://www.sortiraparis.com/en/news/in-paris/articles/349389-imaginary-engine-the-opening-exhibition-of-le-large-on-ile-seguin)
+2. **Gabrielle Goliath《Elegy》与威尼斯南非馆的空置：缺席者的痕迹可以是一整座被清空、却仍被预留着的国家展馆本身** - 南非馆不是因为没有方案而空置，而是方案存在、被完成、却因政治审查被从馆内移除、辗转落地在数公里外的教堂；馆内的空白因此不是"无"，而是一个被主动制造出来的、带着明确政治重量的缺席。与Project One的接口：直接呼应canvas"缺席者的痕迹"节点的更尖锐版本——Gary Works中某些因资金、产权或政治阻力而始终未能被修复、却仍被反复提及、反复立项的空间（例如长期"即将修缮"的教堂、始终搁置的拆除计划），本身即可作为专门的一组影像去呈现："被预留却从未填满的空间"，而非只记录已坍塌的结构。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/14/gabrielle-goliath-brings-work-banned-from-venice-biennale-to-london)
+3. **Luca Campigotto「Wandering Europe」：用一次跨越整个大陆的单一旅程，把分散在不同国家的工业遗迹与"记忆之地"串联成同一份影像档案** - Campigotto没有把欧洲的工业废墟、冲突现场与自然边界当作互不相关的若干地方分别处理，而是用2025-2026两年间的一次连续旅程，把斯瓦尔巴的极地工业设施到兰佩杜萨的移民危机现场纳入同一套视觉语法之下。与Project One的接口：为Gary Works提供一种尺度参照——铁锈带的衰败不必被局限在单一城市或单一工厂内部讲述，若项目未来扩展，或可参照这种"横跨多地、同一凝视"的结构，把Gary与其他铁锈带城市（Youngstown、Pittsburgh等）并置在同一份正在生成的档案中，呼应canvas"美国铁锈带"的区域性视野，而非停留在单一地点的个案记录。[Gallerie d'Italia](https://gallerieditalia.com/en/turin/exhibitions-and-initiatives/exhibitions/2026/10/01/luca-campigotto-wandering-europe-exhibition-in-turin/)
+
 ## 2026-10-15
 
 ### 艺术圈新闻
