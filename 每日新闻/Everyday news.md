@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-17
+
+### 艺术圈新闻
+1. **卢森堡埃施Konschthal当代艺术中心10月23日开幕群展「Ruin Echoes」：欧洲与国际艺术家将废墟处理为"批判性探问的场域"而非怀旧遗物** - 展览横跨影像、雕塑、装置与摄影，考察熵变、碎片与缺席，同期设立艺术家Marta Dyachenko项目室「Graue Strömung」。[Visit Luxembourg](https://www.visitluxembourg.com/event/opening-of-the-exhibition-ruin-echoes-and-of-the-project-room-graue-stroemung-marta-dyache)
+2. **苏格兰北拉纳克郡Gartcosh社区中心10月15日至18日举办「Gartcosh Steel Works」摄影展：本地研究者John Carroll耗时一年收集前钢厂工人及其家属的照片与口述记忆** - 展览是该地「Your Heritage in Focus」项目的公众呈现阶段，此前已于9月举办面向前员工的"遗产社交日"放映会与口述记录活动。[North Lanarkshire Council](https://www.northlanarkshire.gov.uk/news/gartcosh-steel-works-exhibition)
+3. **美国钢铁公司确认Gary Works 14号高炉完成3.5亿美元重砌工程，9月3日正式恢复生产** - 这座美国钢铁全公司产能最高的高炉经逾百万工时、日均千名承包商作业后重新点火，年产能逾200万吨热态金属，整个重砌期保持零"脱岗工伤"记录。[SteelOrbis](https://www.steelorbis.com/steel-news/latest-news/us-steel-returns-blast-furnace-no-14-at-gary-works-to-service-after-350-million-reline-1475861.htm)
+4. **Sophie Ristelhueber将于2027年2月26日至7月18日在里昂当代艺术博物馆（MAC Lyon）举办新展：首次尝试把自己的摄影转化为"可供观众穿行的领域起点"，而非单纯悬挂的平面图像** - 新作延续其聚焦战争与自然灾变留痕之地的创作脉络，紧随其获颁2025年哈苏摄影奖之后。[Unidivers](https://unidivers.fr/event/sophie-ristelhueber-musee-dart-contemporain-de-lyon-lyon-2027-02-26t1100000100/)
+5. **匹兹堡"Rivers of Steel"机构获73.29万美元联邦"拯救美国珍宝"基金，用于稳固国家历史地标Carrie高炉的上部结构** - 6号、7号炉体的放风台、瞭望台与各层平台将在2026年末至2029年间分阶段施工，策略是"稳固而不改变外观"，即不将废墟修复为崭新状态。[Rivers of Steel](https://riversofsteel.com/rivers-of-steel-awarded-732869-from-save-americas-treasures-to-stabilize-upper-sections-of-the-iconic-carrie-blast-furnaces/)
+
+### Project One 灵感
+1. **Gartcosh的"预展期田野协议"：先用一年时间建立与前雇员社区的长期联系，再进入公开呈现阶段** - 为Gary Works档案提供了一个可复制的伦理路径——避免Project One停留在"外来者快拍废墟"的单薄位置，转而以口述记忆的长期采集为先导，让影像最终建立在与当事人关系之上。[North Lanarkshire Council](https://www.northlanarkshire.gov.uk/news/gartcosh-steel-works-exhibition)
+2. **Gary Works 14号高炉"重砌即复产"：废墟与运转在同一片厂区同时发生** - 这座厂区并非单向滑向终局的废墟，而是资本持续选择性"激活"某些部分、"维持废弃"另一些部分的复合状态——与Anna Tsing的contamination理论直接呼应：被污染、被改造之地上的生命（资本的、劳动的）仍在继续生长。Project One需要在同一套影像序列里容纳"正在轰鸣"与"已然锈蚀"两种并存的时间状态。[SteelOrbis](https://www.steelorbis.com/steel-news/latest-news/us-steel-returns-blast-furnace-no-14-at-gary-works-to-service-after-350-million-reline-1475861.htm)
+3. **Ristelhueber里昂新展的"可穿行领域"构想：把摄影处理成观者据以穿越的一片地形的起点，而非终点式的平面陈列** - 为Project One的最终呈现形式提供空间化思路：影像序列可被设计成一条物理可走的路径，复刻在废墟现场行走、辨认、迷失的身体经验,而不只是墙面悬挂的"证据"。[Unidivers](https://unidivers.fr/event/sophie-ristelhueber-musee-dart-contemporain-de-lyon-lyon-2027-02-26t1100000100/)
+
 ## 2026-10-16
 
 ### 艺术圈新闻
