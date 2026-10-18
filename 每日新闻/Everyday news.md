@@ -11,6 +11,17 @@ tags:
 
 ---
 
+## 2026-10-18
+
+### 艺术圈新闻
+1. **韩国江原兰德10月7日为前泗北煤矿办公楼举行「M650博物馆」开馆仪式，10月1日已先行试运营**：该馆前身为1963年至2004年运营的东原矿业泗北矿，馆方保留矗立井架、650号巷道与安全灯充电室等原有结构而非拆除，并将绞车房改造为咖啡馆、提供矿车观光体验；开馆同期举办为期四天（10月7日至10日）的"2026煤炭文化节"，联合五座韩国煤炭转型城市共同庆祝，全馆10月整月免费开放。[Herald Corp](https://biz.heraldcorp.com/article/10896338) · [Asia Economy](https://view.asiae.co.kr/en/article/2026100718033813163)
+2. **第13届1-54非洲当代艺术博览会10月15日至18日于伦敦萨默塞特宫举行，呼应同期的Frieze London艺术周**：本届由策展人Nancy Dantas策划专题单元「West Wind」，集结35家参展方，聚焦非洲及其侨民现代主义艺术家如何被重新纳入当代艺术史叙事，The Art Newspaper称其为"把现代主义者重新带入视野"。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/16/modernists-brought-into-the-mix-by-1-54-contemporary-african-art-fair) · [Somerset House](https://www.somersethouse.org.uk/whats-on/1-54-contemporary-african-art-fair-2026)
+3. **比利时摄影师Léonard Pongo个展「Dialogue with the Source」9月18日于安特卫普FOMU摄影博物馆开幕，展至2027年1月17日，是艺术家在该馆首个大型机构个展**：展览融合摄影、录像与纺织装置，源自艺术家在刚果民主共和国的多次旅行；他使用改装全光谱相机捕捉人眼不可见的波段，画面中刻意不出现人物，却始终关切人与土地的关系，香蕉树是反复出现的意象。[FOMU](https://fomu.be/en/exhibitions/leonard-pongo) · [Antwerp Art](https://antwerpart.be/agenda/leonard-pongo-dialogue-with-the-source)
+
+### Project One 灵感
+1. **M650博物馆「保留而非拆除」的改造逻辑：废墟可以被继续居住与使用，而非只能被封存观看** - 江原兰德没有拆除泗北矿的矗立井架、650号巷道与安全灯充电室，而是原样保留并嵌入新的功能（咖啡馆、矿车观光、当代艺术展），让废墟本身继续被进入、被使用。与Project One的接口：为Gary Works系列提供了一种区别于"纯粹记录衰败"的第三条路径——如果能接触到当地正计划改造或已部分改造的厂房，可以特别关注那些"结构被保留、功能被替换"的过渡性空间，让作品处理的不只是"衰败如何被拍摄"，也包括"衰败如何被重新居住"，呼应canvas"记录与重构之间的张力"节点中"重构"更积极的一面。[Herald Corp](https://biz.heraldcorp.com/article/10896338)
+2. **Léonard Pongo「不可见光谱」摄影：用人眼看不见的波段证明一片土地"始终有话要说"** - Pongo的全光谱改装相机记录的是肉眼无法感知的光线波段，画面中刻意不安排任何人物出现，却借由反复出现的香蕉树等意象，让"土地与人的关系"始终在场而不需要人物本身在场。与Project One的接口：这为Sophie Ristelhueber"证据但无人在场"的策略提供了一个技术层面的延伸——除了"不拍人"之外，还可以尝试用非常规的影像采集方式（如红外、长曝光、多重曝光）让铁锈带厂区本身携带某种"肉眼不可见却确实存在"的信息痕迹，把"缺席者的痕迹"从单纯的构图选择，推进到影像技术本身的隐喻层。[FOMU](https://fomu.be/en/exhibitions/leonard-pongo)
+
 ## 2026-10-17
 
 ### 艺术圈新闻
