@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-10-19
+
+### 艺术圈新闻
+
+1. **加纳艺术家Ibrahim Mahama个展「Le Temps des récoltes（收获季）」10月22日于巴黎卡地亚当代艺术基金会开幕，展至2027年2月28日**：这是他在巴黎的首个大型个展，也是他首次独自占据基金会由让·努维尔重新设计的新馆全部空间，联合9位助理艺术家与团体共同呈现。[Fondation Cartier相关报道](https://www.sortiraparis.com/fi/mita-kayda-pariisissa/altistuminen/articles/346597-sadonkorjuun-aika-suuri-nayttely-joka-avautuu-tana-syksyna-cartier-saatiossa)
+2. **哥伦比亚艺术家Doris Salcedo将于11月12日在纽约白立方画廊展出新作，展至2027年1月23日**：这是她十余年来在美国最重要回顾展之后的最新大型装置，历时三年在波哥大工作室完成，延续此前作品《Uprooted》（2020-22）关于强迫迁徙与丧失的主题。[White Cube](https://www.whitecube.com/gallery-exhibitions/doris-salcedo-new-york-2026)
+3. **刚果艺术家Sammy Baloji在美国的首个博物馆级个展「In Borrowed Tongues: On Extraction, Architecture, and Ornament」9月18日于俄亥俄州哥伦布市韦克斯纳艺术中心开幕**，作为2026年FotoFocus摄影双年展的一部分，以采掘、建筑与装饰纹样之间的关系为核心命题。[FotoFocus](https://www.fotofocus.org/fotofocus-exhibition/sammy-baloji-in-borrowed-tongues-on-extraction-architecture-and-ornament/)
+4. **《The Art Newspaper》10月15日报道，已破产清算的伦敦Stephen Friedman画廊原代理艺术家本届Frieze London纷纷以新画廊身份亮相**：该画廊今年2月进入清盘程序，欠艺术家债务逾80万英镑，Denzil Forrester、Clare Woods、Holly Hendry等人分别转投Thaddaeus Ropac、Victoria Miro、Josh Lilley。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/15/artists-impacted-by-stephen-friedman-gallery-closure-out-in-force-at-frieze-london)
+
+### Project One 灵感
+
+1. **Sammy Baloji「In Borrowed Tongues」：让建筑的装饰纹样成为采掘经济的"证词"** - Baloji此次新展的核心方法论是追问采矿地区的建筑装饰（纹样、立面、构件）如何在形式层面"说出"资源被掘取的历史，而非仅靠文献或影像直接陈述。与Project One的接口：Gary Works厂区现存的装饰性铁艺、门楣铭刻、企业徽标浮雕等建筑细节，或许同样可以被当作一套独立于口述与档案之外的"形式证词"——高炉与厂房本身的建筑语言，已经在用其比例、材质与装饰编码讲述这段铁锈带的采掘-生产-衰败史，拍摄时值得专门为这些构件建立单独的类型志。[FotoFocus](https://www.fotofocus.org/fotofocus-exhibition/sammy-baloji-in-borrowed-tongues-on-extraction-architecture-and-ornament/)
+2. **Doris Salcedo的「用三年手工积累哀悼」：把丧失处理为缓慢堆积而非瞬间记录的物质过程** - Salcedo新作延续《Uprooted》对被迫迁徙与丧失的关注，历时三年手工完成，用极细微的物质单元（据部分报道含稻米、毛发等）长期累积出纪念碑式体量，让"哀悼"本身成为一种缓慢的劳动过程，而非一次性的影像捕捉。与Project One的接口：这与Campany"尘埃是被压抑之物的归来"及Teresa Margolles把房屋碾碎成22吨尘埃的逻辑同属一脉——Gary Works的拍摄或许也可以引入类似的"缓慢累积"维度，例如长期收集厂区锈蚀碎屑、粉尘或退休工人捐赠的微小遗物，让"缺席者的痕迹"以持续积累的物质形式呈现，而不只依赖单张决定性影像。[White Cube](https://www.whitecube.com/gallery-exhibitions/doris-salcedo-new-york-2026)
+3. **Ibrahim Mahama独占卡地亚基金会新馆整层空间：从"馆藏并置展示"到"单一艺术家重新占据建筑"的策展转向** - 继基金会新馆开馆展「Exposition Générale」以近600件馆藏作品铺满全馆之后，此次由Mahama一人的创作接管整座让·努维尔设计的可变平台空间，建筑本身的叙事权从"机构藏品陈列"转移到"艺术家的物质占据"。与Project One的接口：这提示Gary Works系列在最终呈现时，也可以考虑让影像与实物以接管整个展览空间的方式呈现，而非分散陈列的单张照片集合，让观众的身体经验本身去感受铁锈带厂区的尺度与密度，呼应此前"Steel Valley Visions"沉浸式声音装置的讨论。[相关报道](https://www.sortiraparis.com/fi/mita-kayda-pariisissa/altistuminen/articles/346597-sadonkorjuun-aika-suuri-nayttely-joka-avautuu-tana-syksyna-cartier-saatiossa)
+
 ## 2026-10-18
 
 ### 艺术圈新闻
