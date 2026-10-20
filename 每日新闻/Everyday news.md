@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-20
+
+### 艺术圈新闻
+1. **意裔美籍策展人Francesco Bonami 10月16日被任命为莫斯科GES-2文化中心艺术总监**，这位前威尼斯双年展（2003）总监此前已任该机构董事会顾问多年，GES-2本身即由一座20世纪初发电厂改造而成 [The Art Newspaper](https://www.theartnewspaper.com/2026/10/16/us-italian-curator-francesco-bonami-appointed-artistic-director-of-moscows-ges-2-house-of-culture)
+2. **阿姆斯特丹梵高美术馆10月16日起推出惠斯勒大展「Whistler. Dandy and Disruptor」**，奥赛博物馆罕见借出名作《惠斯勒的母亲》，展至2027年1月10日 [Van Gogh Museum via news aggregation](https://www.cnn.com/style/arts)
+3. **巴黎卢浮宫珠宝失窃案满一周年**：被劫的阿波罗长廊至今仍未对公众重新开放，案件仅两名嫌疑人被捕，赃物下落不明 [KPBS](https://www.kpbs.org/news/international/2025/10/20/this-isnt-the-louvres-first-high-profile-heist-heres-a-history-of-earlier-thefts)
+4. **苏富比伦敦10月拍卖季落幕**：格哈德·里希特作品拍得670万英镑（约890万美元），德库宁一件作品拍得1290万美元，领衔本季战后及当代艺术拍卖 [CNN Style Arts](https://www.cnn.com/style/arts)
+5. **佳士得伦敦拍卖Monsoon品牌创始人Peter Simon私人收藏**，成为佳士得伦敦史上成交额最高的单一藏家专场拍卖 [CNN Style Arts](https://www.cnn.com/style/arts)
+
+### Project One 灵感
+1. **GES-2文化中心的"发电厂躯壳"**：一座仍带着工业构造（水塔、涡轮大厅）的前苏联时期电厂，被完整保留外壳后整体转为当代艺术机构——为"美国铁锈带"的高炉、工厂提供了一种"不掩盖身份、直接占据"的改造范式 [报道链接](https://www.theartnewspaper.com/2026/10/16/us-italian-curator-francesco-bonami-appointed-artistic-director-of-moscows-ges-2-house-of-culture)
+2. **卢浮宫阿波罗长廊的"强制性空置"**：失窃一年后，空置的展柜与关闭的长廊本身成为比被盗珠宝更持久的"缺席者的痕迹"——证物不在场，但空间仍被其缺席所定义，呼应 Ristelhueber「没有人的在场」的逻辑 [相关报道](https://www.kpbs.org/news/international/2025/10/20/this-isnt-the-louvres-first-high-profile-heist-heres-a-history-of-earlier-thefts)
+3. **Ken Light摄影书《Report to the Shareholders》（Steidl出版，与铁锈带城市规划者Jason Segedy合著文字）**：用纪实摄影记录美国铁锈带废弃工厂与失修基础设施，并让一位"局内"城市规划者撰文——摄影与政策文本并置，为 Project One 提供"记录者"与"重构者"双重视角并存的参考模型 [D.A.P./Artbook](https://www.artbook.com/9783969993385.html)
+
 ## 2026-10-19
 
 ### 艺术圈新闻
