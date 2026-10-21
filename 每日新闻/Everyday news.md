@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-21
+
+### 艺术圈新闻
+1. **英国塔维斯托克「Ruins and Monuments」展览**（8月1日至10月31日，Tavistock Guildhall Heritage Centre）：摄影师Graham Warren用针孔相机拍摄德文郡与康沃尔郡的废弃矿场遗迹，与画家Duncan Rice的绘画并置展出。[原文链接](https://visit-tavistock.co.uk/event/ruins-monuments-exhibition/)
+2. **豪瑟沃斯（Hauser & Wirth）10月3日于加州帕罗奥图（Palo Alto）开设硅谷首个空间**，落址一座历史邮局建筑，开馆展「Calder | O'Keeffe」呈现亚历山大·考尔德与乔治亚·欧姬芙的友谊档案与作品。[原文链接](https://www.almanacnews.com/ae/features/2026/10/15/upwardly-mobiles-hauser-wirth-makes-grand-entrance-in-palo-alto-with-calder-okeeffe/)
+3. **高古轩巴黎近郊勒布尔热（Le Bourget）空间10月18日起推出丹·弗拉文（Dan Flavin）个展「European Couples」**，展至2027年4月3日。[原文链接](https://gagosian.com/exhibitions/upcoming/)
+4. **深圳天空美术馆「岁月的回响——20世纪遗产」摄影展巡展10月1日开幕**，与「奇迹之城」摄影展联合呈现，继北京、青岛、重庆后巡展至深圳，聚焦全国各地正随城市更新消逝的20世纪城市肌理与工业印记。[原文链接](https://news.sina.cn/sx/2026-10-12/detail-iniuyari7242849.d.html?vt=4)
+5. **第十六届中国摄影艺术节定于2026年10月至2027年2月在河南三门峡举行**，由中国摄影家协会主办，中国摄影艺术馆承办。[原文链接](https://www.chinanews.com.cn/sh/2026/10-17/10716217.shtml)
+
+### Project One 灵感
+1. **Saul Ostrow为Taryn Simon《Father Country I Do Love You》撰写的e-flux评论**（10月3日刊发）：将古根海姆螺旋坡道上的42个章节读作一条必须"用身体走过"的档案路线，而非单一画面的证据——呼应Project One中"记录与重构"之间的张力，提示废墟摄影也可以用"路径"而非单张影像来组织证据。[相关链接](https://www.e-flux.com/criticism/6782476/taryn-simon-s-father-country-i-do-love-you)
+2. **塔维斯托克「Ruins and Monuments」的摄影-绘画并置**：针孔摄影本身自带的模糊与长曝光感，为废墟引入一种内在的时间厚度；绘画作为另一种"介入"手法与摄影并陈展出，接近John Divola在Zuma废墟里用涂鸦介入空间的方法论，可供Project One参考"两种媒介如何共同处理同一片废墟"。[相关链接](https://visit-tavistock.co.uk/event/ruins-monuments-exhibition/)
+3. **深圳「岁月的回响」巡展的"抢救性记录"逻辑**：影像被当作对抗城市更新、留存即将消逝的20世纪工业印记的手段——呼应Anna Tsing "没有未被污染的过去可以回去"的论断，同时留下一个问题：记录究竟是在废墟形成之前抢先保存，还是本身就已经是一种污染/介入？[相关链接](https://news.sina.cn/sx/2026-10-12/detail-iniuyari7242849.d.html?vt=4)
+
 ## 2026-10-20
 
 ### 艺术圈新闻
