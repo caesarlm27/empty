@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-10-22
+
+### 艺术圈新闻
+1. **雅典艺术家Theo Triantafyllidis凭借参与式雕塑《Feral Metaverse (Spider)》获2026年Frieze London艺术家奖**（The Art Newspaper 10月14日报道）：这件由旧运动鞋与医用色丝袜等材料解构重组而成的巨型六足蜘蛛装置，观众可攀爬进入，并需与陌生人协作才能通关内嵌的多人在线游戏，是Frieze与Forma、Google Arts & Culture首次三方联合委任的作品。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/14/frieze-prizewinner-theo-triantafyllidiss-spider-sculpture-aims-to-bring-people-together)
+2. **巴塞尔艺术展巴黎展会（Art Basel Paris）将于10月23日至25日在大皇宫举行，首次由新任总监团队主导**：本届汇集41个国家和地区逾200家画廊参展，标志性的"Oh La La!"再挂展活动首次邀请艺术圈之外的嘉宾策划。[Art Basel](https://www.artbasel.com/paris/highlights)
+3. **阿姆斯特丹国立博物馆（Rijksmuseum）10月9日起推出「Willem de Kooning at Work」，是近四十年来欧洲规模最大的德库宁回顾展**：与芝加哥艺术学院合作，呈现逾120件作品，以素描与工作手稿为主，另有《Woman I》与《Woman and Bicycle》两件代表性油画同期在荣誉画廊展出，展至2027年1月17日。[Rijksmuseum](https://www.rijksmuseum.nl/en/whats-on/exhibitions/willem-de-kooning-at-work)
+4. **柏林魏森湖艺术学院毕业展「SUPERNATURE」10月23日至25日开幕**：艺术家Edgar Schlüter以影像与声音装置构建一个被遗弃的废墟世界，画面中散落着沙滩椅残骸等"业已消逝的人类文明"碎片。[visitBerlin](https://www.visitberlin.de/en/event/supernature)
+5. **Paris Photo与光圈基金会（Aperture）联合设立的摄影书奖项2026年度征件已于9月4日截止，终评将于11月12-15日巴黎摄影展期间揭晓**：入围名单含20部「年度首作摄影书」、10部「年度摄影书」与5部「年度摄影画册」。[Paris Photo](https://www.parisphoto.com/en-gb/program/Paris-Photo-Aperture-PhotoBook-Awards.html)
+
+### Project One 灵感
+1. **Edgar Schlüter「SUPERNATURE」：用声音与影像构建一个没有人类在场、只剩物件残骸的虚构废墟** - 与真实的工业废墟不同，Schlüter的废墟是被构造出来的"业已消逝文明"的遗迹（沙滩椅等日常物的残骸），提示一种反向操作：如果把Gary Works的真实废墟按"虚构考古"的方式重新编排、配上环境声音装置，废墟本身的"证据性"与"被构造性"之间的张力或许能被更直接地呈现出来，而不只停留在摄影静帧。[visitBerlin](https://www.visitberlin.de/en/event/supernature)
+2. **德库宁「at Work」：把素描与工作手稿而非只有成品油画作为回顾展的主体** - 这次展览刻意以120余件作品中的素描、未完成手稿为主，只用两件标志性油画作对照，让观众看见"决定性成品"背后持续被修改、被放弃、被重新捡起的创作过程。与Project One的接口：呼应此前Peter Hujar接触式印相的讨论——Gary Works档案同样可以把田野笔记、被放弃的构图草稿、现场速写等"未完成材料"作为展示主体之一，而非只呈现最终选定的成片，让"记录与重构"的过程本身可见。[Rijksmuseum](https://www.rijksmuseum.nl/en/whats-on/exhibitions/willem-de-kooning-at-work)
+
 ## 2026-10-21
 
 ### 艺术圈新闻
