@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-23
+
+### 艺术圈新闻
+1. **Edward Burtynsky《Shifting Topography》精选作品将于COP31气候大会期间（11月9-20日）在土耳其安塔利亚Akra Antalya展出**（Hürriyet Daily News 10月16日报道）：精选自其伊斯坦布尔Borusan Contemporary个展的航拍"侵蚀"系列与22分钟沉浸式多媒体作品《In the Wake of Progress》，将在联合国气候变化大会现场呈现"地表被持续改造"的视觉证词。[Hürriyet Daily News](https://www.hurriyetdailynews.com/edward-burtynskys-shifting-topography-to-be-shown-at-cop31-in-antalya-228237)
+2. **摇滚摄影师Gered Mankowitz个展「Lost in Rust」10月16日于伦敦NoonPowell Fine Art开幕（展至11月8日）**：展览源于他在父亲爱尔兰工作室花园中发现的一把生锈挂锁，此后他持续大尺幅拍摄风化物件的色彩与肌理，呈现时间在金属表面留下的具体痕迹。[ArtRabbit](https://www.artrabbit.com/events/lost-in-rust)
+3. **Steidl出版社确认将重版Lewis Baltz 1974年经典摄影集《The New Industrial Parks Near Irvine, California》**：D.A.P./Artbook已开放预订，这部以冷峻、去情感化的正面视角记录加州工业园区建设的"新地形"摄影代表作，近五十年后将再次进入流通。[D.A.P./Artbook](https://www.artbook.com/9783869309903.html)
+4. **Yoshitomo Nara个展10月29日将于David Zwirner纽约两处空间（19街与20街）同时开幕，是其近十年来在纽约最大规模个展**：19街空间呈现13件巨型白铜头像雕塑，20街空间集中展出新绘画与大型纸上作品。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/yoshitomo-nara)
+5. **中国摄影师陈炳君（长春师范大学美术学院）废墟题材系列作品受关注，最新作《荒序》（2026）延续其《残扉》《尘像》（2025）的废墟脉络**：三组作品分别聚焦拆迁现场剥落的墙皮朽门、瓦砾间遗弃的石膏人像、逆光枯草与老城残墙的交织，构成一套系统性的中国废墟视觉档案。[Arthing](https://www.arthing.org/?p=63288)
+
+### Project One 灵感
+1. **Lewis Baltz《The New Industrial Parks》重版："去情感化的正面纪实"作为废墟摄影的另一种语法** - Baltz在70年代用近乎建筑测绘般冷峻、无人、正面取景的方式拍摄加州新建工业园区——不渲染废弃，而是让"崭新的工业空间"本身呈现出一种预先内置的荒芜感。与Project One的接口：这提示Gary Works系列或可尝试反向操作——用Baltz式的冷峻正面构图去拍摄厂区中仍结构完整、尚未完全崩塌的部分，让"废墟感"不只来自残破本身，也来自这种近乎科学测绘的疏离观看方式，与Taryn Simon的"证据性"构图形成方法论呼应。[D.A.P./Artbook](https://www.artbook.com/9783869309903.html)
+2. **Burtynsky《Shifting Topography》登陆COP31：把铁锈带废墟重新放回"全球气候叙事"而非"地方衰败叙事"** - Burtynsky的"侵蚀"航拍系列被选入联合国气候大会现场展出，意味着策展方主动把"人类改造地表"的个体影像实践接入全球气候政治议程。与Project One的接口：Gary Works钢铁厂的废弃不仅是美国铁锈带的地方叙事，也是全球去工业化与碳排放转移的具体注脚——可以尝试在作品阐述中引入"气候尺度"的坐标，让单一厂区的废墟成为Anna Tsing"contamination"理论在全球资本流动层面的一个具体案例，而非孤立的美国地方衰败故事。[Hürriyet Daily News](https://www.hurriyetdailynews.com/edward-burtynskys-shifting-topography-to-be-shown-at-cop31-in-antalya-228237)
+3. **陈炳君《荒序》《尘像》：石膏人像与枯草残墙，废墟中"替代性在场"的两种物质隐喻** - 陈炳君不直接拍摄废墟的空镜，而是在瓦砾间放置/发现遗弃的石膏人像（《尘像》），或让逆光枯草与老城残墙彼此交织（《荒序》）——用"非人之物"替代人的在场，制造一种介于Sophie Ristelhueber"没有人的证据"与John Divola"介入废墟"之间的中间状态。与Project One的接口：Gary Works的拍摄中，可以寻找类似的"替代性在场物"——车间里遗留的安全帽、更衣柜里发黄的工装、被植物穿透的操作面板——让这些物件承担"缺席者痕迹"的叙事功能，同时测试陈炳君式的"仪式感对称构图"是否能为铁锈带废墟提供一种不同于美国纪实摄影传统的、更具雕塑感的视觉语法。[Arthing](https://www.arthing.org/?p=63288)
+
 ## 2026-10-22
 
 ### 艺术圈新闻
