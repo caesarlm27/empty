@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-10-24
+
+### 艺术圈新闻
+1. **哥伦比亚艺术家Oscar Murillo新展「Unfinished Thinking: Paintings and Social Maps」10月19日于David Zwirner巴黎空间（108 Rue Vieille du Temple）开幕**：新作以色彩与笔触层叠处理地理迁移、劳工与集体精神等主题，艺术家自述文本串联哥伦比亚、喀麦隆、科特迪瓦、菲律宾、英国、波兰与德国等多地经验。[David Zwirner](https://www.davidzwirner.com/exhibitions/2026/oscar-murillo-unfinished-thinking-paintings-and-social-maps)
+2. **亚历山大·考尔德个展「François Premier」10月19日至12月19日于Hauser & Wirth巴黎Rue François 1er空间展出**：聚焦考尔德1953年重返法国后在普罗旺斯与卢瓦尔河谷萨谢工作室的创作阶段，紧接此前路易威登基金会大型回顾展「Calder: Dreaming in Balance」之后再度在巴黎集中呈现。[Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/alexander-calder-francois-premier/)
+3. **纽约国际摄影中心（ICP）「I'm So Happy You Are Here: 1950年代至今的日本女性摄影师」10月15日开幕，展至2027年1月11日**：由光圈基金会（Aperture）策划，集结石内都、川内伦子、柳美和等28位艺术家作品，巡展自2024年阿尔勒摄影节启幕，历经海牙、法兰克福、伦敦与东京。[ICP](https://www.icp.org/node/130080)
+4. **Laia Abril个展「On Rape and Institutional Failure」美国首展10月15日于ICP纽约开幕**：作为其长期项目「A History of Misogyny」第二章，展览不聚焦单一受害者叙事，转而以摄影、证词、档案物件与声音录像装置追问法律、政治、宗教与社会结构如何令性暴力代代延续。[Untitled Magazine](https://untitled-magazine.com/laia-abrils-on-rape-and-institutional-failure-brings-a-history-of-misogyny-to-new-york/)
+
+### Project One 灵感
+1. **美国有线电视联合报道：铁锈带城市探索摄影师Jerry Olejniczak镜头下的Gary市「Methodist City Church」废墟，他本人拒绝"ruin porn"标签** - 教堂因60-70年代白人迁离Gary后信众持续通勤返堂、最终于近五十年前关闭，如今长椅朽坏、彩窗破碎；Olejniczak称驱动他持续拍摄的是建筑背后的故事而非单纯的废弛景象。与Project One的接口：这为canvas"为什么偏偏是废墟"节点提供了一个具体的伦理参照案例——Gary Works的拍摄同样需要正面回应"ruin porn"的指控，用具体的社区历史（如白人迁离、通勤信众）取代纯粹的视觉废弛美学，才能与Olejniczak式的猎奇废墟摄影划清界限。[WCPO](https://www.wcpo.com/news/national/photographer-finds-beauty-in-forgotten-urban-settings)
+2. **Richard Hahn摄影蒙太奇个展「Grit/Glow」：俄亥俄州扬斯敦钢铁博物馆用"明亮晚霞"与"工业现实"的并置讲述铁锈带城市的双重记忆** - 15幅大尺幅照片蒙太奇将扬斯敦夜空中暖橙色的"炼钢炉光"与制造业的艰辛现实并置，Hahn童年记得那片光是繁荣与稳定的信号，长大后才理解其背后的劳动代价。与Project One的接口：为Gary Works提供了一种具体的视觉修辞——如果厂区仍有运转部分（如14号高炉重砌后的产出光热），可以尝试用类似"美丽与艰辛并置"的蒙太奇结构，让"仍在运转的壮美"与"持续衰败的现实"同框，呼应canvas中废墟与生产并存的复合时间状态。[Vindy](https://www.vindy.com/life/ticket/2025/07/steel-museum-displays-hahns-photomontages)
+3. **Art Basel专题报道"从铁锈到复兴"：匹兹堡以第59届卡内基国际展「If the word we」为核心，示范铁锈带城市如何借当代艺术双年展重塑自身叙事** - 本届卡内基国际展为历届规模最大，61位艺术家参与，并首次将展场扩展至儿童博物馆、科学中心、床垫工厂美术馆等城市多处场所，而非局限于卡内基美术馆内部。与Project One的接口：匹兹堡与Gary同属铁锈带钢铁城市，卡内基国际展的"向城市分散展场"策略提示Gary系列若未来寻求公共呈现，也可以考虑不局限于单一展厅，而是把作品嵌入城市中仍在运作的公共机构（图书馆、教堂、社区中心）里，让"复兴叙事"与"衰败记录"在同一座城市的不同场所同时发生。[Art Basel](https://www.artbasel.com/stories/pittsburgh-art-scene-from-rust-to-renaissance-carnegie-international?lang=en)
+
 ## 2026-10-23
 
 ### 艺术圈新闻
