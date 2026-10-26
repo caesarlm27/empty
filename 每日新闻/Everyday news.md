@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-10-26
+
+### 艺术圈新闻
+1. **Trevor Paglen新展「the most merciful thing in the world」10月1日于FotoFocus Center（辛辛那提）开幕，作为2026年FotoFocus摄影双年展「The Long View」四位重点艺术家个展之一，展至2027年1月23日**：Dazed 10月14日报道将其与南希·雷克斯罗思回顾展并置讨论"摄影危机"——Paglen称AI生成影像已令我们熟悉的"摄影"形态死亡，摄影更接近一种魔术或"施法"行为；展览横跨其近二十年创作，以影像、录像与雕塑追问监控与军事权力体系中"不可见"的部分，以及人脸识别与AI生成图像如何重塑观看本身。[Dazed](https://www.dazeddigital.com/art-photography/article/71149/1/photography-crisis-trevor-paglen-nancy-rexroth-cincinnati-fotofocus-biennial)
+2. **Jenny Holzer个展「J'ai vu / I Have Seen」10月20日于巴黎奥赛博物馆开幕，纪念博物馆建馆四十周年，展至2027年2月21日**：艺术家取材馆藏文献与同时代重要文本，制成大型装置、火车站历史立面投影、石刻铭文与电子屏文字作品，将博物馆本身的历史肌理转化为文字介入的载体。[Musée d'Orsay](https://www.musee-orsay.fr/en/program/whats-on/exhibitions/jenny-holzer-jai-vu)
+3. **巴黎东京宫秋冬展览季「Tous les feux, les fleurs」10月21日开幕，展至2027年2月14日**：以"领土"（地理、历史、政治与社会的多重维度）为核心线索串联七场展览，参展艺术家包括长期关注考古修复、废墟与暴力地理学的Ali Cherri、Sonia Gomes、Paul Kodjo等。[Sortir à Paris](https://www.sortiraparis.com/en/what-to-visit-in-paris/exhibit-museum/articles/335101-palais-de-tokyo-free-on-october-21-and-22-2026-new-exhibitions-to-discover)
+
+### Project One 灵感
+1. **John Divola「Blue with Exceptions」（2019–2024）：在冷战军事废墟乔治空军基地重访"破坏"母题** - Hyperallergic刊发Julia Curl评论文章「What Comes After the End?」，评述Divola个展「The Ghost in the Machine」（Yancey Richardson画廊），将他新近在加州维克多维尔废弃乔治空军基地拍摄的「Blue with Exceptions」系列与其1970年代经典「Vandalism」系列并置——同一位艺术家用半个世纪的创作生涯，反复回到"被破坏的空间"这一命题。与Project One的接口：Divola是Artist Research名单中的核心参照，这组新作提供了一个具体的时间跨度样本——如果Gary Works的拍摄本身也能设计成跨越数十年的"重访"项目，废墟与摄影者的关系会从单次记录升级为一场持续的、不断累积的对话。[Hyperallergic](https://hyperallergic.com/what-comes-after-the-end-john-divola)
+2. **熊汉泉《重构·流年——株洲冶炼厂遗址遗存与影像的空间转译》：废弃冶炼厂的实物遗存与影像在展览空间中并置重组** - 上海X-SPACE富士胶片影像空间展出，策展人、湖南省摄影家协会副主席熊汉泉自2018年株洲冶炼厂关停后持续以田野调查方式跟踪拍摄，此次展览将多年积累的记录性影像、实验性再创作，与从遗址现场收集的历史遗存、老文献、大事年表等"跨媒介"并置，邀请观众共同拼接"地方记忆"（原报道仅标注"9月初"开展，具体年份与展期未能核实，供参考）。与Project One的接口：这正是canvas"记录与重构之间的张力"节点最直接的操作范式——不只展出照片，而是把厂区本身的实物遗存（铭牌、文献、工具）与影像并置展出，为Gary Works未来的呈现形式提供了具体的"实物+影像"混合展陈参照。[中关村在线](https://dcdv.zol.com.cn/1249/12492511.html)
+3. **Sean Hemmerle的「铁锈带」系列：镁光灯外的Gary, Indiana废弃石灰厂** - 这位常驻纽约的摄影师长期拍摄底特律、匹兹堡、托莱多、Gary等铁锈带城市的废弃工业建筑，其中一张正是Gary, Indiana一座废弃石灰厂的彩色影像；据画廊介绍，他的作品近期被开放社会基金会（Open Society Foundations）收入永久收藏，此前已为MoMA、国际摄影中心（ICP）、休斯顿美术馆等机构收藏。与Project One的接口：Hemmerle镜头下的Gary并非US Steel Works本身，而是同一座城市里另一处被遗忘的工业遗址——提示Project One在聚焦Gary Works之余，也可以把目光投向厂区之外、同样废弃却更少被摄影记录的周边工业地景，拓展"铁锈带"叙事的地理广度。[1stDibs](https://www.1stdibs.com/it/arte/fotografia/fotografia-a-colori/sean-hemmerle-ex-impianto-di-calce-gary-indiana/id-a_804733)
+
 ## 2026-10-25
 
 ### 艺术圈新闻
