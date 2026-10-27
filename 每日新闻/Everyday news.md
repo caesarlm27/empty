@@ -11,6 +11,16 @@ tags:
 
 ---
 
+## 2026-10-27
+
+### 艺术圈新闻
+1. **瑞士尼永城堡（Château de Nyon）双展「Ruines et imaginaire : une mémoire photographique」与「Portraits dans l'abandon」持续展出至11月29日**：前者由Andrea Knechtle、Jonathan Della Giacoma、Nicolas Lieber等urbex摄影师记录废弄城堡与宅邸倒塌前的最后痕迹——坠落的横梁、剥落的墙体、侵入的植物；后者是Lea Lund与Erik K的"废弄地人像"系列，强调模特姿态与所在场景的精细对应。[Bluewin](https://www.bluewin.ch/fr/lifestyle-et-tendances/double-exposition-sur-des-lieux-d-laiss-s-au-ch-teau-de-nyon-li.3517373) · [La Télé](https://latele.ch/articles/double-exposition-sur-des-lieux-delaisses-au-chateau-de-nyon)
+2. **香港艺术家Firenze Lai个展10月13日于伦敦White Cube Mason's Yard空间开幕，展至11月14日**：这是她加入画廊后的首次个展，也是其在英国的首次个展，新作均于伦敦驻留期间完成，以具象绘画探讨都市生活背景下身体与集体心理之间的张力，画中人物形态可塑、可无限重组。[White Cube](https://www.whitecube.com/news/firenze-lai-joins-white-cube)
+
+### Project One 灵感
+1. **城堡废墟"抢救式记录"：与消失赛跑的拍摄伦理** - "Ruines et imaginaire"的摄影师们明确将项目定位为"在建筑彻底消失前保存记忆"——横梁将落未落、墙体仍在剥落，拍摄行为本身带着与时间竞速的紧迫感，而不是对已经定型的废墟做静态记录。与Project One的接口：Gary Works部分厂房仍处于持续拆除或自然坍塌的过程中，若能建立对同一建筑物随时间推移渐次崩解的追踪序列（而非单次造访的决定性影像），可以把canvas"记录与重构之间的张力"节点转化为一种带紧迫感的时间性方法论，呼应urbex"抢救记忆"的伦理姿态。[Bluewin](https://www.bluewin.ch/fr/lifestyle-et-tendances/double-exposition-sur-des-lieux-d-laiss-s-au-ch-teau-de-nyon-li.3517373)
+2. **「Portraits dans l'abandon」：让身体与废墟精细对应，而非泛泛地"站在废墟前"** - Lea Lund与Erik K的人像系列强调每张照片都是"模特与场景之间细致适配"的结果——人物的姿态、服饰与所处废弄空间彼此呼应，拍摄前经过具体的场地与动作设计。与Project One的接口：这为John Divola"介入与矛盾"方法论提供了另一个参照点，也为"缺席者的痕迹"给出更具体的实现路径——若Gary系列考虑邀请工人后代重返厂区，可借鉴这种"精细对应"的取景逻辑，让身体姿态与特定工位、特定构筑物之间建立具体的空间对应关系，而非笼统的"在场"。[La Télé](https://latele.ch/articles/double-exposition-sur-des-lieux-delaisses-au-chateau-de-nyon)
+
 ## 2026-10-26
 
 ### 艺术圈新闻
