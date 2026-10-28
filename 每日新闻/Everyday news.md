@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-10-28
+
+### 艺术圈新闻
+1. **Art Basel Paris 2026因周末骚乱预警提前两天闭展，Hyperallergic记录"一边闻着塑料燃烧的气味、一边照常运转"的博览会周**：原定10月25日闭幕的展会实际在10月23日傍晚7点结束，巴黎警方周六一度封锁大皇宫；闭展前两日高价成交依然活跃——大卫·卓纳售出一件格哈德·里希特作品，成交价850万美元，Sprüth Magers售出乔治·康多作品，成交价220万美元。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/22/art-basel-paris-closes-early-due-to-protests) · [Hyperallergic](https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/)
+2. **2026年度杜尚奖（Prix Marcel Duchamp）10月22日揭晓，艺术家二人组David Brognon与Stéphanie Rollin获奖**：获奖作品以"戒酒代币"为核心材料，将瘾症康复过程中不可见、持续进行的内在抵抗转化为可触摸的时间物证；提名展（含另两位入围者Laura Henno、Josèfa Ntjam作品）在巴黎现代艺术博物馆免费展出，展至2027年2月7日。[ArtReview](https://artreview.com/brognon-rollin-wins-2026-prix-marcel-duchamp/)
+3. **一件罗马帝国朱里亚·克劳狄王朝皇帝大理石躯干雕像10月21日在纽约苏富比「Magnum Opus」专场以3430万美元成交，刷新罗马古物拍卖世界纪录**：该作品估价原仅800万至1200万美元，经14分钟、五位藏家竞价后大幅超出预期。[Finestre sull'Arte](https://www.finestresullarte.info/en/market/a-roman-torso-sold-for-34-3-million-an-all-time-record-for-a-roman-artifact)
+4. **ARTnews「Morning Links」10月28日报道：新报告显示英国艺术市场增速落后于主要竞争对手，奥地利素人艺术家约瑟夫·霍费尔（Josef Hofer）去世，享年80岁**。[ARTnews](https://www.artnews.com/art-news/news/uk-art-market-growth-slower-competitors-outsider-1234804072/)
+
+### Project One 灵感
+1. **杜尚奖作品"戒酒代币"：如何为看不见的、持续发生的内在过程找到可触摸的时间标记** - Brognon Rollin把康复中"每多撑一天"的抽象时间感，转译成一枚枚具体可触的代币物件，而非依赖单张决定性影像去"证明"坚持本身。与Project One的接口：Gary Works厂区的锈蚀、沉降等都是缓慢、持续、肉眼难以在单次造访中把握的过程——这提供了一种方法论参照：能否为废墟化本身设计一套"物证"或"标记物"系统（如定点留存的锈蚀样本、逐年比对的构件残片），把"记录与重构"从单一图像扩展为一组随时间累积的实物序列。[ArtReview](https://artreview.com/brognon-rollin-wins-2026-prix-marcel-duchamp/)
+2. **「Portrait of a Paris Art Week on Fire」：警方封锁大皇宫、空气中弥漫塑料燃烧气味时，艺博会仍在"照常营业"** - Hyperallergic记者记录了这种荒诞的并置——被视为最坚固、最被保护的艺术机构空间，一夜之间也可能被外部冲突短暂"废墟化"，而身处其中的人却还在谈论销售额。与Project One的接口：呼应John Divola"介入与矛盾"与Sophie Ristelhueber"关于人的证据，但没有人的在场"——Gary Works的坚固感同样是暂时的、被制度维系的；若能在作品中植入这种"秩序随时可能崩解"的紧张感（而不只呈现废墟已然确定的状态），或许能让"记录与重构之间的张力"更逼近此刻正在发生、而非已经完成的事件。[Hyperallergic](https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/)
+
 ## 2026-10-27
 
 ### 艺术圈新闻
