@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-29
+
+### 艺术圈新闻
+1. **上海「中国精神·火红的年代」敖国兴摄影展** - 2026年3月7日于上海1876新视觉创意园开幕（上海大学上海美术学院主办），敖国兴长期拍摄宝钢工业区，将工业遗存的空间结构转化为视觉语言；开幕嘉宾提出工业文化应从"遗产"走向"遗创"、从室内走向室外 [澎湃新闻](https://www.thepaper.cn/newsDetail_forward_32734253)
+2. **温哥华美术馆「Future Geographies: Art in the Century of Climate Change」** - 加拿大首个大规模探讨气候变化与当代艺术关系的展览，5月开幕、展至2027年1月10日，逾30位艺术家、35件作品，涵盖Edward Burtynsky、LaToya Ruby Frazier等以摄影记录资源开采与地质尺度创伤的创作者 [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/exhibitions/future-geographies/)
+3. **David Campany新著《Walker Evans》出版（Thames & Hudson）** - 320页精装新书，重新评估Walker Evans"既属于他的时代、又远超他的时代"的方法论位置，配合Campany本人策划的「Walker Evans: Now and Then」展（西班牙馬德里Fundación MAPFRE，2-5月） [Thames & Hudson](https://www.thamesandhudson.com/products/walker-evans)
+4. **Magnum Photos第79届年度大会公布新成员** - 苏丹摄影师Salih Basheer与巴勒斯坦/荷兰摄影师Sakir Khader由提名摄影师升级为联盟摄影师（Associate） [Magnum Photos](https://www.magnumphotos.com/theme/agm/)
+5. **休斯顿FotoFest 2026双年展「Global Visions - FotoFest at 40」** - 庆祝机构成立40周年，由联合创办人Wendy Watriss策展，按时间线梳理过往20届双年展的代表作品与议题脉络 [FotoFest](https://fotofest.org/?p=6895)
+
+### Project One 灵感
+1. **「遗产」到「遗创」的叙事反差** - 敖国兴的宝钢摄影展用"活化再生"框定工业遗存，与美国铁锈带摄影传统（David Campany、Curran Hatleberg等）惯常的哀悼性/纪念性视角形成鲜明对照——这正指向canvas中"为什么偏偏是废墟"节点：废墟是终结的证据，还是可以被重新赋予用途的资源？立场选择本身即是政治 [相关链接](https://www.thepaper.cn/newsDetail_forward_32734253)
+2. **气候尺度下的废墟** - 「Future Geographies」把资源开采、生态创伤放进"气候变化世纪"的宏大时间框架，呼应Anna Tsing的contamination理论——铁锈带的废墟不只是经济衰退的遗迹，也是人类世地质层的一部分，为Gary系列提供从"社会史"转向"地质/生态史"叙事的可能接口 [相关链接](https://www.vanartgallery.bc.ca/exhibitions/future-geographies/)
+3. **重读Walker Evans方法论** - Campany新书将Evans定位为"同时代内又超前于时代"的纪实摄影者，而Curran Hatleberg自述正承袭Walker Evans、William Eggleston的美国公路摄影传统——这本书或可补完Artist Research中对Hatleberg方法论谱系的追溯，厘清"记录"本身历史性地如何被建构 [相关链接](https://www.thamesandhudson.com/products/walker-evans)
+
 ## 2026-10-28
 
 ### 艺术圈新闻
