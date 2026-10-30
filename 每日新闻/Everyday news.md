@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-10-30
+
+### 艺术圈新闻
+1. **Curran Hatleberg个展「River's Dream, 2010–2026」10月21日于布鲁克林Higher Pictures画廊开幕，展至12月12日** - 艺术家在该画廊第四次个展，首次完整呈现这组跨越十年、聚焦美国南方人与非人生命"动荡且未解的共存"的65张系列作品全貌，被部分媒体称为"回顾展式"呈现 [Higher Pictures](https://higherpictures.com/press/curran-hatleberg-2/)
+2. **德国Völklingen钢铁厂（UNESCO世界遗产）新展「Erzengel und Sintersonne」（矿石天使与烧结太阳）11月1日开幕** - 首次在钢铁厂原址完整呈现其1873年至今的运营历史全貌，将馆藏实物与文学文本、音乐作品、当代艺术家的空间装置并置；"烧结太阳"指二战后终年笼罩厂区的烧结车间红色粉尘 [Völklinger Hütte](https://guide.voelklinger-huette.org/en/presse/apercu-de-lannee-2026/)
+3. **Cindy Sherman新展「Fabric Matrons」10月13日于伦敦Hauser & Wirth（Savile Row）开幕，展至12月23日** - 首次展出的新系列，香奈儿提供面料与珠宝参与创作，艺术家称这些角色呈现的是"或许是我自己的"随年岁累积的焦虑与神经质 [Hauser & Wirth](https://www.hauserwirth.com/hauser-wirth-exhibitions/cindy-sherman-london/)
+
+### Project One 灵感
+1. **「完整呈现」而非「精选呈现」：Hatleberg把十年65张底片悉数展出** - 不做编辑性筛选，让系列以未经删减的体量本身承载时间跨度，这为Gary Works档案的呈现方式提供一种对照思路：当田野记录积累到一定体量后，"完整档案式展出"是否比"精选高光图"更能承载铁锈带废墟化这一缓慢过程本身 [相关链接](https://higherpictures.com/press/curran-hatleberg-2/)
+2. **馆藏实物+文学+音乐+当代装置的四重并置** - 「Erzengel und Sintersonne」没有止步于把钢铁厂历史陈列为静态文物展，而是邀请当代艺术家以空间装置与馆藏文献、文学文本、音乐作品共同"重新激活"这段运营史，为canvas"记录与重构之间的张力"节点提供比此前熊汉泉案例更进一步的具体操作范式：不仅并置实物与影像，还可引入文字与声音维度 [相关链接](https://guide.voelklinger-huette.org/en/presse/apercu-de-lannee-2026/)
+3. **用材料的"附着"而非影像的"记录"来呈现岁月侵蚀** - Sherman让香奈儿的面料、珠宝直接穿戴在角色身上以表演"随年龄累积的焦虑"，这提示一种不同于纯摄影记录的方法：若Gary Works田野调查能收集厂区本身的锈蚀碎片、氧化构件，让"缺席者的痕迹"以material的方式直接附着/呈现在身体或装置上，或许比单纯镜头记录更逼近"时间如何物质化"这一命题 [相关链接](https://www.hauserwirth.com/hauser-wirth-exhibitions/cindy-sherman-london/)
+
 ## 2026-10-29
 
 ### 艺术圈新闻
