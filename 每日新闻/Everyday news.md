@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-10-31
+
+### 艺术圈新闻
+1. **Susanne Kriemann与Stelios Kallinikou共获柏林C/O Berlin「After Nature Prize 26」摄影奖，双人展9月12日开幕，展至2027年2月3日** - Kriemann延续其对铀与核时代的长期关切，在「Pechblende」系列中让放射性矿石沥青铀矿直接作用于胶片，不经相机、不借助外部光源完成感光 [C/O Berlin](https://co-berlin.org/en/press/after-nature-prize-26)
+2. **Onya McCausland个展「The Residues」10月10日于伦敦CLOSE Gallery与Proposition Bethnal Green联合呈现，展至2027年1月16日** - 艺术家用英国废弃矿区酸性废水自然沉淀析出的氧化铁颜料作画，将矿业污染的化学过程本身转化为绘画材料 [CLOSE](https://www.closeltd.com/exhibitions/52-onya-mccausland-the-residues-in-collaboration-with-proposition-bethnal-green/)
+3. **美国沃斯堡金贝尔艺术博物馆「摄影的第一个世纪：法国国家图书馆珍藏」10月4日开幕，展至2027年1月17日** - 该馆首次摄影主题特展，与法国摄影两百周年纪念同步，呈现逾150件法国国家图书馆藏19世纪摄影经典 [BnF](https://www.bnf.fr/fr/agenda/photographys-first-century-masterworks-bibliotheque-nationale-de-france)
+4. **UCCA北京主馆「卡斯滕·霍勒：双」持续展出至2027年1月31日** - 德国艺术家在大展厅中将空间劈分为"色彩"与"单色"两个平行世界，是其在中国的首个机构级个展 [UCCA](https://ucca.org.cn/en/exhibition/carsten-holler/)
+5. **Gagosian纽约Park & 75空间「Bea Scaccia: Groomed」9月22日开幕，展至12月23日** - 意大利画家在Francesco Bonami策划下展出七件新作，描绘假发、首饰、鞋履等女性配饰堆叠出的静物场景，游走于静物与拟人之间 [Gagosian](https://gagosian.com/exhibitions/2026/bea-scaccia-groomed/)
+
+### Project One 灵感
+1. **没有相机的"摄影"：让污染物自己显影** - Kriemann的「Pechblende」系列不用相机、不用外部光源，直接让放射性矿石的衰变辐射感光胶片——这是对project one"记录与重构"张力的一次极端推演：如果铁锈带的废墟（锈蚀的金属、剥落的粉尘）本身具有化学/物理活性，能否让它们像Kriemann的矿石一样"自己留下痕迹"，而非永远需要摄影师作为外部观察者介入？这也为Anna Tsing的contamination理论提供了一个具体的媒介实验范式 [相关链接](https://co-berlin.org/en/press/after-nature-prize-26)
+2. **颜料即档案：物质本身携带历史，无需图像复现** - McCausland拒绝用图像"描绘"矿业污染，而是直接用污染产生的氧化铁颜料作画——历史被嵌入材料本身。这给Gary Works提供一种对照思路：废墟现场若能采集厂区本身氧化、锈蚀后的粉尘/碎片作为创作材料的直接来源，"记录"便不再依赖镜头的中介，而是让废墟的物质性自己说话，与Ristelhueber"证据性无需人物在场"的策略殊途同归 [相关链接](https://www.closeltd.com/exhibitions/52-onya-mccausland-the-residues-in-collaboration-with-proposition-bethnal-green/)
+3. **摄影两百年的回望："记录"本身是被建构的历史** - 金贝尔这一关于摄影诞生之初的大型回顾恰逢媒介两百周年，提醒project one：摄影的"证据性"从19世纪起就不是中立的——这与Taryn Simon的核心命题（"真的存在过"如何被构造）在时间尺度上互为呼应，为Artist Research中巴特式的照片本体论讨论提供了一个媒介史的纵深背景 [相关链接](https://www.bnf.fr/fr/agenda/photographys-first-century-masterworks-bibliotheque-nationale-de-france)
+
 ## 2026-10-30
 
 ### 艺术圈新闻
