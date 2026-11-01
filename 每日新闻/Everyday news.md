@@ -11,6 +11,17 @@ tags:
 
 ---
 
+## 2026-11-01
+
+### 艺术圈新闻
+1. **Walton Ford个展「An Orbed Drop of Light」9月17日于伦敦Galerie Max Hetzler开幕，展至11月中旬**：艺术家以巨幅博物学风格绘画「Taughannock」描绘已灭绝的旅鸽（passenger pigeon），标题取自济慈《恩底弥翁》诗句，画中同时援引惠特曼《草叶集》与赫拉克利特文本。[Galerie Max Hetzler](https://www.maxhetzler.com/exhibitions/walton-ford-orbed-drop-light-2026)
+2. **Hyperallergic 10月20日刊发布鲁克林Gowanus Open Studios走访报道「Live From the Lavender Lake」**：文章记录Gowanus运河——19世纪因染料与污水呈现薰衣草色而被戏称"薰衣草湖"（Lavender Lake）的超级基金污染场地——如今被崭新公寓楼包围，其污染史正被"洗白"进地产叙事。[Hyperallergic](https://hyperallergic.com/live-from-the-lavender-lake/)
+
+### Project One 灵感
+1. **用博物学绘画传统给"缺席"一个具体的身体** - Ford没有用摄影记录灭绝，而是借19世纪自然史绘画的视觉语言"复活"旅鸽的巨大身躯，让"缺席"获得一个可被凝视、近乎过度真实的替身形象，并以济慈、惠特曼诗句为画面命名——与Tereza Zelenkova让摄影承担文学性的策略遥相呼应。与Project One的接口：Gary Works已拆除的高炉、消失的工序若也能找到一种"博物学式"视觉转译（图纸复原、模型化、标本化处理），或许能为"缺席者的痕迹"提供摄影之外的呈现维度。[相关链接](https://www.maxhetzler.com/exhibitions/walton-ford-orbed-drop-light-2026)
+2. **"薰衣草湖"的洗白：污染被遗忘，才能被资本重新讲述为风景** - Gowanus运河曾是典型的工业污染地标，如今超级基金场地外围却矗立起崭新公寓，其毒性历史正被房地产复兴叙事悄悄覆盖。与Project One的接口：这是Gary Works系列需要警惕的反面案例——"复兴"叙事天然倾向于抹除污染记忆，若要忠于Anna Tsing"没有未被污染的过去可以回去"，拍摄与文字说明应主动抵抗这种洗白冲动，让铁锈带的毒性历史留在画面可见处，而非被诗意化的"重建"覆盖。[相关链接](https://hyperallergic.com/live-from-the-lavender-lake/)
+3. **Lauren Davis「Industry Unraveled」：把铁锈带工厂影像"编织"成纺织品** - 艺术家拍摄俄亥俄、密歇根、宾夕法尼亚与纽约州的废弃工厂，再将影像转化为编织物，用"纺织"这一同样曾是铁锈带支柱产业的媒介承载对工业衰败的记录，呼应她本人从匹兹堡迁居又返乡的个人经历。与Project One的接口：与McCausland用矿业污染颜料作画异曲同工，提供"让记录媒介本身携带产业历史"的另一种材料方案——Gary Works若能找到与钢铁生产相关的物质媒介（钢板蚀刻、熔渣铸型）承载影像，或许比单纯银盐/数字摄影更能让"物质性"本身说话。[相关链接](https://www.lensculture.com/projects/1618904-industry-unraveled)
+
 ## 2026-10-31
 
 ### 艺术圈新闻
