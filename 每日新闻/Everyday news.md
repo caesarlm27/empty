@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-02
+
+### 艺术圈新闻
+1. **巴黎摄影展（Paris Photo）2026年度「Voices」单元主题公布为「Disappearance（消失）」，由Francesco Zanot与Zasha Colah共同策划，11月12-15日于大皇宫举行**：该单元基于一个悖论展开——探讨影像的自我毁灭、对自身死亡与消失的记录，与种族灭绝逻辑的并置。本届恰逢"摄影诞生两百周年"框架下举办。[Paris Photo Voices Sector](https://parisphoto.com/en-gb/exhibitor/voices_sector.html)
+2. **艺术家gozo个展「under the debris」10月17日于柏林Galerie Met开幕，展至11月7日**：艺术家在本地运行早期Stable Diffusion模型生成图像，任由模型产生的伪影与降质效果主导画面，再将图像拆解、舍弃大部分碎片后拼贴重组成"始终无法完全闭合"的作品，将记忆处理为持续运动中的物质而非可封存的档案。[ArtRabbit](https://www.artrabbit.com/events/gozo-under-the-debris)
+3. **艺术家Carlos Agredano个展「Site」11月10日将于普林斯顿大学Hurley Gallery开幕，展至2027年1月16日**：作品将新泽西州的超级基金（Superfund）污染场地与同一时期的极简主义、大地艺术并置，指出新泽西化工产业史与军事化、边境执法用途之间被忽略的关联；新泽西是全美面积第五小却超级基金场地数量最多的州。[Princeton University](https://www.princeton.edu/events/2026/site-exhibition-carlos-agredano)
+4. **MoMA PS1「Hard Art」11月5日开幕，展至2027年3月**：展览梳理1969年至今美国黑人艺术家的抽象绘画实践，集合逾40位艺术家，包括Frank Bowling、Ed Clark、Sam Gilliam、Martin Puryear，并有Torkwase Dyson的大型新委任装置。[MoMA Press Release](https://press.moma.org/wp-content/uploads/2026/03/Hard-Art_Press-Release_Final.pdf)
+5. **泰特英国美术馆（Tate Britain）公布「Vanessa Bell & Duncan Grant: Inside Bloomsbury」将于11月12日开幕，展至2027年4月11日**：与查尔斯顿基金会合作，首次系统梳理这两位布鲁姆斯伯里团体艺术家逾300件作品与五十年创作关系。[Tate Press Release](https://www.tate.org.uk/press/press-releases/vanessa-bell--duncan-grant-inside-bloomsbury)
+
+### Project One 灵感
+1. **用"故意引入的信息损耗"模拟记忆/废墟的衰变** - gozo让AI生成图像自带降质与伪影，再做二次拆解拼贴，使"记忆"呈现为持续运动而非封存档案。与Project One的接口：Gary Works的"记录与重构"张力，或许不必追求高保真复原，反而可以主动引入某种"损耗算法"（重复翻拍、劣化扫描、信息丢失的拼贴），让摄影媒介本身携带废墟的衰变逻辑，而非仅仅记录衰变的对象。[相关链接](https://www.artrabbit.com/events/gozo-under-the-debris)
+2. **把污染场地直接嵌入大地艺术／极简主义的谱系，而非仅作为"废弃工业景观"** - Agredano的「Site」将新泽西超级基金场地与同期的大地艺术并置，揭示两者共享的地理与权力脉络。与Project One的接口：直接呼应Anna Tsing "没有未被污染的过去可以回去"——Gary Works的拍摄若能找到与其同时代极简主义/大地艺术的参照系（如Smithson的Spiral Jetty式姿态），或许能让"铁锈带"摆脱单纯怀旧的"废墟摄影"框架，进入更具批判性的艺术史对话。[相关链接](https://www.princeton.edu/events/2026/site-exhibition-carlos-agredano)
+3. **"消失"本身可以是一种影像语法，而非主题** - Paris Photo「Voices: Disappearance」将影像的自我毁灭与种族灭绝逻辑并置，把"消失"处理为一种主动的、带有伦理重量的视觉策略，而非被动的"东西不在了"。与Project One的接口：对应canvas中"缺席者的痕迹"节点——Gary Works的拍摄对象（消失的工序、拆除的高炉）若能借鉴这种"让消失本身发声"的策展逻辑，或许能跳出单纯记录空镶的废墟美学。[相关链接](https://parisphoto.com/en-gb/exhibitor/voices_sector.html)
+
 ## 2026-11-01
 
 ### 艺术圈新闻
