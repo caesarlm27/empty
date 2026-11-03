@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-03
+
+### 艺术圈新闻
+1. **第18届上海国际摄影艺术展览10月27日于杨浦复兴岛船台公园开幕** - 展览首次移师由老船台、旧塔吊等工业遗存改造而成的复兴岛船台公园，设主题邀请展、青年影像艺术展、公开征集展、基层联动展四大展项，近300件作品来自23个国家和地区。[新华社](https://www.news.cn/photo/20261027/ab072c5cf0e249c69042796f6aa12a13/c.html)
+2. **World Press Photo 2026全球巡展11月推进：希尔弗瑟姆站10月30日、巴塞罗那站11月6日先后开幕** - 继阿姆斯特丹首展后，巡展进入荷兰Fotomuseum Hilversum（至11月29日）与巴塞罗那现代文化中心（至12月13日）两站。[Hilversum站](https://www.fotografie.nl/en/agenda/world-press-photo-exhibition-2026-hilversum)·[巴塞罗那站](https://www.worldpressphoto.org/calendar/2026/barcelona-spain)
+3. **Gagosian「Friends and Legends: The Collection of Michael Chow」11月开幕** - 展览呈现传奇餐厅人物周英华（Michael Chow）的私人收藏，先于比弗利山庄呈现（11月4-7日），后移至纽约麦迪逊大道新空间（11月14日至12月22日），恰逢秋季拍卖季。[Gagosian](https://gagosian.com/exhibitions/2026/friends-and-legends-the-collection-of-michael-chow-new-york/)
+4. **David Zwirner呈现Jem Perucchini个展「Sospiro」，11月6日于纽约Tribeca空间开幕** - 这位出生于埃塞俄比亚的意大利画家首次在美国举办个展，延续其将黑人形象引入文艺复兴图式传统的绘画实践。[Ocula/David Zwirner](https://ocula.com/art-galleries/david-zwirner/exhibitions/jem-perucchini-sospiro/)
+5. **Julie Curtiss个展「UNREAL」11月10日于Gagosian纽约West 24街空间开幕** - 这是该画廊首次在纽约呈现Curtiss的作品，延续其以头发、美甲、海鲜等日常意象构建的超现实绘画与雕塑语言。[Ocula/Gagosian](https://ocula.com/art-galleries/gagosian-gallery/exhibitions/julie-curtiss-unreal/)
+
+### Project One 灵感
+1. **老船台与新影像的"邂逅"：展场本身即是一次介入** - 复兴岛船台公园把退役的船台、塔吊等工业遗存直接用作摄影展的展场容器，新影像"嵌入"旧厂房结构——这与John Divola在Zuma系列中"在废墟里放置新东西"的介入逻辑形成跨语境呼应。与Project One的接口：Gary Works的厂房空间若未来需要公共呈现，也可以借鉴这种"让新内容与旧结构直接对话"而非把废墟仅当背景板的策展姿态。[新华社](https://www.news.cn/photo/20261027/ab072c5cf0e249c69042796f6aa12a13/c.html)
+2. **"活化利用"叙事的潜在风险：复兴岛案例是Gary Works的一个镜像警示** - 船台公园由工业遗存"活化"而来，官方叙事强调城市更新与文创价值，但工业污染、工人劳动史等"难以被观赏化"的记忆往往在这种转化中被悄悄过滤——这与此前整理过的Gowanus运河"薰衣草湖洗白"案例构成姊妹关系。与Project One的接口：拍摄Gary Works时需警惕同样的诗意化陷阱，让衰败与污染的痛感留在画面中，而非被"活化"叙事提前抹平。[新华社](https://www.news.cn/photo/20261027/ab072c5cf0e249c69042796f6aa12a13/c.html)
+3. **巡展机制本身是一种"重构"：同一组影像如何被不断重新语境化** - World Press Photo同一套获奖作品依次在阿姆斯特丹、希尔弗瑟姆、巴塞罗那等不同城市巡回展出，每一站的本地语境、空间与观众都在重新"编辑"这组影像的意义。与Project One的接口：这提示"记录与重构"的张力不仅存在于拍摄瞬间，也持续发生在后续的展示与流通过程中——Gary Works的素材若以巡展或多场地形式呈现，场地本身也会成为重构的一部分。[Hilversum站](https://www.fotografie.nl/en/agenda/world-press-photo-exhibition-2026-hilversum)
+
 ## 2026-11-02
 
 ### 艺术圈新闻
