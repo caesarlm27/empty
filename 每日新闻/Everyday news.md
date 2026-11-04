@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-04
+
+### 艺术圈新闻
+1. **英国摄影学生Rupert Allen《Church of Coal》获2026年AOP学生摄影奖"全场大奖"与"人物"类金奖**：格洛斯特大学纪实摄影系学生用大画幅黑白相机，记录西欧硕果仅存、仍在运营的最后一座斜井煤矿（南威尔士），项目与英国全国矿工工会（NUM，庞蒂普里德分部）及威尔士国家博物馆合作完成。[Digital Camera World](https://www.digitalcameraworld.com/photography/awards-and-competitions/using-large-format-photography-this-student-wins-two-major-photo-awards-for-recording-coal-miners-in-the-last-working-drift-colliery-in-western-europe)
+2. **巴尔的摩The Peale美术馆「Jones Falls 2076」展览10月15日开幕，展至11月22日**：展览邀请艺术家、设计师与社区居民共同想象被埋入地下逾百年、又被高速公路覆盖的琼斯瀑河（Jones Falls）未来五十年的样貌，是"Jones Falls 2076"项目年度活动的收官呈现，三楼展厅含装置作品《The Civic Forest》。[Baltimore.org](https://baltimore.org/event/jones-falls-2076-exhibition/)
+3. **Cleveland-Cliffs旗下加拿大钢厂Stelco汉密尔顿厂区冷轧与镀层精整线裁员落地，渥太华政府介入施压**：公司9月28日宣布因美国对加钢材50%关税冲击市场而无限期停产部分精整产线，影响约350-500名工人，裁员通知10月9日（汉密尔顿）与10月24日先后生效；加拿大工业部长公开表态"极度失望"，联邦政府以2024年收购承诺为由威胁诉诸法律，公司CEO Lourenco Goncalves则坚持停产属合法权利。[CTV News](https://www.ctvnews.ca/toronto/article/im-furious-hamilton-mayor-slams-stelco-decision-to-lay-off-350-workers/)·[The Hub](https://thehub.ca/2026/10/01/stelco-to-lay-off-up-to-500-workers-as-ottawa-vows-to-enforce-cleveland-cliffs-takeover-pledges/)
+4. **第十四届ART021上海廿一当代艺术博览会将于11月12-15日在上海展览中心举行**：本届设主画廊、Approach新锐画廊、公共项目Beyond与特别项目四大板块，是上海艺术周期间的核心艺博会之一。[ArtsBird](https://artsbird.com/en/csiaf/a28851df-e3a9-489a-90ab-6a4d7759c55e)
+5. **古根海姆阿布扎比美术馆公布开馆日期：2026年12月11日，历经约二十年筹备终于落地萨迪亚特岛文化区**：这是古根海姆全球网络第四座分馆，将与毕尔巴鄂、威尼斯、纽约总馆共同构成其国际版图。[Artprice](https://news.artprice.com/en/15887/guggenheim-abu-dhabi-opening-announced-for-december-11-2026-after-twenty-years-of-waiting)
+
+### Project One 灵感
+1. **《Church of Coal》的"准入方法论"：通过工会与博物馆取得现场信任，而非单纯的摄影师-被摄者关系** - Allen并非以外来观察者身份闯入矿区，而是先与NUM矿工工会、威尔士国家博物馆建立合作关系，再获得深入矿井拍摄的许可与信任。与Project One的接口：Gary Works同样是仍部分运转、受公司与工会双重管控的产权空间，若要获得比街拍/航拍更深入的现场接触，或许需要借鉴这种"先建立机构性合作关系、再谈拍摄"的路径，而非期待以个人身份直接叩门。[相关链接](https://www.digitalcameraworld.com/photography/awards-and-competitions/using-large-format-photography-this-student-wins-two-major-photo-awards-for-recording-coal-miners-in-the-last-working-drift-colliery-in-western-europe)
+2. **「Jones Falls 2076」：把"记录过去的废墟"反转为"共同想象未来"，缺席可以指向前方而非仅指向过去** - 这条河流并非自然衰败成为废墟，而是被人为填埋、覆盖上高速公路而彻底从城市地表"消失"——展览没有停留在挖掘这段被掩埋的历史，而是邀请居民一起设想五十年后它可能重新浮现的样子。与Project One的接口：目前canvas中"缺席者的痕迹"多指向回溯性的考古式挖掘，这个案例提示另一种可能——用参与式、推测性的方式让当地社区（而非摄影师单方面）想象Gary Works五十年后的样貌，让"记录与重构"的张力里加入"面向未来的重构"这一维度，而不只是对过去的修复或哀悼。[相关链接](https://baltimore.org/event/jones-falls-2076-exhibition/)
+3. **Stelco汉密尔顿停产：同一家公司的资本决策，决定了哪片铁锈带此刻正在"被制造"** - Cleveland-Cliffs既是此前多次出现在Project One调研中、持续调整Gary/Burns Harbor厂区产能的公司，也是这次导致加拿大汉密尔顿工人失业的母公司——同一套关税与成本逻辑，在美加两国制造出不同步、却同源的废墟化事件。与Project One的接口：直接印证Anna Tsing"没有未被污染的过去可以回去"的另一层含义——铁锈带的废墟化不是某个地方的孤立历史终点，而是跨国资本持续、实时的空间再分配决策的副产品；Gary系列的文字阐述可以明确指出，镜头前的这座厂区正与大洋彼岸的另一座厂区共享同一份财报与同一位CEO。[相关链接](https://thehub.ca/2026/10/01/stelco-to-lay-off-up-to-500-workers-as-ottawa-vows-to-enforce-cleveland-cliffs-takeover-pledges/)
+
 ## 2026-11-03
 
 ### 艺术圈新闻
