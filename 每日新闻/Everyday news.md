@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-11-05
+
+### 艺术圈新闻
+1. **Art Week Tokyo 2026第五届本周（11月4-8日）举行，参展场馆创纪录达55-56家**：《艺术新闻》11月2日报道，本届核心活动「AWT Focus」扩展至10个场地，由维也纳画廊节「Curated by」策展团队策划十场展览；东京国立新美术馆同期联合香港M+呈现「Prism of the Real: Making Art in Japan 1989–2010」。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/02/another-way-of-engaging-the-city-centrepiece-of-art-week-tokyo-sends-visitors-to-venues-across-the-capital)
+2. **巴黎摄影展（Paris Photo）公布第五届「Elles x Paris Photo」策展人为Aldeide Delgado**：展会定于11月12-15日于大皇宫举行；Delgado是艺术史学者、WOPHA（国际女性摄影师档案）创始人，该专题路线自2018年设立以来已将展会中女性摄影师占比从20%提升至39%。[Paris Photo](https://www.parisphoto.com/en-gb/program/elles.html)
+3. **英国纽卡斯尔当代艺术中心（NCA）「Under Development: What Happens When Cities Change?」10月17日开幕，展至11月28日**：汇集Amber Collective与Four Corners两大纪实摄影档案逾50年的影像，将人口规模相近的泰恩赛德（Tyneside）与伦敦东区并置对比——两地同样经历工业衰退、住房清拆与城市更新，展览追问规划决策如何塑造普通人的居所与生活。[All-About-Photo](https://www.all-about-photo.com/photography-article/2205/under-development-what-happens-when-cities-change)
+4. **达拉斯艺博会宣布将从市中心FIG场馆搬至南卫理公会大学（SMU）美式足球训练馆**：《艺术新闻》10月29日报道，这是该博览会近20年历史上首次更换场地，新场馆Armstrong Fieldhouse面积6.7万平方英尺、层高55英尺。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/29/dallas-art-fair-scores-new-venue-at-football-training-facility)
+
+### Project One 灵感
+1. **用"双城并置"的纪实摄影档案方法处理铁锈带题材** - 「Under Development」没有孤立呈现泰恩赛德的工业衰退，而是调用Amber Collective（1969年落地泰恩赛德）与Four Corners（1973年创立于伦敦东区）两个独立档案库，把人口规模相近、却分处英国南北的两座"衰退之城"并置对话。与Project One的接口：Gary Works目前的素材几乎全部来自单一地点，若能找到另一座铁锈带城市（如Youngstown、Flint或Bethlehem）的历史纪实档案作为并置对象，让Gary的废墟不再是孤例，而是"去工业化"这一结构性进程在不同地点的重复样本——这也呼应Anna Tsing"废墟不是例外状态，而是资本流动留下的常规地貌"的论点。[相关链接](https://www.all-about-photo.com/photography-article/2205/under-development-what-happens-when-cities-change)
+2. **"谁被允许记录、以何种身份记录"本身也是一种缺席者的痕迹** - 「Elles x Paris Photo」八年间将女性摄影师在巴黎摄影展的占比从20%推高到39%，提醒人们：铁锈带/废墟摄影这一类型长期由男性纪实摄影师（Evans、Shore、Burtynsky等）主导建构，这本身构成另一层"缺席"——不是画面中没有人，而是某类观看位置在历史叙事中长期不在场。与Project One的接口：在梳理Gary Works的参考谱系时，可主动纳入女性/非男性视角对工业废墟的记录（如LaToya Ruby Frazier对Braddock钢铁镇的身体性书写），让"记录与重构"的张力也包含"谁在重构、重构的立场是什么"这一层追问。[相关链接](https://www.parisphoto.com/en-gb/program/elles.html)
+
 ## 2026-11-04
 
 ### 艺术圈新闻
