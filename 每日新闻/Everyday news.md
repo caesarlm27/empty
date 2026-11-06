@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-11-06
+
+### 艺术圈新闻
+1. **纽约首届「Art Week NYC」将于11月11-14日举行**：由Artforum联合ARTnews与新美术馆（New Museum）共同发起，首届全市性当代艺术节，整合画廊开幕、展览导览与艺术家对谈，是纽约艺术界首次尝试打造统一的秋季艺术周品牌。[Artforum](https://www.artforum.com/news/inaugural-art-week-nyc-to-debut-in-november-2026-1234752162/)
+2. **法国摄影师JONK新摄影集《Lost Paradises》11月9日由ACC Art Books出版**：收录其在14个国家拍摄的226张照片，聚焦被自然重新占据的废弃建筑与场所，延续其《Naturalia》《The Lost World》系列的"废墟重生"母题，限量版随书附赠五张大幅原作印刷品。[ACC Art Books](https://www.accartbooks.com/uk/book/lost-paradises/)
+3. **法国圣埃蒂安「城市在劳作：圣埃蒂安及其地区摄影展」11月3日于圣埃蒂安艺术与工业博物馆开幕，展至2027年3月26日**：展览集合逾300张自1850年至今的摄影作品，并置François Kollar 1930年代初拍摄的地方影像与当代劳动图景，刻意不将主题局限于狭义的"工业摄影"（如机器旁的工人），而是呈现劳作本身与城市肌理的长期纠缠。[Unidivers](https://unidivers.fr/event/la-ville-travaille-photographies-saint-etienne-et-sa-region-musee-dart-et-industrie-saint-etienne-42-000-saint-etienne-loire-2026-11-03t1000000100/)
+4. **巴黎卢浮宫「Louvre Photo」摄影展11月4日开幕，展至2027年5月3日**：为纪念摄影诞生两百周年，展览集合逾300幅从达盖尔1839年卢浮宫银版照片至今、以卢浮宫本身为对象或在卢浮宫内拍摄的影像，由Jeu de Paume馆长Quentin Bajac策划，并设有公众摄影征集活动将入选作品纳入展线。[Louvre](https://www.louvre.fr/en/what-s-on/exhibitions/louvre-photo)
+
+### Project One 灵感
+1. **JONK《Lost Paradises》："被自然重新占据"提供了废墟叙事中"衰败"之外的另一极** - JONK的废墟影像不强调崩塌与消逝，而是聚焦藤蔓、青苔与积水如何系统性地重新编织建筑内部——废墟在这里不是终点，而是另一种生态系统的起点。与Project One的接口：直接呼应Anna Tsing"废墟里的生命"命题，提示Gary Works在记录锈蚀钢结构时，可同时留意厂区缝隙中自发生长的植物与积水痕迹，让"contamination"理论获得一组具体的、非人类能动性的视觉证据，而不止是人类缺席的证明。[相关链接](https://www.accartbooks.com/uk/book/lost-paradises/)
+2. **「城市在劳作」拒绝把主题收窄为"机器旁的工人"：劳作本身比工业景观更大** - 圣埃蒂安这场展览的策展声明特意强调，若将主题局限在"工厂里的工人"或"城市肌理中的工厂"，会把劳作的复杂性过度简化为视觉奇观；展览因此并置Kollar近百年前的影像与当代劳动图景，让"劳作"成为贯穿一个世纪的持续状态而非历史标本。与Project One的接口：Gary Works目前的素材以厂房与设备的空镜为主，这提示一种扩展方向——若能找到Gary钢铁工人及其后代当下的劳作或生活影像（而非仅是历史档案），废墟叙事可以从"记录已消失的劳作"延伸为"记录劳作如何在同一地理中持续变形"，呼应canvas"记录与重构之间的张力"节点。[相关链接](https://unidivers.fr/event/la-ville-travaille-photographies-saint-etienne-et-sa-region-musee-dart-et-industrie-saint-etienne-42-000-saint-etienne-loire-2026-11-03t1000000100/)
+3. **卢浮宫「Louvre Photo」：让同一场所被两百年摄影史反复"记录"，本身构成一部媒介物质性的编年史** - 展览不呈现卢浮宫馆藏的艺术品，而是呈现"卢浮宫建筑本身"如何被从达盖尔银版到数码影像的历次摄影技术反复拍摄——同一个物理场所在不同介质、不同世代摄影师手中呈现出彼此不连续的面貌。与Project One的接口：若Gary Works能够找到钢厂在不同年代（兴盛期的企业宣传照、停产初期的新闻影像、当下的数码拍摄）被拍摄的历史影像，可借鉴这种"同一场所跨媒介编年"的结构来组织素材，让"记录"本身的技术演变成为作品叙事的一层，而不只停留在拍摄内容层面。[相关链接](https://www.louvre.fr/en/what-s-on/exhibitions/louvre-photo)
+
 ## 2026-11-05
 
 ### 艺术圈新闻
