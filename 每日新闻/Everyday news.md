@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-07
+
+### 艺术圈新闻
+1. **南·戈尔丁「You Never Did Anything Wrong」11月24日将于伦敦黑沃德美术馆开幕**：这是戈尔丁自2002年以来在英国机构的首次个展，作为南岸中心75周年核心项目之一，将展出一组与其近期影片《You Never Did Anything Wrong》相关联的全新摄影作品，展期至2027年3月7日。[Southbank Centre](https://www.southbankcentre.co.uk/press/the-southbank-centres-hayward-gallery-announces-major-exhibition-by-nan-goldin/)
+2. **迈阿密摄影画廊主Dina Mitrani将在小河区（Little River）创办聚焦"镜头媒介"的新机构**：据《The Art Newspaper》11月6日报道，这座专注摄影、电影与录像的新空间将落地于近年被视为迈阿密文化版图新热点的小河区，为该市持续扩张的艺术生态增添一处专门的"镜头艺术"机构。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/06/new-miami-art-space-lens-based-work-mitrani-art-little-river)
+3. **迈阿密当代艺术学院（ICA Miami）任命Gensler为新馆改造建筑师**：《The Art Newspaper》11月5日报道，ICA Miami将由设计了今年新MoMA扩建工程的同一家事务所Gensler，改造其2024年以2500万美元购入、原属De la Cruz Collection的建筑，新增约3万平方英尺展览与公共项目空间，耗资4000万美元，计划2027年底开放。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/05/ica-miami-taps-gensler-to-renovate-new-building)
+4. **第16届达喀尔非洲当代艺术双年展（Dak'Art）将于11月19日至12月19日举行，主题定为「(Anti)Fragility: 修复的艺术与反弹的策略」**：艺术总监Morad Montazami将"脆弱"本身转化为一种创造性与社群性的修复策略，而非单纯的衰败状态，是本届双年展的核心方法论框架。[Biennial Foundation](https://biennialfoundation.org/2026/04/dakart-biennale-selects-morad-montazami-as-artistic-director/)
+5. **迈阿密收藏家夫妇Cristina Chacón与Diego Uribe旗下DC Art Foundation将于11月29日开设新空间「DC Lab」，开馆展呈现古巴艺术家Carlos Garaicoa的迈阿密首次个展**：《The Art Newspaper》11月2日报道，这一9000平方英尺、免费开放的空间将与国际画廊Continua、Mor Charpentier联合呈现Garaicoa个展，后者是该基金会现任驻留艺术家。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/02/dc-art-foundation-to-open-new-space-in-miami)
+
+### Project One 灵感
+1. **Carlos Garaicoa："尚未存在就已被宣告的废墟"与用细线重建消失建筑轮廓的方法** - Garaicoa以哈瓦那建筑废墟为核心素材，早期做纪实摄影，后直接介入空间——用拉紧的细线在废墟现场重新勾勒出已拆除或从未建成建筑的轮廓，将"未完成的乌托邦"本身处理为一种废墟形态；评论称其作品是"在真正存在之前就已被宣告的未来废墟"。与Project One的接口：直接对应canvas「记录与重构之间的张力」节点——Gary Works若不满足于单纯记录现存的锈蚀结构，也可尝试用细线、投影或叠印等手段，在厂区现场重新标出已被拆除的高炉、传送带或已消失的生产线轮廓，让"缺席"本身获得一个可见的几何形态，而不只是空镶的取景。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/02/dc-art-foundation-to-open-new-space-in-miami)
+2. **Dak'Art「(Anti)Fragility」：把脆弱处理为修复与反弹的策略，而非单纯的衰败终点** - 本届达喀尔双年展的策展框架主张"脆弱"本身可以转化为社群性、创造性的修复力量，呼应Anna Tsing"contamination"理论中"没有未被污染的过去可以回去，但废墟里仍有生命在继续"的论点。与Project One的接口：为Gary Works的文字阐述提供一种可借用的立场——与其把铁锈带处理为单向的衰败叙事，也可以追问厂区废墟中是否存在"反弹"的迹象（自发生长的植物、非正式占用、社区记忆的持续讲述），让"记录"本身带有修复性的姿态，而非纯粹的哀悼。[Biennial Foundation](https://biennialfoundation.org/2026/04/dakart-biennale-selects-morad-montazami-as-artistic-director/)
+3. **南·戈尔丁时隔二十余年回归英国机构：用新摄影作品延续对逝去之人的影像悼念** - 戈尔丁的创作长期围绕亲密关系中的失去与死亡（艾滋危机中逝去的朋友、成瘾、暴力），黑沃德此次新展延续这一脉络，以新作品继续"为缺席者留影"的方法论。与Project One的接口：呼应canvas「缺席者的痕迹」节点——戈尔丁的方法提示，"缺席"不必止于拍摄空无一人的建筑本身，也可以通过持续追踪与某地/某物相关联的具体个人（如仍在世的前钢厂工人），让废墟的缺席感扎根于可被指认的、有名字的生命史，而非停留在纯粹的空间美学。[Southbank Centre](https://www.southbankcentre.co.uk/press/the-southbank-centres-hayward-gallery-announces-major-exhibition-by-nan-goldin/)
+
 ## 2026-11-06
 
 ### 艺术圈新闻
