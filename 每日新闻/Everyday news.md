@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-08
+
+### 艺术圈新闻
+1. **曾梵志个展11月5日于Hauser & Wirth纽约Wooster街空间开幕**：这是曾梵志近十年来首次在纽约举办个展，呈现一件新雕塑与一组描绘"想象中的天体风景与地形"的全新绘画，展至2027年1月16日。[ArtRabbit](https://www.artrabbit.com/events/zeng-fanzhi-2026)
+2. **拉希德·约翰逊（Rashid Johnson）个展「Birthday Boys」11月3日于Hauser & Wirth纽约同一空间开幕**：展览包含四件新马赛克作品、一组悬挂的"精疲力竭的人物"雕塑系列，以及一部同名新片《Birthday Boys》（2026），探讨亲密与独立之间的张力，展至2027年1月16日。[ArtRabbit](https://www.artrabbit.com/events/rashid-johnson-birthday-boys)
+3. **托马斯·鲁夫（Thomas Ruff）个展「In Series, 1979–2024」与弗兰克·沃尔特（Frank Walter）个展「The World Through」11月13日将同期于David Zwirner洛杉矶空间开幕**：鲁夫展是其自1990年以来首次在洛杉矶举办个展，回顾其四十余年创作，并将与巴黎摄影展（Paris Photo）期间的特别呈现同步，两展均展至2027年2月6日。[ArtRabbit](https://www.artrabbit.com/events/thomas-ruff-in-series-19792024-david-zwirner-los-angeles)
+4. **第13届西岸艺术与设计博览会（West Bund Art & Design）将于11月10日至15日在上海西岸艺术中心举行**：本届博览会共有171家画廊参展，其中54家为首次亮相，是上海秋季艺术周的核心艺博会之一。[Charles Ede](https://www.charlesede.com/exhibitions/66/)
+5. **英国社会地理学家Alastair Bonnett新书《New Ruins: The Story of the World in Twenty-One Abandoned and Collapsing Places》10月由Quarto/Ivy Press出版**：全书考察21个"废弃与崩塌中"的地点——从收缩城市、废弃购物中心到未完成的大型项目——主张废墟不再只是过去的遗迹，而是现代性本身的内在特征。[Quarto](https://www.quarto.com/books/9781805703228/new-ruins)
+
+### Project One 灵感
+1. **Marc Wilson《The Edge of Ruin》：用"地形测量"而非怀旧叙事记录英国后工业地貌** - Wilson自费出版（Two&Two Press，经Kickstarter众筹）的这部摄影集，拍摄对象是废弹矗坑、采石场、矿井与废弃供水工程遗迹，刻意避免"废墟猎奇"（ruin porn）与浪漫化处理，延续其topographic/survey一脈的冷静记录方法。与Project One的接口：直接对应canvas中"去情感化正面纪实"（Lewis Baltz脉络）的方法论——Gary Works的拍摄同样可以借鉴这种拒绝煽情、以测量式目光扫描厂区结构的姿态，让废墟本身的几何与物质状态说话，而非依赖氛围感的渲染。[On Landscape](https://www.onlandscape.co.uk/2025/07/marc-wilson-the-edge-of-ruin/)
+2. **Alastair Bonnett《New Ruins》的核心论点：废墟不再只是过去的遗迹，而是现代性的内在特征** - Bonnett把收缩城市、废弃购物中心、未完成的大型项目都纳入"废墟"的当代谱系，主张废墟化不是历史的终点，而是持续发生、无处不在的过程。与Project One的接口：为canvas中Anna Tsing的contamination理论提供一则具体的当代案例——"没有未被污染的过去可以回去"，铁锈带的衰败也不该被框定为已经结束的历史事件，而是与当下同时发生、仍在持续生成的状态。[Quarto](https://www.quarto.com/books/9781805703228/new-ruins)
+3. **托马斯·鲁夫「In Series, 1979–2024」：用"系列"而非单张影像组织四十余年创作** - 这场回顾展不以年代或主题切分鲁夫的创作，而是强调他持续以"系列"（series）为单位推进摄影实践，让单张图像的证据性让位于系列累积形成的系统性叙事。与Project One的接口：呼应canvas「记录与重构之间的张力」节点——Gary Works的拍摄若以系列的方式持续积累、彼此参照，或许能像鲁夫一样，把单张照片"那个东西真的在那里存在过"的证据性，转化为一组图像相互印证、层层重构出的整体废墟档案。[ArtRabbit](https://www.artrabbit.com/events/thomas-ruff-in-series-19792024-david-zwirner-los-angeles)
+
 ## 2026-11-07
 
 ### 艺术圈新闻
