@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-11-10
+
+### 艺术圈新闻
+1. **「World Press Photo 2026」与「Swiss Press Photo 26」将于11月12日晚举行联合开幕酒会、13日起对公众开放瑞士尼永城堡（Château de Prangins）站，展至2027年1月3日**：这是该全球巡展继阿姆斯特丹、希尔弗瑟姆、巴塞罗那之后的又一新增站点，由瑞士国家博物馆主办。[World Press Photo](https://www.worldpressphoto.org/calendar/2026/prangins-switzerland) · [Guidle](https://www.guidle.com/de/veranstaltungen/natur-mensch-tier/prangins/world-press-photo-2026_ANXxepu)
+2. **悉尼耗资9.15亿澳元的Powerhouse Parramatta博物馆11月7日正式开馆，开启持续23天的开馆节**：尽管馆长Lisa Havilah此前因治理调查在开馆前十周突然离任，新州政府仍按原计划推进开馆；首批五档开幕展览包括James Turrell、Ayoung Kim与Es Devlin的委任作品。[SBS News](https://www.sbs.com.au/news/article/powerhouse-parramatta-opening-weekend-sydney-november-2026/qfjn3d7kd) · [Right Click Save](https://www.rightclicksave.com/article/a-museum-built-for-the-future-ayoung-kim-and-james-turrell-feature-in-inaugural-powerhouse-parramatta-shows)
+3. **MoMA「The Surrealist Book: Tomorrow Lives in Mirrors」展出中（10月4日至2027年1月23日）**：首次呈现馆方新近获赠的Helen and Sam Zell藏书收藏，集合André Breton、Salvador Dalí、Claude Cahun、Max Ernst等超现实主义艺术家书籍逾百件。[MoMA](https://www.moma.org/calendar/exhibitions/5918)
+4. **巴塞尔艺术展公布2026年迈阿密海滩展会（12月4-6日）参展名单：272家参展方，展场布局首次重新规划**：逾30家画廊首次参展，其中哈瓦那画廊El Apartamento成为首个参展巴塞尔迈阿密海滩的古巴本土画廊。[Art Basel](https://www.artbasel.com/stories/art-basel-announces-exhibitors-and-a-reconfigured-showfloor-for-miami-beach-2026)
+
+### Project One 灵感
+1. **哈佛设计学院展览「Material Cultures: Steel and Our Entangled Present in Gary, Indiana」：直接以Gary, Indiana为研究对象的建筑学论文呈现** - 该展（2025年9月8日至12月21日于院长办公室展厅）源自Clara He的硕士论文，以芝加哥天际线的钢材来源追溯至Gary——这座完全由US Steel一手建立的"公司城"，并推测性地想象钢铁产业衰落后这座铁锈带工厂镇的未来，将其视为一个有潜力走向"less extractive"（更少掠夺性）未来的场所。与Project One的接口：这是迄今搜索到最直接以Gary本身为研究对象的当代机构级项目，提示Project One可以主动寻求与建筑/设计类研究机构（而非仅摄影机构）的对话——用推测性设计的方法补充纪实摄影之外的"重构"维度，呼应canvas"记录与重构之间的张力"节点。[Harvard GSD](https://www.gsd.harvard.edu/exhibition/material-cultures-steel-and-our-entangled-present-in-gary-indiana/)
+2. **Amanda Leigh Evans「Deep Futures: Sites of Toxic Land Use」（2026年1月15日至2月13日，UCF美术馆）：从超级基金污染场地"采集"原始材料而非仅拍摄** - 艺术家走访全美多处超级基金（Superfund）污染场地，收集照片、岩石、土壤、拓印与档案影像等实物材料，将"记录"扩展为一种物质采样行为。与Project One的接口：为Gary Works提供摄影之外的档案化思路——除了镶框的影像，是否也可以从厂区地面采集锈蚀碎片、炉渣样本或土壤拓印，让"contamination"理论获得可触摸、可展示的实物证据，与canvas中Anna Tsing节点形成物质层面的具体操作方案。[UCF Art Gallery](https://events.ucf.edu/event/3979557/deep-futures-sites-of-toxic-land-use-by-amanda-leigh-evans-ucf-art-gallery)
+
 ## 2026-11-08
 
 ### 艺术圈新闻
