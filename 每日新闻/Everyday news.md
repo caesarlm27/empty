@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-11
+
+### 艺术圈新闻
+1. **Yves Marchand & Romain Meffre「Les Ruines de Détroit, 20 ans après」11月12日于巴黎Polka Galerie开幕**：这对法国摄影双人组二十年前首次踏入底特律废墟现场，此次以同名新书（Albin Michel出版）与同期展览回访当年拍摄地，展至2027年1月16日，恰逢巴黎摄影展（Paris Photo）开幕周。[Paris.fr](https://www.paris.fr/evenements/yves-marchand-romain-meffre-les-ruines-de-detroit-20-ans-apres-127126)
+2. **Jeff Brouws个展「Archives of Smoke and Concrete」10月29日起于纽约Robert Mann Gallery展出，展至12月12日**：呈现其历时五年、两万英里拍摄的美国蒸汽铁路"加煤塔"遗迹系列，以Becher式类型学取景记录这些1907-1956年间建造、此后被整体遗弃从未拆除的混凝土构筑物。[All About Photo](https://www.all-about-photo.com/photography-exhibition/4529/jeff-brouws-archives-of-smoke-and-concrete)
+3. **UCCA Clay（宜兴）11月7日起呈现陶艺家Toshiko Takaezu中国首个个展，展至2027年3月7日**：由UCCA助理策展人邹佳栅策划、Toshiko Takaezu基金会协助，回顾其近五十年创作历程，从早期实用器皿到标志性的密封"封闭形体"雕塑。[UCCA](https://www.ucca.org.cn/en/exhibition/toshiko-takaezu/)
+4. **雕塑家Ursula von Rydingsvard10月27日于纽约曼哈顿家中辞世，享年84岁**：这位以巨型雪松木雕塑闻名的艺术家，作品常以手工反复切割、层叠木块呈现出近似地质侵蚀的肌理，布鲁斯博物馆回顾展此前已展至2026年5月。[Hyperallergic](https://hyperallergic.com/ursula-von-rydingsvard-who-sculpted-monuments-of-cedar-dies-at-84/)
+5. **Ben Marcin摄影书《The Holdouts》由GOST Books出版**：收录其耗时16年拍摄的巴尔的摩"孤岛排屋"（周边建筑已被拆除、独自留存的联排房屋）与马里兰东岸废弃农舍，以统一的正面取景方式呈现被剩下的建筑如何在持续拆除的城市中幸存或最终沦为废墟。[PetaPixel](https://petapixel.com/2026/08/15/photographer-spends-16-years-documenting-baltimores-abandoned-homes/)
+
+### Project One 灵感
+1. **Marchand & Meffre「二十年后回访」的时间结构，为"记录与重构"提供了一种新的操作范式** - 他们没有停留在2005年的底特律废墟影像上，而是二十年后带着新书与新展览回到同一批地点——这把"废墟摄影"从单次的、凝固的记录行为，转化为一个可以被主动重启、对照今昔的长期项目。与Project One的接口：Gary Works的拍摄若能建立"回访"机制——固定若干拍摄点位，间隔数年重新拍摄同一机位——废墟的"持续衰败/被拆除/被自然重新占据"将直接显影为影像之间的时间差，而非依赖单次快照去暗示时间的流逝。[相关链接](https://www.paris.fr/evenements/yves-marchand-romain-meffre-les-ruines-de-detroit-20-ans-apres-127126)
+2. **Ben Marcin的"统一取景法"：十六年、同一种正面构图，让"剩下的房子"本身成为可比较的序列** - Marcin对巴尔的摩每一栋"孤岛排屋"都采用几乎相同的居中、正面、平视构图，使单张照片的审美趣味让位于跨越十六年积累的类型学序列——观众读到的不是某一栋房子的奇观，而是"在拆除中幸存"这一现象本身的结构。与Project One的接口：Gary Works系列若锁定某一类反复出现的构筑物（如料仓、更衣室入口、同型号的机床残骸），用同一机位/同一镜头角度系统拍摄，将能把"个别建筑的废墟美学"转化为"铁锈带去工业化现象的类型学证据"，呼应Becher传统与canvas中"记录与重构之间的张力"节点。[相关链接](https://petapixel.com/2026/08/15/photographer-spends-16-years-documenting-baltimores-abandoned-homes/)
+3. **Ursula von Rydingsvard：劳作本身的重复性切割，让木材表面生长出近似地质侵蚀的时间痕迹** - Rydingsvard用手持电锯反复切割、层叠雪松木块,作品表面呈现的沟壑与肌理并非天然风化，而是艺术家数十年持续体力劳作留下的"人造侵蚀"。她的方法提示："衰败感"不必只通过拍摄已经风化的现成废墟获得，也可以通过记录者自身对材料的长期、重复性物理介入主动"制造"出时间厚度。与Project One的接口：若Project One的后期呈现包含装置或物件维度（如厂区金属残片的拓印、翻模），可参考Rydingsvard"重复劳作即时间显影"的逻辑，让制作过程本身的耗时与体力痕迹，成为呼应Gary Works工人身体劳作史的平行物质叙事。[相关链接](https://hyperallergic.com/ursula-von-rydingsvard-who-sculpted-monuments-of-cedar-dies-at-84/)
+
 ## 2026-11-10
 
 ### 艺术圈新闻
