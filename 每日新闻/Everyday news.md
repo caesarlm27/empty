@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-12
+
+### 艺术圈新闻
+1. **巴黎摄影展（Paris Photo）第29届11月12日于大皇宫开幕，展至11月15日，主题呼应"摄影两百周年"**：开幕核心为托马斯·鲁夫（Thomas Ruff）横跨中央大厅入口的36米长装置墙，由David Zwirner、Konrad Fischer、Mai 36、Lia Rumma、Sprüth Magers五家画廊联合呈现，被形容为一本"打开的书"，直接展示其实验性图像生产过程；南非艺术家Zanele Muholi同期在Southern Guild展位展出，并将与学者Tina Campt、Pablo Larios对谈。[Timeout](https://www.timeout.fr/paris/actualites/paris-photo-2026-les-expos-et-evenements-a-ne-surtout-pas-manquer-au-grand-palais-110926)
+2. **苏菲·卡尔（Sophie Calle）个展「Is It Better?」11月13日于柏林汉堡火车站当代美术馆开幕，展至2027年5月2日**：这是她二十余年来首次在柏林举办个展，呈现六组跨越三十年的创作系列，开篇作品取自她1996年柏林创作的「The Detachment」系列——拍摄东柏林被拆除的共产主义纪念物留下的空置地基与轮廓。[SMB柏林国家博物馆新闻稿](https://www.smb.museum/en/press/press-releases/detail/hamburger-bahnhof-nationalgalerie-der-gegenwart-sophie-calle-13112026-252027/)
+3. **世界新闻摄影大赛（World Press Photo）宣布2027年大赛新增"自然奖"与"体育奖"，12月1日起开放征稿**：主办方表示此举回应了观众与行业伙伴对近年获奖作品中自然与体育题材减少的反馈，两奖项均将从已提交的单幅/组照中直接评选，无需单独报名。[PetaPixel](https://petapixel.com/2026/10/20/world-press-photo-adds-nature-and-sports-awards-for-2027-contest/)
+4. **第12届集美·阿尔勒国际摄影季将于11月20日在厦门开幕，展至2027年1月3日**：主场馆设于集美艺术中心与三影堂厦门摄影艺术中心，呈现30余场展览、近2000件作品，涵盖"年度阿尔勒"、"集美·阿尔勒发现奖"、"影像策展创作计划成果展"、聚焦动态影像的"幻灯"等单元。[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_33547749)
+5. **美国国家美术馆策划的巡展「Beneath the Surface: Mining and American Photography」10月23日起于密尔沃基美术馆展出，展至2027年1月18日**：展览横跨185年摄影史，集结约150幅作品，呈现为摄影提供金属原料的采矿业——从矿工肖像、矸石山景观到被摧毁社区的全景，此前已在华盛顿国家美术馆展出，下一站为沃斯堡阿蒙·卡特美国艺术博物馆。[PetaPixel](https://petapixel.com/2026/05/15/200-years-of-photos-reveal-history-of-mining-and-industry-in-america/)
+
+### Project One 灵感
+1. **苏菲·卡尔「The Detachment」（1996，柏林）**：拍摄东柏林被拆除的共产主义纪念碑留下的空置底座与轮廓——缺席的雕像本身变成一种"证物"，与Project One"缺席者的痕迹"节点高度契合，可作为Gary Indiana废弃建筑地基影像的方法论参照。[SMB柏林国家博物馆新闻稿](https://www.smb.museum/en/press/press-releases/detail/hamburger-bahnhof-nationalgalerie-der-gegenwart-sophie-calle-13112026-252027/)
+2. **托马斯·鲁夫Paris Photo装置墙的"开放书"策展语言**：不呈现"成品影像"，而是把实验性图像生产过程本身摊开展示——为"记录与重构"之间的张力提供了一种可直接挪用的空间展陈方法：让"如何被构造"与"被构造的结果"同时可见。[Timeout](https://www.timeout.fr/paris/actualites/paris-photo-2026-les-expos-et-evenements-a-ne-surtout-pas-manquer-au-grand-palais-110926)
+3. **「Beneath the Surface」185年采矿摄影史**：把开采业本身——而非其废弃后的遗址——作为摄影对象的谱系，为Anna Tsing的contamination理论提供了具体的美国"物质史"参照：铁锈带的污染与废弃并非终点，而是同一条开采链条上更早的一环。[PetaPixel](https://petapixel.com/2026/05/15/200-years-of-photos-reveal-history-of-mining-and-industry-in-america/)
+
 ## 2026-11-11
 
 ### 艺术圈新闻
