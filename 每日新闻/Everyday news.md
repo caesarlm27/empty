@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-13
+
+### 艺术圈新闻
+1. **美国钢铁公司Gary Works厂区11月9日公示环保许可重大修改申请，涉及锅炉房现代化与热轧线再加热炉更换**：印第安纳州环境管理局（IDEM）文件显示，公司拟对Part 70运营许可进行重大修改，用步进式加热炉取代热轧线现有再加热炉并对锅炉房进行现代化改造，公众听证会已于11月4日举行，意见征集期至11月9日截止。[IDEM公示文件](https://www.in.gov/idem/files/notice_20261109_air_50605-50609pn-cm.pdf)
+2. **艺术家刘建华个展「大始」11月7日于上海当代艺术博物馆（PSA）开幕，展至2027年2月21日**：这是PSA"中国当代艺术收藏系列"最新一期，由艺术史学者巫鸿策划，集中呈现刘建华近年新作，展览描绘泥土冲破展墙、呈现"泥雨""浪流"等景观。[第一财经](https://www.yicai.com/news/103432711.html)
+3. **Pictet集团成为巴黎摄影展（Paris Photo）新任官方合作伙伴，Prix Pictet奖11月12日首次在大皇宫设专属展位**：展位位于大皇宫中央大厅（Nef）的Promenoir，呈现历届获奖者Valérie Belin（《Disorder》，2016）与Alfredo Jaar（《Storm》，2025）的作品。[Pictet集团新闻稿](https://www.pictet.com/ch/en/corporate-news/pictet-group-named-official-partner-of-paris-photo)
+4. **蓬皮杜中心摄影收藏特展「Révéler / Revealing」11月12日于巴黎摄影展期间在大皇宫开幕**：集合约30位艺术家的百余件作品，涵盖历史与当代摄影，多为近年新入藏之作，策展人为Damarice Amao、Florian Ebner与Julie Jones，呼应摄影两百周年主题。[Paris Photo官网](https://www.parisphoto.com/en-gb/program/Collection_2026.html)
+5. **艺术家Sherrie Levine个展11月11日于纽约Galerie Buchholz开幕，展至2027年1月16日**：这位以挪用、复制经典摄影与绘画作品闻名的观念艺术家在该画廊呈现新展。[ArtRabbit](https://www.artrabbit.com/events/sherrie-levine-2026)
+
+### Project One 灵感
+1. **Gary Works环保许可修改公示：废墟与仍在运转的工厂，此刻共享同一份官方文件** - 11月9日的IDEM许可修改申请揭示，Project One镜头对准的这座厂区，此刻正同步发生"现代化改造"（锅炉房、再加热炉更换）与此前已有的废弃厂房共存——官方许可文件本身成为一种"记录与重构"的平行档案，证明"废墟化"与"资本投入"在同一地理坐标上并非矛盾，而是同时发生的状态。与Project One的接口：直接呼应canvas中Anna Tsing"没有未被污染的过去可以回去"的论点，并为系列提供了一种新的文献类型——枯燥的政府许可公示文件，本身即是废墟现场持续变动的"官方证词"。[IDEM公示文件](https://www.in.gov/idem/files/notice_20261109_air_50605-50609pn-cm.pdf)
+2. **刘建华「大始」：让泥土的生命力"冲破"展墙本身** - 展览描绘泥浆、泥雨突破白盒子空间边界的视觉效果，把材料本身的物质性冲动处理为展览叙事的核心，而非仅作为被观看的客体。与Project One的接口：呼应canvas"contamination"与"物质记忆"方向——若Project One未来希望让厂区的锈蚀、炉渣或粉尘以实物形式进入展览空间，刘建华用泥土"冲破"展墙的做法提供了一种把材料能动性本身转化为空间事件的具体范式。[第一财经](https://www.yicai.com/news/103432711.html)
+3. **蓬皮杜「Révéler」：用"新近入藏"的作品重新讲述两百年摄影史，而非单纯复述经典谱系** - 这场展览刻意把近年新入藏的历史与当代摄影并置呈现，让"收藏"本身的持续更新成为重新书写摄影史的方法，而非仅做一次封闭式的回顾。与Project One的接口：呼应canvas"记录与重构之间的张力"——Gary Works的素材积累若能持续纳入新近拍摄或新发现的历史影像，也可借鉴这种"收藏即重构"的逻辑，让档案本身保持开放和生长，而非被某一次性的"完整叙事"封闭。[Paris Photo官网](https://www.parisphoto.com/en-gb/program/Collection_2026.html)
+
 ## 2026-11-12
 
 ### 艺术圈新闻
