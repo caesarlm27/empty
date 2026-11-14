@@ -11,6 +11,21 @@ tags:
 
 ---
 
+## 2026-11-14
+
+### 艺术圈新闻
+1. **西班牙雕塑家Cristina Iglesias个展「Possible Matter」11月3日于Hauser & Wirth纽约22街空间开幕，展至2027年1月16日**：这是她代理画廊后在纽约的首次个展，呈现一件沉浸式穹顶装置与四件2026年新作墙面雕塑，墙面作品融合其铸铝"Entwined"系列的体块语言与根茎状生长形态。[Ocula](https://ocula.com/art-galleries/hauser-wirth/exhibitions/cristina-iglesias-possible-matter/)
+2. **美国印第安纳州Gary市标志性的Genesis会议中心11月2日起开始拆除**：这座1981年建成、已闲置多年的8.3万平方英尺建筑是Gary市中心复兴计划的第一步，拆除方同时计划在湖郡法院与Hudson-Campbell体育健身中心之间新建一处纪念该中心历史的公共空间。[Chicago Sun-Times](https://chicago.suntimes.com/architecture-design/2026/11/02/demolition-gary-genesis-convention-center)
+3. **2027年德意志证券摄影基金会奖（Deutsche Börse Photography Foundation Prize）入围名单10月29日公布**：四位入围者为Hoda Afshar、Lotus L. Kang、Sasha Kurmaz与Salvatore Vitale，作品将于2027年3月至9月先后在伦敦摄影师画廊与法兰克福/埃施博恩的德意志证券摄影基金会展出，适逢该奖30周年。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/29/photography-as-sculpture-and-an-800-page-photobook-on-the-russia-ukraine-war-deutsche-borse-prize-nominees-announced)
+4. **第十届巴黎摄影展学生奖（Paris Photo Students Prize）获奖者公布，四人作品于11月12日至15日巴黎摄影展期间展出**：从近200所欧洲院校600余份申请中选出的四位获奖者为Camille Cellier、Jonas Glanz、Jinyong Lian与Mirjam Reiter，其中Mirjam Reiter的获奖项目名为《Home Story》。[Picto Foundation](https://www.pictofoundation.fr/en/?p=18651)
+5. **巴塞尔艺术展11月11日宣布：因巴黎展会提前闭展，将为迈阿密海滩展会参展商减免20%场地费；同日翠西·艾敏（Tracey Emin）在玛格特的新艺术与社区空间获批建设**：两则消息同期收录于ARTnews当日晨讯。[ARTnews](https://artnews.com/art-news/news/art-basel-paris-offers-20-percent-reduction-fees-1234805542)
+6. **科隆艺术博览会（Art Cologne）闭展当日（11月8日）发生展位盗窃：一件让·阿尔普（Jean Arp）1962年青铜雕塑在Ludorff画廊展位失窃**：该作品估价14.5万欧元，案件已被ARTnews于11月12日晨讯收录。[ARTnews](https://artnews.com/art-news/news/jean-arp-bronze-sculpture-stolen-art-cologne-booth-1234805658)
+
+### Project One 灵感
+1. **Cristina Iglesias「Possible Matter」：让雕塑以根茎状形态从墙体内部"生长"出来** - 她把铸铝"Entwined"系列的体块语言与植物根茎的蔓生形态并置，使作品看起来像是从建筑结构内部自行生长、涌出，而非被放置其上的外来物。与Project One的接口：直接呼应canvas中Anna Tsing的contamination方向——若Project One未来希望在展览呈现中加入装置维度，可借鉴这种"材料从结构内部生长出来"的语言，让厂区的锈蚀或矸石仿佛不是被记录的对象，而是正在从废墟内部持续生成的活体物质。[Ocula](https://ocula.com/art-galleries/hauser-wirth/exhibitions/cristina-iglesias-possible-matter/)
+2. **Gary Genesis会议中心拆除：废墟的消失与"纪念空间"的诞生被规划为同一个动作** - 拆除方案并非单纯清场，而是同步规划在原址建一处纪念该建筑历史的公共空间——"遗忘"与"铭记"被压缩进同一轮工程时间表。与Project One的接口：这为canvas"记录与重构之间的张力"节点提供了一个极具体的当代案例——Gary本身此刻正在制造它自己的"官方记忆装置"，Project One若持续追踪同一地点，将能记录下"废墟如何被主动转化为纪念物"这一正在发生的过程，而非只记录废墟本身。[Chicago Sun-Times](https://chicago.suntimes.com/architecture-design/2026/11/02/demolition-gary-genesis-convention-center)
+3. **Lotus L. Kang入围2027德意志证券摄影基金会奖的作品「The face of desire is loss」（威尼斯双年展Bulgari展亭）：用沉浸式装置呈现身体与记忆如何随时间变化** - 这件作品不依赖单张影像的证据性，而是让材料本身的物理状态（如她常用的感光胶片"hide"材料随时间显影、褪色）成为记忆变化的直接载体。与Project One的接口：呼应canvas"缺席者的痕迹"节点——提示Gary Works系列或许可以尝试让某种随时间持续反应的材料（感光乳剂、易氧化金属薄片）本身成为展览现场的"活体档案"，把"衰败正在进行"直接呈现给观众，而非仅呈现衰败的已完成状态。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/29/photography-as-sculpture-and-an-800-page-photobook-on-the-russia-ukraine-war-deutsche-borse-prize-nominees-announced)
+
 ## 2026-11-13
 
 ### 艺术圈新闻
