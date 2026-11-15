@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-11-15
+
+### 艺术圈新闻
+1. **Cleveland-Cliffs与美国钢铁工人联合会（USW）11月9日宣布达成新的四年期劳工协议**：协议覆盖公司旗下印第安纳、俄亥俄、宾夕法尼亚、明尼苏达与密歇根五州钢厂与矿区约1.2万名USW代表工人（含Project One拍摄地Gary Works），解决了此前所有即将到期的USW合同，公司称协议为其提供了"投资、竞争并持续强化美国钢铁业"所需的稳定性，仍待工会地方分会批准。[SteelOrbis](https://www.steelorbis.com/steel-news/latest-news/cleveland-cliffs-reaches-new-four-year-labor-agreement-with-usw-1489389.htm)
+2. **2026年度Paris Photo–Aperture摄影书奖11月13日于巴黎摄影展期间公布获奖名单**：Keisha Scarville《Passports, 2012–2025》（MACK出版）获"年度摄影书"奖；Moeko Ishiguro自出版作品《Notation(s)》获"年度首作摄影书"奖；《L Is for Look: Children's Photobooks》（Spector Books）获"年度摄影画册"奖；Sara Bennett《Looking Inside: Women with Life Sentences》（Kehrer Verlag）获评审团特别提名；本届奖项收到来自56个国家的创纪录投稿量，35部入围作品在巴黎摄影展期间展出至11月15日，随后将巡展至12月都柏林PhotoIreland。[Aperture](https://aperture.org/press-release/announcing-the-winners-of-the-2026-paris-photo-aperture-photobook-awards/)
+3. **Frieze杂志263期（11/12月刊）刊发"摄影两百周年"圆桌对谈**：Hoda Afshar、David Campany、Taous Dahmani与Nadine Isabelle Henrich四人围绕摄影媒介与"真实"之间持续变动的关系展开讨论，恰逢摄影发明两百周年纪念年尾声。[Frieze](https://www.frieze.com/magazines/frieze-magazine/issue-263)
+4. **ADAA Fair（原The Art Show，美国艺术品经销商协会主办）11月12日于纽约公园大道军械库预展，13日至16日向公众开放**：这是该协会历经一年休展后以新名称重启的首届艺术品博览会，共63间画廊参展，较往年规模缩减约20%；本届首次将受益机构改为惠特尼美国艺术博物馆，预展晚会款项直接用于支持该馆教育与艺术项目。[The Art Newspaper](https://www.theartnewspaper.com/2026/07/27/art-dealers-association-of-americas-fair-the-art-show-returns-after-one-year-hiatus-with-a-leaner-line-up) · [Artforum](https://www.artforum.com/news/adaa-art-fair-will-benefit-the-whitney-museum-1234748072/)
+
+### Project One灵感
+1. **Keisha Scarville《Passports》：让一张官方证件照被反复"显影"三百余次，变成一份活的档案** - 这本获Paris Photo–Aperture年度摄影书奖的作品以父亲一张枯燥的官方护照照片为核心母版，Scarville用颜料、串珠、金箔、来自圭亚那与纽约的1960至80年代档案影像碎片反复覆写、拼贴这同一张脸，让"记录"本身经历近乎物理风化与增殖的过程，而不是被封存、定格的证据。与Project One的接口：直接呼应canvas"记录与重构之间的张力"节点——提示Gary Works可以选取厂区某一份枯燥的官方文件（环保许可、工卡、安全公示）作为"母版"，通过反复的物质介入（锈蚀拓印、粉尘覆盖、局部烧灼或褪色）生成一组变体，让单一的"证据性"文件本身承受时间与介入，而不只是去拍摄已经衰败的建筑本体。[MACK](https://us.mackbooks.co.uk/products/passports-keisha-scarville)
+2. **Frieze"摄影两百周年"圆桌：摄影两百年里，"真实"从未被真正解决，只是不断被重新协商** - Afshar、Campany、Dahmani与Henrich四人在摄影发明两百周年之际重新梳理这一媒介与"真实"之间始终紧张、从未固定的关系，恰与Taryn Simon《The Innocents》"照片如何模糊现实边界"的命题跨时空呼应。与Project One的接口：提示Gary系列在最终阐述中，与其回避"这组照片是否可信、是否被摄影师的立场重构过"的追问，不如效仿这场公开圆桌的姿态，主动把"记录与重构的张力"本身写入作品说明，让"证据性的不确定"成为被讨论的内容，而非悄悄被回避的前提。[Frieze](https://www.frieze.com/magazines/frieze-magazine/issue-263)
+3. **Cleveland-Cliffs四年劳工协议：同一份合同，既稳定了仍在运转的厂区，也延缓了下一轮"废墟化"的到来** - 这份覆盖Gary Works所在公司全部USW厂区的协议，证明铁锈带此刻并非单向滑向终局，而是资本持续选择"投资换稳定"的复合状态。与Project One的接口：直接印证canvas中Anna Tsing"没有未被污染的过去可以回去"——这份劳资协议本身就是继此前"Gary Works环保许可修改公示"之后的又一份官方"平行档案"，证明"正在被谈判、被投资的厂区"与"正在被拍摄为废墟的厂区"可以是地理上完全重合的同一地点，Project One的文字阐述或可明确标注拍摄发生的具体时间节点，让观者意识到画面中的"废墟"随时可能被下一轮资本决策重新定义。[SteelOrbis](https://www.steelorbis.com/steel-news/latest-news/cleveland-cliffs-reaches-new-four-year-labor-agreement-with-usw-1489389.htm)
+
 ## 2026-11-14
 
 ### 艺术圈新闻
