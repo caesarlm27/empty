@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-16
+
+### 艺术圈新闻
+1. **迈克尔·兰迪（Michael Landy）个展「Future Ruins」10月14日于伦敦约翰·索恩爵士博物馆（Sir John Soane's Museum）开幕，展至2027年1月17日**：展览源自该馆馆藏中约瑟夫·迈克尔·甘迪（Joseph Michael Gandy）1798年水彩画《Architectural Ruins – A Vision》——想象英格兰银行化为废墟的场景，兰迪据此创作了一系列精细的建筑废墟素描与水彩，包括一幅想象索恩博物馆自身化为废墟的新作，并在《The Art Newspaper》专访中谈及"碎片化、垃圾、什么被珍视、什么被丢弃"是贯穿其创作的主题。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/09/eventually-everything-if-you-leave-it-long-enough-will-fall-back-into-nature-michael-landy-on-the-art-of-disintegration)
+2. **摄影师雷蒙德·米克斯（Raymond Meeks）个展「Assemblage」9月19日至11月14日于旧金山Casemore画廊展出**：收录他耗时三年、历时18个月蹲守纽约金斯顿郊外Cranesville一处废弃焊接/木工厂区所拍摄的影像，展览将照片陈列于书托与粗木桌上，并混入从该现场带回的实物残片，呈现方式受俄国构成主义影响却转向记忆而非乌托邦。[All About Photo](https://www.all-about-photo.com/photography-exhibition/4543/raymond-meeks-assemblage)
+3. **泰特现代美术馆「Light and Magic: The Birth of Art Photography」10月14日开幕，展至2027年2月21日**：这是泰特首次系统呈现"画意摄影"（Pictorialism）作为一场全球性运动的大型展览，策展人Charmaine Toh称其为"或许是我们第一次真正修正主义意义上的摄影展"，聚焦19世纪末至20世纪中叶摄影如何努力让自身被承认为"艺术"而非单纯记录。[Tate](https://www.tate.org.uk/press/press-releases/light--magic-the-birth-of-art-photography)
+4. **惠特尼美国艺术博物馆网络艺术平台"artport"25周年特展11月18-20日会员预展，11月21日正式公众开放，展至2027年3月28日**：展览呈现逾百件专为该平台委任创作的作品，涵盖代码、数据可视化、游戏引擎与AI驱动的网络艺术，回顾该平台自2001年创立以来网络艺术媒介的演变。[Whitney Museum](https://whitney.org/press/artport-25)
+5. **世界新闻摄影大赛（World Press Photo）2026全球巡展新增印度尼西亚坤甸（Pontianak）站，11月14日于PORT 99开幕，展至12月12日**：为该展览年度全球巡展新增的巡展城市之一。[World Press Photo](https://www.worldpressphoto.org/calendar/2026/pontianak-indonesia)
+
+### Project One 灵感
+1. **Michael Landy「Future Ruins」：把"废墟"从回溯性的记录对象，翻转为一种预先想象的姿态** - 兰迪的出发点不是拍摄已经坍塌的建筑，而是沿用索恩博物馆藏品中甘迪1798年"想象英格兰银行化为废墟"的方法论，为仍在使用中的建筑（包括索恩博物馆自己）绘制"它将如何废墟化"的素描。与Project One的接口：直接呼应canvas"记录与重构之间的张力"节点——提示Gary Works系列除了拍摄已经衰败的厂区，或许也可以尝试为仍在运转的某处厂房（如14号高炉）制作一组"预先想象它成为废墟"的图像，让"记录"与"预言"在同一组作品中并置，呼应Anna Tsing"没有未被污染的过去可以回去"的反向命题——也没有尚未被污染的未来可以抵达。[The Art Newspaper](https://www.theartnewspaper.com/2026/10/09/eventually-everything-if-you-leave-it-long-enough-will-fall-back-into-nature-michael-landy-on-the-art-of-disintegration)
+2. **Raymond Meeks「Assemblage」：让从废墟现场带回的实物残片，直接混入影像的展陈空间** - Meeks没有把摄影处理成关于废墟的间接证词，而是把书托、粗木桌和真实的现场残片并置于同一展示平面，让"影像"与"物证"之间不再有清晰的媒介边界。与Project One的接口：呼应canvas中Anna Tsing的contamination方向与"记录与重构"节点——若未来Project One考虑展览呈现，可借鉴这种做法，把Gary Works厂区的锈蚀碎片、矸石或工卡实物直接带入展场，和影像并置，让"证据"的物质性本身成为作品的一部分，而不只是被摄影转译后的二手痕迹。[All About Photo](https://www.all-about-photo.com/photography-exhibition/4543/raymond-meeks-assemblage)
+3. **泰特「Light and Magic」：摄影史上第一场关于"什么才是真实"的持久争论，发生在摄影被承认为艺术之前** - 画意摄影运动用软焦、暗房操控去争取"摄影也可以是艺术"的合法性，这场发生在一个多世纪前的争论，与当下人们质疑AI滤镜、图像真实性的焦虑structurally相通。与Project One的接口：直接印证Artist research中巴特"证据性"命题与Taryn Simon《The Innocents》的张力——提示Project One的文字阐述可以引入这段摄影史作为参照，说明"记录与重构之间的张力"并非数字时代的新问题，而是摄影媒介自诞生之初即携带的结构性矛盾。[Tate](https://www.tate.org.uk/press/press-releases/light--magic-the-birth-of-art-photography)
+
 ## 2026-11-15
 
 ### 艺术圈新闻
