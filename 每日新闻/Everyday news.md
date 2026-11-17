@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-11-17
+
+### 艺术圈新闻
+1. **沃尔夫冈·蒂尔曼斯（Wolfgang Tillmans）获颁2026年度亨利·卡蒂埃-布列松基金会终身成就奖，11月12日于巴黎颁奖典礼公布**：这是该奖继Sophie Calle、Susan Meiselas之后的第三位得主，奖金3.5万欧元，将资助其在卡蒂埃-布列松基金会的个展与出版物；同场，基金会公布菲律宾艺术家Poklong Anading为2026年度"Latitudes"项目得主。[Ocula](https://ocula.com/magazine/art-news/wolfgang-tillmans-wins-cartier-bresson-award/)
+2. **英国纪实摄影师Paul Reas个展「Fables of Faubus」10月30日于马赛摄影中心（Centre Photographique Marseille）开幕，展至2027年1月30日**：展览集结其1982至2012年间记录英国工人阶级与去工业化历程的影像，分为「Industry」「Penrhys Estate」「Valleys」「I Can Help」「Flogging a Dead Horse」「From a Distance」六个篇章，同名画册由Gost Books出版。[Provence-Alpes-Côte d'Azur](https://provence-alpes-cotedazur.com/en/things-to-do/events/all-events/fables-of-faubus-marseille-2eme-en-6554681/)
+3. **John Divola个展「Sheila」11月7日于洛杉矶Gallery Luisotti开幕，展至2027年1月9日**：这是Divola与该画廊的第五次个展，首次集中呈现他1976至1984年间为当时的妻子Sheila拍摄的肖像系列。[ArtRabbit](https://www.artrabbit.com/events/john-divola-sheila)
+4. **多伦多艺术家Lotus L. Kang获颁2026年度索贝艺术奖（Sobey Art Award），11月15日于渥太华加拿大国家美术馆揭晓，奖金10万加元**：Kang以未定影感光胶片随光线与环境持续显影、永不"完成"的雕塑装置闻名，此前已入围2027德意志证券摄影基金会奖。[CTV News](https://www.ctvnews.ca/entertainment/article/toronto-born-artist-lotus-l-kang-wins-100000-2026-sobey-art-award/)
+
+### Project One 灵感
+1. **用"篇章"而非单一叙事组织铁锈带题材**：Reas没有把三十年的英国工业衰退素材处理成一套连贯的单线叙事，而是拆成六个各自独立却彼此呼应的篇章——产业本身、住宅区、山谷地带、援助机构、注定失败的抵抗、远距离的回望。与Project One的接口：Gary Works的素材若持续积累，也可以尝试类似的"篇章"逻辑——厂区建筑本身、工人社区、环保诉讼文件、退休工人口述——让铁锈带叙事呈现结构性的多面，而非试图用单一视觉语法涵盖全部。[Provence-Alpes-Côte d'Azur](https://provence-alpes-cotedazur.com/en/things-to-do/events/all-events/fables-of-faubus-marseille-2eme-en-6554681/)
+2. **四十年后重新展出的私人档案，让"缺席"具体落在一个人身上**：Divola这次没有展出新作，而是首次完整呈现四十年前拍摄的、早已不在身边的妻子肖像——缺席者不是抽象的"劳动者"概念，而是一个具体的、有姓名的人，时间本身成为展览的核心内容。与Project One的接口：呼应canvas"缺席者的痕迹"节点——若能征集到Gary Works退休或已故工人及其家属的旧照片，让"铁锈带工人"从抽象的历史群体落实为具体的、有姓名有关系的个体，废墟遗留的痕迹才会真正具有重量。[ArtRabbit](https://www.artrabbit.com/events/john-divola-sheila)
+3. **"未定影"状态被主流奖项加冕，证明持续生长的开放档案本身可以是成熟的创作姿态**：索贝奖将10万加元授予一组刻意拒绝"定影"、持续随环境变化的感光胶片装置，证明"过程性、未完成"已被主流艺术机构认可为一种有分量的立场，而非尚待完成的半成品。与Project One的接口：为canvas"记录与重构之间的张力"节点提供机构认可的佐证——Gary Works若选择以"持续生长、持续记录"的开放档案形式呈现，而非追求一次性"完整"的最终作品，这种姿态在当下的艺术语境中是被充分肯定的方向。[CTV News](https://www.ctvnews.ca/entertainment/article/toronto-born-artist-lotus-l-kang-wins-100000-2026-sobey-art-award/)
+
 ## 2026-11-16
 
 ### 艺术圈新闻
