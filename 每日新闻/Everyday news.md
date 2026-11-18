@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-11-18
+
+### 艺术圈新闻
+1. **摄影师Alex Webb新展「Walking Blues」版画装置11月18日于纽约Aperture画廊（380 Columbus Avenue）开幕，展至2027年1月10日**：作为Aperture同名新书（2026年秋）的配套呈现，收录他耗时十五年（2010–2025）走访美国约四十座城市所拍摄的街头摄影，以蓝调音乐的"提升、拉扯、节奏、重复与变奏、即兴"为组织逻辑，而非地理或时间顺序。[PetaPixel](https://petapixel.com/2026/10/17/street-photographer-travels-across-40-cities-inspired-by-the-american-blues/) · [Aperture书店](https://store.aperture.org/products/alex-webb-walking-blues)
+2. **北京"星际钢城——青年艺术家科幻主题展"11月10日于北重科技文化产业园八荒锦绣美术馆B馆启幕，展至11月19日**：该园区前身为华北地区最大的电站装备制造企业"北京重型电机厂"，如今转型"科技+文化"产业园；展览集结30余件科幻主题作品，包括声控灯光画、增强现实绘本、用人工智能解码京剧元素等，呈现年轻一代用新技术媒介介入老厂区空间。[北京日报](https://news.bjd.com.cn/2026/11/12/12028047.shtml)
+3. **摄影师Jeff Brouws新书《Silent Monoliths: The Coaling Tower Project》由MIT Press出版**：收录他历时五年、行程两万英里拍摄的北美"加煤塔"混凝土构筑物系列，逾105个案例，艺术家自述该系列是对Becher夫妇类型学方法的直接致意。[Kirkus书评](https://www.kirkusreviews.com/book-reviews/jeff-brouws/silent-monoliths/print/)
+4. **摄影书《Signs and Visions》由ACC Art Books/ORO Editions出版，作者为Bernis与Peter Von Zur Muehlen**：收录两位作者1970至80年代拍摄的美国城郊建筑影像，聚焦工业区的后巷与过道这类边缘性、过渡性空间，而非厂房正面全景。[ACC Art Books](https://www.accartbooks.com/uk/book/signs-and-visions/)
+
+### Project One 灵感
+1. **Jeff Brouws「Silent Monoliths」：用单一构筑物类型、跨越五年两万英里的系统拍摄，为"类型学方法"提供最新的方法论佐证** - 他自述直接致意Becher夫妇，用统一视角反复拍摄同一种工业构筑物（加煤塔），让105个分散的个案显影为一套结构性的类型学证据。与Project One的接口：呼应canvas"记录与重构之间的张力"节点与此前Ben Marcin"统一取景法"的讨论——提示Gary Works系列若锁定某一类反复出现的构筑物系统拍摄，并以长期、跨地理的积累作为方法论支撑，能让作品获得更坚实的类型学依据，而非停留在单点的废墟美学描述。[Kirkus书评](https://www.kirkusreviews.com/book-reviews/jeff-brouws/silent-monoliths/print/)
+2. **《Signs and Visions》：把镜头从厂房正面移向后巷与过道，让"边缘空间"本身成为记录对象** - 两位作者刻意避开工业建筑的宏大外观，转而拍摄后巷、过道这类几乎不被正式记录的过渡性、残余性空间。与Project One的接口：直接呼应canvas"缺席者的痕迹"节点——提示Gary Works除了拍摄厂区主体建筑，也可以把镜头转向更边缘的空间（通道、后门、围栏缺口、废弃小径），这些空间往往承载着人员进出、非正式使用的痕迹，比正面全景更贴近"缺席者"留下的具体轨迹。[ACC Art Books](https://www.accartbooks.com/uk/book/signs-and-visions/)
+3. **"星际钢城"展：把老厂区从"记录过去"的容器，反转为"想象未来"的容器** - 这场展览没有延续对老厂区历史、劳作或衰败的怀旧叙事，而是让青年艺术家用AI、AR等技术在同一空间里投射科幻想象，与此前Michael Landy「Future Ruins」"预先想象废墟"的方向形成对照：一个是让在用建筑预演其废墟化，一个是让已废弛的厂区预演其科幻化的未来。与Project One的接口：为canvas"记录与重构之间的张力"节点提供了一种警示性对照——提示在处理Gary Works的"活化利用"议题时，需要明确区分"面向过去的记录"与"面向未来的技术化想象投射"这两种重构路径，避免未经反思地把后者的娱乐性冲动带入前者的严肃性。[北京日报](https://news.bjd.com.cn/2026/11/12/12028047.shtml)
+
 ## 2026-11-17
 
 ### 艺术圈新闻
