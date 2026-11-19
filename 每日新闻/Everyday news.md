@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-19
+
+### 艺术圈新闻
+1. **群展「Fractures」9月23日于宾夕法尼亚州格林斯堡韦斯特摩兰美国艺术博物馆（The Westmoreland）开幕，持续展出至2027年2月21日**：展览围绕"当熟悉的观看方式开始瓦解"这一命题展开，集结跨媒介作品，把风景、记忆、材料与日常物转化为拒绝被轻易解读的创作；展览主视觉采用James Tobin的《Chromatic Ruin – Machine Dreams》（2025），一件以金属为基底的数码摄影拼贴作品。[The Westmoreland](https://thewestmoreland.org/exhibitions/fractures/)
+2. **格奥尔格·巴塞利茨（Georg Baselitz）身后首次登上Gagosian：个展「Meine Schule」11月12日于纽约西24街空间开幕，由Richard Calvocoressi策划，展至2027年1月23日**：这是巴塞利茨今年4月30日逝世后Gagosian首次呈现其作品的个展，收录其生前最后完成的系列画作与最后一件雕塑，包括此前从未展出的《Meine Schule, die Jungs》与《Meine Schule, die Mädchen》（均2026）——画面描绘站在印有纳粹标语横幅前的学童，取材自画家父亲曾任教的德国巴塞利茨村小学。[Ocula](https://ocula.com/art-galleries/gagosian-gallery/exhibitions/georg-baselitz-meine-schule/)
+3. **导演哈莫尼·科林（Harmony Korine）个展「UX LAM」11月12日于纽约豪瑟沃斯（Hauser & Wirth）18街空间开幕，展至2027年1月16日**：这是科林在该画廊纽约空间的首次个展，呈现12件新绘画，延续其电影《Aggro Dr1ft》开启的数字图像美学；"UX"指"用户体验"，"LAM"为该片主角之名。[Ocula](https://ocula.com/art-galleries/hauser-wirth/exhibitions/harmony-korine-ux-lam/)
+4. **伦敦国家美术馆「Van Eyck: The Portraits」将于11月21日开幕，展至2027年4月11日**：展览聚焦扬·凡·艾克的肖像创作及其画面中暗藏的"光学幻象"技法，策展人于11月17日发表幕后撰文，披露展览筹备细节。[Artnet](https://news.artnet.com/art-world/van-eyck-portraits-national-gallery-2835790)
+5. **布鲁塞尔Kanal-Centre Pompidou将于11月28日正式开幕**：这座由废弃雪铁龙（Citroën）汽车展销/维修车库改建而成、耗资2.3亿欧元的巨型文化综合体将以10场展览开馆，旗舰展「A Truly Immense Journey」展至2028年1月10日，汇集逾350件主要借自巴黎蓬皮杜中心的馆藏作品；蓬皮杜巴黎本馆因整修闭馆期间，其馆藏将持续借展至该馆直到2031年。[ArtDependence](https://artdependence.com/articles/long-awaited-kanal-centre-pompidou-brussels-opens-november-28/)
+
+### Project One 灵感
+1. **Kanal-Centre Pompidou：废弃车库的建筑外壳被整体保留，置换的只是功能与内容，而非被拆除后"重建"** - 这座由雪铁龙汽车展销/维修车库改建而成的美术馆，没有走"推平—新建纪念空间"的路径，而是把工业建筑的混凝土骨架与厂房尺度原样保留，仅在其内部植入全新的艺术机构功能，让"废墟"与"当代机构"共享同一具建筑躯壳。与Project One的接口：为此前讨论过的Gary Genesis会议中心"拆除+建纪念空间"方案提供了一种结构性的对照路径——如果Gary Works的某些厂房未来面临去留讨论，Kanal证明"原壁整体保留、内部功能置换"也是一种可行的"记录与重构"方案，让建筑本身继续作为承载历史重量的物质证据，而非被清场后用新建筑追忆它。[ArtDependence](https://artdependence.com/articles/long-awaited-kanal-centre-pompidou-brussels-opens-november-28/)
+2. **巴塞利茨身后最后画作的"延迟公开"：艺术家本人已缺席，但他留下的、此前被判定"不予展出"的作品，此刻才第一次被允许进入公众视野** - Gagosian此次展出的两幅《Meine Schule》系列画作生前从未公开，巴塞利茨逝世后，这些描绘纳粹标语下学童的敏感画面才被允许进入机构叙事。与Project One的接口：直接呼应canvas"缺席者的痕迹"节点——铁锈带工人的影像、信件或私人物品中，是否也存在类似"此前不被允许/不被认为值得展示"而被搁置的材料？巴塞利茨的案例提示，"缺席"（无论是去世还是沉默）有时恰恰是材料被重新允许"显影"的契机，而非单纯的终结。[Ocula](https://ocula.com/art-galleries/gagosian-gallery/exhibitions/georg-baselitz-meine-schule/)
+3. **「Fractures」展览的James Tobin《Chromatic Ruin – Machine Dreams》：把数码摄影拼贴直接印刷在金属基底上，让"废墟图像"与"锈蚀材质"共享同一物理表面** - Tobin没有把废墟影像停留在纸面或屏幕上，而是选择金属这种会随时间氧化、生锈的材质作为最终的物质载体，让作品本身随展出环境持续发生物理变化。与Project One的接口：呼应canvas"记录与重构之间的张力"节点与此前多次讨论的"物质层面证据"方向——Gary Works系列若考虑最终的物理呈现形式，可借鉴这种"把废墟影像印在会继续锈蚀的金属板上"的做法，让承载影像的介质本身也加入厂区"持续衰败"的时间进程，而不只是对废墟的静态复制。[The Westmoreland](https://thewestmoreland.org/exhibitions/fractures/)
+
 ## 2026-11-18
 
 ### 艺术圈新闻
