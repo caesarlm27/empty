@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-20
+
+### 艺术圈新闻
+1. **Gary市重建委员会11月通过决议，支持与美国钢铁公司签署高达30亿美元一期现代化投资协议**——协议拟免除约9900万美元现有债务并向新设住房信托基金注资400万美元，仍需市议会、经济发展委员会等后续批准[ScrapMonster](https://www.scrapmonster.com/news/steel/u.s.-steels-3b-gary-works-agreement-2026-11-18/100512)
+2. **第12届集美·阿尔勒国际摄影季今日（11月20日）于厦门开幕**，首次设立"动态影像创作奖"（与SmallRig合作），"幻灯"单元首次聚焦动态影像，展期至2027年1月3日[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_33547749)
+3. **第16届达喀尔双年展（Dak'Art）今日（11月19日）在塞内加尔开幕**：54位艺术家参与主题展「(Anti)Fragility」，刚果（金）为主宾国，另设已故塞内加尔艺术家Ngoor致敬单元[DakarActu](https://www.dakaractu.com/Biennale-de-Dakar-2026-75-artistes-devoiles-autour-du-theme-Anti-fragilite_a276380.amp.html)
+4. **卡塔尔首届视觉艺术四年展「Rubaiya Qatar」将于11月21日启幕**：旗舰展「Unruly Waters」横跨伊斯兰艺术博物馆等三处场馆，含Rirkrit Tiravanija新装置[Qatar Living](https://www.qatarliving.com/en/article/rubaiya-qatar-locations-dates-activities)
+5. **佳士得纽约11月17日「二十世纪晚间拍卖」总成交5.21亿美元、售出率88%**：康定斯基《Betonte Ecken》以7400万美元创个人拍卖纪录，拍品中含杰夫·昆斯旧藏[The Art Newspaper](https://www.theartnewspaper.com/2026/11/18/kandinsky-record-and-a-trove-consigned-by-jeff-koons-buoy-christies-solid-20th-century-evening-sale-in-new-york)
+
+### Project One 灵感
+1. **美国钢铁Gary Works厂区照片档案（1906-1971）已由印第安纳大学数字图书馆公开**：这是目前找到的与Project One研究对象本身直接对应、时间跨度最长的一手影像档案，可作为"记录与重构"叙事的历史基线[Indiana University Digital Library](https://webapp1.dlib.indiana.edu/ussteel/index.jsp)
+2. **普渡大学西北分校（PNW）与Calumet遗产联盟合作的ACME Steel口述史项目**：档案员Joseph Coates正录制前钢铁工人视频访谈，工作地正是Gary邻近的卡鲁梅特工业带——"档案员亲自采集＋机构托管"的模式为Gary Works工人口述史提供了可直接复用的操作路径[SOLWD](https://solwd.net/?p=236178)
+3. **LensCulture刊发《Material Memory on Piraeus Avenue》**：摄影师以锈蚀、尘埃、残留物与一位前化学工程师的口述，共同记录雅典一座废弃棉籽油厂——物质痕迹与口述证词并置的方法，呼应Project One"缺席者的痕迹"的核心命题[LensCulture](https://www.lensculture.com/projects/1859989-a-pile-of-cotton-flowers)
+
 ## 2026-11-19
 
 ### 艺术圈新闻
