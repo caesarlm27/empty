@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-11-21
+
+### 艺术圈新闻
+1. **World Press Photo「Down to Earth: Climate Change and Climate Futures」在孟买迎来印度首展** - 11月20日由阿姆斯特丹市长Femke Halsema在孟买Free Press House画廊揭幕，汇集21个聚焦气候变化与气候未来的获奖摄影项目，由荷兰领事馆与孟买新闻俱乐部联合主办。[World Press Photo](https://www.worldpressphoto.org/exhibitions/highlights/down-to-earth) · [Free Press Journal](https://www.freepressjournal.in/lifestyle/world-press-photos-down-to-earth-exhibition-set-to-make-india-debut-in-mumbai)
+2. **一幅在纽约公寓衣柜中被发现、长期遗忘的乔治亚·欧姬芙画作，11月18日晚在佳士得「二十世纪晚间拍卖」上以490万美元成交**——成交价远超预期，为本季拍卖季增添一则"失而复得"的轶闻。[Hyperallergic](https://hyperallergic.com/georgia-okeeffe-painting-found-in-nyc-closet-sells-for-4-9m/)
+3. **威尼斯双年展国际评审团今年4月集体辞职后，主办方宣布取消传统"金狮奖"，改由观众投票选出"访客狮"（Visitor's Lions）**——逾70位参展艺术家已宣布退出评选，颁奖将于双年展11月22日闭幕当日举行。[The National](https://www.thenationalnews.com/arts-culture/2026/05/01/venice-biennale-jury-resigns-leading-organisers-to-scrap-golden-lion-awards-in-favour-of-public-vote/)
+4. **迈克·凯利（Mike Kelley）个展「Jerry Meandering」11月12日于纽约豪瑟沃斯（Hauser & Wirth）18街空间开幕，展至2027年1月16日**——与凯利艺术基金会合作，首次公开展出艺术家部分纸上作品。[Ocula](https://ocula.com/art-galleries/hauser-wirth/exhibitions/mike-kelley-jerry-meandering/)
+
+### Project One 灵感
+1. **陈昭阳（Zhaoyang Chen）持续摄影项目「往日回响 Echoes of the Past」（2023年至今，河北保定）**——拍摄四座不同年代建成的工厂废墟，并将影像与当地居民口述并置，探究工业废墟如何同时承载集体记忆、官方历史与个人经验之间的张力。与Project One的接口：为Gary Works系列提供一种"影像＋口述"的双轨方法论参照——"记录与重构"的张力未必只停留在影像内部，"谁在讲述这段历史"本身也可以被纳入作品结构。[PHmuseum](https://phmuseum.com/projects/echoes-of-the-past)
+2. **Marcel van Beek摄影系列「Monoliths of Power: Vanishing Legacy of Industrial Culture」获2026年伦敦摄影奖（London Photography Awards）建筑类金奖**——以"自然终将消解人类最庄严的工业纪念物"为核心命题。与Project One的接口：呼应Anna Tsing"没有未被污染的过去可以回去"与A Handful of Dust中"尘埃永远会回来"的论点——自然侵蚀力本身可以成为Gary Works系列的一个视觉/概念支点，而不只是把废墟当作静止、已完结的证据。[London Photography Awards](https://www.londonphotographyawards.com/winner-info.php?id=9063)
+
 ## 2026-11-20
 
 ### 艺术圈新闻
