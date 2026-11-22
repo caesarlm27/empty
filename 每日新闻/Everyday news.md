@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-11-22
+
+### 艺术圈新闻
+1. **菲利普·加斯顿（Philip Guston）个展「In the Studio」11月21日于纽约现代艺术博物馆（MoMA）二楼中庭空间开幕，展至2027年2月7日**：展览以其1975年画作《Deluge II》为核心，呈现艺术家晚年逐渐退出艺术界公共生活、长期深居伍德斯托克工作室独自创作的状态。[MoMA](https://www.moma.org/calendar/exhibitions/5962)
+2. **苏富比纽约「Now & Contemporary」夜场11月16日举槌：草间弥生1960年画作身后创个人拍卖纪录，乔纳斯·伍德等多人同场破纪录，两场夜拍总成交3.787亿美元**：草间弥生《No. 3 P.B.》以约1510万美元成交，刷新其2022年创下的个人纪录；萨姆·弗朗西斯、乔纳斯·伍德、费尔莱伊·巴埃斯、汤玛·阿布茨同场亦创个人拍卖纪录。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/16/yayoi-kusama-sets-15m-auction-record-as-sothebys-opens-new-york-mega-sales)
+3. **泰特英国美术馆（Tate Britain）「Vanessa Bell & Duncan Grant: Inside Bloomsbury」11月12日开幕，展至2027年4月11日**：由查尔斯顿基金会合作策划，策展人为Thomas Kennedy与Eliza Spindel，回顾布鲁姆斯伯里团体两位核心艺术家的创作与生活。[Tate](https://www.tate.org.uk/press/press-releases/vanessa-bell--duncan-grant-inside-bloomsbury)
+4. **曾梵志个展11月5日于豪瑟沃斯（Hauser & Wirth）纽约22街空间开幕，展至2027年1月23日**：这是他十余年来首次在纽约举办个展，呈现一件新雕塑与一系列描绘想象中天体景观与地貌的新绘画，延续其对"颜料物质可能性"的探索。[Ocula](https://ocula.com/art-galleries/hauser-wirth/exhibitions/zeng-fanzhi-(1)/)
+5. **Julie Curtiss个展「UNREAL」11月10日于Gagosian纽约西24街空间开幕，展至12月19日**：这是该画廊首次在纽约呈现她的作品。[ArtRabbit](https://www.artrabbit.com/events/julie-curtiss-unreal)
+
+### Project One 灵感
+1. **Dan Dubowitz摄影项目「Wastelands」（2000–2005年拍摄，2009年Dewi Lewis出版成书）：把跨国、跨功能的废弃建筑统一处理为"社会控制场所"的单一谱系** - 这位建筑师出身的摄影师独自走访苏格兰、德国、英格兰、意大利、古巴与美国，拍摄监狱、工厂、医院等类型各异的废弃空间，不以地域或单一建筑类型为组织逻辑，而是以"社会控制"这一功能命题贯穿全书。与Project One的接口：为canvas"记录与重构之间的张力"节点提供一种突破单一地理标签的比较框架——Gary Works系列若希望让"美国铁锈带"的个案获得更普遍的论述力度，可参考Dubowitz把不同国家、不同功能的废弃空间纳入同一命题的做法。[LensCulture](https://www.lensculture.com/articles/dan-dubowitz-wastelands)
+2. **Thomas Sauvin「北京银矿」（Beijing Silvermine）此前以「Archive Anthology」在上海Fotografiska呈现（展至10月18日）：逾百万张差一点被熔炼抹除的匿名中国民间负片** - 这批影像全部抢救自北京郊区一家胶片回收厂（负片本将被提炼银料销毁），记录1985年至2000年代初改革开放时期的日常生活，绝大多数拍摄者与被拍摄者身份已不可考。与Project One的接口：直接呼应canvas"缺席者的痕迹"与"记录与重构"节点——证据本身曾处于"几乎不存在"的物理边缘，Sauvin"从销毁边缘抢救匿名档案"的收藏/编辑方法，可为Gary Works若接触到工人及家属散落的私人相册、底片提供直接的方法论参照。[Fotografiska](https://shanghai.fotografiska.com/en/exhibitions/thomas-sauvin)
+
 ## 2026-11-21
 
 ### 艺术圈新闻
