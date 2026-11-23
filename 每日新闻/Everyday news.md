@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-23
+
+### 艺术圈新闻
+1. **策展人Ebony L. Haynes离开David Zwirner，加入Marian Goodman画廊任全球策展事务负责人**：Haynes在Zwirner任职五六年并创立52 Walker空间，11月下旬正式加入Marian Goodman。[Ocula](https://ocula.com/magazine/art-news/curator-ebony-l-haynes-joins-marian-goodman/)
+2. **《Paul R. Williams: Architect for Living》11月15日于洛杉矶郡艺术博物馆（LACMA）开幕，展至2027年5月**：呈现美国首位非裔建筑师超120件图纸、照片与档案材料，多为首次展出，由LACMA、盖蒂、USC三馆联合策划。[LACMA](https://www.lacma.org/art/exhibition/paul-r-williams-architect-living)
+3. **大都会艺术博物馆与上海博物馆11月16日在上海签署合作备忘录**。[Hyperallergic](https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/)
+4. **Head On摄影节2026获奖名单11月13日公布**：三项最高荣誉授予原住民长者肖像、土库曼斯坦"地狱之门"燃气坑影像及塑料环境影响系列。[PetaPixel](https://petapixel.com/2026/11/13/powerful-photo-awards-celebrates-image-makers-around-the-world/)
+5. **第15届巴马科摄影双年展（Rencontres de Bamako）将于11月26日在马里国家博物馆开幕**：主题「Refabulation(s)」，由Armelle Dakouo任艺术总监，约49位艺术家参展，展至2027年1月26日。[ArtRabbit](https://www.artrabbit.com/events/15th-rencontres-de-bamako-refabulations)
+
+### Project One 灵感
+1. **《FUNGI: Anarchist Designers》鹿特丹Nieuwe Instituut，人类学家Anna Tsing与设计师Feifei Zhou联合策展**：直接化用Tsing《末日松茸》中"资本主义废墟中生命的可能性"理论，呈现真菌如何在工业废墟与多物种环境中滋生，与canvas中Tsing contamination理论形成直接对话。[Nieuwe Instituut](https://nieuweinstituut.nl/en/projects/fungi-anarchistische-ontwerpers)
+2. **Tina Enghoff & Kent Klich《Wipe All Traces – An Archive of Re-membering》，斯德哥尔摩Skissernas Museum，11月26日开幕**：用口述史、摄影测量与影像装置构建关于迁移与消失者的"活档案"，呼应「记录与重构」「缺席者的痕迹」节点。[Skissernas Museum](https://skissernasmuseum.se/en/?p=14149)
+3. **Lara Porzak摄影书《The Chemistry of Memory》**：让划痕、色调变化与物理瑕疵成为影像本身的一部分，而非需要修复的缺陷，为"尘埃/衰败即内容"提供摄影书形式上的参照。[All About Photo](https://www.all-about-photo.com/photography-book/3250/lara-porzak-the-chemistry-of-memory)
+
 ## 2026-11-22
 
 ### 艺术圈新闻
