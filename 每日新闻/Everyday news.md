@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-11-24
+
+### 艺术圈新闻
+1. **伦敦摄影师画廊（The Photographers' Gallery）11月10日宣布获约翰·柯博基金会资助，启动为期十年的新人摄影师双年展计划**：计划每两年遴选一位艺术家举办个展，首展定于2027年6月23日至9月26日举行，具体人选将于年内公布。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/10/london-photographers-gallery-exhibition-programme-emerging-voices)
+2. **Frieze首届阿布扎比艺博会11月19日至22日于萨迪亚特岛举行，黎巴嫩艺术家Dala Nasser获颁首届Frieze阿布扎比艺术家奖**：博览会共有约84家画廊参展，是Frieze品牌首次落地中东；Nasser以取材濒危古迹表面的"考古拓印"手法闻名，此次在博览会中庭呈现新委任作品「Qubbat Duris」，取材自黎巴嫩一处因战火与占领而面临消失风险的考古遗址。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/16/frieze-artist-award-reimagines-endangered-lebanese-site)
+3. **上海西岸美术馆与意大利驻沪文化处合作项目「未来工具——未来已然改变」（Tools for After）11月10日开幕，展至2027年1月4日**：此前已巡展墨尔本、贝鲁特、索非亚、贝尔格莱德与旧金山，呈现意大利设计与建筑院校学生围绕可持续材料展开的项目、产品与原型，策展方将其称为"一份应对世界未来转型的生存手册"。[上观号](https://www.shobserver.cn/sgh/detail?id=4088485)
+4. **纽约市立博物馆「New York Now: After Dark」摄影三年展11月20日开幕，展至2027年4月25日**：由Marina Chao与Sean Corcoran联合策划，这是该馆2023年「New York Now: Home」之后的第二届摄影三年展，以当代摄影探讨纽约夜生活与"夜幕降临"对居民的意味。[MCNY](https://www.mcny.org/press-release-after-dark)
+
+### Project One 灵感
+1. **Dala Nasser「Qubbat Duris」：不拍摄废墟，而是直接向濒危遗址索取其表面本身** - Nasser的标志性方法是"考古拓印"：不用相机记录古迹，而是把画布或织物直接覆盖、按压在濒危历史遗址表面，让遗址的肌理、裂缝与侵蚀痕迹物理地转印到作品上；此次Frieze阿布扎比委任新作取材的遗址因战争与占领随时可能彻底消失，拓印本身成了一种抢救性的、即将成为唯一存证的接触行为。与Project One的接口：为"记录与重构之间的张力"提供一种介于摄影与物质采样之间的中间方法——Gary Works的锈蚀钢板、剥落墙皮或许也可以尝试拓印或翻模，让废墟的物质表面直接成为作品的一部分，而不只是被摄影机单向地观看和转译。[The Art Newspaper](https://www.theartnewspaper.com/2026/11/16/frieze-artist-award-reimagines-endangered-lebanese-site)
+2. **「未来工具——未来已然改变」：把"人类世的材料"本身当作一份生存手册来阅读** - 展览不呈现建成的建筑或完整的产品，而是展出大量处于原型、草图与实验阶段的可持续材料与构造方式——策展逻辑是"未来已经到来，我们必须学会与之共处"，材料本身携带着应对资源枯竭与气候变化的未完成答案。与Project One的接口：呼应canvas"美国铁锈带"节点——Gary Works的厂房构件、管道与设备，同样可以被重新阅读为一套"过时的生存手册"：它们曾经是工业时代应对生产问题的具体解答，如今作为废弛的物质遗留，提示Project One在拍摄锈蚀结构时，不妨同时标注其原本的功能逻辑，让废墟兼具"纪念碑"与"说明书"两种身份。[上观号](https://www.shobserver.cn/sgh/detail?id=4088485)
+
 ## 2026-11-23
 
 ### 艺术圈新闻
