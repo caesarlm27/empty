@@ -11,6 +11,18 @@ tags:
 
 ---
 
+## 2026-11-25
+
+### 艺术圈新闻
+1. **伦敦博物馆（London Museum）新馆11月28日于史密斯菲尔德"大市场"开放**：建于1883年的维多利亚时期"大市场"（General Market）建筑经逾十年修复，结束三十余年的废置状态重新对公众开放，恰逢伦敦博物馆50周年；1960年代"禽肉市场"部分计划2028年开放。[London Museum](https://www.londonmuseum.org.uk/about/press/press-releases/london-museum-smithfield-will-open-doors/)
+2. **Anselm Kiefer新展"近期绘画作品"11月25日于伦敦White Cube Bermondsey开幕**：展至2027年1月24日，延续其以灰烬、矿物沉积与历史材料构筑的炼金术绘画语言。[ArtRabbit](https://www.artrabbit.com/events/anselm-kiefer-bermondsey-2026)
+3. **Tamara Kalo个展「In light of my absence」11月19日于伦敦开幕**：展至12月18日，艺术家综合替代摄影工艺、雕塑、表演、影像与纺织，探讨身体、土地与记忆如何在仪式与位移的政治中留下印记。[ArtRabbit](https://www.artrabbit.com/events/tamara-kalo-in-light-of-my-absence)
+
+### Project One 灵感
+1. **Masayoshi Katagiri「Trace / Portraits of Absence」的法医学粉末显影法** - 艺术家借用刑侦勘察中用于显现指纹与接触痕迹的粉末，让物品表面"被触碰过"的痕迹变得可见，将记录转化为对不可见接触史的侦查。与Project One的接口：为"缺席者的痕迹"提供一种比摄影更物质化的显影方式——Gary Works锈蚀钢板上的手触痕迹，或许也可以用类似的"显影"而非单纯拍摄来呈现。[KG+](https://kgplus.kyotographie.jp/en/exhibitions/2026/masayoshi-katagiri/)
+2. **宜兴陶二厂"梦工厂"现象** - 原紫砂工艺二厂改造的"陶二厂文化街区"保留了老厂房、红砖烟囱与车间旧址，却在报道中被包装成"随手一拍就是大片"的旅拍打卡地，紫砂手工体验、妆造跟拍与汉服租赁取代了原本的生产叙事。与Project One的接口：延续此前"活化利用"叙事风险的讨论——这是复兴岛案例的又一次重演：废墟的物质外壳被保留，但支撑其意义的劳动与消逝过程被旅游消费叙事悄悄替换。[光明网](https://m.gmw.cn/2026-11/03/content_1304582295.htm)
+3. **伦敦博物馆"大市场"修复案例，作为陶二厂的反例** - 同样是废置三十余年的历史建筑，这座维多利亚市场选择以"博物馆"而非商业消费空间的身份重新开放，让建筑本身承担记录与叙述的功能，而非被置换为消费场景。与Project One的接口：为"记录与重构之间的张力"提供一个正面对照组——陶二厂选择被旅游叙事覆盖，大市场选择被重新"策展"为可供反思的公共空间；两者的分岔处，恰是Gary Works系列需要做出选择的位置。[London Museum](https://www.londonmuseum.org.uk/about/press/press-releases/london-museum-smithfield-will-open-doors/)
+
 ## 2026-11-24
 
 ### 艺术圈新闻
