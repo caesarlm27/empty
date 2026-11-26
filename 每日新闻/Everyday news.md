@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-26
+
+### 艺术圈新闻
+1. **南·戈尔丁新展「You Never Did Anything Wrong」11月24日于伦敦海沃德美术馆开幕**：这是戈尔丁逾二十年来首个英国机构个展，首映新片《You Never Did Anything Wrong, Part II》(2026)，与2024年同名前作并置放映，镜头首次从人转向其他物种、土地与濒临灭绝的忧虑，延续其一贯以幻灯/影像装置处理在场与逝去的方法论，展至2027年3月7日。[Southbank Centre](https://www.southbankcentre.co.uk/whats-on/nan-goldin-you-never-did-anything-wrong/) · [Ocula](https://ocula.com/magazine/art-news/hayward-gallery-nan-goldin-exhibition-london/)
+2. **纽约11月拍卖周战报：草间弥生、康定斯基接连刷新个人拍卖纪录**：11月16日苏富比"Now and Contemporary"夜场总成交2.687亿美元，草间弥生1960年作品《No. 3 P.B.》以1500万美元创个人拍卖纪录；11月18日佳士得20世纪夜场成交5.21亿美元、成交率88%，康定斯基1922-23年作品《Betonte Ecken》以7400万美元（含佣金）创艺术家纪录。[The Art Newspaper](https://theartnewspaper.com/2026/11/16/yayoi-kusama-sets-15m-auction-record-as-sothebys-opens-new-york-mega-sales) · [The Art Newspaper](https://theartnewspaper.com/2026/11/18/kandinsky-record-and-a-trove-consigned-by-jeff-koons-buoy-christies-solid-20th-century-evening-sale-in-new-york)
+3. **韩国国立现代美术馆（MMCA）新任馆长揭晓：Ki Hye-kyung 11月13日获委任**：韩国文化体育观光部任命弘益大学教授、前釜山市立美术馆馆长Ki Hye-kyung为MMCA新任馆长，任期三年至2029年。[Korea JoongAng Daily](https://www.koreajoongangdaily.com/lifestyle/hongik-university-professor-ki-heykyung-appointed-mmca-director/12972029)
+4. **瑞典摄影师Mikael Lundström新摄影书《Overburden: A Journey Into the Soul of Central Appalachia》由德国Kerber出版社推出**：80幅彩色图版记录美国阿巴拉契亚中部煤矿衰退地区——废弃的运煤斜槛（tipple）、简朴民居与仍作为社区聚点的教堂，配Lundström本人与Po Tidholm的文字，是继底特律、铁锈带摄影传统之后又一处"去工业化美国"的影像田野。[All About Photo](https://www.all-about-photo.com/photography-book/3150/mikael-lundstrom-overburden)
+5. **林肯土地政策研究院新书《Rust in My Blood: Planning for Urban Population Decline》11月出版**：克利夫兰州立大学城市规划学者Joanna Ganning质疑后工业城市"不惜代价追求人口回弹"的规划惯性，主张城市应以生活质量优先于人口增长指标。[Lincoln Institute](https://www.lincolninst.edu/publications/books/rust-in-my-blood/)
+
+### Project One 灵感
+1. **南·戈尔丁新片的视角迁移：从拍摄"消逝的人"转向拍摄"消逝的物种"** - 戈尔丁四十余年的创作核心一直是人——她身边因艾滋、暴力、成瘾而逝去的朋友与爱人；《You Never Did Anything Wrong, Part II》第一次把这套幻灯叙事的镜头对准动物、土地与灭绝本身。与Project One的接口：这提示canvas"缺席者的痕迹"节点可以被进一步扩展——Gary Works的"缺席"不只是撤离的工人身体，也包括厂区内部正在非人类尺度上持续发生的消逝（锈蚀的化学过程、密歇根湖湿地生态的退化）与侵入（野草、昆虫、鸟类重新占据车间），让"缺席者"从单一的人类主体扩展为一整个生态系统的退场与进场。[相关链接](https://ocula.com/magazine/art-news/hayward-gallery-nan-goldin-exhibition-london/)
+2. **Mikael Lundström《Overburden》的共情式凝视：拒绝"废墟猎奇"，坚持拍摄"仍在此生活、工作、怀抱希望的人"** - 不同于把煤矿衰退地区处理成纯粹的衰败景观，Lundström镜头下的教堂是社区仍在聚集的场所，而非仅供阅读的废墟符号；文字部分由他本人与记者Po Tidholm合写，提供"局内叙述"而非单纯的外来凝视。与Project One的接口：为Gary Works提供一次方法论校正——避免把Gary单纯处理成"空的废墟景观"，也要为仍居住在周边、仍与工厂历史纠缠的社区（尤其是黑人工人社区）留出"生活仍在继续"的画面，呼应Curran Hatleberg与canvas中"人物与环境不可分割"的方法论。[相关链接](https://www.all-about-photo.com/photography-book/3150/mikael-lundstrom-overburden)
+3. **Joanna Ganning《Rust in My Blood》的理论命题："优先生活质量，而非人口增长指标"** - Ganning挑战的是规划学界一个深层假设：后工业城市必须"复苏"才算成功。与Project One的接口：为项目的文字阐述提供一个可直接引用的政策理论参照，把Gary Works的衰败从单纯的美学/情感叙事，置入一场关于"后工业城市是否必须以增长为唯一合法性"的公共辩论之中——呼应canvas"为什么偏偏是废墟"节点，也与Anna Tsing对单向"复苏叙事"的怀疑形成跨学科的呼应。[相关链接](https://www.lincolninst.edu/publications/books/rust-in-my-blood/)
+
 ## 2026-11-25
 
 ### 艺术圈新闻
