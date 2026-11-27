@@ -11,6 +11,20 @@ tags:
 
 ---
 
+## 2026-11-27
+
+### 艺术圈新闻
+1. **Curran Hatleberg个展「River's Dream, 2010–2020」10月21日于布鲁克林Higher Pictures画廊开幕，展至12月12日**：这是他与该画廊的第四次个展，首次完整呈现耗时十年拍摄的65张系列全貌，画面聚焦美国南方建成环境持续被高温、水与植被侵蚀的过程，以及其间的经济不安定。[Meer](https://www.meer.com/en/113210-rivers-dream) · [ArtRabbit](https://www.artrabbit.com/events/curran-hatleberg-rivers-dream)
+2. **南京「墟·境」(Nostos)摄影展10月17日于中国色植染博物馆开幕，展至12月27日**：由汪琼策划、张育枭主理，立足南京及周边工业遗存，沿产业、空间、时代三条线索展开，借工业迭代的新旧交替反观人工智能时代带来的当下变革。[凤凰新闻](https://i.ifeng.com/c/8xH1OElKUDi)
+3. **Gagosian纽约980 Madison Avenue地面层空间呈现「Friends and Legends: The Collection of Michael Chow」，11月14日开幕，展至12月22日**：集中展出Jean-Michel Basquiat、David Hockney、Andy Warhol等好友为餐厅创办人周英华（Michael Chow）所作肖像。[Ocula](https://ocula.com/art-galleries/gagosian-gallery/exhibitions/friends-and-legends-the-collection-of-michael/) · [ArtRabbit](https://www.artrabbit.com/events/friends-and-legends-the-collection-of-michael-chow)
+4. **纽约新美术馆（Neue Galerie）25周年特展11月12日开幕，展至2027年1月11日**：时隔整修后全部展厅首次重新对外开放，呈现克里姆特《阿黛尔·布洛赫-鲍尔肖像一》等馆藏核心作品及近年新入藏之作。[SCMP](https://www.scmp.com/magazines/style/lifestyle/leisure/article/3373740/3-art-exhibitions-visit-november-2026-tate-britain-neue-galerie-new-york) · [Neue Galerie](https://www.neuegalerie.org/visit)
+5. **Magnum Photos 2026年度大会投票通过两位新「预备会员」（Associate）：苏丹摄影师Salih Basheer与巴勒斯坦摄影师Sakir Khader**：两人于2024年先获"提名会员"身份，此次完成晋升，机构称二人带来了新的美学路径与地缘政治视角。[Magnum Photos](https://www.magnumphotos.com/newsroom/magnum-welcomes-two-new-members-and-two-nominees/)
+
+### Project One 灵感
+1. **Curran Hatleberg「River's Dream」：十年65张系列首次完整呈现，让"高温、水与植被的侵蚀"本身成为叙事主轴** - 展览不以单张"奇观废墟"取胜，而是用十年积累的完整系列，让自然力对建成环境的持续侵蚀与经济不安定交织成一套连贯的证据链。与Project One的接口：Hatleberg本就是Artist research中已研究的方法论参照（"chance and accident"、长期关系建立），此次个展证明"完整系列的首次曝光"本身可以成为展览的核心叙事——提示Gary Works系列若持续积累多年素材，未来也可以用"从未完整展示的全部系列"作为一次性揭幕的策展语言，而非持续切片发布。[Meer](https://www.meer.com/en/113210-rivers-dream)
+2. **南京「墟·境」：用工业遗存反观人工智能时代，让"旧废墟"成为理解"新变革"的参照系** - 展览没有停留在怀旧式记录南京工业遗存本身，而是刻意把产业迭代的历史经验作为理解当下AI带来的结构性变革的方法论透镜——废墟不只指向过去，也被用来解读正在发生的新一轮"迭代"。与Project One的接口：呼应canvas"为什么偏偏是废墟"节点——Gary Works的衰败叙事若能明确指向当下某种正在发生的产业/技术转型（如绿色钢铁、自动化），废墟就不只是终点的证据，也能成为理解当下变革逻辑的参照系，呼应Anna Tsing"没有未被污染的过去可以回去"背后"历史重演"的张力。[凤凰新闻](https://i.ifeng.com/c/8xH1OElKUDi)
+3. **Gagosian「Friends and Legends」：一个人的全部影像身份完全由他人之手构成，本人从未留下一张自拍或自绘肖像** - 周英华的形象完全经由巴斯奎特、霍克尼、沃霍尔等友人的目光被反复描绘、拼接而成，展览呈现的"周英华"只存在于他人叠加的凝视中。与Project One的接口：直接呼应canvas"缺席者的痕迹"与Taryn Simon"证据性被构造"的命题——提示若Gary Works工人本身缺乏自我记录的影像（自拍、家庭相册），那么他们的"形象"或许同样只能经由管理层档案、工会文件、外来摄影师镜头等"他人之手"间接拼合而成，这种"全由外部凝视构成的主体"本身就是值得在作品阐述中被明确指出的结构性缺席。[Ocula](https://ocula.com/art-galleries/gagosian-gallery/exhibitions/friends-and-legends-the-collection-of-michael/)
+
 ## 2026-11-26
 
 ### 艺术圈新闻
