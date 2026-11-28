@@ -11,6 +11,19 @@ tags:
 
 ---
 
+## 2026-11-28
+
+### 艺术圈新闻
+1. **戈登·马塔-克拉克个展「Not the Work... The Worker」11月13日于罗马MAXXI国立21世纪艺术博物馆开幕**，由Jessamyn Fiore与Francesco Stocchi策划，呈现其建筑"切割"实践，包括1973年米兰的《Infraform》与地铁车厢摄影系列 [maxxi.art](https://www.maxxi.art/en/events/gordon-matta-clark/)
+2. **吉尔·佩雷斯（Gilles Peress）个展「The Northern Ireland Conflict, 1968–1998」11月14日于明尼阿波利斯艺术博物馆（Mia）Perlman画廊开幕**，展出其跨越二十余年持续记录北爱尔兰"动乱"冲突的档案，展至2027年4月11日，免费开放 [artsmia.org](https://new.artsmia.org/exhibition/gilles-peress-northern-ireland-conflict-1968-1998)
+3. **洛杉矶当代艺术博物馆（MOCA）11月15日起呈现朱利安·查理耶（Julian Charrière）个展「Deep End」与塞西莉亚·维库尼亚（Cecilia Vicuña）个展「Quipu of Encounters」**，作为新设立的Eric and Wendy Schmidt环境艺术奖的首批展览，聚焦深海采矿与生态互联，展至2027年6月6日 [moca.org](https://www.moca.org/exhibition/julian-charriere)
+4. **第15届巴马科非洲摄影双年展11月26日正式在马里首都开幕**，由Armelle Dakouo担任总策展人，49位艺术家参展；27日于巴拉·法塞凯·库亚泰音乐学院另设Josèfa Ntjam策划的16人分展，展至2027年1月26日 [artrabbit.com](https://www.artrabbit.com/events/refabulations-josèfa-ntjam-15-artists)
+
+### Project One 灵感
+1. **戈登·马塔-克拉克的建筑"切割"**：直接把实体切口作为介入手段，让被遗弃的结构本身暴露出矛盾——与John Divola在废墟中涂鸦改造、"让空间矛盾起来"的方法高度呼应，是"介入与矛盾"节点的另一极端案例 [maxxi.art](https://www.maxxi.art/en/events/gordon-matta-clark/)
+2. **朱利安·查理耶《Deep End》的深海采矿影像**：把"废墟化"从陆地上的事后记录，前移到正在发生、尚未可见的海床开采现场——呼应Anna Tsing的contamination理论：没有一片"未被污染"的土地/海床可以回去 [moca.org](https://www.moca.org/exhibition/julian-charriere)
+3. **吉尔·佩雷斯长达二十余年的北爱尔兰拍摄**：用极长时间跨度的持续在场代替单次抓拍，为"记录与重构"的张力提供了另一种方法论参照，接近Curran Hatleberg"十年才编辑成册"的耐心逻辑，但指向的是政治暴力而非自然侵蚀 [artsmia.org](https://new.artsmia.org/exhibition/gilles-peress-northern-ireland-conflict-1968-1998)
+
 ## 2026-11-27
 
 ### 艺术圈新闻
